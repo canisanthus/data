@@ -1,0 +1,1000 @@
+0{meule^{1}}[møl]A{f}girnapusė;F{meules en pierre}akmeninės girnapusės;F{tourner la meule}malti, sukti girnas.
+0{meule^{2}}[møl]A{f}kūgis, kupeta, stirta, kaugė;F{meule de foin}šieno kupeta.
+0{meunier}A{m},0{-ière}A{f}[mønje, -jɛr]I{1}malūnininkas, malūnininkėl{(malūnininko žmona)};I{2}L{kul.}:F{à la meunière}apvoliojant miltuose prieš kepant;F{sol (à la) meunière}plekšnė iškepta, prieš tai apvoliojus miltuose.
+0{meursault}[mœrso]A{m}garsus, baltas arba raudonas Bon regiono vynas.
+0{meurt-de-faim}[mœrdəf&epsilon;&#771;]A{m},A{f}A{inv}vargeta, mirštantis iš bado.
+0{meurtre}[mœrtr]A{m}žmogžudystė;F{commettre un meurtre}įvykdyti žmogžudystę.
+0{meurtrier}A{m},0{-ière}A{f}[mœrtrije, -ijɛr]S{&rArr;}žmogžudys, žmogžudė;S{&rArr;}A{adj}žudantis, pražūtingas, pavojingas.
+0{meurtrière}[mœrtrijɛr]A{f}šaudymo anga.
+0{meurtrir}[mœrtrir]A{vt}I{1}nužudyti, užmušti;I{2}sumušti, užgauti; apdaužyti, sukulti;I{3}sutraiškyti, sumaigytil{(uogas, vaisius)};I{4}nuvarginti, įskaudinti;F{yeux meurtris par la fatigue}nuovargio išvargintos akys.
+0{meurtrissure}[mœrtrisyr]A{f}I{1}mėlynėl{(nuo sumušimo)};F{corps couvert de meurtrissures}kūnas nusėtas mėlynėmis;I{2}dėmėl{(ant apmaigytų vaisių, daržovių)};I{3}nuovargio, ligos, senatvės požymiai.
+0{meute}[møt]A{f}I{1}ruja;I{2}L{prk.}gauja.
+0{Mexicain}A{m},0{-aine}A{f}[mɛksik&epsilon;&#771;, -ɛn]meksikietis, meksikietė.
+0{mexicain, -aine}[mɛksik&epsilon;&#771;, -ɛn]A{adj}meksikiečių.
+0{mezzanine}[mɛzanin]A{f}mezoninas.
+0{mezzo-soprano}[mɛdzosɔprano]A{m},A{f}L{muz.}mecosopranas.
+0{mi}[mi]A{m}A{inv}trečioji gamos gaida mi.
+0{mi-}C{préf}pus-l{(pažymi pusę, nepilnumą)};F{mi-mort}pusgyvis;F{à mi-chemin}pusiaukelėje;F{mi-janvier}sausio vidurys.
+0{miam-miam}[mjammjam]S{&rArr;}A{interj}niam niaml{(išreiškia norą valgyti)};S{&rArr;}A{m}valgymasl{(vaikų kalba)}.
+0{miaou}[mjau]S{&rArr;}A{interj}miaul{(katės)};S{&rArr;}A{m}kniauksėjimas;F{on entend de petits miaous}girdisi nedrąsus kniauksmas.
+0{miaulement}[mjolm&#593;&#771;]A{m}kniaukimas.
+0{miauler}[mjole]A{vi}kniaukti.
+0{mica}[mika]A{m}L{miner.}žėrutis.
+0{mi-carême}[mikarɛm]A{f}pusiaugavėnis.
+0{miche}[miʃ]A{f}I{1}kepalasl{(duonos)};I{2}A{pl}L{šnek.}užpakalis.
+0{microbe}[mikrɔb]A{m}mikrobas.
+0{microbien, -ienne}[mikrɔbj&epsilon;&#771;, -jɛn]A{adj}mikrobinis.
+0{microfilm}[mikrofilm]A{m}mikrofilmas.
+0{micro-onde}[mikro&#596;&#771;d]A{f}mikrobanga;F{four à micro-ondes}mikrobangų krosnelė.
+0{micro-ordinateur}[mikroɔrdinatœr]A{m}mikrokompiuteris, kurio pagrindas mikroprocesorius.
+0{microphone}[mikrɔfɔn]A{m}mikrofonas.
+0{microprocesseur}[mikroprɔsesœr]A{m}L{inf.}mikroprocesorius.
+0{microprogrammation}[mikroprɔgramasj&#596;&#771;]A{f}L{inf.}mikroprogramavimas, mikroprogramų sudarymas ir taikymas.
+0{microprogramme}[mikroprɔgram]A{m}L{inf.}mikroprograma.
+0{microscope}[mikrɔskɔp]A{m}mikroskopas.
+0{midi}[midi]A{m}I{1}vidurdienis, pusiaudienis, dienos dvylikta valanda;F{il est midi}vidurdienis;F{à midi}vidurdienį;F{midi un quart, il est midi et quart (12 h 15)}dvylika valandų penkiolika minučiųl{(ketvirtis)};F{midi dix (minutes)}dvylika valandų dešimt (minučių);I{2}2{Midi}pietūs, pasaulio šalis.
+0{mie^{1}}[mi]A{f}duonos minkštimas;F{manger la mie et laisser la croûte}valgyti minkštimą ir palikti plutą;A{loc fam}F{à la mie de pain}bevertis.
+0{mie^{2}}[mi]A{f}(L{sutr.}C{iš}2{amie, femme aimée})L{šnek.}mieloji, mylimoji.
+0{miel}[mjɛl]A{m}I{1}medus;F{gâteau de miel}meduolis;F{aliment sucre,}F{boisson sucrée au miel}maistas, gėrimas, pasaldyti medumi;I{2}L{prk.}saldumynas, švelnumas;A{loc}F{être tout miel}būti saldžiam, švelniam;F{lune de miel}medaus mėnuo.
+0{mielleux, -euse}[mjelø, -øz]A{adj}saldutis, šleikščiai saldus, pataikaujantis, veidmainiškas;F{ton, sourire mielleux}saldus tonas, saldi šypsena.
+0{mien, mienne}[mj&epsilon;&#771;, mjɛn]S{&rArr;}A{pron poss}(3{le mien, la mienne, les miens}) manasis, saviškis;F{votre fils et le mien}jūsų sūnus ir manasis;F{leurs enfants et les miens}jų vaikai ir manieji;F{j’ai retrouvé les miens en bonne santé}atradau saviškius sveikus;S{&rArr;}A{m}A{pl}maniškiai, saviškiai;F{j’aime les miens}myliu saviškius, savo artimuosius.
+0{miette}[mjɛt]A{f}I{1}duonos trupinys;I{2}mažas gabaliukas;F{mettre un verre en miettes}sudaužyti stiklą į gabaliukus;L{prk.}F{les miettes de sa fortune}jo laimės trupiniai.
+0{mieux}[mjø]S{&rArr;}A{adv}I{1}(l{aukštesnysis}3{bien}l{laipsnis}) geriau, verčiau, mieliau;F{cette lampe éclaire mieux}ši lempa geriau šviečia;A{loc verb}F{aller mieux}jaustis geriau;F{aimer mieux}labiau mėgti, labiau norėti;A{loc}F{tant mieux}juo geriau;F{mieux que}geriau nei, geriau už;F{il n’écrit pas mieux qu’il ne parle}jis nerašo geriau nei šnekal{(jis rašo ir kalba blogai)};F{de mieux en mieux}vis geriau;F{rien de mieux}nieko geresnio;I{2}F{le mieux}(l{aukščiausiasis}3{bien}l{laipsnis}) geriausiai, puikiausiai;F{elle va le mieux du monde}ji puikiausiai jaučiasi;A{loc}F{au mieux}geriausiu atveju;F{pour le mieux}labai gerai, puikiai;S{&rArr;}A{m}tai, kas geriausia;F{efforts de l’homme vers le mieux}žmogaus pastangos siekti geriausio.
+0{mieux-être}[mjøzɛtr]A{m}A{inv}gerbūvio pagerėjimas, esamos padėties pagerėjimas.
+0{mièvre}[mjɛvr]A{adj}salsvas, salstelėjęs, beskonis, prėskas;F{paroles mièvres}saldoki žodžiai.
+0{mi-fin}[mif&epsilon;&#771;]A{adj}vidutinio dydžiol{(produktai)};F{petits-pois mi-fins}vidutinio dydžio žirneliai.
+0{mignard, -arde}[miɲar, -ard]A{adj}I{1}L{psn.}mielas, meilutis;I{2}nenatūralus, dirbtinas, apsimestinis.
+0{mignon, -onne}[miɲ&#596;&#771;, -ɔn]S{&rArr;}A{adj}I{1}malonus, mielas;I{2}mažutis;S{&rArr;}A{m},A{f}numylėtinis, numylėtinė; mylimasis, mylimoji; F{cet enfant est le mignon de sa mère}šis vaikas motinos numylėtinis.
+0{mignoter}[miɲɔte]A{vt}L{šnek.}lepinti, glamonėti;$2{se mignoter}ilgai ir rūpestingai puoštis, dabintis.
+0{migraine}[migrɛn]A{f}L{med.}migrena.
+0{migraineux, -euse}[migrɛnø, -øz]A{adj}sergantis migrena;F{des accès migraineux}migrenos priepuoliai.
+0{migrant}A{m},0{-ante}A{f}[migr&#593;&#771;, -&#593;&#771;t]migrantas, migrantė.
+0{migrateur, -trice}[migratœr, -tris]A{adj}(iš)keliaujantis; migruojantis;F{oiseaux migrateurs}išskrendantys paukščiai.
+0{migration}[migrasj&#596;&#771;]A{f}I{1}persikėlimas;I{2}paukščių kelionė; migracija;I{3}L{fiziol.}slinkimas, judėjimas.
+0{migratoire}[migratwar]A{adj}migracinis; keliaujantisl{(apie paukštį)}.
+0{migrer}[migre]A{vi}vietą pakeisti, migruoti.
+0{mi-jambe (à)}[amiʒ&#593;&#771;b]A{adv}ligi kelių.
+0{mijoter}[miʒɔte]S{&rArr;}A{vt}I{1}virintil{(ant mažos ugnies)}, troškinti;F{lapin mijoté}troškintas triušis;I{2}slaptal{(ką nors)}ruošti;S{&rArr;}A{vi}virti;F{potage qui mijote}sriuba verda.
+0{mil2{^{1}}}A{L{žr.}R{mille}}.
+0{mil^{2}}[mil, mij]A{m}sora;F{un grain de mil}soros grūdas.
+0{milice}[milis]A{f}I{1}karo menas;I{2}kai kurių šalių ginkluoti daliniai;I{3}kai kurių šalių policija.
+0{milieu}[miljø]A{m}I{1}vidurys;F{au milieu de}vidury, tarp;F{au milieu de l’été}vidurvasarį;F{au milieu du repas}valgymo metu;F{au beau milieu de, en plein milieu de}pačiame viduryje;F{le juste milieu}aukso vidurys;F{garder en tout un juste milieu}visur išlaikyti aukso vidurį;I{2}aplinka, sfera, terpė;F{adaptation au milieu}prisitaikymas prie aplinkos;F{le milieu familial}šeimyninė aplinka; sluoksnis;I{3}nusikaltėlių pasaulis;F{la loi du milieu}nusikaltėlių pasaulio įstatymas.
+0{militaire}[militɛr]S{&rArr;}A{adj}karo, karinis;S{&rArr;}A{m}karys.
+0{militairement}[militɛrm&#593;&#771;]A{adv}I{1}kariškai;F{saluer militairement}kariškai pasisveikinti;I{2}laiku, ryžtingai, disciplinuotai.
+0{militant, -ante}[milit&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}kovojantis, karingas;S{&rArr;}A{m},A{f}kovotojas, kovotoja; aktyvistas, aktyvistė;F{une militante}F{féministe}kovotoja feministė.
+0{militarisation}[militarizasj&#596;&#771;]A{f}militarizacija, militarizavimas.
+0{militariser}[militarize]A{vt}militarizuoti, sukarinti.
+0{militarisme}[militarism]A{m}militarizmas.
+0{militariste}[militarist]A{m}militaristas.
+0{militer}[milite]A{vi}l{(pour, contre)}kovoti, būtil{(už, prieš)};F{militer pour la paix, contre la violence}kovoti už taiką, prieš prievartą;F{ces faits militent en sa faveur}šie faktai yra jo naudai.
+0{milk-bar}[milkbar]A{m}(A{pl}2{milk-bars}) pieno baras.
+0{mille^{1}}[mil]S{&rArr;}I{1}A{adj numér card}tūkstantis;F{mille mercis}tūkstantį kartų dėkui;I{2}A{adj numér ord}tūkstantasis;F{page 1000}tūkstantasis puslapis;S{&rArr;}A{m}A{inv}I{1}tūkstantis;F{cent mille}šimtas tūkstančių;F{mille francs}tūkstantis frankų;I{2}daugybė;F{je te l’ai dit mille fois}aš tau tai sakiau daugybę kartų.
+0{mille^{2}}[mil]A{m}mylia;F{mille marin}jūrinė mylia.
+0{millefeuille^{1}, mille-feuille}[milfœj]A{f}kraujažolė.
+0{millefeuille^{2}}[milfœj]A{f}šimtalapis pyragas; sluoksniuotas pyragas.
+0{millénaire}[milenɛr]S{&rArr;}A{adj}I{1}tūkstantinis;I{2}tūkstančio metų;S{&rArr;}A{m}tūkstantmetis;F{le deuxième millénaire de la fondation d’une ville}antrasis miesto įkūrimo tūkstantmetis.
+0{millénarisme}[milenarism]A{m}L{relig.}milenarizmas.
+0{mille-pattes}[milpat]A{m}A{inv}šimtakojis.
+0{millepertuis, mille-pertuis}[milpɛrtɥi]A{m}L{bot.}jonažolė.
+0{milliard}[miljar]A{m}milijardas.
+0{milliardaire}[milijardɛr]S{&rArr;}A{m},A{f}milijardierius, milijardierė;S{&rArr;}A{adj}milijardinis.
+0{millième}[miljɛm]S{&rArr;}A{adj}tūkstantasis;S{&rArr;}A{m}tūkstantoji dalis.
+0{millier}[milje]A{m}I{1}tūkstantis;I{2}daugybė;F{milliers d’années}daugybė metų;A{loc adv}F{par milliers}tūkstančiais.
+0{milligramme}[miligram]A{m}miligramas.
+0{millilitre}[mililitr]A{m}mililitras.
+0{millimètre}[milimɛtr]A{m}milimetras.
+0{millimétré, -ée}[milimetre]A{adj}milimetrinis;F{papier millimétré}milimetrinis popierius.
+0{million}[milj&#596;&#771;]A{m}milijonas.
+0{millionième}[miljɔnjɛm]S{&rArr;}A{adj}milijoninis;S{&rArr;}A{m}milijoninė dalis.
+0{millionnaire}[miljɔnɛr]S{&rArr;}A{m},A{f}milijonierius, milijonierė;S{&rArr;}A{adj}milijoninis;F{ville millionnaire}milijoninis miestas.
+0{milord}[milɔr]A{m}milordas.
+0{mi-lourd}[milur]A{adj}L{sport.}vidutinio svorio.
+0{mime}[mim]A{m},A{f}mimas, pantonimos aktorius.
+0{mimer}[mime]A{vt}I{1}pamėgdžioti;I{2}perteikti mimika, gestais;F{mimer la joie}mimika perteikti džiaugsmą.
+0{mimique}[mimik]S{&rArr;}A{adj}mimiškas;F{langage mimique des sourds-muets}kurčnebyliųjų kalba, išreikšta veido judesiais ir gestais;S{&rArr;}A{f}mimika.
+0{mimologie}[mimɔlɔʒi]A{f}mimologija, kurčiųjų kalba.
+0{mimosa}[mimoza]A{m}L{bot.}mimoza.
+0{minable}[minabl]A{adj}I{1}L{šnek.}skurdus, vargingas, blogai apsirengęs;I{2}labai vidutiniškas;F{résultats minables}labai vidutiniški rezultatai.
+0{minaret}[minarɛ]A{m}L{archit.}minaretas, mečetės bokštas.
+0{minauder}[minode]A{vi}maivytis, darkytis.
+0{minauderie}[minodri]A{f}I{1}maivymasis;F{les minauderies d’une coquette}koketės maivymasis;I{2}dirbtinumas, nenatūrali elgsena.
+0{mince}[m&epsilon;&#771;s]A{adj}I{1}plonas, lieknas;F{jeune femme mince}jauna, liekna moteris;F{lèvres minces}plonos lūpos;F{couper de la viande en tranches minces}supjaustyti mėsą plonomis riekelėmis;I{2}nežymus, menkas;F{un prétexte bien mince}labai menkas pretekstas.
+0{minceur}[m&epsilon;&#771;sœr]A{f}I{1}plonumas;I{2}lieknumas;I{3}menkumas.
+0{mincir}[m&epsilon;&#771;sir]A{vi}lieknėti;F{elle a beaucoup minci}ji labai sulieknėjo.
+0{mine^{1}}[min]A{f}išvaizda, veido išraiška;F{juger des gens sur (d’après) la mine}spręsti apie žmones pagal išvaizdą;F{avoir bonne, mauvaise mine}gerai, blogai atrodyti;F{faire mine de}f{(+A{inf})}dėtis kuo, vaizduoti ką;L{šnek.}F{mine de rien}vaizduojant lyg nieko neatsitiko;F{faire triste mine}pasigailėtinai atrodyti;A{loc}F{faire grise mine}l{(àA{qn})}šaltai ką priimti;F{faire des mines}stengtis kam patikti, ką suvilioti.
+0{mine^{2}}[min]A{f}I{1}kasykla; šachta;I{2}minal{(sprogstamasis užtaisas)};I{3}pieštuko šerdelė;F{crayon à mine dure}pieštukas su kieta šerdele;L{prk.}neišsenkamas šaltinis;F{ce livre est une mine de renseignements}ši knyga tai neišsenkamas žinių šaltinis.
+0{miner}[mine]A{vt}I{1}minuoti;F{miner un pont}minuoti tiltą; (pa)kastil{(iš apačios)}; pasirausti;I{2}pratašyti, paplauti, (iš)graužtil{(apie vandenį)};F{la mer mine les falaises}jūra graužia uolas;I{3}pakirstil{(autoritetą irL{pan.})};I{4}išsekinti, naikinti, griauti;F{la maladie qui le mine}liga jį sekina.
+0{minerai}[minrɛ]A{m}rūda;F{gisement de minerai}rūdos telkinys.
+0{minéral, -ale}[mineral](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}mineralinis;F{eau minérale}mineralinis vanduo;S{&rArr;}A{m}mineralas.
+0{minéraliser}[mineralize]A{vt}mineralizuoti;F{une eau faiblement minéralisée}silpnai mineralizuotas vanduo.
+0{minéralogie}[mineralɔʒi]A{f}mineralogija.
+0{minéralogique}[mineralɔʒik]A{adj}mineraloginis, mineralogijos.
+0{minet}A{m},0{-ette}A{f}[minɛ, -ɛt]L{šnek.}katinėlis, katytė;l{(mažybinis, maloninis kreipinys į asmenį)}katinėli.
+0{mineur^{1}}[minœr]A{m}I{1}angliakasys, šachtininkas;I{2}L{kar.}minuotojas.
+0{mineur^{1}}[minœr]A{m}I{1}angliakasys, šachtininkas;I{2}L{kar.}minuotojas.
+0{mineur^{2}, -eure}[minœr]S{&rArr;}A{adj}I{1}mažesnis;F{poète mineur}nežymus poetas;I{2}nepilnametis; mažametis;F{enfant mineur}nepilnametis vaikas;I{3}L{muz.}minorinis;S{&rArr;}A{m},A{f}nepilnametis, nepilnametė.
+0{mini}[mini]A{adj}A{inv}mini; labai trumpas;F{la mode mini}mini mada.
+0{miniature}[minjatyr]A{f}miniatiūra;A{loc adv}F{en miniature}miniatiūrinis.
+0{minier, -ière}[minje, -jɛr]A{adj}kasyklų, kalnakasybos;F{industrie minière}kalnų pramonė.
+0{minimal, -ale}[minimal]A{adj}(A{pl}A{m}2{-aux}[-o]) minimalus;F{température minimale}minimali temperatūra.
+0{minimalisme}[minimalism]A{m}minimalizmas.
+0{minime}[minim]A{adj}minimalus, labai mažas; nežymus;F{salaire minime}labai mažas atlyginimas.
+0{minimiser}[minimize]A{vt}sumažintil{(iki minimumo)};F{minimiser le rôle de_{qn}}sumenkinti kieno vaidmenį.
+0{minimum}[minimɔm]A{m}mažiausias kiekis, minimumas;F{minimum de frais}minimalios išlaidos;F{dans le minimum de temps}per trumpiausią laiką;A{loc}F{minimum vital}pragyvenimo minimumas;F{salaire minimum interprofessionnel garanti}(F{S.M.I.G.}[smig]) minimalus garantuotas darbo užmokestis.
+0{mini-ordinateur}[miniɔrdinatœr]A{m}minikompiuteris.
+0{ministère}[ministɛr]A{m}ministerija;F{Ministère de l’Instruction}švietimo ministerija;F{Ministère de l’Agriculture, des Finances}žemės ūkio, finansų ministerija;F{Ministère public}prokuratūra;F{Ministère de l’Intérieur}vidaus reikalų ministerija;F{Ministère de la Justice}teisingumo ministerija.
+0{ministériel, -ielle}[ministerjɛl]A{adj}ministerijos; ministro;F{décret ministériel}ministro dekretas.
+0{ministre}[ministr]A{m}ministras;F{nomination d’un ministre}paskyrimas ministru; F{madame la (le) ministre}ponia ministrė;F{ministre de l’Intérieur}vidaus reikalų ministras;F{Conseil des ministres}Ministrų Taryba;F{ministre d’État}ministras "be portfelio";F{décret pris en Conseil des ministres}Ministrų Taryboje priimtas dekretas.
+0{minorant}[minɔr&#593;&#771;]A{m}L{mat.}minorantė.
+0{minorer}[minɔre]A{vt}sumažinti kieno reikšmę, apriboti.
+0{minorité}[minɔrite]A{f}I{1}mažuma;I{2}nepilnametystė;F{minorités ethniques}etninės mažumos;F{être dans la minorité, en minorité}sudaryti mažumą;F{une minorité de}labai mažas skaičius.
+0{minuit}[minɥi]A{m}vidurnaktis;F{à minuit précis}lygiai dvyliktą valandą nakties.
+0{minuscule}[minyskyl]S{&rArr;}A{adj}mažytis, smulkutėlis;S{&rArr;}A{f}mažoji raidė.
+0{minutaire}[minytɛr]A{adj}autentiškas, tikras;F{testament minutaire}autentiškas testamentas.
+0{minute}[minyt]A{f}I{1}minutė;I{2}nedidelis laiko tarpas, valandėlė, minutėlė;F{dans une minute}tuoj pat;A{loc}F{à la minute où}tuo metu, kai;F{d’une minute à l’autre}labai greit, tuoj pat; F{à la minute}šiuo momentu;F{je pars à la minute}išvykstu šią minutę;A{interj}A{fam}F{minute!}minutėlę!;I{3}l{(dokumento, akto)}originalas;F{copie d’une minute}originalo kopija;I{4}smulki rašysena, mažoji raidė.
+0{minuter}[minyte]A{vt}I{1}suredaguoti, surašyti orginaląl{(dokumento, akto)};I{2}tiksliai paskirstyti dienotvarkę;F{emploi du temps strictement minuté}griežtai nustatyta dienotvarkė.
+0{minuteur}[minytœr]A{m}automatinis išjungiklis;F{minuteur d’une cafetière automatique}automatinio kavinuko išjungiklis.
+0{minutie}[minysi]A{f}I{1}smulkmena, niekniekis, mažmožis;I{2}kruopštumas.
+0{minutier}[minytje]A{m}I{1}notaro aktų registras;I{2}archyvo saugykla.
+0{minutieusement}[minysjøzm&#593;&#771;]A{adv}kruopščiai; atidžiai, smulkmeniškai.
+0{minutieux},0{-ieuse}[minysjø, -jøz]A{adj}smulkus, kruopštus; tikslus; F{préparation minutieuse}kruopštus pasirengimas.
+0{mioche}[mjɔʃ]A{m},A{f}L{šnek.}vaikas, mažylis, mažylė.
+0{mirabelle}[mirabɛl]A{f}L{bot.}mirabelėl{(slyvų rūšis)}.
+0{miracle}[mirakl]A{m}stebuklas;A{loc adv}F{par miracle}per stebuklą;F{les miracles de Lourdes}Lurdo stebuklai;F{ce monument est un miracle d’architecture}šis paminklas yra architektūros stebuklas.
+0{miraculeux, -euse}[mirakylø, -øʒ]A{adj}stebuklingas; nuostabus;F{guérison miraculeuse}stebuklingas pagijimas.
+0{mirage}[miraʒ]A{m}I{1}miražas;I{2}L{prk.}iliuzija.
+0{mire}[mir]A{f}I{1}taikiklis;F{point de mire}taikinys;F{être le point de mire}būti dėmesio centre;I{2}L{geod.}:F{mire graduée}niveliavimo matuoklė;I{3}L{telev.}patikrinimo lentelė.
+0{mirer}[mire]A{vt}I{1}žiūrėtil{(į taikinį)};I{2}žiūrėti prieš šviesąl{(tikrinant kiaušinį)};I{3}žiūrėti į savo atspindį;$2{se mirer}žiūrėti į savo atspindį vandenyje, veidrodyje;F{arbre qui se mire dans l’eau}medis atsispindi vandenyje.
+0{miroir}[mirwar]A{m}I{1}veidrodis;F{se regarder dans un miroir}žiūrėti į veidrodį;F{miroir de poche}kišeninis veidrodėlis;F{miroir mural}ant sienos pakabinamas veidrodis;I{2}lygus, blizgantis paviršius;F{miroir d’eau}l{(parke, sode)}nedidelis vandens telkinys;I{3}atspindys;I{4}L{kul.}L{šnek.}:F{œufs (au) miroir œufs sur le plat}keptas kiaušinis, kai trynys ir baltymas nesumaišyti.
+0{miroitant, -ante}[mirwat&#593;&#771;, -&#593;&#771;t]A{adj}blizgantis, spindintis, mirguliuojantis;F{surface miroitante de la mer}mirguliuojantis jūros paviršius.
+0{miroitement}[mirwatm&#593;&#771;]A{m}spindėjimas, blizgėjimas, mirguliavimas.
+0{miroiter}[mirwate]A{vi}I{1}blizgėti, spindėti;I{2}L{prk.}:F{faire miroiter_{qch}à_{qn}}gundyti, vilioti.
+0{miroton}[mirɔt&#596;&#771;]A{m}virtos jautienos troškinys su svogūnais, lašiniais ir actu.
+0{mis, mise}[mi, miz]A{adj}apsirengęs;F{femme bien, mal mise}moteris gerai, prastai apsirengusi.
+0{misandre}[miz&#593;&#771;dr]A{m},A{f}žmogus, nemėgstantis vyrų;F{elle est misandre}ji nekenčia vyrų.
+0{misanthrope}[miz&#593;&#771;trɔp]A{m},A{f}mizantropas, mizantropė.
+0{mise}[miz]A{f}I{1}padėjimasl{(kur nors)}; į naują vietą pastatymas; perstatymas;F{mise en place}padėjimas į vietą;F{mise en bouteilles}supilstymas į butelius;F{mise en scène}pastatymas, ekranizacijal{(apie kiną, televiziją)};F{mise à l’eau}nuleidimas į vandenį;F{mise à terre}išlaipinimas;F{mise à l’épreuve}išbandymas;F{mise à prix}kainos nustatymas; įvertinimas;F{mise au point}sureguliavimas, užbaigimas;I{2}statymasl{(lošiant)}, pinigų investavimas, įmokėjimas; indėlis;F{déposer une mise}statytil{(lošiant)};F{mise de fonds}investavimas; pinigų įmokėjimas;I{3}L{teis.}:F{mise en accusation}perdavimas prisiekusiųjų teismui; apkaltinimas;F{mise en liberté}paleidimas į laisvę;F{mise hors de la loi}paskelbimas už įstatymo ribų;F{mise à nu}demaskavimas;I{4}:F{être de mise}būti tinkamam, nešiojamam, priimtinam;F{monnaies de mise}monetos, esančios apyvartoje;F{cette étoffe est de mise}ši medžiaga yra madinga;I{5}apsirengimas; apsirengimo būdas;F{juger_{qn}d’après sa mise}vertinti ką pagal apsirengimą;I{6}L{el.}:F{mise sous tension}įjungimas į tinklą;F{mise à la terre}įžeminimas.
+0{miser}[mize]A{vt}statytil{(lošiant)};F{miser sur un cheval, aux courses}statyti už arklį per arklių lenktynes.
+0{misérable}[mizerable]S{&rArr;}A{adj}I{1}nelaimingas, pasigailėtinas, vargingas;F{vivre dans des conditions misérables}gyventi vargingose sąlygose;I{2}blogas, menkas; niekingas;F{un salaire misérable}žemas atlyginimas;S{&rArr;}A{m},A{f}I{1}nelaimingas žmogus, vargdienis, vargdienė;I{2}nenaudėlis, nenaudėlė, niekšas.
+0{misérablement}[mizerabləm&#593;&#771;]A{adv}vargingai, skurdžiai, blogai;F{vivre misérablement}vargingai gyventi.
+0{misère}[mizɛr]A{f}I{1}skurdas, vargas, neturtas;F{être, tomber dans la misère}būti, atsidurti skurde, varge;F{réduire_{qn}à la misère}nuskurdinti ką, įstumti į skurdą;F{misère noire}visiškas neturtas;A{loc}F{crier, pleurer misère}skųstis neturtu, rodyti neturtą;F{de misère}vargingas, skurdus;F{un salaire de misère}menkas atlyginimas;I{2}L{med.}:F{misère physiologique}išsekimas, badavimas, neprivalgymas;F{collier de misère}nuobodus darbas;I{3}nelaimė, kančia, sielvartas;I{4}A{pl}nemalonumai, nesėkmės;F{petites misères}nesėkmės;F{faire des misères}padaryti nemalonumų;I{5}bevertis, žemas, menkas dalykas; mažmožis.
+0{miséreux, -euse}[mizerø, -øz]S{&rArr;}A{adj}skurdus, vargingas;S{&rArr;}A{m},A{f}vargšas, vargšė; skurdžius, badaujantysis.
+0{miséricorde}[mizerikɔrd]A{f}I{1}gailestingumas;F{sœurs de la miséricorde}gailestingosios seserys;I{2}pasigailėjimas;F{demander miséricorde}prašyti pasigailėjimo;L{relig.}F{la miséricorde divine}absoliucija, nuodėmių atleidimas;A{loc prov}F{à tout péché miséricorde}kiekviena nuodėmė atleidžiama;I{3}A{interj}:F{miséricorde!}pasigailėkite!
+0{miséricordieux, -ieuse}[mizerikɔrdjø, -øz]A{adj}gailestingas, mielaširdingas;F{Dieu est miséricordieux}Dievas gailestingas.
+0{misogyne}[mizɔʒin](L{šnek.}2{miso}[mizo])A{m},A{f}nekenčiantis moterų;F{il est très miso}jis labai nekenčia moterų.
+0{miss}[mis]A{f}L{angl.}I{1}panelė;I{2}grožio karalienėl{(išrinkta grožio konkurse)}.
+0{missel}[misɛl]A{m}mišiolas; maldaknygė.
+0{missile}[misil]A{m}raketa;F{missile balistique}balistinė raketa.
+0{mission}[misj&#596;&#771;]A{f}I{1}pavedimas, užduotis, misija;F{mission diplomatique}diplomatinė misija;F{confier une mission à_{qn}}patikėti, pavesti kam užduotįI{2}komandiruotė;F{envoyer en mission}deleguoti, komandiruoti;F{avoir mission de faire_{qch}}turėti pavedimą ką atlikti;I{3}pašaukimas, tikslas;F{la mission de l’art}meno tikslas;F{se donner pour mission de...}laikyti savo pašaukimu;F{accomplir sa mission}atlikti savo užduotį.
+0{missionnaire}[misjɔnɛr]A{m}misionierius.
+0{missive}[misiv]A{f}S{&rArr;}l{(siunčiamas)}raštas, laiškas;S{&rArr;}A{adj}F{lettre missive}oficialus raštas.
+0{mistoufle}[mistufl]A{f}L{šnek.}pyktis.
+0{mistral}[mistral]A{m}mistralisl{(šaltas ir smarkus šiaurės, šiaurės vakarų vėjas)}.
+0{mitaine}[mitɛn]A{f}kumštinė pirštinė.
+0{mite}[mit]A{f}kandis;F{habit mangé des mites, troué aux mites}kandžių sukapotas drabužis.
+0{mi-temps}[mit&#593;&#771;]A{f}A{inv}I{1}L{sport.}pertrauka;I{2}kėlinys;A{loc adv}F{à mi-temps}:2{}F{travailler à mi-temps}dirbti puse etato.
+0{miter (se)}[mite]būti kandžių kapojamam;F{une fourrure mitée}kandžių sukapoti kailiniai.
+0{miteux, -euse}[mitø, -øz]A{adj}skurdus, menkas;L{šnek.}pasigailėjimo vertasl{(žmogus)}.
+0{mitigation}[mitigasj&#596;&#771;]A{f}sumažinimas, sušvelninimas;L{teis.}F{mitigation des peines}bausmių sušvelninimas.
+0{mitiger}[mitiʒe]A{vt}sušvelninti, padaryti negriežtu.
+0{mitonner}[mitɔne]S{&rArr;}A{vi}troškintis, ilgai virinti ant silpnos ugnies;S{&rArr;}A{vt}ilgai virti ant silpnos ugnies, kruopščiai paruošti ką nors;F{elle nous a mitonné un bon petit dîner}ji rūpestingai paruošė puikius pietus;I{3}L{prk.}tyliai ką nors rengti; lepinti ką nors;$2{se mitonner}save lepinti, save prižiūrėti; sau ką nors ruošti.
+0{mitoyen, -enne}[mitwaj&epsilon;&#771;, -en]A{adj}bendras;F{un mur mitoyen}bendra siena.
+0{mitoyenneté}[mitwajɛnte]A{f}bendrumas, kaimynystė, gretimumas.
+0{mitraillade}[mitrajad]A{f}šaudymas iš kulkosvaidžio.
+0{mitrailler}[mitraje]S{&rArr;}A{vi}šaudyti artilerijos sviediniais;S{&rArr;}A{vt}I{1}sušaudyti, apšaudyti iš kulkosvaidžio;F{mitrailler des soldats ennemis}šaudyti priešo kareivius;L{prk.}L{šnek.}F{mitrailler_{qn}de questions}apipilti ką klausimais;I{2}L{šnek.}fotografuoti be perstojo, iš visų pusių;F{le Président fut mitraillé par les reporters}Prezidentas buvo reporterių be perstojo fotografuojamas.
+0{mitraillette}[mitrajɛt]A{f}automatas.
+0{mitrailleur}[mitrajœr]A{m}kulkosvaidininkas.
+0{mitrailleuse}[mitrajøz]A{f}kulkosvaidis.
+0{mitre}[mitr]A{f}I{1}mitra, vyskupo kepurė;F{recevoir la mitre}gauti vyskupo titulą;I{2}gaubtas, gaubtuvasl{(dedamas ant kamino)}.
+0{mitron}[mitr&#596;&#771;]A{m}kepėjo parankinis, mokinys.
+0{mi-voix (à)}[amivwa]A{loc adv}pusbalsiu.
+0{mixer}[mikse]A{vt}maišyti.
+0{mixeur}[miksœr]A{m}L{tech.}maišytuvas, mikseris; plakiklis, plaktuvas.
+0{mixte}[mikst]A{adj}I{1}maišytas, įvairiarūšis;F{salade mixte}salotos sumaišytos iš įvairių daržovių;F{navire mixte}laivas, gabenantis prekes ir žmones;F{couple mixte}skirtingų rasių pora;I{2}mišrus;F{école mixte}mišri mokykla.
+0{mixtion}[mikstj&#596;&#771;]A{f}maišymas, mišinys.
+0{mixture}[mikstyr]A{f}L{farm.}mikstūra.
+0{M.K.S.A.}[ɛmkaɛsa]A{adj}(L{sutr.}C{iš}2{mètre, kilogramme, seconde, ampère}) tarptautinė fizikos vienetų sistema: metras, kilogramas, sekundė, amperas.
+0{Mlle}A{L{žr.}R{mademoiselle}}.
+0{MM}A{L{žr.}R{monsieur}}.
+0{Mme}A{L{žr.}R{madame}}.
+0{mnémonique}[mnemonik]A{adj}mnemoninis, įsimintinas.
+0{mnémotechnique}[mnemotɛknik]A{adj}mnemotechninis, palengvinantis įsiminimą ir praplečiantis atmintį.
+0{mobile}[mɔbil]S{&rArr;}A{adj}I{1}mobilus, judrus judamas, nešiojamas;F{pièce mobile d’une machine}judanti mašinos dalis;F{téléphone mobile, portable}mobilusis, nešiojamas telefonas;I{2}besikeičiantis, nepastovus, kilnojamas;S{&rArr;}A{m}I{1}judantis kūnas;I{2}L{archit.}mobilioji skulptūra;I{3}varomoji jėga;I{4}L{prk.}akstinas.
+0{mobilier, -ière}[mɔbilje, -jɛr]S{&rArr;}A{adj}kilnojamas, judamas;F{richesse mobilière}kilnojamasis turtas;S{&rArr;}A{m}baldai;F{mobilier de bureau}biuro baldai.
+0{mobilisation}[mɔbilizasj&#596;&#771;]A{f}I{1}L{fin.}vekselių pirkimas prieš jų apmokėjimo terminą, turto perleidimas;I{2}mobilizacija;F{mobilisation générale}visuotinė mobilizacija; I{3}L{prk.}jėgų sutelkimas kokiam nors reikalui, tikslui;I{4}L{med.}kokio nors organo suaktyvinimas, paskatinimas aktyviai veiklail{(gydant kineziterapija)}.
+0{mobiliser}[mɔbilize]A{vt}I{1}L{fin.}supirkti vekselius;I{2}mobilizuoti;I{3}sušaukti;I{4}L{prk.}kreiptis į, sukviesti, sutelkti;$2{se mobiliser}susiburti, susitelkti, nusiteikti;F{ils se sont mobilisés pour manifester}jie susibūrė demonstracijai.
+0{mobilité}[mɔbilite]A{f}I{1}judrumas;F{mobilité d’électrons}elektronų judrumas;I{2}nepastovumas;F{la mobilité des sentiments}jausmų nepastovumas.
+0{moche}[mɔʃ]A{adj}I{1}negražus, bjaurus;I{2}blogas, nekokybiškas;I{3}vertas paniekos.
+0{modal, -ale}[mɔdal]A{adj}(A{pl}A{m}2{-aux}[-o])L{gram.}modalinis;F{forme modale}modalinė forma.
+0{modalité}[mɔdalite]A{f}I{1}savybė;I{2}būdas, forma, įvairios priemonės, įvairūs variantai;F{modalité de paiement}įvairios mokėjimo formos;F{les modalités d’application d’une loi, d’un décret}įstatymo, dekreto panaudojimo, pritaikymo variantai;I{3}L{gram.}modalumas;I{4}L{muz.}dermė.
+0{mode^{1}}[mɔd]A{f}I{1}veikimo būdas, įprotis; skonis;I{2}mada;F{à la mode}madingas;F{ce n’est plus à la mode, c’est passé de mode}tai nebemadinga;F{s’habiller à la dernière mode}rengtis pagal paskutinę madą;F{défilé de mode}madų demonstravimas;I{3}drabužių pramonė;F{travailler dans la mode}dirbti gatavų rūbų parduotuvėje;F{les métiers de la mode}drabužių pramonės profesijosl{(siuvėjas, stilistas, modeliuotojas)}.
+0{mode^{2}}[mɔd]A{m}I{1}būdas, forma;I{2}L{gram.}nuosaka;F{les modes d’un verbe}veiksmažodžio nuosakos;F{les temps de chaque mode}kiekvienos nuosakos laikai;I{3}L{mat.}moda;I{4}:F{mode de}forma, būdas;F{mode de vie}gyvenimo būdas;F{mode de production}gamybos formos, metodai;I{5}L{inf.}veiksena, režimas.
+0{modelage}[mɔd(ə)laʒ]A{m}lipdymas, modeliavimas.
+0{modelé}[mɔd(ə)le]A{m}I{1}L{skulp.}formų reljefingumas;I{2}L{geogr.}reljefo nelygumai;F{le modelé d’une région}regiono reljefas.
+0{modèle}[mɔdɛl]S{&rArr;}A{adj}pavyzdingas; pavyzdinis;S{&rArr;}A{m}pavyzdys; modelis, etalonas;F{modèle réduit}maketas;I{3}lekalas, liejamoji forma; iškarpa;I{4}schema, struktūra, matrica, modelis;F{modèle mathématique}matematinis modelis;F{modèle d’utilité}naudingasis modelis.
+0{modeler}[mɔd(ə)le]A{vt}I{1}lipdyti;I{2}modeliuoti;F{modeler de la glaise, de la cire}lipdyti iš keraminio molio, iš vaško;F{pâte à modeler}plastilinas;I{3}L{prk.}keisti, suderinti, pritaikyti;$2{se modeler}(C{sur}A{qn}C{, sur}A{qch}) prisilaikyti, prisiderintil{(prie ko nors)}.
+0{modeleur}A{m},0{-euse}A{f}[mɔd(ə)lœr, -øz]modelininkas, modelininkė.
+0{modéliser}[mɔdelize]A{vt}modeliuoti.
+0{modéliste}[mɔdelist]A{m},A{f}modeliuotojas, modeliuotoja.
+0{modem}[mɔdɛm]A{m}L{inf.}modemas, vertiklis;F{modem de données}duomenų perdavimo modemas;F{modem à deux puces}dvilustis modemas;F{modem numérique}skaitmeninis modemas.
+0{modérateur, -trice}[mɔderatœr, -tris]S{&rArr;}A{adj}susilpninantis, sušvelninantis, sumažinantis;S{&rArr;}A{m}moderatorius, reguliatorius.
+0{modération}[mɔderasj&#596;&#771;]A{f}I{1}saikingumas, santūrumas;F{boire, manger avec modération}saikingai gerti, valgyti;I{2}sumažinimas; sušvelninimas;F{modération de la vitesse}greičio sumažinimas.
+0{modéré, -ée}[mɔdere]S{&rArr;}A{adj}I{1}nuosaikus, santūrus;I{2}vidutinis;F{prix modéré}vidutinė kaina;F{température modérée}vidutinė temperatūra;S{&rArr;}A{m},A{f}nuosaikių pažiūrų žmogus.
+0{modérer}[mɔdere]A{vt}susilpninti, sušvelninti, sumažinti;F{modérer sa colère}sumažinti pyktį;F{modérer la vitesse}sumažinti greitį;$2{se modérer}susivaldyti, likti nuosaikiu.
+0{moderne}[mɔdɛrn]S{&rArr;}A{adj}naujoviškas, šių laikų, dabartinis, modernus;F{l’art moderne}šiuolaikinis menas;F{l’époque moderne}dabartinė epocha;F{technique moderne}šių laikų technika;S{&rArr;}A{m}naujovės; tai, kas modernu, nauja.
+0{modernisation}[mɔdɛrnizasj&#596;&#771;]A{f}(su)moderninimas, modernizavimas.
+0{moderniser}[mɔdɛrnize]A{vt}(su)moderninti; atnaujinti, padaryti aktualiu, pakeisti;F{commerçant qui modernise son magasin}komersantas, sumoderninantis savo parduotuvę;$2{se moderniser}atsinaujinti, pasikeisti, sumodernėti.
+0{modernisme}[mɔdɛrnism]A{m}modernizmas.
+0{modernité}[mɔdɛrnite]A{f}moderniškumas, naujoviškumas.
+0{modeste}[mɔdɛst]S{&rArr;}A{adj}kuklus, paprastas;F{revenus modestes}menkos pajamos;F{acceptez ce modeste présent}priimkite šią kuklią dovaną;F{il est d’origine très modeste}jis iš prigimties labai kuklus;F{un homme timide et modeste}drovus ir paprastas žmogus;S{&rArr;}A{m}:F{faire le modeste}būti diskretiškam, santūriam, kukliam.
+0{modestie}[mɔdɛsti]A{f}kuklumas, paprastumas, drovumas;F{fausse modestie}apsimestas kuklumas.
+0{modicité}[mɔdisite]A{f}mažuma, nedidelis kiekis, nereikšmingumas.
+0{modifiable}[mɔdifjabl]A{adj}pakeičiamas, transformuojamas.
+0{modification}[mɔdifikasj&#596;&#771;]A{f}pakeitimas, modifikacija;F{modification en mieux}pagerėjimas;F{faire des modifications}pakeisti, pataisyti, peržiūrėti.
+0{modifier}[mɔdifje]A{vt}pakeisti, modifikuoti, transformuoti;$2{se modifier}pasikeisti, būti besikeičiančiam.
+0{modique}[mɔdik]A{adj}nežymus, silpnas, vidutiniškas;F{salaire modique}mažas atlyginimas.
+0{modiste}[mɔdist]A{m},A{f}I{1}moteriškų rūbų pardavėjas, pardavėja;I{2}A{f}skrybėlaičių modeliuotoja, pardavėja.
+0{modulateur, -trice}[mɔdylatœr, -tris]S{&rArr;}A{adj}moduliuojantis, keičiantis;S{&rArr;}A{m}moduliatorius.
+0{modulation}[mɔdylasj&#596;&#771;]A{f}L{muz.},L{fiz.}moduliacija;F{modulation de fréquence}dažnio moduliacija, keitimas.
+0{module}[mɔdyl]A{m}I{1}modulis, koeficientas, dydis;I{2}L{mat.}pastovus dydis.
+0{moduler}[mɔdyle]A{vt}I{1}L{muz.}moduliuoti;I{2}pakeisti;I{3}pritaikyti.
+0{modus vivendi}[mɔdysviv&epsilon;&#771;di]A{m}A{inv}trumpalaikis susitarimas.
+0{moelle}[mwal]A{f}I{1}kaulų smegenys;F{greffe de moelle osseuse}kaulo čiulpų persodinimas;F{os à moelle}smegeninis kaulas;F{moelle épinière}stuburo smegenys;L{prk.}F{j’ai froid jusqu’à la moelle des os}sušalau iki gyvo kaulo;I{2}L{bot.}šerdis;I{3}esmė.
+0{moelleux, -euse}[mwalø, -øz]A{adj}I{1}minkštas, malonus;F{étoffe moelleuse}minkšta medžiaga;I{2}skanus, švelnus;F{chocolat moelleux}skanus šokoladas;F{vin moelleux}švelnus vynas;I{3}melodingas, švelnus, aksominisl{(balsas)};I{4}apvalus, apkūnusl{(apie žmogų)}.
+0{moeurs}[mœr, mœrs]A{f}A{pl}I{1}papročiai;I{2}įpročiai;F{femme de moeurs faciles, légères}lengvo elgesio moteris;F{les moeurs du peuple et les moeurs du grand monde}liaudies papročiai ir aukštuomenės papročiai;I{3}dorovingumas; principai, moralė.
+0{mohair}[mɔɛr]A{m}moheris; angoros ožkų vilna;F{pull en mohair}moherio megztinis;F{écharpe en mohair}moherio šalikas.
+0{moi}[mwa]S{&rArr;}A{pron pers}I{1}aš, mane, man, manęs, manimi;F{c’est moi}tai aš;F{regarde-moi}žiūrėk į mane;F{donnez-la-moi}duokite ją man;F{ça dépend de moi}tai priklauso nuo manęs;F{on fait avec moi tout ce qu’on veut}daro su manimi viską, ką nori;I{2}l{(norint pabrėžti veiksnį)}:F{moi aussi, j’irai à Paris}aš taip pat vyksiu į Paryžių;F{moi qui, c’est moi qui vous le dis}tai aš jums tai sakau;F{moi parti, que ferez-vous?}man išvykus, ką jūs veiksite?;F{de moi}mano;F{je vous donnerai une photo de moi}aš jums duosiu savo fotografiją;F{pour moi}man;F{je laisse cela pour moi}pasilieku tai sau;F{à moi}:2{}F{vous êtes à moi}jūs priklausote man;F{un ami à moi}vienas iš mano draugų;F{de vous à moi}tarp mūsųl{(slaptai)};F{quand à moi}kai dėl manęs;F{à moi!}gelbėkite!;A{loc}F{moi-même}aš pats;F{moi-aussi}aš taip pat;F{moi non plus}aš taip pat ne;S{&rArr;}A{m}A{inv}ašl{(mano asmenybė)}.
+0{moignon}[mwaɲ&#596;&#771;]A{m}I{1}bigėl{(apie žmogų)};I{2}nulaužto medžio kelmelis.
+0{moindre}[mw&epsilon;&#771;dr]A{adj}I{1}(l{aukštesnysis}3{petit}l{laipsnis}) mažesnis, žemesnis, blogesnis;F{un vin de moindre qualité}žemesnės kokybės vynas;I{2}(l{aukščiausiasis}3{petit}l{laipsnis})F{le moindre}mažiausias, žemiausias;F{c’est le moindre de mes soucis}tai mažiausias mano rūpestis;A{loc}F{c’est la moindre des choses}tai menkniekis;I{3}l{(po neiginio)}joks; F{il n’y a pas le moindre doute, sans le moindre doute}nėra jokios abejonės, be jokios abejonės.
+0{moine}[mwan]A{m}vienuolis;F{cellule de moine}vienuolio celė.
+0{moineau}[mwano]A{m}žvirblis;A{loc}F{manger comme un moineau}labai mažai valgyti;L{prk.}F{c’est drôle de moineau}keistas tipas.
+0{moinerie}[mwanri]A{f}vienuolynas, vienuolių bendrija.
+0{moins}[mw&epsilon;&#771;]S{&rArr;}A{adv}I{1}(l{aukštesnysis}3{peu}l{laipsnis}) mažiau;F{il travaille moins}jis mažiau dirba; (C{prieš}L{bdv.},L{prv.}) ne tiek, ne toks;F{il est moins riche}jis ne toks turtingas;F{parlez moins vite}kalbėkite ne taip greitai;A{loc}F{de moins en moins}vis mažiau ir mažiau;F{ni plus, ni moins}nei daugiau, nei mažiau;F{moins cher}pigiau;F{moins tard}anksčiau;F{moins bien}blogiau;F{en moins de rien}akimirksniu;I{2}F{moins que}mažiau už, mažiau nei;F{plus ou moins}daugmaž;I{3}l{(prieš stovi neiginys)}F{non moins que}taip pat kaip, kaip ir;I{4}(l{aukščiausiasis}3{peu}l{laipsnis})F{le moins}mažiausiai;F{le moins utile}mažiausiai naudingas;F{le moins du monde}kiek galima mažiausiai;l{(prieš neiginį)}F{pas le moins du monde}visai ne;S{&rArr;}A{m}mažiausia, minimaliausia;F{il y a au moins une heure}mažiausiai yra valanda;F{tout au moins, à tout le moins, pour le moins, du moins}vis dėlto, tačiau, kiekvienu atveju;S{&rArr;}A{prép}I{1}be, minus;F{six moins quatre font deux}šeši minus keturi lygu du;F{il est cinq heures moins le quart}be penkiolikos minučių penkiosl{(be ketvirčio)};F{dépêchez-vous, il est presque moins dix}skubėkite, jau beveik be dešimtl{(minučių)};I{2}l{(su neigiamu, minusiniu skaičiumi)}:F{il fait moins dix (degrès)}dešimt laipsnių šalčiol{(minus dešimt)};F{dix puissance moins sept}(10^{–7}) dešimt minus septintame laipsnyje;I{3}minusasl{(ženklas, žymimas –)}.
+0{moins-value}[mw&epsilon;&#771;valy]A{f}L{ekon.},L{kom.}nuvertėjimas; nuvertinimas.
+0{mois}[mwa]A{m}I{1}mėnuo;F{les douze mois de l’année}dvylika metų mėnesių;F{au mois de mars}kovo mėnesį;F{le début, le courant du mois}mėnesio pradžia, mėnesio eiga;F{au début, à la fin du mois}mėnesio pradžioje, gale;F{tous les deux mois}kas du mėnesiai;I{2}alga, mėnesinis darbo užmokestis;F{toucher son mois}gauti mėnesinį atlyginimą.
+0{moisi, -ie}[mwazi]S{&rArr;}A{adj}supelėjęs;S{&rArr;}A{m}pelėsis; apipelijusi vieta;F{cette chambre sent le moisi}šis kambarys atsiduoda pelėsiu.
+0{moisir}[mwazir]A{vi}pelėti, pelyti;F{ce pain a moisi}ši duona supelijo;$2{se moisir}I{1}(api)pelėti;I{2}L{šnek.}ilgai (pasi)likti, užtruktil{(kur nors)}.
+0{moisissure}[mwazisyr]A{f}pelėsiai;F{moisissures des fromages}sūrių pelėsiai.
+0{moisson}[mwas&#596;&#771;]A{f}I{1}javų pjūtis;I{2}derlius;I{3}L{prk.}didelis kiekis, daugybė;F{une moisson de souvenirs}daugybė suvenyrų.
+0{moissonner}[mwasɔne]A{vt}I{1}pjauti, kirstil{(javus)};I{2}L{prk.}skinti, rinkti;F{moissonner des renseignements}rinkti žinias.
+0{moissonneur}A{m},0{-euse}A{f}[mwasɔnœr, -øz]S{&rArr;}javų pjovėjas, pjovėja;S{&rArr;}A{f}L{žemd.}javapjovėl{(mašina)}.
+0{moissonneuse-batteuse}[mwasɔnøzbatøz]A{f}kombainas.
+0{moite}[mwat]A{adj}sudrėkęs, drėgnas;F{avoir les mains moites}turėti sudrėkusias rankas.
+0{moiteur}[mwatœr]A{f}I{1}drėgnumas;I{2}prakaitas.
+0{moitié}[mwatje]A{f}pusė;F{à moitié}pusiau;F{verre à moitié vide}pusiau tuščia stiklinė;A{loc prép}F{à moitié chemin}pusiaukelėje;F{à moitié prix}už pusę kainos;F{partageons les bénéfices moitié-moitié}pasidalinam pelną lygiai per pusę.
+0{moitir}[mwatir]A{vt}sudrėkinti.
+0{moka}[mɔka]A{m}I{1}mokal{(kavos rūšis)}; I{2}pyragaitis.
+0{mol}A{L{žr.}R{mou}}.
+0{molaire}[mɔlɛr]A{f}krūminis dantis;F{les douze molaires de l’homme adulte}suaugusio žmogaus dvylika krūminių dantų.
+0{moldave}[mɔldav]S{&rArr;}A{adj}moldavų;S{&rArr;}A{m}moldavų kalba.
+0{Moldave}[mɔldav]A{m},A{f}moldavas, moldavė.
+0{môle}[mol]A{m}molasl{(uosto)}.
+0{moléculaire}[mɔlekylɛr]A{adj}molekulinis;F{poids moléculaire}molekulinis svoris.
+0{molécule}[mɔlekyl]A{f}molekulė.
+0{moleskine}[mɔlɛskin]A{f}I{1}moleskinas, storas medvilninis audinys;I{2}dirbtina oda.
+0{molester}[mɔlɛste]A{vt}kankinti, įžeidinėti, stumdyti.
+0{molette}[mɔlɛt]A{f}I{1}vaistininkų grūstuvėlis;I{2}graviruotojo raižiklis;I{3}metalo pjovimo įrankis;I{4}žiebtuvėlio ratelis.
+0{mollah}[mɔ(l)l&#593;&#771;]A{m}I{1}mula, musulmonų teisės daktaras;I{2}musulmonų dvasininkas.
+0{mollasse}[mɔlas]A{adj}I{1}minkštas, išglebęs;I{2}be energijos, apsnūdęs, apatiškas.
+0{mollement}[mɔlm&#593;&#771;]A{adv}I{1}minkštai;I{2}pasyviai, apatiškai;F{le fleuve coule mollement}upė teka ramiai.
+0{mollesse}[mɔlɛs]A{f}I{1}minkštumas;I{2}švelnumas, šiltumas;I{3}L{prk.}apatija, abejingumas, bejėgiškumas, vangumas.
+0{mollet^{1}, -ette}[mɔlɛ, -ɛt]A{adj}minkštas; švelnus;F{lit mollet}minkšta lova;F{œuf mollet}minkštai virtas kiaušinis.
+0{mollet^{2}}[mɔlɛ]A{m}blauzda;A{loc}F{des mollets de coq}plonos blauzdos.
+0{molleton}[mɔlt&#596;&#771;]A{m}multinasl{(audinys)};F{robe de chambre en molleton}multino chalatas.
+0{mollir}[mɔlir]S{&rArr;}A{vi}I{1}(su)minkštėti;I{2}(su)silpnėti;l{(pradėti)}nusileisti;F{courage qui mollit}drąsa mažėja;S{&rArr;}A{vt}suminkštinti.
+0{mollusque}[mɔlysk]A{m}L{zool.}moliuskas;F{mollusques comestibles}valgomi moliuskai.
+0{môme}[mom]A{m},A{f}L{šnek.}I{1}mažas vaikas;I{2}A{f}jauna mergina.
+0{moment}[mɔm&#593;&#771;]A{m}I{1}akimirksnis, momentas, minutė;I{2}dabartinis laikas, šis momentas, šis laikotarpis;F{dans un moment}tuoj, netrukus;F{en un moment}akimirksniu;F{n’avoir pas un moment à soi}būti labai užimtam;F{à ce moment, en ce moment}šiuo metu, dabar;A{loc adv}F{à tout moment, à tous moments}visą laiką, nuolat, be perstojo;A{loc}F{au moment de}per, laike, metu;F{au moment de partir}išvykstant;A{loc conj}F{au moment où}kada, tuo metu, kai;F{par moments}laikas nuo laiko, kartais;F{d’un moment à l’autre}po labai trumpo laiko, netrukus;I{3}L{fiz.}momentas;F{moment d’inertie}inercijos momentas;F{moment magnétique}magnetinis momentas.
+0{momentané, -ée}[mɔm&#593;&#771;tane]A{adj}momentalus, momentinis; trumpalaikis.
+0{momentanément}[mɔm&#593;&#771;tanem&#593;&#771;]A{adv}akimirksniu, viena akimirka.
+0{momerie}[momri]A{f}I{1}maskaradas; parodija;I{2}apsimetimas, veidmainystė.
+0{momie}[mɔmi]A{f}mumija.
+0{momification}[mɔmifikasj&#596;&#771;]A{f}balzamavimas.
+0{momifier}[mɔmifje]A{vt}I{1}balzamuoti;F{cadavre momifié}balzamuotas lavonas;I{2}daryti neveiklų, nejudrų, inertišką;F{l’inaction le momifie peu à peu}nieko neveikimas jį daro nerangų, inertišką.
+0{mon}[m&#596;&#771;]A{m},0{ma}[ma]A{f},0{mes}[me]A{m},A{f},A{pl}A{déterm},A{adj}A{poss}mano (l{gali būti verčiama}savo):I{a)}l{apibrėžia daiktavardį ir išreiškia subjektyvumo, priklausymo, nuosavybės, giminystės santykį}:F{ma famille}mano šeima;F{mon travail}mano darbas;F{mes enfants}mano vaikai;F{ma maison}mano namas;F{mes voisins}mano kaimynai;C{prieš}L{dkt.},C{reiškiančius kūno dalis, vartojamas žym}.l{artikelis, išskyrus, kai svarbu pabrėžti subjektyvumą}:F{j’ai mal à la tête}man skauda galvą;F{je pose ma main sur ma poitrine}dedu ranką ant savo krūtinės;I{b)}l{vartojama kreipiantis}:F{mon cher ami}mano brangus drauge;F{mon Dieu}mano Dieve;F{mon général}mano generole;C{prieš moteriškosios giminės daiktavardį, prasidedantį balse ar nebyliaja}h,l{vartojama}2{mon}l{vietoj}2{ma}:F{mon amie}[m&#596;&#771;nami]mano draugė;F{mon histoire}mano istorija.
+0{monacal, -ale}[mɔnakal]A{adj}(A{pl}A{m}2{-aux}[-o]) vienuolio, vienuoliškas;F{la vie monacale}vienuoliškas gyvenimas.
+0{monade}[mɔnad]A{f}L{fil.}monada; tai, kas nedaloma.
+0{monadologie}[mɔnadɔlɔʒi]A{f}monadalogija; Leiblico monadų teorija.
+0{monarchie}[mɔnarʃi]A{f}monarchija;F{monarchie absolue}absoliuti monarchija;F{monarchie parlementaire}parlamentinė monarchija.
+0{monarchique}[mɔnarʃik]A{adj}monarchinis;F{gouvernement monarchique}monarchinė vyriausybė.
+0{monarchisme}[mɔnarʃism]A{m}monarchizmas, vienvaldystė.
+0{monarchiste}[mɔnarʃist]A{m},A{f}monarchistas, monarchistė.
+0{monarque}[mɔnark]A{m}monarchas.
+0{monastère}[mɔnastɛr]A{m}vienuolynas;F{s’enfermer, se retirer dans un monastère}užsidaryti į vienuolyną.
+0{monastique}[mɔnastik]A{adj}vienuolių; vienuoliškas;F{vie monastique}vienuoliškas gyvenimas.
+0{monceau}[m&#596;&#771;so]A{m}krūva; sankaupa, sąvarta, šūsnis.
+0{mondain, -aine}[m&#596;&#771;d&epsilon;&#771;, -ɛn]S{&rArr;}A{adj}pasaulietinis;F{vie mondaine}pasaulietiškas gyvenimas;S{&rArr;}A{m},A{f}linksmas žmogus; pasaulietis, pasaulietė.
+0{monde}[m&#596;&#771;d]A{m}I{1}pasaulis;F{citoyen du monde}pasaulio pilietis;F{courir, parcourir le monde}apkeliauti visą pasaulį;F{tour du monde}kelionė aplink pasaulį;F{le monde entier}visas pasaulis;A{loc}F{c’est le bout du monde}labai toli;F{les sept merveilles du monde}septyni pasaulio stebuklai;F{championnat du monde}pasaulio čempionatas;F{au monde}pasaulyje;F{venir au monde}gimti;F{mettre un enfant au monde}pagimdyti vaiką;I{2}L{relig.}pomirtinis pasaulis;F{l’autre monde}anas pasaulis;F{en ce monde et dans l’autre}šiame ir aname pasaulyje;I{3}žmonės, žmonija;F{histoire du monde}žmonijos istorija;F{à la face du monde}atvirai, viešai;I{4}:F{du monde}pasaulio, pasaulyje;l{(sustiprina aukščiausiąjį laipsnį)}F{c’est le meilleur homme du monde}tai geriausias pasaulyje žmogus;F{pour rien au monde}už nieką pasaulyje, už jokius pinigus;I{5}aplinka;F{être du même monde}būti iš tos pačios aplinkos;I{6}aukštuomenė;F{le grand monde}aristokratija;F{femme du monde}aukštuomenės moteris;I{7}žmonės, minia, daug žmonių;F{il y a du monde?}ar yra kas nors?;F{il y a un monde fou}minia;F{tout le monde}visi;F{il raconte son histoire à tout le monde}jis visiems pasakoja savo istoriją;I{8}lankytojai, svečiai;F{avoir du monde chez soi}turėti svečių;I{9}tam tikra socialinė žmonių grupė, patarnaujantis personalas;F{le monde politique}politikai;F{bien choisir son monde}gerai pasirinkti aptarnaujančius žmones.
+0{monder}[m&#596;&#771;de]A{vt}(iš)valytil{(grūdus)}.
+0{mondial, -iale}[m&#596;&#771;djal]A{adj}(A{pl}A{m}2{-iaux}[-jo]) pasaulinis;F{à l’échelle mondiale}pasauliniu mastu.
+0{monétaire}[mɔnetɛr]A{adj}monetų, pinigų;F{circulation monétaire}monetų cirkuliacija, apyvarta;F{système monétaire international (S.M.I.)}tarptautinė monetarinė sistema;F{fonds monétaire international (F.M.I.)}tarptautinis monetarinis fondas;F{système monétaire européen (S.M.E.)}europinė monetarinė sistema.
+0{monétarisme}[mɔnetarism]A{m}monetarizmas.
+0{monétiser}[mɔnetize]A{vt}L{ekon.}perdirbti į monetas;F{monétiser de l’or, de l’argent}auksą, sidabrą perdirbti į monetas.
+0{Mongol}A{m},0{-e}A{f}[m&#596;&#771;gɔl]mongolas, mongolė.
+0{mongol, -e}[m&#596;&#771;gɔl]S{&rArr;}A{adj}mongolų;S{&rArr;}A{m}mongolų kalba.
+0{mongolisme}[m&#596;&#771;gɔlism]A{m}mongolizmas, vaikų protinis atsilikimas, silpnaprotystė.
+0{mongoloïde}[m&#596;&#771;gɔlɔid]A{m},A{f}mongolidas, mongolidė, turintis mongolizmo bruožų.
+0{moniteur}A{m},0{-trice}A{f}[mɔnitœr, -tris]I{1}vadovas, vadovė, instruktorius, instruktorė;F{moniteur de colonie de vacances}vaikų vasaros stovyklos vadovas;F{moniteur d’autoécole}vairavimo instruktorius; I{2}L{inf.}monitorius, displėjus; vaizduoklis;L{technol.}videokontrolės įrenginys;F{moniteur logiciel}programinės įrangos monitorius;F{moniteur d’émission}transliacijų monitorius.
+0{monitoring}[mɔnitɔriŋ]A{m}L{angl.}monitoringas, priežiūra, kontrolė, tikrinimas.
+0{monnaie}[mɔnɛ]A{f}I{1}moneta;F{monnaies d’or et d’argent}auksinės ir sidabrinės monetos;F{monnaies de cuivre, de bronze, de nickel}varinės, bronzinės, nikelinės monetos;I{2}pinigas, pinigai;F{pièce de monnaie}metalinis pinigas;F{retirer une monnaie de la circulation}išimti pinigą iš apyvartos;F{fausse monnaie}padirbtas pinigas;F{monnaie fiduciaire, monnaie de papier}popierinis pinigas;L{ekon.}F{monnaie de compte}kliringas, atsiskaitymo negrynaisiais pinigais sistema, tarptautinio atsiskaitymo sistema;F{monnaie étrangère (devise)}užsienio valiuta;F{cours d’une monnaie}pinigų kursas;F{monnaie convertible}konvertuojami pinigai;L{prk.}F{c’est monnaie courante}tai senas, nusibobęs dalykas;F{payer_{qn}en monnaie de singe}atsilyginti kam pažadais;I{3}smulkūs pinigai;F{je n’ai pas un sou de monnaie}neturiu nei vieno sul{(smulkių pinigų)};F{rendre la monnaie sur cent francs}duoti grąžos iš šimto frankų;F{faire de la monnaie}iškeisti smulkiais pinigus;A{loc}F{rendre à_{qn}la monnaie de sa pièce}atsilyginti tuo pačiu.
+0{monnayage}[mɔnɛjaʒ]A{m}monetų, pinigų kalimas.
+0{monnayer}[mɔneje]A{vt}I{1}kalti pinigus;I{2}paversti grynaisiais pinigais;F{monnayer un bien}turtą iškeisti į pinigus;I{3}L{šnek.}gauti pinigų už paslaugą;F{monnayer son témoignage}paliudyti už pinigus.
+0{mono}[mɔno]A{adj}A{inv}(L{sutr.}C{iš}2{monophonique}) monofoninis, vienkanalisl{(garso perdavimas)}.
+0{monocle}[mɔnɔkl]A{m}monoklis.
+0{monocratie}[mɔnɔkrasi]A{f}monokratija.
+0{monoculture}[mɔnokyltyr]A{f}monokultūra, vieno augalo auginimas.
+0{monogamie}[mɔnɔgami]A{f}monogamija, vienpatystė.
+0{monogramme}[mɔnɔgram]A{m}monograma;F{monogramme brodé sur un mouchoir}ant nosinės išsiuvinėta monograma.
+0{monolingue}[mɔnɔl&epsilon;&#771;g]S{&rArr;}A{adj}vienkalbis;S{&rArr;}A{m},A{f}kalbantysis viena kalba.
+0{monolithe}[mɔnɔlit]S{&rArr;}A{adj}monolitinis;S{&rArr;}A{m}monolitas.
+0{monologue}A{m}[mɔnɔlɔg]monologas.
+0{monologuer}[mɔnɔlɔge]A{vi}I{1}kalbėtis su savimi;I{2}sakyti monologą.
+0{monôme}[mɔnom]A{m}L{mat.}vienanaris.
+0{monoparental, -ale}[mɔnopar&#593;&#771;tal]A{adj}(A{pl}A{m}2{-aux}[-o]) turintis tik vieną iš tėvų, dažniausiai motiną.
+0{monoplace}[mɔnoplas]A{adj}vienvietis.
+0{monopole}[mɔnɔpɔl]A{m}I{1}L{ekon.}monopolija;F{entreprise qui a le monopole d’un produit}gamykla, kuri turi produkto monopoliją;I{2}L{ekon.}monopolis; asmens ar valstybės teisė veikti kurioje nors srityje.
+0{monopolisateur}A{m},0{-trice}A{f}[mɔnɔpɔlizatœr, -tris]monopolininkas, monopolininkė, stambus kapitalistas, kapitalistė.
+0{monopoliser}[mɔnɔpɔlize]A{vt}monopolizuoti, įvesti ar gauti monopoliją.
+0{monosyllabe}[mɔnosi(l)lab]S{&rArr;}A{adj}vienskiemenis;S{&rArr;}A{m}vienskiemenis žodis;A{loc}F{répondre par monosyllabes (oui, non, ah)}atsakyti trumpai (taip, ne, a)l{(be sakinio)}.
+0{monosyllabique}[mɔnosi(l)labik]A{adj}vienskiemenis;F{le chinois est monosyllabique}kinų kalba yra vienskiemenė.
+0{monothéisme}[mɔnɔteism]A{m}monoteizmas.
+0{monotone}[mɔnɔtɔn]A{adj}I{1}vienodas, monotoniškas;F{une vie monotone}vienodas, liūdnas, neįvairus gyvenimas;I{2}L{mat.}monotoninis;F{fonction, suite monotone}didėjanti arba mažėjanti funkcija, seka.
+0{monotonie}[mɔnɔtɔni]A{f}monotonija.
+0{monseigneur}[m&#596;&#771;sɛɲœr]A{m}(A{pl}2{messeigneurs}[mesɛɲœr]) (L{sutr.}2{Mgr},A{pl}2{Mgrs}) monsinjorasl{(garbingas titulas, kreipiantis į dvasiškį, į princą ar į valdovo šeimos narį)}.
+0{monsieur}[məsjø]A{m}(A{pl}2{messieurs}[mesjø]) (L{sutr.}2{M},A{pl}2{MM}) ponas; ponel{(kreipiantis į nepažįstamą žmogų)};F{mes amitiés à monsieur votre père}mano linkėjimai ponui jūsų tėvui.
+0{monstre}[m&#596;&#771;str]S{&rArr;}A{m}I{1}pabaisa;I{2}L{med.}išsigimėlis;I{3}baisus žmogus;F{c’est un monstre de cruauté}tai žiaurus pabaisa;L{šnek.}F{petit monstre!}išdykėlis!l{(kalbant apie vaikus)};S{&rArr;}L{šnek.}A{adj}didžiulis, labai svarbus;F{un travail monstre}milžiniškas darbas.
+0{monstrueux, -euse}[m&#596;&#771;stryø, -øz]A{adj}I{1}didžiulis;I{2}bjaurus; baisus, siaubingas;F{crime monstrueux}baisus nusikaltimas.
+0{monstruosité}[m&#596;&#771;stryozite]A{f}I{1}L{med.}išsigimėliškumas;I{2}baisumas, žiaurumas, siaubingumas;I{3}milžiniškumas, didumas;I{4}niekšybė.
+0{mont}[m&#596;&#771;]A{m}kalnas;F{du haut des monts}nuo kalnų viršūnės;F{le mont Blanc}Monblanas;A{loc}F{par monts et par vaux}per visą šalį;L{prk.}visur, apvaikščioti iš visų pusių;F{il est sans cesse par monts et par vaux}jis be paliovos keliauja;F{promettre monts et merveilles}žadėti aukso kalnus.
+0{montage}[m&#596;&#771;taʒ]A{m}I{1}L{psn.}pakėlimas;I{2}montažas, surinkimas;F{atelier de montage}surinkimo cechas;I{3}L{el.}montavimas;F{montage électronique}elektroninis montavimas; F{montage en parallèle}lygiagretus montavimas;I{4}montažas;F{montage d’un film}filmo montažas.
+0{montagnard}A{m},0{-arde}A{f}[m&#596;&#771;taɲar, -ard]S{&rArr;}I{1}kalnietis, kalnietė;I{2}A{m}montanjaras;S{&rArr;}A{adj}kalnų, kalniečių.
+0{montagne}[m&#596;&#771;ntaɲ]A{f}I{1}kalnas;F{flanc, pente, versant d’une montagne}kalno šlaitas;F{pied d’une montagne}kalno papėdė;F{chaîne des montagnes}kalnų virtinė; kalnagūbris;A{loc}F{gros (grand) comme une montagne}labai storas, didelis;F{se faire une montagne de_{qch}}išpūsti sunkumus, svarbą;F{sports}F{de montagne}kalnų sportasl{(alpinizmas; slidinėjimas)};I{2}L{prk.}:F{montagne de}krūva, kalnas;F{montagne de lettres}laiškų krūva;F{la montagne à vaches}neaukšta alpinė pieva, kur ganosi karvės;I{3}:F{montagnes russes}atrakcionai su kalneliais pasivažinėti.
+0{montant, -ante}[m&#596;&#771;t&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}kylantis;S{&rArr;}A{m}I{1}statramstis, kopėčių skersinis;I{2}(bendroji) suma, dydis;F{montant de la récompense}padengimo, kompensavimo dydis;I{3}kvapas, aromatas; aštrus skonis, pikantiškumas;F{donner du montant à une sauce}padaryti padažą aštresnį, pikantiškesnį;F{vin qui a du montant}stiprus, kvapnus vynas.
+0{mont-de-piété}[m&#596;&#771;d(ə)pjete]A{m}lombardas;F{engager sa montre au mont-de-piété}užstatyti lombarde savo laikrodį.
+0{monte}[m&#596;&#771;t]A{f}L{zool.}naminių gyvulių kergimas.
+0{montée}[m&#596;&#771;te]A{f}I{1}(į)lipimas, įkopimas;I{2}augimas, padidėjimas, didėjimas;F{montée de la température}temperatūros kilimas;F{montée des prix}kainų augimas;I{3}kelias į kalną, įkalnė.
+0{monter}[m&#596;&#771;te]S{&rArr;}A{vi}I{1}lipti, kopti, kilti;F{monter par l’ascenseur}kilti liftu;F{il monte au grenier}jis lipa į palėpę;F{monter à la tribune}pakilti į tribūną;F{les bruits montent de la rue}triukšmas sklinda iš gatvės;F{monter sur un arbre}įkopti, įlipti į medį;I{2}joti;F{monter à cheval}sėsti ant arklio, joti;F{il monte bien}jis gerai joja;F{police montée}raitoji policija;I{3}vykti, važiuoti;F{monter sur un bateau}sėsti į laivą;F{il apprend à monter à bicyclette}jis mokosi važiuoti dviračiu;F{il n’est jamais monté en avion}jis niekad neskrido lėktuvu;I{4}augti, didėti;F{les générations qui montent}augančios kartos; F{les blés montent}javai auga;F{les prix montent}kainos didėja;I{5}kilti, pakiltil{(apie tarnybą)};F{sa popularité monte}jo populiarumas kyla;F{le vin lui a monté à la tête}vynas jam mušė į galvą;F{le succès lui monte à la tête}sėkmė jam apsuko galvą;S{&rArr;}A{vt}I{1}užlipti, pakilti;F{monter un escalier}užlipti laiptais;I{2}užnešti, užkelti;F{monter une malle au grenier}užnešti lagaminą į palėpę;I{3}prajodytil{(arklį)};F{ce cheval n’a jamais été monté}šis arklys nebuvo prajodytas;I{4}pakelti, paaukštinti paryškinti;F{monter les blancs en neige}išplaktil{(kiaušinio)}baltymus iki baltumo;A{loc}F{monter la tête à_{qn}}apsukti kam galvą;I{5}sumontuoti, pastatytil{(palapinę)};L{prk.}F{monter une pièce de théâtre}pastatyti pjesę teatre;F{monter un complot}suorganizuoti, suruošti sąmokslą;I{6}įtvirtinti, įmontuoti, įdėti;$2{se monter}I{1}apsirūpinti;I{2}supyktil{(ant ko nors)};I{3}siekti;F{les frais se montent à mille francs}išlaidos siekia tūkstantį frankų;I{4}užlipti, būti užlipamam;F{escalier qui se monte facilement}lengvai užlipami laiptai.
+0{monteur}A{m},0{-euse}A{f}[m&#596;&#771;tœr, -øz]I{1}montuotojas, montuotoja; surinkėjas, surinkėja;I{2}filmų statytojas, statytoja;I{3}L{prk.}intriguotojas, intriguotoja, kombinatorius, kombinatorė.
+0{monticule}[m&#596;&#771;tikyl]A{m}kalnelis, kalva.
+0{montre^{1}}[m&#596;&#771;tr]A{f}I{1}parodymas; demonstravimas; išstatymas, pateikimas;F{pour la montre}parodymui;A{loc}F{faire montre de}rodyti;F{faire montre de son talent, de son courage}(pa)rodyti, (pa)demonstruoti savo talentą, savo drąsą;I{2}L{kom.}parduotuvės vitrinal{(išstatytos prekės)};I{3}L{tech.}bandomasis pavyzdysl{(molio, porceliano)}.
+0{montre^{2}}[m&#596;&#771;tr]A{f}laikrodisl{(nešiojamas)};F{montre de gousset, de poche}kišeninis laikrodis;F{chaîne de montre}laikrodžio grandinėlė;F{montre portée au poignet,}F{montre-bracelet}laikrodis, nešiojamas ant rankos, rankinis laikrodis;F{montre à quarts}kvarcinis laikrodis;F{montre qui retarde, avance, est arrêtée}laikrodis, kuris vėluoja, skuba, sustojo;F{mettre sa montre à l’heure, remonter sa montre}nustatyti laiką, užsukti laikrodį;F{je mets ma montre à l’heure}aš nustatau teisingai laikrodį;F{un verre de montre}laikrodžio stiklas;F{cadran, aiguilles d’une montre}laikrodžio ciferblatas, rodyklės;A{loc}F{montre en main}tiksliai nustatant laiką (C{minutė minutėn});F{dans le sens des aiguilles d’une montre}pagal laikrodžio rodyklę.
+0{montre-bracelet}[m&#596;&#771;t(rə)braslɛ]A{f}rankinis laikrodis.
+0{montrer}[m&#596;&#771;tre]A{vt}I{1}(pa)rodyti, pateikti;F{montrer un objet à_{qn}}parodyti kam daiktą;F{montrer ses charmes}atskleisti savo žavesį;F{montrer le chemin}parodyti, nurodyti kelią;F{montrer la porte à_{qn}}parodyti kam duris;I{2}L{prk.}pavaizduoti, aprašyti;F{l’auteur montre dans ses livres un pays}autorius savo knygoje pavaizduoja šalį;I{3}įrodyti; pabrėžti, nustatyti;F{montrer à_{qn}qu’il a tort}įrodyti kam, kad jis klysta;I{4}mokyti, dėstyti, atskleisti, liudyti;F{montrer comment, pourquoi}mokyti kaip, atskleisti kodėl;$2{se montrer}pasirodyti;F{se montrer courageux}pasirodyti drąsiam.
+0{montreur}A{m},0{-euse}A{f}[m&#596;&#771;trœr, -øz]cirko numerių demonstruotojas, demonstruotoja, cirko žvėrių tramdytojas, tramdytoja.
+0{monture}[m&#596;&#771;tyr]A{f}I{1}jojamas gyvulys;F{un cavalier et sa monture}raitelis ir jo žirgas;I{2}rėmeliai, apsodas, įtvaras;F{monture de lunettes}akinių rėmeliai.
+0{monument}[mɔnym&#593;&#771;]A{m}I{1}paminklas;F{élever, ériger un monument}pastatyti paminklą;F{monument funéraire}antkapinis paminklas;I{2}monumentas, obeliskas;F{monument public}valstybės saugomas paminklas; I{3}L{šnek.}:F{un monument d’absurdité}didžiausia kvailystė.
+0{monumental, -ale}[mɔnym&#593;&#771;tal]A{adv}(A{pl}A{m}2{-aux}[-o])I{1}monumentalus, paminklinis;I{2}L{šnek.}didžiulis, milžiniškas, gigantiškas.
+0{moquer (se)}[mɔke]I{1}(C{de}A{qn}C{, de}A{qch}) tyčiotis, juoktisl{(iš ko nors)};F{il se moque de son ami}jis juokiasi iš savo draugo;I{2}nekreipti jokio dėmesiol{(į ką nors)};F{je m’en moque}man tas pats, man nusispjaut;A{loc}F{se}F{moquer comme de sa première chemise, comme de sa première culotte}visai su niekuo nesiskaityti;I{3}niekinti, mėginti apgauti.
+0{moquerie}[mɔkri]A{f}pasityčiojimas, pajuoka.
+0{moquette}[mɔkɛt]A{f}kiliminė danga;F{poser de la moquette}kloti kiliminę dangą.
+0{moquetter}[mɔkete]A{vt}kloti dangą;F{moquetter une chambre}iškloti kambarį kilimine danga.
+0{moqueur,}0{-euse}[mɔkœr, -øz]S{&rArr;}A{adj}pašaipus;F{regard moqueur}pašaipus žvilgsnis;S{&rArr;}A{m},A{f}pašaipūnas, pašaipūnė.
+0{moral, -ale}[mɔral](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}I{1}moralus, moralinis, dorovingas, dorovinis;F{une conduite morale}dorovingas elgesys;F{préceptes moraux}moraliniai priesakai;I{2}protinis, dvasinis;F{souffrances physiques et morales}fizinės ir dvasinės kančios;S{&rArr;}A{m}dorovinė, dvasinė būklė, dvasinis stovis;F{avoir le moral}būti optimistu;F{ne pas avoir le moral}būti sugniuždytam, prislėgtam, nusiminusiam.
+0{morale}[mɔral]A{f}I{1}dorovė, moralė;F{morale chrétienne}krikščioniška moralė;I{2}elgesio normos;F{morale rigoureuse}griežtos elgesio normos;I{3}pamokymas, moralas;F{faire la morale à_{qn}}moralizuoti ką, pamokyti, pamokslauti kam;F{la morale d’une fable}pasakėčios moralas, pamokomoji mintis.
+0{moraliser}[mɔralize]S{&rArr;}A{vt}pabarti, papeikti, pamokyti;S{&rArr;}A{vi}ugdyti dorą, dorinti, gerinti, moralizuoti, pamokslauti.
+0{moraliste}[mɔralist]A{m},A{f}moralistas, moralistė, puoselėjantis moralę, keliantis moralės klausimus.
+0{moralité}[mɔralite]A{f}dorovingumas, dorovė;F{personne de haute moralité}labai dorovingas asmuo;F{la moralité d’une fable}pasakėčios pamokomoji mintis.
+0{moratoire}[mɔratwar]S{&rArr;}A{adj}L{teis.}atidedantis mokėjimo terminą;S{&rArr;}A{m}mokėjimų atidėjimas.
+0{moratorium}[mɔratɔrjɔm]A{m}L{teis.}atidėjimas, moratoriumas.
+0{morbide}[mɔrbid]A{adj}liguistas, patologiškas;F{curiosité morbide}liguistas smalsumas.
+0{morbidité}[mɔrbidite]A{f}I{1}liguistumas;I{2}susirgimų priežastys;I{3}susirgimų procentas.
+0{morbleu!}[mɔrblø]A{interj}po velnių!
+0{morceau}[mɔrso]A{m}I{1}gabalas, dalis, fragmentas, šukė, nuolauža; F{mettre en morceaux}suplėšyti į gabalus;L{prk.}L{šnek.}F{recoller les morceaux}susitaikytil{(kalbant apie sutuoktinius)}; F{morceau de terre}žemės lopinėlis;F{un bon morceau de}dalis;F{sucre en morceaux}gabalinis cukrus;I{2}kąsnis;F{avaler un gros morceau}praryti didelį kąsnį;A{loc}F{manger un morceau}užkąsti;I{3}veikalo ištrauka, fragmentas;F{morceaux choisis}rinktinė;I{4}L{muz.}nedidelis muzikos kūrinys, pjesė.
+0{morceler}[mɔrsəle]A{vt}smulkinti, trupinti, padalyti į keletą gabalų.
+0{morcellement}[mɔrsɛlm&#593;&#771;]A{m}smulkinimas, trupinimas, dalijimas, skaidymas;F{le morcellement de la terre}žemės padalijimas;F{morcellement des forces}jėgų išeikvojimas.
+0{mordacité}[mɔrdasite]A{f}I{1}medžiagos savybė, sukelianti koroziją, ėsdinimą;F{la mordacité de l’acide sulfurique}ėsdinimas sieros rūgštimi;I{2}l{(žodžio, kalbos, kritikos)}kandumas, aštrumas.
+0{mordant, -ante}[mɔrd&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}I{1}kandantis;F{bêtes mordantes}kandantys žvėrys;F{froid mordant}aštrus, deginantis šaltis;I{2}L{prk.}kandus, pašaipus, vaidingas, gailus, aitrus, šiurkštus;F{répondre à_{qn}d’une manière mordante}šiurkščiai kam atsakyti;S{&rArr;}A{m}I{1}aštrumas;F{le mordant d’une scie}pjūklo aštrumas;I{2}L{prk.}polėkis, įkarštis, aktyvumas, kandumas, pašaipumas;F{pamphlet plein de mordant}labai kandus pamfletas;I{3}L{muz.}L{psn.}mordentas;I{4}ėdantil{(ėsdinanti)}medžiagal{(graviruojant)}, beicas; kandikasl{(dažus fiksuojanti medžiaga)}.
+0{mordicus}[mɔrdikys]A{adv}L{šnek.}užsispyrusiai, atkakliai;F{affirmer_{qch}mordicus}atkakliai ką nors tvirtinti.
+0{mordiller}[mɔrdije]S{&rArr;}A{vt}kramtyti, krimsti, graužti;F{mordiller son crayon}pamažu, dažnai kramtyti savo pieštuką;S{&rArr;}A{vi}kandžiotis;F{chiot qui mordille pour jouer}žaisdamas šunelis kandžiojasi.
+0{mordoré, -ée}[mɔrdɔre]S{&rArr;}A{adj}varinio atspalvio ruda;F{un lichen mordoré}ruda auksinio atspalvio kerpė;S{&rArr;}A{m}rausvai ruda, auksinio atspalvio spalva.
+0{mordre}_{*}[mɔrdr]S{&rArr;}A{vt}I{1}kąsti, kandžioti;F{mordre_{qn}à la jambe, jusqu’au sang}iki kraujo įkąsti kam į koją;F{mordre une pomme à belles dents}godžiai valgyti obuolį;F{mordre son mouchoir pour ne pas crier}kandžioti savo nosinę, kad susilaikytum nešaukęs;I{2}įgelti, įkąsti;F{être mordu par un serpent}būti gyvatės įgeltam;I{3}ėstil{(apie rūgštį irL{pan.})};I{4}L{prk.}spigintil{(apie šaltį)}; gniaužti, spausti;F{l’inquiétude lui mordait le cœur}nerimas jam širdį spaudė;S{&rArr;}A{vi}I{1}:F{mordre à}atsikąsti, kibti, užkibti;F{mordre à l’appât}užkibti ant jauko, masalo;I{2}:F{mordre dans}triaukšti, krimsti, godžiai valgyti;F{les enfants qui mordent dans des pommes}vaikai, kurie godžiai valgo, triauškia obuolius;I{3}:F{mordre sur}paveikti, pereiti ribą;F{faire mordre un acide sur le cuivre}varį paveikti rūgštimi;F{il est disqualifié pour avoir mordu sur la ligne départ}jis buvo diskvalifikuotas, nes peržengė starto liniją;$2{se mordre}I{1}susikandžioti;F{se mordre les lèvres}susikandžioti lūpas;I{2}L{prk.}gailėtis, graužtis.
+0{mordu}A{m},0{-ue}A{f}[mɔrdy]S{&rArr;}A{m}didelis mėgėjas, entuziastas, fanatikas, sirgalius;F{un mordu de football}didelis futbolo mėgėjas; S{&rArr;}A{adj}įsimylėjęs.
+0{moreau, -elle}[mɔro, -ɛl]S{&rArr;}A{adj}juodasl{(arklys)};S{&rArr;}A{m}juodis.
+0{morfal, -ale}[mɔrfal]S{&rArr;}A{adj}L{šnek.}turintis didelį apetitą, nepasotinamas;S{&rArr;}A{m},A{f}besotis, besotė.
+0{morfil}[mɔrfil]A{m}neapdirbta dramblio iltis.
+0{morfondre}_{*}0{(se)}[mɔrf&#596;&#771;dr]nuobodžiauti, mirti iš nuobodulio;F{elle se morfondait à l’attendre}ji nuobodžiavo jo laukdama.
+0{morgue^{1}}[mɔrg]A{f}išdidumas, puikybė, arogancija.
+0{morgue^{2}}[mɔrg]A{f}lavoninė, morgas.
+0{moribond, -onde}[mɔrib&#596;&#771;, -&#596;&#771;d]S{&rArr;}A{adj}mirštantis;S{&rArr;}A{m},A{f}merdintis žmogus.
+0{moricaud, -aude}[mɔriko, -od]S{&rArr;}A{adj}tamsiaveidis;S{&rArr;}A{m},A{f}spalvotasis, spalvotoji; tamsiaodis, tamsiaodė.
+0{morigéner}[mɔriʒene]A{vt}I{1}auklėti;F{mal morigéné}blogai išauklėtas;I{2}barti, valdyti, pažaboti.
+0{mormon}A{m},0{-one}A{f}[mɔrm&#596;&#771;, -ɔn]mormonas, mormonė.
+0{morne}[mɔrn]A{adj}I{1}niūrus, paniuręs;I{2}blausus, liūdnas, monotoniškas;F{une vie morne}nykus gyvenimas.
+0{morose}[mɔroz]A{adj}niaurus, paniuręs;F{un vieillard morose}paniuręs senis.
+0{morosité}[mɔrozite]A{f}niaurumas, liūdnumas;F{la morosité politique}politinis sąstingis.
+0{morphème}[mɔrfɛm]A{m}L{lingv.}morfema.
+0{morphine}[mɔrfin]A{f}L{farm.}morfinas;F{la morphine est une drogue dure}morfinas yra stiprus narkotikas.
+0{morphinisme}[mɔrfinism]A{m}morfinizmas, narkomanija, pripratimas prie morfino.
+0{morphinomane}[mɔrfinɔman]A{m},A{f}morfinistas, morfinistė.
+0{morphologie}[mɔrfɔlɔʒi]A{f}I{1}L{lingv.}morfologija;I{2}L{biol.}organizmų sandaros bei formos mokslas.
+0{morphologique}[mɔrfɔlɔʒik]A{adj}morfologinis.
+0{mors}[mɔr]A{m}žąslai;F{mettre le mors à un cheval}pažaboti arklį.
+0{morse^{1}}[mɔrs]A{m}L{zool.}jūrų vėplys.
+0{morse^{2}}[mɔrs]A{m}Morzės abėcėlė.
+0{morsure}[mɔrsyr]A{f}I{1}įkandimas;l{(vabzdžio)}įgėlimas;l{(gyvatės)}įkirtimas;F{morsure mortelle}mirtinas įkandimas;I{2}žaizda nuo įkandimo;F{une morsure profonde}gili žaizda.
+0{mort^{1}}[mɔr]A{f}I{1}mirtis;F{mort naturelle, tragique, héroïque}natūrali, tragiška, didvyriška mirtis;F{être à la mort, à l’article de la mort}merdėti, būti prie mirties;F{un silence de mort}mirtina tyla;A{loc adv}F{à la mort}mirtinai;F{frappé à mort}mirtinai sužeistas;F{donner la mort}užmušti;F{se donner la mort}nusižudyti;F{camp de mort}mirties stovykla;F{peine de mort}mirties bausmė;A{interj}F{à mort!}mirtis!;F{à mort le tyran!}mirtis tironui!;F{mort aux vaches!}mirtis policininkams!;A{loc}F{à la vie (et) à la mort}l{(priesaika)}iki grabo lentos, visiems laikams;A{loc}F{ce n’est pas la mort d’un homme}tai nesunkus dalykas, tai nieko baisaus, niekas nenumirė;I{2}sunaikinimas; sugriovimas;F{c’est la mort du petit commerce}tai mažmeninės prekybos galas, sugriovimas;I{3}mirtinas skausmas;F{souffrir mille morts}žiauriai kentėti;A{loc}F{avoir la mort dans l’âme}būti labai nuliūdusiam, beviltiškoje padėtyje.
+0{mort^{2}, -e}[mɔr, -mɔrt]S{&rArr;}A{adj}miręs, negyvas;S{&rArr;}A{m},A{f}numirėlis, numirėlė; lavonas;F{prélever des organes sur un mort afin de les greffer}paimti mirštančiojo organus persodinimui;F{être pâle comme un mort}būti išblyškusiam kaip lavonui;F{le jour des Morts}Vėlinės;F{la mer Morte}Negyvoji jūra.
+0{mortalité}[mɔrtalite]A{f}mirtingumas;F{accroissement de la mortalité}mirtingumo augimas.
+0{mort-aux-rats}[mɔr(t)ora]A{f}A{inv}žiurkių nuodai.
+0{mortel, -elle}[mɔrtɛl]A{adj}I{1}mirtingas;I{2}mirtinas;F{blessure mortelle}mirtina žaizda;I{3}pražūtingas.
+0{mortellement}[mɔrtɛlm&#593;&#771;]A{adv}I{1}mirtinai;F{mortellement blessé}mirtinai sužeistas;I{2}L{prk.}nepaprastai, labai;F{mortellement long}labai ilgas.
+0{mortier}[mɔrtje]A{m}I{1}grūstuvė;I{2}L{kar.}mortyra;I{3}togal{(teisėjų, merų)};I{4}kalkių skiedinys.
+0{mortification}[mɔrtifikasj&#596;&#771;]A{f}I{1}L{relig.}savęs marinimas;F{mortification de sa chair}kūno marinimas;I{2}pažeminimas, įžeidimas, užgauliojimas.
+0{mortifier}[mɔrtifje]A{vt}I{1}L{relig.}save marinti;I{2}įžeisti, pažeminti.
+0{mortuaire}[mɔrtɥɛr]A{adj}laidotuvių, laidojimo;F{cérémonie mortuaire}laidojimo apeigos.
+0{morue}[mɔry]A{f}menkė;F{huile de foie de morue}žuvies taukai.
+0{morve}[mɔrv]A{f}snarglys.
+0{morveux, -euse}[mɔrvø, -øz]S{&rArr;}A{adj}snargliuotas;S{&rArr;}A{m},A{f}snarglius, snarglė; nebrendyla.
+0{mosaïque^{1}}[mɔzaik]A{f}mozaika.
+0{mosaïque^{2}}[mɔzaik]A{adj}L{relig.}Mozės;F{loi mosaïque}Mozės įsakymas.
+0{mosaïste}[mɔzaist]A{m},A{f}mozaikininkas, mozaikininkė, dailininkas, kuriantis mozaikas.
+0{mosquée}[mɔske]A{f}mečetė.
+0{mot}[mo]A{m}I{1}žodis, terminas;F{épeler un mot}pasakyti žodį paraidžiui;F{mot à double sens}dviprasmiškas žodis;F{employer les grands mots}naudoti skambius, pompastiškus žodžius;F{gros mot}keiksmažodis;F{mot d’ordre, de passe}šūkis, slaptažodis;F{mots croisés}kryžiažodis;F{faire des mots croisés}spręsti kryžiažodį;F{mot d’esprit}sąmojis;F{mot à mot}pažodžiui;F{traduction mot à mot}pažodinis vertimas;F{d’un mot, en un mot}vienu žodžiu;F{parler à mi-mots}kalbėti užuominomis;F{avoir son mot à dire}turėti teisę pareikšti savo nuomonę; galėti pasakyti savo nuomonę;F{mot à plusieurs sens}daugiaprasmis, daugiareikšmis žodis;F{définition d’un mot}žodžio definicija, apibrėžimas;I{2}L{inf.}žodis, pagrindinis duomenų vienetas, apdorojamas aparatinėmis kompiuterinės sistemos priemonėmis;F{un mot de huit bits}aštuonių baitų žodis;I{3}laiškelis, žinutė;F{un petit mot}laiškelis, žinutė;F{avez-vous reçu mon petit mot?}ar gavote mano žinutę?;I{4}mintis, posakis;F{mots célèbres}žymūs žodžiai, garsūs posakiai; A{loc fam}F{avoir des mots avec_{qn}}ginčytis su kuo.
+0{motard}A{m},0{-arde}A{f}[mɔtar, -ard]I{1}motociklininkas, motociklininkė;I{2}L{šnek.}policininkas ant motociklo;F{les motards de la police routière}kelių policininkai ant motociklo.
+0{motel}[mɔtɛl]A{m}motelis.
+0{moteur, -trice}[mɔtœr, -tris]S{&rArr;}A{adj}judinantis, judinamasis;L{tech.}varomasis;F{force motrice}varomoji jėga;S{&rArr;}A{m}variklis, motoras.
+0{motif}[mɔtif]A{m}I{1}akstinas, motyvas;F{sans motif}be priežasties;F{avoir des motifs de se plaindre}turėti motyvų skųstis;I{2}modelis, tema, piešinys;F{travailler sur le motif}dirbti su modeliu;F{tissu imprimé à grands motifs de fleurs}audinys su dideliais gėlių piešiniais;I{3}L{muz.}motyvas.
+0{motion}[mosj&#596;&#771;]A{f}pasiūlymas, rezoliucija;F{adopter une motion}priimti rezoliuciją;F{déposer une motion}pasiūlyti;L{teis.}F{motion de censure}pasitikėjimo votumas, pritarimas vyriausybės veiklai.
+0{motivation}[mɔtivasj&#596;&#771;]A{f}motyvacija.
+0{motiver}[mɔtive]A{vt}pagrįsti, motyvuoti;F{motiverqn à (pour) faire_{qch}}skatinti ką daryti ką nors.
+0{moto}[moto]A{f}(L{sutr.}C{iš}2{motocyclette})L{šnek.}motociklas;F{course de motos}motokrosas;F{faire de la moto}važiuoti motociklu;F{permis moto}l{(motociklo)}vairuotojo teisės.
+0{moto-cross, motocross}[motokrɔs]A{m}(A{pl}2{motocross}) motokrosas.
+0{motocycle}[mɔtɔsikl]A{m}motociklas, motoroleris;F{motocycle à side-car}motociklas su priekaba.
+0{motocyclisme}[mɔtɔsiklism]A{m}motociklų lenktynės.
+0{motocycliste}[mɔtɔsiklist]A{m},A{f}motociklininkas, motociklininkė.
+0{motofaucheuse}[motofoʃøz]A{f}žolės pjovimo mašinal{(rankinė)}.
+0{motor-home}[mɔtɔrom]A{m}gyvenamoji priekaba.
+0{motorisation}[mɔtɔrizasj&#596;&#771;]A{f}motorizavimas.
+0{motorisé, -e}[mɔtɔrise]A{adj}motorizuotas;L{šnek.}F{être motorisé}būti važiuotam.
+0{motoriser}[mɔtɔrize]A{vt}motorizuoti, mechanizuoti;F{motoriser l’agriculture}mechanizuoti žemės ūkį.
+0{motoriste}[mɔtɔrist]A{m}mašinų konstruktorius, mechanizatorius.
+0{motricité}[mɔtrisite]A{f}L{psich.}motorika;F{motricité volontaire, involontaire}valinga, nevalinga motorika.
+0{motte}[mɔt]A{f}I{1}kupstas;I{2}grumstas.
+0{motter (se)}[mɔte]pasislėpti už kupstol{(apie paukščius)}.
+0{mou}[mu](l{prieš balsę arba netariamąją}h2{mol}),0{molle}[mɔl]S{&rArr;}A{adj}I{1}minkštas;I{2}silpnas;I{3}drėgnas, šiltas;F{climat mou}drėgnas ir šiltas klimatas;S{&rArr;}A{adv}A{loc fam}tyliai;F{y aller mou}tyliai nueiti;S{&rArr;}A{m}I{1}L{šnek.}išglebėlis, neatsakingas žmogus;F{c’est un mou}žmogus be charakterio;I{2}minkštumas, išglebimas;A{loc fam}F{il y a du mou dans la corde à nœuds}situacija genda, nebėra tvirtumo.
+0{mouchage}[muʃaʒ]A{m}l{(nosies)}šnirpštimas, valymas.
+0{mouchard}A{m},0{-arde}A{f}[muʃar, -ard]I{1}šnipas, šnipė;I{2}skundikas, skundikė.
+0{moucharder}[muʃarde]A{vt}L{šnek.}šnipinėti, sekti, skųsti.
+0{mouche}[muʃ]A{f}I{1}musė;F{mouche domestique}naminė musė;F{mouche de la viande}mėsinė musė;F{mouche tsé-tsé}musė cė cė;L{prk.}F{pattes de mouches}smulki rašysena;A{loc}F{on aurait entendu une mouche voler}buvo labai tylu, būtų galima girdėti musę skrendant;L{šnek.}F{il ne ferait pas de mal à une mouche}jis ir musės nenuskriaustų, jis nepiktas;F{prendre la mouche}supykti;I{2}apgamėlis, taškelis;I{3}:F{mouche artificielle}dirbtinas jaukas;I{4}taikinio taškas;A{loc}F{faire mouche}pataikyti į centrą;I{5}juodas taškelisl{(muselė)}regėjimo lauke;I{6}L{šnek.}seklys;I{7}:F{bateau-mouche}l{(miesto)}garlaivis turistams.
+0{moucher}[muʃe]A{vt}I{1}valyti nosį, šnirpšti;I{2}nukirpti dagtį;F{moucher une chandelle}nukirpti žvakės dagtį;$2{se moucher}nusivalyti nosį, išsišnirpšti, nusišnypšti;L{šnek.}F{ne pas se moucher du coude, du pied}riesti nosį.
+0{moucheron}[muʃr&#596;&#771;]A{m}muselė, mašalas;L{šnek.}mažas berniukas.
+0{moucheté, -ée}[muʃ(ə)te]A{adj}taškuotas, šlakuotas;F{cheval moucheté}obuolmušis arklys.
+0{mouchoir}[muʃwar]A{m}nosinė;F{mouchoir de tête}skarelė;F{mouchoir de cou}kaklaskarė, šalikas;F{mouchoir de poche}nosinė;F{mouchoir en papier}popierinė servetėlėl{(nosinaitė)}.
+0{moudre}_{*}[mudr]A{vt}I{1}(su)malti;F{moudre du poivre, du café}malti pipirus, kavą;I{2}L{šnek.}primušti, apkulti.
+0{moue}[mu]A{f}nepasitenkinimo grimasa;F{faire la moue}daryti grimasą, patempti lūpą;L{prk.}F{faire la moue à}padaryti nepritarimo, atsisakymo grimasą.
+0{mouette}[mwɛt]A{f}I{1}žuvėdra;I{2}L{jūr.}pneumatinė gelbėjimo valtelė.
+0{moufle}[mufl]A{f}I{1}L{šnek.}kumštinė pirštinė;I{2}L{tech.}skrysčiai;I{3}A{m}mufelis, kamera iš ugniai atsparių medžiagų.
+0{mouflet}A{m},0{-ette}A{f}[muflɛ, -ɛt]L{šnek.}vaikelis.
+0{mouflon}[mufl&#596;&#771;]A{m}muflonas, laukinė avis.
+0{mouillage}[mujaʒ]A{m}I{1}(su)mirkymas, (su)drėkinimas;F{mouillage du linge avant de le repasser}sudrėkinimas skalbinių prieš lyginant;I{2}gėrimų atskiedimas vandeniu;F{le mouillage du vin}vyno atskiedimas;I{3}inkaro nuleidimas, laivo nuleidimas į vandenį.
+0{mouillé, -ée}[muje]A{adj}I{1}šlapias, peršlapęs, permirkęs;F{bébé mouillé}prisišlapinęs kūdikis;I{2}L{gram.}minkštasis priebalsis.
+0{mouiller}[muje]A{vt}I{1}(su)mirkyti, išmirkyti, (su)drėkinti;F{mouiller une éponge}sudrėkinti kampinę;I{2}atskiesti vandeniu;I{3}suminkštintil{(garsą)};I{4}nuleisti į vandenį;I{5}L{prk.}L{šnek.}sukompromituoti;$2{se mouiller}I{1}sušlapti;I{2}susikompromituoti.
+0{moulage^{1}}[mulaʒ]A{m}I{1}(nu)liejimas, nuliedinimas;F{moulage}F{d’une statue}statulos nuliedinimas;I{2}muliažas;I{3}liejinys;I{4}presavimas.
+0{moulage^{2}}[mulaʒ]A{m}malimas.
+0{moulant, -ante}[mul&#593;&#771;, -&#593;&#771;t]A{adj}prigludęs, aptemptas;F{pantalon moulant}aptemptos kelnės.
+0{moule^{1}}[mul]A{m}liejamoji forma, presavimo forma;F{moule à tarte, à gaufre}forma pyragui, vafliams.
+0{moule^{2}}[mul]A{f}I{1}valgomasis moliuskas;I{2}L{šnek.}kvailelis, ištižėlis.
+0{mouler}[mule]A{vt}I{1}nulietil{(į formą)};F{mouler un bas-relief}nulieti bareljefą;I{2}standžiai aptemptil{(apie drabužį)};I{3}:F{mouler sur}padaryti pagal modelį, nukopijuoti;I{4}:F{mouler une lettre, un mot}gražiai, kruopščiai parašyti raidę, žodį.
+0{mouleur}[mulœr]A{m}liejikas.
+0{moulin}[mul&epsilon;&#771;]A{m}I{1}malūnas;F{moulin à vent}vėjo malūnas;F{moulin hydraulique, à eau}vandens malūnas;A{loc fig}F{on ne peut être à la fois au four et au moulin}visur vienu metu negalima būti;F{se battre contre des moulins à vent}kovoti prieš vėjo malūnus, prieš įsivaizduojamą priešą;F{moulin à café, à poivre}kavos, pipirų malimo mašinėlė;I{2}maišytuvas, mikseris;F{moulin à légumes}daržovių maišytuvas;I{3}L{prk.}:F{moulin à paroles}plepys.
+0{mouliner}[muline]A{vt}I{1}graužti, varpyti;F{planche moulinée par les vers}kirminų išvarpyta lenta;I{2}sukti siūlus;I{3}L{šnek.}malti, smulkinti;F{mouliner des pommes de terre}trinti, tarkuoti bulves;I{4}L{inf.}apdoroti duomenis, informaciją.
+0{moulu, -ue}[muly]A{adj}I{1}labai pavargęs;F{je suis moulue ce soir}esu pavargusi šį vakarą;I{2}sumaltas;F{café moulu}malta kava.
+0{moulure}[mulyr]A{f}I{1}reljefinis ornamentas;I{2}:F{moulures électriques}elektros laidų (dekoratyvinė) apdanga.
+0{mourant, -ante}[mur&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}I{1}mirštantis;I{2}silpstantis, gęstantis;S{&rArr;}A{m},A{f}mirštantysis, mirštančioji.
+0{mourir}_{*}[murir]A{vi}I{1}mirti;F{mourir faute de soins}mirti dėl prastos priežiūros;F{mourir en héros}mirti didvyriu;F{faire mourir}nužudyti;F{mourir pour ses idées}mirti už savo idėjas;F{mourir de fatigue, de honte}mirti iš nuovargio, iš gėdos;I{2}vysti, džiūtil{(apie augalus)};F{le vieux chêne est mort}senas ąžuolas nudžiūvo;I{3}stipti, dvėsti;F{le chien est mort}šuo pastipo;A{loc}F{mourir comme un chien}pastipti kaip šuniui;I{4}silpti, nykti;F{mourir d’amour}nykti iš meilės;F{à mourir}mirtinas, mirtinai;F{s’ennuyer à mourir}mirtinai nuobodžiauti;I{5}pasibaigti, pradingti;F{le feu meurt}ugnis gęsta;F{le jour meurt}diena baigiasi;$2{se mourir}I{1}merdėti;I{2}nykti, gesti, baigtis.
+0{mouroir}[murwar]A{m}mirštančiųjų prieglauda.
+0{mousquetaire}[muskətɛr]A{m}muškietininkas.
+0{moussant, -ante}[mus&#593;&#771;, -&#593;&#771;t]A{adj}putojantis;F{savon moussant}putojantis muilas.
+0{mousse^{1}}[mus]A{m}l{(laivo)}junga.
+0{mousse^{2}}[mus]A{f}I{1}putos;F{mousse de champagne}šampano putos;F{mousse à raser}skutimosi putos;F{mousse coiffante}putos plaukams;F{mousse plastique}pienoplastas;I{2}samanos;F{tapis de mousse}samanų kilimas;I{3}putėsiai;F{mousse au chocolat}šokoladiniai putėsiai;A{loc fam}F{se faire de la mousse}prisidaryti rūpesčių.
+0{mousse^{3}}[mus]A{adj}bukas, atšipęs, neaštrus.
+0{mousseline}[muslin]A{f}I{1}muslinas;F{robe de mousseline}muslino suknelė;I{2}L{prk.}:F{pommes mousseline}labai sutrinta bulvių košė, piurė.
+0{mousser}[muse]A{vi}I{1}putoti;F{shampoing qui mousse beaucoup}labai putojantis šampūnas;I{2}L{prk.}L{šnek.}:F{faire mousser_{qn},_{qch}}išgirti ką nors.
+0{mousseux, -euse}[musø, -øz]S{&rArr;}A{adj}I{1}putojantisl{(apie vyną)};I{2}lengvas, akytas;S{&rArr;}A{m}L{šnek.}putojantis vynas;F{une coupe de mousseux}putojančio vyno taurė.
+0{moussoir}[muswar]A{m}plaktuvas, medinė mentelė plakimui, šluotelė plakimui.
+0{mousson}[mus&#596;&#771;]A{f}musonasl{(vėjas)}.
+0{moussu, -ue}[musy]A{adj}samanotas;F{pierres moussues}apsamanoję akmenys.
+0{moustache}[mustaʃ]A{f}ūsas, ūsai;F{avoir de la moustache}būti su ūsais.
+0{moustachu, -ue}S{&rArr;}A{adj}ūsuotas;S{&rArr;}A{m}ūsočius.
+0{moustiquaire}[mustikɛr]A{f}užuolaida nuo moskitų, uodų.
+0{moustique}[mustik]A{m}moskitas, uodas.
+0{moût}[mu]A{m}I{1}vynuogių sultys, neįrūgęs vynas;I{2}obuolių, kriaušių sultys sidrui gaminti.
+0{moutard}[mutar]A{m}L{šnek.}nedidelis vaikas;A{pl}vaikai.
+0{moutarde}[mutard]A{f}I{1}L{bot.}garstyčia;I{2}L{kul.}garstyčios;F{sauce moutarde}garstyčių padažas;I{3}garstyčių spalva.
+0{moutardier}[mutardje]A{m}garstytinė.
+0{mouton}[mut&#596;&#771;]A{m}I{1}avinas;I{2}aviena;F{haricot de mouton}avienos ragu;I{3}avies kailis, mutonas;F{manteau en mouton}mutono kailiniai;I{4}L{prk.}ramus, pasyvus, patiklus žmogelis;F{mouton à cinq pattes}retas asmuo, daiktas;F{mouton noir}nepageidautinas grupėje žmogus;I{5}įskundėjas, policijos šnipasl{(kalėjime)};I{6}putota banga;I{7}kamuolinis baltas debesėlis.
+0{moutonné, -ée}[mutɔne]A{adj}garbanotasl{(apie plaukus)};F{nuages moutonnés}kamuoliniai debesys.
+0{moutonnement}[mutɔnm&#593;&#771;]A{m}putojimas, bangavimasl{(apie jūrą)}.
+0{moutonner}[mutɔne]A{vi}putoti, kilti putotoms bangomsl{(apie jūrą)}.
+0{moutonneux, -euse}[mutɔnø, -øz]A{adj}putotasl{(apie bangas)}.
+0{mouture}[mutyr]A{f}I{1}malimas;F{mouture du café}kavos malimas;I{2}sumalti miltai;F{bluter la mouture}sijoti miltus;I{3}variantas;F{voici la dernière mouture de mon article}štai paskutinis mano straipsnio variantas.
+0{mouvance}[muv&#593;&#771;s]A{f}įtakos sfera;F{pays de mouvance communiste}šalys, esančios komunistinės įtakos sferoje.
+0{mouvant, -ante}[muv&#593;&#771;, -&#593;&#771;t]A{adj}I{1}judinantis; varantis;F{forces mouvantes}varančiosios jėgos;I{2}judantis, plaukiantis, bėgantis;F{ombres mouvantes}slenkantys šešėliai;I{3}besikeičiantis, nepastovus, birus;F{terrain mouvant}biri žemė.
+0{mouvement}[muvm&#593;&#771;]A{m}I{1}judėjimas;F{mouvement d’un corps}kūno judėjimas;F{mouvement rectiligne}tiesialinijinis, tiesiaeigis judėjimas;F{mouvements périodiques, ondulatoires}periodiniai, bangų judėjimai;F{mouvement perpétuel}nenutrūkstamas, amžinas judėjimas;I{2}transporto priemonių judėjimas;I{3}l{(prekių turto, kapitalo, kainų)}kaita, keitimas;F{mouvement de capitaux}kapitalo cirkuliacija, apyvarta;F{mouvement de personnel}personalo kaita;I{4}judesys, laikysenos, pozicijos pakeitimas;F{faire un mouvement}pajudėti;F{faire un faux mouvement}padaryti neatsargų judesį;F{mouvement de tête}galvos judesys, galvos linktelėjimas, pakreipimas;I{5}L{fiz.},L{tech.}procesas, darbas, judėjimas;F{être en mouvement}judėti;F{mettre un mécanisme en mouvement}paleisti mechanizmą veikti;I{6}kariuomenės manevrai;I{7}l{(kalbos, muzikos)}gyvumas, išraiška, tempas, ritmas, taktas;I{8}mechanizmo veikla, veikimas;F{mouvement d’horlogerie}laikrodžio mechanizmo veikimas;I{9}L{prk.}modifikacija, pokyčiai, emocijos, jausmai; polinkis;F{mouvement de pitié}gailesčio antplūdis;I{10}socialiniai poslinkiai, evoliucija, judėjimas;F{mouvement de la société}visuomenės evoliucija.
+0{mouvoir}_{*}[muvwar]A{vt}(iš)judinti;F{il peut difficilement mouvoir son bras}jis sunkiai gali judinti ranką;$2{se mouvoir}judėti;F{se mouvoir avec lenteur}lėtai judėti.
+0{moyen^{1}, -ne}[mwaj&epsilon;&#771;, -ɛn]S{&rArr;}A{adj}I{1}vidurinis;I{2}vidutinis;F{être de taille moyenne}būti vidutinio ūgio;F{température moyenne}vidutinė temperatūra;I{3}vidutiniškas; paprastas;F{élève moyen en mathématiques}mokinys vidutiniškas matematikoje;F{cours moyens de la Bourse}vidutiniški biržos kursai;F{en moyenne}vidutiniškai;S{&rArr;}:F{Moyen Âge}A{m}viduramžiai;F{le haut Moyen Âge}ankstyvieji viduramžiai.
+0{moyen^{2}}[mwaj&epsilon;&#771;]A{m}I{1}priemonė, būdas;F{trouver un moyen}surasti būdą, priemonę, metodą;F{par tous les moyens}bet kokia kaina, visomis pastangomis;F{il y a moyen}galima;F{il n’y a pas moyen de}negalima, neįmanoma;F{par le moyen de, au moyen de}su pagalba, paramal{(ko)};F{moyen de communication}ryšio, susisiekimo priemonė;I{2}A{pl}lėšos, ištekliai; galimybės;F{des gens qui ont les moyens}žmonės, kurie turi lėšų, turtingi žmonės;F{chacun donne selon ses moyens}kiekvienas duoda pagal galimybes;I{3}A{pl}gabumai, sugebėjimai;F{avoir de grands moyens}būti labai gabiam;F{par ses propres moyens}savo jėgomis, niekam nepadedant.
+0{moyenâgeux, -euse}[mwajɛnaʒø, -øz]A{adj}L{šnek.}viduramžiškas;F{un château moyenâgeux}viduramžių pilis.
+0{moyennant}[mwajɛn&#593;&#771;]A{prép}su, dėka, su pagalba;A{loc}F{moyennant finances}už pinigus, sumokant;F{moyennant quoi}už tai, dėka ko;A{loc conj}F{moyennant que}f{(+A{subj})}kad; su sąlyga, kad; todėl, kad; kadangi.
+0{moyenne}[mwajɛn]A{f}vidurkis;F{moyenne géométrique}geometrinis vidurkis;F{calculer la moyenne des températures au mois d’août}apskaičiuoti vidutinę rugpjūčio mėnesio temperatūrą;F{en moyenne}vidutiniškai;F{il travaille en moyenne 8 heures par jour}jis dirba vidutiniškai 8 valandas per dieną.
+0{moyennement}[mwajɛnm&#593;&#771;]A{adv}vidutiniškai;F{comment va-t-il? – très moyennement}kaip jam sekasi? – labai vidutiniškai.
+0{moyenner}[mwajene]A{vt}išsaugoti, pasinaudoti, sutvarkyti;A{loc fam}F{il n’y a pas moyen de moyenner}pasisekimas neįmanomas.
+0{moyeu}[mwajø]A{m}stebulė;L{tech.}įvorė; žiedas, kuriame sukasi ašis arba velenas.
+0{mucosité}[mykozite]A{f}skreplys.
+0{mucus}[mykys]A{m}gleivė.
+0{mue}[my]A{f}I{1}šėrimasisl{(plaukų, plunksnų)}; šėrimosi periodas;I{2}išnaral{(žalčio, gyvatės)};I{3}paauglių balso kitimas, mutacija.
+0{muesli, musli}[musli]A{m}javainiai, avižinių dribsnių, daigintų kviečių ir džiovintų vaisių mišinys.
+0{muet, -ette}[mɥɛ, -ɛt]S{&rArr;}A{adj}I{1}nebylus; bekalbis, bežadis;I{2}neturintis jokio užrašo;F{médaille muette}medalis be užrašo,F{carte muette}kontūrinis žemėlapis;S{&rArr;}I{1}A{m},A{f}nebylys, nebylė;I{2}A{f}L{fon.}neištariama raidė;F{h muet}neištariama, nebylioji h;F{de muets reproches}nebylūs priekaištai;F{film muet}begarsis filmas.
+0{mufle}[myfl]A{m}I{1}l{(gyvulio)}snukis;I{2}L{prk.}storžievis.
+0{mugir}[myʒir]I{1}bliauti, baubtil{(apie gyvulius)};I{2}kaukti, staugti;F{sirène qui mugit}sirena kaukia.
+0{mugissement}[myʒism&#593;&#771;]A{m}I{1}bliovimas, baubimas;I{2}L{prk.}šniokštimas;F{les mugissements des flots}bangų šniokštimas.
+0{muguet}[mygɛ]A{m}L{bot.}pakalnutė;F{offrir un brin de muguet}įteikti pakalnutės šakelę.
+0{mulâtre}A{m},0{-tresse}A{f}[mylatr, -trɛs]mulatas, mulatė.
+0{mule^{1}}[myl]A{f}mulė;F{entêté, têtu comme une mule}užsispyręs kaip asilas.
+0{mule^{2}}[myl]A{f}šlepetėl{(be užkulnio)}.
+0{mulet}[mylɛ]A{m}mulas;A{loc fam}F{chargé comme un mulet}apkrautas kaip asilas.
+0{multicolore}[myltikɔlɔr]A{adj}įvairiaspalvis.
+0{multiforme}[myltifɔrm]A{adj}daugialypis, įvairus;F{menace multiforme}įvairi grėsmė.
+0{multilatéral, -ale}[myltilateral]A{adj}(A{pl}A{m}2{-aux}[-o]) daugiašalis;F{un accord multilatéral}daugiašalė sutartis.
+0{multilingue}[myltil&epsilon;&#771;g]A{adj}daugiakalbis;F{pays multilingue}daugiakalbė šalis.
+0{multimédia}[myltimedija]S{&rArr;}A{m}I{1}daugybė masinės informacijos priemonių;I{2}įvairialypė įranga;S{&rArr;}A{adj}visapusiškas, plačiai apimantis.
+0{multimillionnaire}[myltimiljɔnɛr]A{m},A{f}multimilijonierius, multimilijonierė.
+0{multinational, -ale}[myltinasjɔnal]A{adj}(A{pl}A{m}2{-aux}[-o]) daugianacionalinis.
+0{multiplace}[myltiplas]A{adj}daugiavietis.
+0{multiple}[myltipl]S{&rArr;}A{adj}sudėtingas, įvairus, įvairiapusis;S{&rArr;}A{m}L{mat.}kartotinis;F{tout multiple de deux est pair}kiekvienas dviejų kartotinis yra lyginis skaičius;F{plus petit commun multiple}(L{sutr.}p.p.c.m.) bendras mažiausias kartotinis.
+0{multiplex}[myltiplɛks]S{&rArr;}A{adj}daugiakanalis;S{&rArr;}A{m}daugiakanalio perdavimo sistema;F{une émission de radio réalisée en multiplex avec Londres et Madrid}daugiakanalis radijo ryšys su Londonu ir Madridu.
+0{multiplexage}[myltiplɛksaʒ]A{m}multipleksavimas.
+0{multiplicande}[myltiplik&#593;&#771;d]A{m}L{mat.}dauginamasis; dauginys.
+0{multiplicateur, -trice}[myltiplikatœr, -tris]S{&rArr;}A{m}I{1}L{mat.}daugiklis;I{2}daugintuvas;F{multiplicateur d’électrons}elektroninis daugintuvas;F{photomultiplicateur}fotodaugintuvas;I{3}multiplikatorius;S{&rArr;}A{adj}dauginantis, galintis keisti greitį.
+0{multiplicatif, -ive}[myltiplikatif, -iv]A{adj}multiplikatyvus;F{signe multiplicatif}daugybos ženklas;L{mat.}F{groupe multiplicatif}multiplikatyvioji grupė.
+0{multiplication}[myltiplikasj&#596;&#771;]A{f}I{1}L{mat.}daugyba;F{table de multiplication}daugybos lentelė;I{2}dauginimas; daugėjimas;F{la multiplication des bactéries}bakterijų dauginimasis;I{3}multiplikacija.
+0{multiplicité}[myltiplisite]A{f}didelis skaičius, daugybė;F{multiplicité des cas}daugybė atvejų.
+0{multiplier}[myltiplije]S{&rArr;}A{vt}I{1}dauginti;F{multiplier un nombre par trois}skaičių padauginti iš trijų;F{multiplier les exemplaires d’un texte}padauginti teksto egzempliorių;I{2}didinti;F{l’argent multiplie les désirs}pinigai didina norus;S{&rArr;}A{vi}gausėti, didėti;$2{se multiplier}daugintis, didintis.
+0{multiprocesseur}[myltiprɔsesœr]A{m}L{inf.}multiprocesorius, keletas susietų centrinių procesorių programoms suderintai vykdyti.
+0{multiprogrammation}[myltiprɔgramasj&#596;&#771;]A{f}multiprogramavimas, metodai ir jų realizavimas keletui programų.
+0{multitude}[myltityd]A{f}I{1}daugybė, gausumas;I{2}minia, žmonės.
+0{munichois, -oise}[mynikwa, -waz]A{adj}Miuncheno.
+0{municipal, -ale}[mynisipal]A{adj}(A{pl}A{m}2{-aux}[-o]) municipalinis, miesto;F{bibliothèque municipale}miesto biblioteka.
+0{municipalité}[mynisipalite]A{f}municipalitetas; savivaldybė;F{la municipalité d’une commune comprend le maire, ses adjoints et les conseillers municipaux}municipalitetas susideda iš mero, jo pavaduotojų ir municipalinių patarėjų.
+0{munificence}[mynifis&#593;&#771;s]A{f}dosnumas; prakilnumas;F{grâce à la munificence de}dosnumo dėka;F{avec une munificence royale}karališkai dosniai, su karališku dosnumu.
+0{munificent, -ente}[mynifis&#593;&#771;, -&#593;&#771;t]A{adj}dosnus, kilnus, didingas.
+0{munir}[mynir]A{vt}C{(de}A{qch}) aprūpinti; duoti, įrengti;$2{se munir de}apsirūpinti;L{prk.}F{se munir de patience}apsiginkluoti kantrybe.
+0{munition}[mynisj&#596;&#771;]A{f}L{kar.}šaudmenys; amunicija.
+0{muqueux, -euse}[mykø, -øz]A{adj}gleivėtas.
+0{mur}[myr]A{m}siena; mūrinė užtvara;F{les murs d’une ville}miesto sienos;F{les murs d’une maison}namo sienos;F{mettre des tableaux aux murs}pakabinti paveikslus ant sienų;A{loc}F{entre quatre murs}tarp keturių sienų;F{sauter,}F{faire le mur}išeiti be leidimol{(iš kareivinių)};L{prk.}F{coller au mur}sušaudyti;F{se cogner, se taper la tête contre les murs de}daužyti iš nevilties galvą į sieną;F{être le dos au mur}būti prispirtam prie sienos, negalėti atsitraukti;F{cet homme est un mur}tai beširdis žmogus.
+0{mûr, -e}[myr]A{adj}I{1}pribrendęs, išsirpęs, prinokęs;I{2}L{šnek.}labai sunešiotas, nudėvėtas;I{3}pribrendęs, pasiruošęs;F{être mûr pour}būti pasirengusiam, pasiruošusiam;I{4}subrendęs;F{âge mûr}brandus amžius;F{esprit mûr}subrendęs protas;F{après mûre réflexion}po ilgų svarstymų;I{5}L{šnek.}girtas.
+0{muraille}[myraj]A{f}I{1}aukšta stora siena, gynybinė siena;I{2}L{prk.}neperžengiama kliūtis.
+0{mural, -ale}[myral]A{adj}(A{pl}A{m}2{-aux}[-o]) sieninis;F{pendule murale}sieninis laikrodis;F{miroir mural}sieninis veidrodis.
+0{mûre}[myr]A{f}L{bot.}I{1}šilkmedžio uoga;I{2}gervuogė.
+0{mûrement}[myrm&#593;&#771;]A{adv}rimtail{(pagalvojus, apsvarsčius)}.
+0{murer}[myre]A{vt}I{1}aptverti siena;I{2}užmūryti;L{prk.}uždaryti, izoliuoti;$2{se murer}užsidaryti, pasislėpti;F{il se mura chez lui}jis užsidarė namuose.
+0{mûrir}[myrir]S{&rArr;}A{vt}brandinti, nokinti;F{mûrir une pensée}medituoti, apmąstyti;F{mûrir un projet}ruošti, rengti projektą;S{&rArr;}A{vi}(su)bręsti, (pri)nokti, (su)sirpti;F{les blés mûrissent}javai noksta.
+0{mûrissant, -ante}[myris&#593;&#771;, -&#593;&#771;t]A{adj}bręstantisl{(žmogus)}, nokstantisl{(vaisius)}.
+0{mûrissement}[myrism&#593;&#771;]A{m}brendimas, nokimas.
+0{murmure}[myrmyr]A{m}I{1}murmėjimas, kuždesys, šnabždesys;I{2}čiurlenimas;F{le murmure d’une fontaine}fontano čiurlenimas;I{3}A{pl}bruzdesys, nepasitenkinimas, protestas;F{les murmures d’une foule indignée}įpykusios minios nepasitenkinimas.
+0{murmurer}[myrmyre]S{&rArr;}A{vi}I{1}bruzdėti, reikšti nepasitenkinimą; protestuoti;I{2}čiurlenti;S{&rArr;}A{vt}kuždėti, šnibždėti;F{murmurer un mot à l’oreille de_{qn}}pakuždėti kam į ausį.
+0{musarder}[myzarde]A{vi}veltui leisti laiką.
+0{muscade}[myskad]A{f}muskatas;F{noix muscade}muskato riešutas.
+0{muscat}[myska]A{m}I{1}muskatasl{(vynas)};I{2}vynuogių veislė.
+0{muscle}[myskl]A{m}raumuo;F{avoir des muscles,}L{šnek.}F{avoir du muscle}būti labai stipriam;F{muscle cardiaque}širdies raumuo;F{atrophie des muscles}raumenų atrofija.
+0{musclé, -ée}[myskle]A{adj}I{1}raumeningas;I{2}energingas, stiprus;I{3}L{prk.}L{fam.}šiurkštusl{(kuris naudoja jėgą)};I{4}sunkus;F{problème musclé}sunki problema.
+0{muscler}[myskle]A{vt}I{1}lavinti raumenis;I{2}L{prk.}padaryti energingesnį, sustiprinti.
+0{musculaire}[myskylɛr]A{adj}raumeninis, raumenų;F{force musculaire}raumenų jėga.
+0{musculature}[myskylatyr]A{f}raumenys, muskulatūra.
+0{musculeux, -euse}[myskylø, -øz]A{adj}raumeningas.
+0{muse}[myz]A{f}I{1}mūza, deivė;F{les neuf Muses}devynios mūzos;I{2}L{prk.}poezijos mūza, poetų, rašytojų įkvėpėja.
+0{museau}[myzo]A{m}I{1}snukisl{(žinduolių, žuvų, išskyrus arklį)};I{2}L{šnek.}bjaurus veidas.
+0{musée}[myze]A{m}muziejus;F{musée du Louvre}Luvro muziejus;F{pièce de musée}muziejaus eksponatas.
+0{museler}[myz(ə)le]A{vt}I{1}užmauti antsnukį;F{museler un chien}užmauti šuniui antsnukį;I{2}nutildyti, neleisti kalbėti;F{museler l’opposition}nutildyti opoziciją.
+0{muselière}[myzəljɛr]A{f}antsnukis.
+0{muséologie}[myzeɔlɔʒi]A{f}muziejininkystė.
+0{musette}[myzɛt]A{f}I{1}dūdmaišis;I{2}abrakinė;I{3}nedidelė kuprinė;I{4}A{m}:F{bal-musette}šokiai gamtoje, grojant akordeonui; liaudies šventė su šokiais.
+0{musical, -ale}[myzikal]A{adj}(A{pl}A{m}2{-aux}[-o]) muzikinis;F{comédie musicale}muzikinė komedija;A{loc}F{avoir l’oreille musicale}būti muzikaliam.
+0{musicalité}[myzikalite]A{f}muzikalumas.
+0{musicien}A{m},0{-ienne}A{f}[myzisj&epsilon;&#771;, -jɛn]muzikas, muzikė; muzikantas, muzikantė.
+0{musicologie}[myzikɔlɔʒi]A{f}muzikologija.
+0{musique}[myzik]A{f}I{1}muzika;F{être amateur de musique}būti muzikos mėgėju;F{musique vocale, instrumentale, électronique}vokalinė, instrumentinė, elektroninė muzika;F{mettre en musique}parašyti muzikąl{(tekstui, veikalui)};F{musique de chambre, symphonique}kamerinė, simfoninė muzika;F{musique classique}klasikinė muzika;F{musique légère, de jazz, moderne}lengvoji muzika, džiazas, modernioji muzikal{(rokas, popas)};F{musique folk}liaudiška, kaimo muzika;F{écrire, composer, faire de la musique}kurti muziką;F{interpréter, jouer, faire de la musique}groti;F{écouter de la musique}klausytis muzikos;F{travailler en musique}dirbti klausant muzikos;F{chanter sur une musique de}dainuoti pagal kieno muziką;I{2}muzikinis veikalas;I{3}koncertas;I{4}melodija, šlamėjimas, harmonija;F{la musique des oiseaux}paukščių čiulbėjimas;F{musique d’une langue}kalbos melodiškumas, muzikalumas.
+0{musiquer}[myzike]S{&rArr;}A{vt}sukurti muziką;S{&rArr;}A{vi}muzikuoti.
+0{musiquette}[myzikɛt]A{f}lengva muzikėlė.
+0{musulman, -ane}[myzylm&#593;&#771;, -an]S{&rArr;}A{adj}musulmoniškas;S{&rArr;}A{m},A{f}musulmonas, musulmonė; islamo išpažinėjas, išpažinėja.
+0{mutagenèse}[mytaʒənɛz]A{f}mutagenezė, pasikeitimas, paveldimų pakitimųl{(mutacijų)}atsiradimas.
+0{mutant, -ante}[myt&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}mutacinis;S{&rArr;}A{m},A{f}mutantas, mutantė.
+0{mutation}[mytasj&#596;&#771;]A{f}I{1}mutacija; transformacija, pakitimas;F{la société est en pleine mutation}visuomenėje vyksta dideli pakitimai;I{2}perkėlimas į kitą darbą, į kitą postą;F{mutation dans une autre ville}perkėlimas į kitą miestą;I{3}L{teis.}nuosavybės, turto perdavimas kitam asmeniui;F{mutation par décès}paveldėjimas po mirties.
+0{muter}[myte]S{&rArr;}A{vt}perkelti į kitą darbą, į kitą postą;F{être muté en province}būti perkeltam į provinciją;S{&rArr;}A{vi}keistis, transformuotis.
+0{mutilant, -ante}[mytil&#593;&#771;, -&#593;&#771;t]A{adj}žalojantis, luošinantis.
+0{mutilation}[mytilasj&#596;&#771;]A{f}I{1}žalojimas, luošinimas;I{2}naikinimas, gadinimas;F{mutilation de statues}statulų niokojimas;I{3}sutrumpinimasl{(teksto, kūrinio)}, dalies praleidimas, kupiūravimas.
+0{mutilé, -ée}[mytile]S{&rArr;}A{adj}sužalotas, suluošintas, luošas;S{&rArr;}A{m},A{f}invalidas, invalidė;F{mutilé de guerre}karo invalidas.
+0{mutiler}[mytile]A{vt}I{1}sužaloti, suluošinti;F{il a été mutilé des deux jambes à la dernière guerre}praėjusiame kare jam buvo sužalotos abi kojos;I{2}sugadinti;I{3}sutrumpintil{(literatūrinį, muzikinį veikalą)};I{4}L{prk.}iškreipti;F{mutiler la vérité}iškreipti tiesą.
+0{mutiner (se)}[mytine]maištauti, sukilti.
+0{mutinerie}[mytinri]A{f}maištas, sukilimas;F{mutinerie des marins}jūreivių maištas.
+0{mutisme}[mytism]A{m}nebylystė, mutizmas.
+0{mutualisme}[mytɥalism]A{m}I{1}mutualizmasl{(ekonominė doktrina, kuri remiasi abipuse pagalba)};I{2}L{zool.}simbiozės forma.
+0{mutualité}[mytɥalite]A{f}I{1}savitarpiškumas;I{2}savitarpio pagalba;F{société de mutualité}savišalpos bendrijal{(fondas)}.
+0{mutuel, -elle}[mytɥɛl]S{&rArr;}A{adj}tarpusavio, savitarpio;F{amour mutuel}abipusė meilė;F{société d’assurance mutuelle}savitarpio pagalbos bendrija;S{&rArr;}A{f}bendrija, draugija, bendrovė, fondas;F{mutuelle d’étudiants}studentų šalpos bendrija.
+0{mutuellement}[mytɥɛlm&#593;&#771;]A{adv}abipusiškai.
+0{myome}[mjom]A{m}L{med.}mioma, nepiktybinis auglys.
+0{myopathie}[mjɔpati]A{f}miopatija.
+0{myope}[mjɔp]S{&rArr;}A{adj}trumparegis;S{&rArr;}A{m},A{f}trumparegis, trumparegė.
+0{myopie}[mjɔpi]A{f}trumparegystė, miopija.
+0{myosotis}[mjɔzɔtis]A{m}neužmirštuolė.
+0{myriade}[mirjad]A{f}labai didelis skaičius, daugybė;F{des myriades d’étoiles}daugybė žvaigždžių.
+0{myrrhe}[mir]A{f}mira, smilkalai, kvapnūs sakai.
+0{myrte}[mirt]A{m}L{bot.}mirta.
+0{myrtille}[mirtij]A{f}mėlynėl{(uoga)}.
+0{mystère}[mistɛr]A{m}I{1}paslaptis;I{2}paslaptingumas;L{relig.}F{le mystère de la Trinité}Trejybės paslaptingumas;A{loc}F{ce n’est un mystère pour personne}niekam ne paslaptis;F{faire (un) mystère de_{qch}}slėptil{(ką nors)};F{éclaircir un mystère}išaiškinti paslaptį;I{3}sunkus klausimas, mįslinga problema;F{en grand mystère}didelėje paslaptyje;I{4}misterija.
+0{mystérieusement}[misterjøzm&#593;&#771;]A{adv}paslaptingai.
+0{mystérieux, -ieuse}[misterjø, -jøz]A{adj}paslaptingas, mįslingas;F{cette histoire est bien mystérieuse}ši istorija yra gana paslaptinga.
+0{mysticisme}[mistisism]A{m}misticizmas.
+0{mystification}[mistifikasj&#596;&#771;]A{f}mistifikacija.
+0{mystifier}[mistifje]A{vt}mistifikuoti, klaidinti.
+0{mystique}[mistik]S{&rArr;}A{adj}mistinis;S{&rArr;}I{1}A{f}mistika;I{2}A{m},A{f}mistikas, mistikė.
+0{mythe}A{m}I{1}mitas; utopija;F{mythe de Sisyphe}Sizifo mitas;F{mythe du Paradis perdu}prarasto rojaus utopija;I{2}alegorija.
+0{mythique}[mitik]A{adj}mitinis, mitiškas; pramanytas, netikras;F{ce qu’il dit de son père est mythique}viskas pramanyta, ką jis sako apie savo tėvą.
+0{mythologie}[mitɔlɔʒi]A{f}mitologija;F{mythologie grecque}graikų mitologija.
+0{mythologique}[mitɔlɔʒik]A{adj}mitologinis;F{divinités mythologiques}mitologinės dievybės.
+0{mytiliculture}[mitilikyltyr]A{f}moliuskų auginimas.
+0{myxœdème}[miksedɛm]A{m}L{med.}miksedema.
+0{N, n}[ɛn]A{m}l{keturioliktoji prancūzų abėcėlės raidė}.
+0{N, n}A{abrév}C{et}A{symb}I{1}2{N}[nɔr]F{Nord}Šiaurė;I{2}2{N°, n°}[nymero]F{numéro}numeris;I{3}2{N}[njutɔn]F{Newton}niutonas, jėgos vienetas;I{4}L{mat.}2{n}[ɛn]F{nième}n-tasis;2{N}[ɛn]F{ensemble des entiers naturels}sveikų natūraliųjų skaičių aibė;I{5}2{N}[ɛn]F{azote}(F{nitrogène}) azotas.
+0{nacre}[nakr]A{f}perlamutras;F{boutons de nacre}perlamutrinės sagos.
+0{nacré, -ée}[nakre]A{adj}perlamutrinis;F{vernis à ongles nacré}perlamutrinis nagų lakas.
+0{nadir}[nadir]A{m}L{astr.}nadyras, dangaus sferos taškas, priešingas zenitui.
+0{naevus}[nevys](A{pl}2{naevi}[nevi])A{m}L{med.}įgimtas apgamas.
+0{nage}[naʒ]A{f}I{1}irklavimas;I{2}plaukimas;F{nage libre}plaukimas laisvu stiliumi;F{nage sur le dos}plaukimas nugara;A{loc adv}F{à la nage}plaukiant;F{gagner la côte à la nage}priplaukti prie kranto;A{loc}F{en nage}suprakaitavęs;A{loc}F{être en nage}būti šlapiam nuo prakaito.
+0{nageoire}[naʒwar]A{f}pelekas, žuvies plaukmuo.
+0{nager}[naʒe]A{vi}I{1}irkluoti;F{nager à couple}irkluoti dviese;I{2}plaukti;F{nager en mer, dans une piscine}plaukti jūroje, baseine;F{il ne sait pas nager}jis nemoka plaukti;F{nager la brasse, le crawl}plaukti krūtine, laisvuoju stiliumi;I{3}plaukiotil{(skystyje)};F{un plat nage dans une sauce brune}patiekalas plaukioja rudame padaže;I{4}L{prk.}maudytis; nardytil{(džiaugsme, piniguose)};I{5}L{šnek.}vilkėti plačiu drabužiu;F{elle nage dans son pantalon}ji skęsta savo kelnėse;I{6}L{šnek.}būti sutrikusiam, pasimetusiam, kalbant painiotis.
+0{nageur}A{m},0{-euse}A{f}[naʒœr, -øz]I{1}irkluotojas, irkluotoja;F{nageur de l’arrière, de l’avant}užpakalinis, priekinis irkluotojas;I{2}plaukikas, plaukikė;F{maître nageur}plaukymo treneris.
+0{naguère}[nagɛr]A{adv}neseniai, kadaise, kitados.
+0{naïf, naïve}[naif, iv]S{&rArr;}A{adj}I{1}paprastas, nuoširdus, naivus;F{un aveu naïf}nuoširdus prisipažinimas;I{2}natūralus, įgimtas;F{art naïf}liaudies menas;S{&rArr;}A{m},A{f}atviros širdies, naivus žmogus.
+0{nain, naine}[n&epsilon;&#771;, nɛn]S{&rArr;}A{adj}mažaūgis, nykštukinis;F{rosier nain}žemaūgių rožių krūmas;S{&rArr;}A{m},A{f}neužauga; nykštukas;F{Blanche-Neige et les sept nains}Snieguolė ir septyni nykštukai.
+0{naissance}[nɛs&#593;&#771;s]A{f}I{1}gimimas;F{date et lieu de naissance}gimimo data ir vieta;F{nombre de naissances}gimimų skaičius, gimstamumas;F{anniversaire de naissance}gimimo diena;F{de naissance}nuo gimimo, iš prigimties;F{sourd de naissance}kurčias iš prigimties, gimė kurčias;I{2}gimdymas;F{naissance avant terme}priešlaikinis gimdymas; F{donner naissance à}pagimdyti;I{3}L{prk.}pradžia; atsiradimas;F{la naissance du jour}aušra;F{donner naissance à_{qch}}kurti, gaminti; duoti pradžią;F{naissance d’un fleuve}upės ištaka.
+0{naissant, -ante}[nɛs&#593;&#771;, -&#593;&#771;t]A{adj}gimstantis, kylantis, atsirandantis;F{la lune naissante}tekantis mėnulis.
+0{naître}_{*}[nɛtr]A{vi}I{1}gimti;F{il est né à terme}jis laiku gimė;A{imp}F{il naît plus de filles que de garçons}gimsta daugiau mergaičių nei berniukų;A{loc fig}F{je ne suis pas né hier}aš ne vakar gimiaul{(aš jau nebe kūdikis)};F{naître à}pradėti naują gyvenimą, atsiverti, atsiskleisti;F{naître à l’amour}gimti meilei;I{2}kilti, prasidėti, atsirasti;F{la rivière naît au milieu des bois}upė išteka iš miško;F{il n’y a point de mal dont il naisse un bien}nėra to blogo, kad neišeitų į gerą;F{faire naître}pagimdyti, sužadinti;F{faire naître le désir}sužadinti norą.
+0{naïvement}[naivm&#593;&#771;]A{adv}naiviai, atvirai, paprastai;F{répondre naïvement}atsakyti atvirai.
+0{naïveté}[naivte]A{f}I{1}atvirumas, nuoširdumas, naivumas;F{en toute naïveté}labai nuoširdžiai, atvirai;F{être d’une grande naïveté}būti labai patikliam;I{2}naivūs žodžiai; naivi kalba.
+0{nana}[nana]A{f}L{šnek.}I{1}meilužė;I{2}mergina, jauna moteris.
+0{nanifier}[nanifje]A{vt}neleisti augtil{(augalui)};F{le bonsaï est un arbre nanifié}bonsas yra medis, kuriam tam tikru būdu neleidžiama augti.
+0{nanisme}[nanism]A{m}nanizmas, augimo sulėtėjimas.
+0{nantir}[n&#593;&#771;tir]A{vt}aprūpinti;$2{se nantir}apsirūpinti, pasidaryti atsargų.
+0{nantissement}[n&#593;&#771;tism&#593;&#771;]A{m}L{teis.},L{fin.}laidavimas užstatu, užstatas.
+0{napalm}[napalm]A{m}napalmas;F{bombe au napalm}padegamoji bomba.
+0{naphtaline}[naftalin]A{f}naftalinas.
+0{naphte}[naft]A{m}nafta.
+0{napoléon}[napɔle&#596;&#771;]A{m},0{napoléon d’or}A{m}napoleondoras, auksinė dvidešimties frankų moneta.
+0{napoléonien, -ienne}[napɔleɔnj&epsilon;&#771;, -jɛn]A{adj}Napoleono; napoleoninis;F{dynastie napoléonienne}Napoleono dinastija.
+0{Napolitain}A{m},0{-aine}A{f}[napɔlit&epsilon;&#771;, -ɛn]neapolietis, neapolietė.
+0{napolitain, -aine}[napɔlit&epsilon;&#771;, -ɛn]A{adj}Neapolio, neapolietiškas;F{romances napolitaines}neapolietiški romansai.
+0{nappe}[nap]A{f}I{1}staltiesė;F{mettre la nappe}dengti staltiese;F{ôter la nappe}nudengti, nuimti staltiesę;I{2}sluoksnis, padengtas paviršius;F{nappe de gaz}dujų sluoksnis žemės paviršiuje; I{3}L{geol.}vandens plotas, vandens paviršius;F{nappe d’eau souterraine}požeminio vandens plotas;F{nappe volcanique}lavos padengtas paviršius.
+0{napper}[nape]A{vt}I{1}užtiesti, uždengti, padengti stalą;I{2}apipilti padažu, kremu;F{napper un gâteau de confiture}aplieti pyragaitį uogiene.
+0{napperon}[napr&#596;&#771;]A{m}staltiesėlė;F{napperons individuels}kiekvienam asmeniui padėtos staltiesėlės.
+0{narcisse}[narsis]A{m}I{1}L{bot.}narcizas;I{2}savimi susižavėjęs žmogus.
+0{narcissisme}[narsisism]A{m}narcisizmas, savęs įsimylėjimas.
+0{narcose}[narkoz]A{f}L{med.}narkozė.
+0{narcotique}[narkɔtik]S{&rArr;}A{adj}narkotinis;F{plantes narcotiques}narkotiniai augalai;S{&rArr;}A{m}narkotikas.
+0{narcotrafic}[narkotrafik]A{m}narkotikų prekyba.
+0{narcotrafiquant}[narkotrafik&#593;&#771;]A{m}stambus narkotikų prekiautojas.
+0{narguer}[narge]A{vt}L{šnek.}tyčiotis, niekinti;F{narguer le danger}nepaisyti pavojaus, tyčiotis iš pavojaus.
+0{narine}[narin]A{f}nosiaryklė, šnervė.
+0{narquois, -oise}[narkwa, -waz]A{adj}pašaipus, suktas;F{un sourire narquois}pašaipi šypsena.
+0{narrateur}A{m},0{-trice}A{f}[naratœr, -tris]I{1}pasakotojas, pasakotoja; sekėjas, sekėjal{(pasakos)};I{2}naratorius, literatūros kūrinyje pirmuoju asmeniu pasakojantis įvykius.
+0{narratif, -ive}[naratif, -iv]A{adj}pasakojamasis;F{un style narratif}pasakojamasis stilius;F{discours narratif}pasakojamoji kalba.
+0{narration}[narasj&#596;&#771;]A{f}I{1}pasakojimas, naracija, epinio kūrinio pasakojimo būdas;I{2}mokyklinis rašinys, literatūrinis rašinys duota tema.
+0{narrativité}[narativite]A{f}pasakojamajai kalbai būdingų bruožų visuma.
+0{narrer}[nare]A{vt}pasakoti, papasakoti;F{narrer des histoires}pasakoti istorijas.
+0{narthex}[nartɛks]A{m}narteksas, šventyklos prieangis.
+0{narval}[narval]A{m}(A{pl}2{narvals}) narvalas, didelis banginis.
+0{nasal, -ale}[nazal](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}nosinis, nosies;F{fosses nasales}nosiaskylės, nosies šnervės;F{voyelles nasales}nosiniai balsiai;S{&rArr;}A{f}nosinis garsas.
+0{nasalisation}[nazalizasj&#596;&#771;]A{f}L{fon.}nazalizacija, nosinis rezonansas tariant garsą.
+0{nasaliser}[nazalize]A{vt}suteikti garsui nosinumą; nazalizuoti.
+0{nasalité}[nazalite]A{f}L{lingv.}nosinumas.
+0{naseau}[nazo]A{m}šnervėl{(didžiųjų gyvulių, arklio)}.
+0{nasillement}[nazijm&#593;&#771;]A{m}šniaukrojimas, kalbėjimas per nosį.
+0{nasiller}[nazije]S{&rArr;}A{vi}I{1}sniaukroti, kalbėti per nosį;I{2}kvarksėtil{(apie antį, varlę)};S{&rArr;}A{vt}dainuoti nosininiu balsu, niūniuoti.
+0{nasonnement}[nazɔnm&#593;&#771;]A{m}L{fon.}kalbėjimas per nosį.
+0{natal, -ale}[natal]A{adj}I{1}gimtasis;F{langue natale (maternelle)}gimtoji kalba;F{pays natal}gimtoji šalis, tėviškė;I{2}gimdymo;F{troubles natals}gimdymo sutrikimai.
+0{natalité}[natalite]A{f}gimimų skaičius, gimstamumas;F{diminution de la natalité}gimstamumo mažėjimas.
+0{natation}[natasj&#596;&#771;]A{f}L{sport.}plaukimas;F{faire de la natation}plaukioti;F{pratiquer la natation}užsiiminėti plaukimul{(kaip sportu)}.
+0{natif, -ive}[natif, -iv]S{&rArr;}A{adj}I{1}:F{natif de}gimimo, kilimol{(iš)};F{il est natif de Paris}jis kilęs iš Paryžiaus; I{2}įgimtas;F{vertu natif}įgimta dorybė;I{3}L{miner.}žaliava;F{argent natif}sidabro žaliava;S{&rArr;}A{m},A{f}gimęsl{(kur)}, kilęsl{(iš kur)};F{les natifs d’Auvergne}žmonės kilę iš Overno, vietiniai Overno gyventojai.
+0{nation}[nasj&#596;&#771;]A{f}nacija, tauta;F{Organisation des Nations Unies}(L{sutr.}3{O.N.U.}) Suvienytųjų Nacijų Organizacija;F{adresser un appel à la nation}kreiptis į tautą;F{consulter la nation par référendum}sužinoti tautos nuomonę per referendumą.
+0{national, -ale}[nasjɔnal]A{adj}(A{pl}A{m}2{-aux}[-o]) nacionalinis; tautinis;F{hymne national}tautos himnas;F{fête nationale}tautinė šventė;F{langue nationale}tautos kalba, nacionalinė kalba;F{Assemblée nationale}nacionalinė Asamblėja;F{Victor Hugo, notre grand poète national}Viktoras Hugo, mūsų didysis tautos poetas.
+0{nationalisation}[nasjɔnalizasj&#596;&#771;]A{f}nacionalizacija.
+0{nationaliser}[nasjɔnalize]A{vt}nacionalizuoti;F{les banques nationalisées}nacionalizuoti bankai.
+0{nationalisme}[nasjɔnalism]A{m}nacionalizmas.
+0{nationaliste}[nasjɔnalist]S{&rArr;}A{adj}nacionalistinis;F{une politique nationaliste}nacionalistinė politika;S{&rArr;}A{m}nacionalistas.
+0{nationalité}[nasjɔnalite]A{f}tautybė; pilietybė;F{elle est de nationalité française}ji yra prancūzų tautybės;F{double nationalité}dviguba pilietybė;F{certificat de nationalité}pilietybės pažymėjimas, pilietybės paliudijimo dokumentas.
+0{national-socialisme}[nasjɔnalsɔsjalism]A{m}nacionalsocializmas, nacizmas.
+0{nativisme}[nativism]A{m}L{fil.}natyvizmas.
+0{nativité}[nativite]A{f}L{relig.}gimimasl{(Kristaus gimimas)};F{la nativité de la Vierge}Mergelės Marijos gimimas.
+0{nattage}[nataʒ]A{m}pynimas.
+0{natte}[nat]A{f}I{1}demblys;F{natte de paille}šiaudinis demblys;I{2}kasal{(plaukų)};F{se faire deux nattes}susipinti dvi kasas.
+0{natté}[nate]A{m}baltos duonos pynutė.
+0{natter}[nate]A{vt}I{1}dengti dembliais;I{2}(su)pinti;F{natter ses cheveux}susipinti plaukus.
+0{naturalisation}[natyralizasj&#596;&#771;]A{f}I{1}pilietybės suteikimas; natūralizacija;I{2}L{biol.},L{zool.}aklimatizacija;I{3}L{prk.}asimiliacijal{(L{pvz.}, žodžio atėjusio iš kitos kalbos perėmimas)};I{4}taksidermija, gyvūnų iškamšų gaminimas.
+0{naturaliser}[natyralize]A{vt}I{1}suteikti pilietybę svetimšaliui;F{un Français naturalisé}svetimšalis, kuriam suteikta Prancūzijos pilietybė;F{les naturalisés et les nationaux}asmenys, gavę pilietybę ir tautiečiai;I{2}L{biol.},L{zool.}aklimatizuotil{(augalą, gyvūną)};I{3}L{prk.}perimti iš kitos šalies, kalbosl{(žodį, paprotį)};I{4}daryti iškamšas, konservuotil{(gyvūnus, augalus)}.
+0{naturalisme}[natyralism]A{m}natūralizmas, natūralumas, gamtiškumas.
+0{naturaliste}[natyralist]A{m},A{f}gamtininkas, gamtininkė; natūralistas, natūralistė.
+0{nature}[natyr]S{&rArr;}A{f}I{1}:F{la nature de ...}esmė, prigimtis;F{la nature d’un sentiment}jausmo esmė;F{la nature humaine}žmogiška prigimtis;A{loc}F{de nature}iš prigimties;F{il est gai de nature}jis linksmas iš prigimties;I{2}savybė, rūšis, charakteris;A{loc}F{de ... nature}rūšies, būdo, savybės;F{de toute nature}visokios, bet kokios (rūšies);F{des difficultés de toute nature}visokie sunkumai;F{de nature à}būdingasl{(kam)}; jautrusl{(kam)}; sugebantisl{(ką)};F{ces recherches sont de nature à bouleverser la science}šie tyrimai gali padaryti perversmą moksle;I{3}gamta;F{les lois de la nature}gamtos dėsniai;F{peindre d’après nature}tapyti iš natūros;I{4}:F{en nature}natūra;F{payer en nature}mokėti natūral{(ne pinigais)};S{&rArr;}A{adj}A{inv}natūralus, tikras;F{bœuf nature}natūrali jautienal{(be priedų, be padažo)};F{café nature, noir}natūrali kava, juoda.
+0{naturel, -elle}[natyrɛl]S{&rArr;}A{adj}I{1}natūralus, tikras; realus; gamtos;F{eau minérale naturelle}natūralus mineralinis vanduo;F{soie naturelle}natūralus šilkas;F{sciences naturelles}gamtos mokslai;I{2}L{mat.}natūralusis;F{nombre entier naturel}sveikasis natūralusis skaičius;I{3}įgimtas, natūralus;F{les droits naturels de l’homme}įgimtos žmogaus teisės;F{il est naturel d’avoir cette opinion}natūralu turėti šią nuomonę;I{4}:F{fonctions naturelles}fiziologinės, kūniškos funkcijos;I{5}:F{enfant naturel}nesantuokinis vaikas;I{6}paprastas, atviras, nuoširdus;F{gaieté naturelle}nuoširdus linksmumas;S{&rArr;}A{m}I{1}įgimtas charakteris, būdas;F{il est d’un bon naturel}jis iš prigimties geras;F{le naturel de l’homme}įgimtos žmogaus savybės, įgimtas būdas;I{2}paprastumas, natūralumas;I{3}L{psn.}vietinis gyventojas;F{au naturel}natūraliai; be prieskonių;F{thon au naturel}tunas savo sultyse.
+0{naturellement}[natyrɛlm&#593;&#771;]A{adv}I{1}natūraliai, paprastai;I{2}suprantama, žinoma;F{tu as lu ce livre? – naturellement}ar tu perskaitei (skaitei) šią knygą? – žinoma.
+0{nature morte}[natyrmɔrt]A{f}natiurmortas.
+0{naufrage}[nofraʒ]A{m}I{1}laivo sudužimas; laivo žūtis;F{le naufrage du Titanic}Titaniko nuskendimas;F{faire naufrage}sudužti, skęstil{(apie laivą)};I{2}L{prk.}katastrofa; praradimas, netekimas;A{loc fig}F{faire naufrage au port}nepasisekti, kai esi visai prie tikslo;F{naufrage d’une entreprise}gamyklos bankrotas, žlugimas;F{naufrage des espoirs}vilčių sudužimas.
+0{naufragé, -ée}[nofraʒe]S{&rArr;}A{adj}paskendęs, sudužęsl{(apie laivą)};S{&rArr;}A{m},A{f}žmogus iš sudužusio skęstančio laivo;F{sauvetage des naufragés}skęstančio, sudužusio laivo keleivių gelbėjimas.
+0{naufrageur}[nofraʒœr]A{m}I{1}jūrų plėšikas;I{2}L{prk.}griovėjas;F{les naufrageurs de l’État}valstybės griovėjai.
+0{naupathie}[nopati]A{f}L{jūr.}jūros liga.
+0{nauséabond, -onde}[nozeab&#596;&#771;, -&#596;&#771;d]A{adj}I{1}šleikštus, pykinantis;I{2}L{prk.}bjaurus, atstumiantis; šlykštusl{(istorija, knyga)}.
+0{nausée}[noze]A{f}I{1}šleikštulys, vertimas vemti;I{2}pasišlykštėjimas, pasibjaurėjimas;F{avoir la nausée}pasišlykštėti.
+0{nauséeux, -euse}[nozeø, -øz]A{adj}sukeliantis šleikštulį;F{médicament nauséeux}vaistas, sukeliantis šleikštulį.
+0{nautique}[notik]A{adj}jūreivystės, navigacinis, laivybos;F{skis nautiques}vandens slidės.
+0{nautisme}[notism]A{m}vandens sportas.
+0{naval, -ale}[naval]A{adj}(A{pl}A{m}2{-als}) jūros, jūrinis;F{la bataille navale}jūros mūšis;F{école navale}jūreivystės mokykla.
+0{navet}[navɛ]A{m}I{1}L{bot.}ropė;F{navets potagers}maistinės ropės;F{navets fourragers}pašarinės ropės;I{2}L{prk.}prastas paveikslas, prastas filmas.
+0{navette^{1}}[navɛt]A{f}I{1}šaudyklė;I{2}maršrutinis (mikro)autobusas, taksi;F{prendre la navette}važiuoti maršrutiniu autobusu, taksi;A{loc}F{faire la navette}važinėti ten ir atgall{(į abu maršruto galus)};I{3}daugiakartinis kosminis laivas;I{4}pieniška bandelė sumuštiniams;F{navette au jambon}bandelė su kumpiu.
+0{navette^{2}}[navɛt]A{f}L{bot.}svėrė.
+0{navigabilité}[navigabilite]A{f}laivavimas, skraidymas;F{certificat de navigabilité}pažyma apie laivo tinkamumą plaukioti, lėktuvo tinkamumą skraidyti.
+0{navigable}[navigabl]A{adj}laivuojamas, tinkamas laivu plaukyti;F{rivière navigable}upė, kuria plaukioja laivai, laivuojama upė.
+0{navigant}A{m},0{-ante}A{f}[navig&#593;&#771;, -&#593;&#771;t]S{&rArr;}laivininkas, laivininkė;S{&rArr;}A{adj}plaukiojantis;F{le personnel navigant}laivo personalas.
+0{navigateur}A{m},0{-trice}A{f}[navigatœr, -tris]I{1}asmuo, kuris daug keliauja jūra;I{2}jūrininkas;I{3}L{av.},L{jūr.}šturmanas;I{4}A{m}navigatorius, aparatas nustatantis laivo ar lėktuvo nukrypimus nuo trasos;I{5}L{inf.}programinė įranga, leidžianti naršyti internete.
+0{navigation}[navigasj&#596;&#771;]A{f}I{1}laivyba, plaukiojimas;I{2}laivo, lėktuvo ar kosminio aparato vairavimas;I{3}navigacija;F{navigation radioélectrique}radioelektroninė navigacija;F{navigation spatiale}kosminė navigacija.
+0{naviguer}[navige]A{vi}I{1}plaukiotil{(apie laivą)};I{2}vairuotil{(lėktuvą, laivą)};F{savoir naviguer}mokėti laviruoti, suktis iš pavojų;A{loc}F{naviguer entre les écueils}sumaniai išvengti kliūčių, pavojų;I{3}L{prk.}L{šnek.}keliauti daug ir dažnai;I{4}L{inf.}:F{naviguer sur la Toile}naršyti po interneto tinklą.
+0{navire}[navir]A{m}laivas, jūros laivas;F{navire de commerce, de guerre}prekybos, karo laivas;F{navire transbordeur}keltas;F{navire-usine}laivas, apdorojantis jūroje žuvis, jūros gėrybes.
+0{navrant, -ante}[navr&#593;&#771;, -&#593;&#771;t]A{adj}liūdnas, apverktinas, širdį veriantis;F{une nouvelle navrante}liūdna naujiena.
+0{navrement}[navrəm&#593;&#771;]A{m}gilus liūdesys.
+0{navrer}[navre]A{vt}nuliūdinti, sujaudinti;F{être navré de}nuliūsti, būti nepatenkintam, prieštarauti;F{je suis navré de vous avoir dérangé}man labai nesmagu, kad jus sutrukdžiau.
+0{nazi, -ie}[nazi]S{&rArr;}A{m}nacistas, nacistė;S{&rArr;}A{adj}nacistinis;F{lutte contre le régime nazi}kova prieš nacistinį režimą, antinacistinė kova.
+0{nazisme}[nazism]A{m}nacizmas.
+0{N.B.C.}[ɛnbese]A{adj}A{inv}(L{sutr.}C{iš}2{Nucléaire-Biologique-Chimique}) branduolinio-biologinio-cheminio masinio naikinimo ginklas.
+0{ne (n’)}A{adv}C{de négation}ne;S{&rArr;}l{neigiamasis prieveiksmis}2{ne}l{vartojamas su žodžiais}2{pas, point, plus, guère, jamais, que, personne, rien}l{ir t}.C{t}.:F{il ne voit pas}jis nemato;F{il ne voit plus}jis nebemato;F{il ne voit point}jis visiškai nebemato;F{il ne voit personne}jis nieko nematol{(apie asmenį)};F{il ne voit rien}jis nieko nematol{(apie daiktus)};F{je n’ai qu’une}F{amie}aš turiu tik vieną draugę;F{il n’a pas que trois francs}jis turi ne tik tris frankus;F{il ne lui restait plus que sa sœur}be sesers jis nieko daugiau neturi;F{je n’ai jamais pensé qu’à lui}aš visada galvojau tik apie jį;F{je ne demande rien que la liberté}apart laisvės aš nieko neprašau;S{&rArr;}l{neigiamasis prieveiksmis}2{ne}l{vartojamas vienas}:I{1}C{kai kuriuose išsireiškimuose}:F{n’ayez crainte!}nebijokite!;F{n’importe!}nesvarbu!;I{2}l{po veiksmažodžių}2{cesser, pouvoir, oser}(+A{inf});C{po}2{si}:F{il n’ose}F{protester}jis nedrįsta protestuoti;F{je ne cesse de vous le répéter}aš nesiliauju jums tai kartoti;F{si je ne me trompe}jei aš neklystu;I{3}C{po}2{il y a, depuis que, voilà}:2{}F{il y a longtemps que je ne l’ai vu}seniai jo nemačiau;F{voilà bien longtemps que nous ne nous sommes rencontrés}štai jau daug laiko, kaip mes nesimatėm;I{4}C{po}A{pron}C{indéfini}:F{nul ne peut nier ses témoignages}niekas negali paneigti jo paliudijimų;I{5}C{po}A{conj}2{ni ... ni}:F{ni l’or ni la grandeur ne nous rendent heureux}nei auksas, nei didybė nepadaro mūsų laimingais;I{6}l{lyginant po žodžių}2{autre, autrement, meilleur, mieux, moindre, moins, pire, pis, plus}:F{il se porte moins bien que je ne le pensais}jis blogiau jaučiasi nei aš galvojau;I{7}C{po}A{loc conj}2{avant que ... ne, sans que ... ne, à moins que ... ne}:2{}F{partons avant qu’il ne pleuve}vykstam, kol nepradėjo lytil{(kol nelyja)};F{à moins que je ne me trompe}jei tik aš neklystu.
+0{né, née}[ne]A{adj}gimęs;F{premier-né}pirmagimis;F{dernier-né}paskutinysis gimęsl{(pagrandukas)};F{bien né, mal né}iš prigimties turintis gerų, blogų polinkių;F{un orateur-né}apsigimęs oratorius;F{né pour}turintis kam gabumų;F{Mme Dupont née Durand}ponia Diupon, mergautinė pavardė Diuran.
+0{néanmoins}[ne&#593;&#771;mw&epsilon;&#771;]A{adv},A{conj}vis dėlto, tačiau; nepaisant.
+0{néant}[ne&#593;&#771;]A{m}I{1}niekas;F{c’est un homme de néant}niekam vertas žmogus; F{pour néant}niekam, veltui;F{réduire_{qch}à néant}paversti į nieką;I{2}menkumas, niekingumas;I{3}nežinomybė;F{l’homme sort du néant, il rentre dans le néant}žmogus ateina iš nežinomybės ir grįžta į nežinomybę;I{4}L{fil.}nebūtis;F{«L’Être et le Néant» ouvrage de Sartre}Sartro veikalas "Būtis ir nebūtis".
+0{néantiser}[ne&#593;&#771;tize]A{vt}L{fil.}sunaikinti, išnaikinti, paversti į nieką.
+0{nébuleuse}[nebyløz]A{f}I{1}L{astr.}ūkas, ūkana;I{2}miglynas, dulkių ir dujų telkinys visatos erdvėje.
+0{nébuleux, -euse}[nebylø, -øz]A{adj}I{1}debesuotas, ūkanotas, rūškanas;F{ciel nébuleux}debesuotas, rūškanotas dangus;I{2}L{prk.}susirūpinęs, niūrus, neaiškus, rūškanas, miglotas;F{projets nébuleux}neaiškūs projektai.
+0{nébuliseur}[nebylizœr]A{m}purkštuvas;F{médicament vendu en nébuliseur}vaistas parduodamas su purkštuvu.
+0{nébulosité}[nebylozite]A{f}I{1}debesuotumas; ūkanotumas;I{2}neaiškumas, miglotumas;F{nébulosité d’une théorie}teorijos neaiškumas.
+0{nécessaire}[nesesɛr]S{&rArr;}A{adj}I{1}(C{à}A{qn}C{, à}A{qch}) reikalingas;F{les vitamines sont nécessaires à l’organisme}vitaminai reikalingi organizmui;I{2}būtinas, svarbus, esminis;I{3}neišvengiamas, privalomas;F{résultat nécessaire}neišvengiamas rezultatas; A{imp}F{il est nécessaire de}reikalinga;S{&rArr;}A{m}I{1}tai, kas reikalinga, būtina;F{le strict nécessaire}kas būtiniausia;I{2}dėžutė su tualeto reikmenimis, neseseras;F{nécessaire de voyage}reikmenys, būtini kelionėje.
+0{nécessairement}[nesesɛrm&#593;&#771;]A{adv}I{1}būtinai;I{2}neišvengiamai.
+0{nécessité}[nesesite]A{f}I{1}reikalingumas, reikalas;F{par nécessité}iš reikalo, iš prievartos;F{sans nécessité}be reikalo;I{2}būtinumas, būtinybė;F{objets, dépenses de première nécessité}pirmo būtinumo daiktai, išlaidos;I{3}poreikis;F{les nécessités de la vie}gyvenimo poreikiai;L{teis.}F{état de nécessité}būtinoji gintis;I{4}skurdas, vargas;F{être dans la nécessité}skursti, stokoti, kęsti nepriteklius.
+0{nécessiter}[nesesite]A{vt}reikalauti;F{ce projet nécessite de gros investissements}šis projektas reikalauja stambių investicijų.
+0{nécessiteux, -euse}[nesesitø, -øz]S{&rArr;}A{adj}vargingas, neturtingas;F{aider les familles nécessiteuses}padėti vargingoms šeimoms;S{&rArr;}A{m},A{f}varguolis, varguolė.
+0{nécrologe}[nekrɔlɔʒ]A{m}I{1}L{relig.}mirusių žmonių registras;I{2}žuvusių žmonių sąrašas.
+0{nécrologie}[nekrɔlɔʒi]A{f}nekrologas.
+0{nécromancie}[nekrɔm&#593;&#771;si]A{f}nekromantija, būrimas iššaukiant vėles, spiritizmas.
+0{nécropole}[nekrɔpɔl]A{f}nekropolis;F{nécropole grecque}graikų nekropolis.
+0{nectar}[nɛktar]A{m}nektaras.
+0{nectarine}[nɛktarin]A{f}nektarinas.
+0{Néerlandais}A{m},0{-aise}A{f}[neɛrl&#593;&#771;dɛ, -ɛz]olandas, olandė.
+0{néerlandais, -aise}[neɛrl&#593;&#771;dɛ, -ɛz]S{&rArr;}A{adj}olandų, olandiškas;S{&rArr;}A{m}nyderlandų kalba.
+0{nef}[nɛf]A{f}I{1}l{(bažnyčios)}nava;F{nef centrale, principale, latérale}centrinė, pagrindinė, šoninė nava;I{2}L{psn.}laivas.
+0{néfaste}[nefast]A{adj}nelaimingas, lemtingas, fatalus;F{néfaste à}kenksmingas.
+0{négateur, -trice}[negatœr, -tris]S{&rArr;}A{adj}neigiamas, kuris neigia;F{esprit négateur}neigiantis protas;S{&rArr;}A{m},A{f}neigėjas, neigėja.
+0{négatif, -ive}[negatif, -iv]S{&rArr;}A{adj}I{1}neigiamas;F{réponse négative}neigiamas atsakymas;F{phrase négative}neigiamas sakinys;F{particule négative}neigiama dalelė;I{2}negatyvusis;F{image négative}negatyvusis vaizdas;I{3}nulinis, neigiamas, minusinis;F{température négative}minusinė temperatūral{(žemiau nulio)};L{mat.}F{nombre négatif}neigiamas skaičius;F{rhésus négatif}neigiamas rėzus;I{4}blogas, kenksmingas;F{les effets négatifs d’une politique}blogi politikos rezultatai;S{&rArr;}A{m}I{1}L{fot.}negatyvas;I{2}A{f}neigiamas atsakymas;F{répondre par la négative}duoti neigiamą atsakymą.
+0{négation}[negasj&#596;&#771;]A{f}I{1}neigimas;F{négation de la vérité}tiesos paneigimas;I{2}L{gram.}neiginys;F{adverbes de négation}neigiamieji prieveiksmiai;F{auxiliaires de la négation (jamais, guère, plus etc.)}antroji neiginio dalis.
+0{négativement}[negativm&#593;&#771;]A{adv}neigiamai;F{réagir négativement}neigiamai reaguoti.
+0{négativisme}[negativism]A{m}negatyvizmas.
+0{négligé, -ée}[negliʒe]S{&rArr;}A{adj}nerūpestingas, apsileidęs;F{travail négligé}nestropus, nerūpestingas darbas;S{&rArr;}A{m}l{(rytinis, vakarinis, naktinis)}laisvas, moteriškas namų drabužis, negližė.
+0{négligeable}[negliʒabl]A{adj}menkas, nežymus; nedidelis;F{un risque négligeable}menka rizika;L{mat.}F{quantité négligeable}labai nežymus dydis;L{prk.}L{šnek.}F{considérer, traiter_{qn}comme (une) quantité négligeable}neatsižvelgti į kieno nors nuomonę, norus, dalyvavimą.
+0{négligemment}[negliʒam&#593;&#771;]A{adv}I{1}nerūpestingai, aplaidžiai;F{châle négligemment jeté sur les épaules}nerūpestingai ant pečių užmesta skara;I{2}abejingai;F{répondre négligemment}atsakyti abejingail{(abejingu tonu)}.
+0{négligence}[negliʒ&#593;&#771;s]A{f}nerūpestingumas; aplaidumas;F{avec négligence}nerūpestingai, aplaidžiai;F{par négligence}iš apsileidimo;F{une négligence criminelle}nusikalstamas aplaidumas.
+0{négligent, -ente}[negliʒ&#593;&#771;, -&#593;&#771;t]A{adj}nerūpestingas; neatidus, nestropus;F{employé négligent}nestropus tarnautojas.
+0{négliger}[negliʒe]A{vt}I{1}nesirūpinti, nekreipti dėmesio, neatsižvelgti;F{négliger sa santé}nesirūpinti savo sveikata;F{négliger ses enfants}atsainiai elgtis su savo vaikais, nesirūpinti jais;F{négliger de}neatlikti, užmiršti;F{négliger de fermer à clé}užmiršti užrakinti;I{2}nepaisyti, nesiskaityti;F{négliger la plus élémentaire prudence}nepaisyti elementariausio atsargumo;$2{se négliger}nežiūrėti savęsl{(savo sveikatos, drabužių)}.
+0{négoce}[negɔs]A{m}I{1}prekyba;F{le haut négoce}stambi prekyba; komercija;I{2}sandėris, biznis, užsiėmimas.
+0{négociabilité}[negɔsjabilite]A{f}derėjimasis, tarimasis, derybų vedimas.
+0{négociable}[negɔsjabl]A{adj}svarstytinas, diskutuotinas, dėl kurio deramasi;F{les conditions de ce contrat ne sont pas négociables}šio kontrakto sąlygos nediskutuotinos.
+0{négociant}A{m},0{-iante}A{f}[negɔsj&#593;&#771;, -j&#593;&#771;t]pirklys, pirklė, didmenininkas, didmenininkė; prekiautojas, prekiautoja;F{négociant international}tarptautinis prekiautojas.
+0{négociateur}A{m},0{-trice}A{f}[negɔsjatœr, -tris]derybininkas, derybininkė; prekybos agentas, agentė; tarpininkas, tarpininkė;F{les négociateurs du traité de paix}taikos sutarties derybininkai.
+0{négociation}[negɔsjasj&#596;&#771;]A{f}I{1}derybos;I{2}l{(vertybinių popierių)}pardavimas, perleidimas;F{être en négociation avec_{qn}}vesti su kuo derybas;F{engager, entamer des négociations}pradėti derybas;F{négociations sur le désarmement}nusiginklavimo derybos.
+0{négocier}[negɔsje]S{&rArr;}A{vi}užsiimti didmenine prekyba;S{&rArr;}A{vt}susitarti; vesti derybas;F{négocier une lettre de change (des titres)}perleisti, parduoti vekselį (akcijas);$2{se négocier}derėtis, tartis;F{un accord se négocie entre les deux pays}tariamasi dėl sutarties tarp abiejų šalių.
+0{nègre}A{m},0{négresse}A{f}[nɛgr, negrɛs]S{&rArr;}I{1}negras, negrė; juodaodis, juodaodė;A{loc}F{travailler comme un nègre}sunkiai dirbti, be poilsio dirbti;I{2}:F{petit-nègre}netaisyklinga prancūzų kalba;S{&rArr;}A{adj}I{1}tamsiai rudasl{(spalva)};F{une robe nègre}tamsiai rudos spalvos suknelė; I{2}negrų, negriškas.
+0{négrillon}A{m},0{-onne}A{f}[negrij&#596;&#771;, -ɔn]negriukas, negriukė.
+0{négritude}[negrityd]A{f}priklausymas juodajai rasei.
+0{négroïde}[negrɔid]A{adj}negridas, turintis juodajai rasei būdingų bruožų.
+0{neige}[nɛʒ]A{f}sniegas;F{la neige tombe}sninga;F{flocons de neige}snaigės;F{boule de neige}sniego gniūžtė;F{route recouverte de neige}apsnigtas kelias;F{ôter la neige}nuvalyti sniegą;F{pneus neige}žieminės padangos;F{bonhomme de neige}senis besmegenis;F{de neige}sniego;L{kul.}F{œufs à la neige}išplakti kiaušinių baltymai;F{cheveux de neige}pražilę plaukai, balti, sniego baltumo plaukai.
+0{neiger}[neʒe]A{vimp}snigti;F{il neige}sninga;F{il a neigé}prisnigo;F{il neigeait}snigo.
+0{neigeux, -euse}[nɛʒø, -øz]A{adj}I{1}snieginas, snieguotas, apsnigtas;F{cimes neigeuses}snieguotos viršūnės;I{2}sniego baltumo;F{peau neigeuse}labai balta oda.
+0{néné}[nene]A{m}L{šnek.}krūtisl{(moters)}.
+0{nénette^{1}}[nenɛt]A{f}L{šnek.}galva;A{loc}F{se casser la nénette}pavargti.
+0{nénette^{2}}[nenɛt]A{f}L{šnek.}mergaitė, jauna moteris;F{c’est sa nénette}tai jo mergina.
+0{nenni}[neni]A{adv}L{šnek.}ne.
+0{nénuphar}[nenyfar]A{m}L{bot.}vandens lelija;F{nénuphar blanc (nymphéa)}balta vandens lelija.
+0{néocapitalisme}[neokapitalism]A{m}neokapitalizmas.
+0{néoclassicisme}[neoklasisism]A{m}neoklasicizmas.
+0{néoclassique}[neoklasik]A{adj}neoklasikinis.
+0{néocolonialisme}[neokɔlɔnjalism]A{m}neokolonializmas.
+0{néofasciste}[neofaʃist]S{&rArr;}A{adj}neofašistinis;S{&rArr;}A{m},A{f}neofašistas, neofašistė.
+0{néoformation}[neofɔrmasj&#596;&#771;]A{f}L{med.}darinukas; piktybinis ar nepiktybinis auglys.
+0{néogothique}[neogɔtik]A{m}L{archit.}neogotika.
+0{néolithique}[neolitik]A{m}L{archeol.}neolitas.
+0{néologie}[neɔlɔʒi]A{f}neologizmų, naujadarų sudarymas.
+0{néologisme}[neɔlɔʒism]A{m}L{lingv.}neologizmas, naujadaras.
+0{néon}[ne&#596;&#771;]A{m}L{chem.}neonas;L{lingv.}F{enseigne lumineuse au néon}neonu apšviesta iškaba.
+0{néophyte}[neɔfit]A{m},A{f}neofitas, neofitė; asmuo, neseniai priėmęs krikščioniškąjį tikėjimą.
+0{néoréalisme}[neorealism]A{m}neorealizmas.
+0{népérien, -ienne}[neperj&epsilon;&#771;, -jɛn]A{adj}Neperio;F{logarithmes népériens}Neperio logaritmai.
+0{néphrite^{1}}[nefrit]A{f}L{med.}nefritas, inksto uždegimas.
+0{néphrite^{2}}[nefrit]A{f}L{miner.}nefritas.
+0{néphrologie}[nefrɔlɔʒi]A{f}L{med.}nefrologija.
+0{nerf}[nɛr]A{m}I{1}L{anat.}nervas;F{inflammation d’un nerf}nervo uždegimas;F{ôter le nerf d’une dent}pašalinti danties nervą;I{2}A{pl}:F{nerfs}nervų sistemal{(reguliuojanti kitų organų sistemų funkcijas)}, nervai;F{avoir les nerfs solides, des nerfs d’acier}būti stiprių nervų, geležinių nervų;F{avoir les nerfs fragiles, irritables}būti nervingam;A{loc}F{c’est un paquet de nerfs}labai nervingas žmogus, nervų kamuolys;F{avoir les nerfs tendus, à vif, à fleur de peau};L{šnek.}F{en boule, en pelote}būti labai nervingam, susierzinusiam, supykusiam;F{être à bout de nerfs}nebesusivaldyti, būti labai susinervinusiam;I{3}sausgyslė;F{une viande dure, pleine de nerfs}kietal{(vienos sausgyslės)}mėsa;I{4}L{prk.}jėga, energija;F{avoir du nerf}turėti energijos.
+0{nerveusement}[nɛrvøzm&#593;&#771;]A{adv}I{1}nervingai;I{2}L{prk.}energingai.
+0{nerveux, -euse}[nɛrvø, -øz]S{&rArr;}A{adj}I{1}nervų, nervinis;F{système nerveux}nervų sistema;F{tension nerveuse}nervinė įtampa;F{maladies nerveuses}nervų ligos;F{dépression nerveuse}nervinė depresija;I{2}nervingas, irzlus, jautrus, nekantrus;F{un tempérament nerveux}nervingas, irzlus temperamentas, būdas;I{3}skaidulingas, gyslotas;F{mains nerveuses}gyslotos rankos;F{viande nerveuse}skaidulinga mėsa;I{4}L{prk.}greitas, energingas;F{voiture nerveuse}greita mašina;F{style nerveux}gyvas, vaizdingas stilius;S{&rArr;}A{m},A{f}nervingas žmogus.
+0{nervosité}[nɛrvozite]A{f}nervingumas, dirglumas.
+0{nervure}[nɛrvyr]A{f}I{1}L{bot.},L{zool.}gysla;F{les nervures d’une feuille}lapo gyslos;F{les nervures de l’aile d’un insecte}vabzdžio sparno gyslelės;I{2}L{archit.}nerviūra, dekoratyvinis architektūros elementas, būdingas gotikai;F{les nervures d’une voûte gothique}gotiško skliauto nerviūros;I{3}lėktuvo sparno santvara.
+0{net, nette}[nɛt]S{&rArr;}A{adj}I{1}švarus;F{une vaisselle nete}švarus indas;A{loc}F{avoir les mains netes}turėti švarias rankasl{(švariai nuplautas)},L{prk.}būti nepriekaištingam;I{2}atsikratyti, išvalyti;A{loc}F{faire place nete}išvalyti vietovę,L{prk.}išmesti, atsikratyti nereikalingų daiktų;I{3}L{prk.}grynas;F{avoir la conscience nete}turėti gryną sąžinę; L{kom.}F{bénéfice, produit net}grynas pelnas, grynas produktas;F{net de}laisvasl{(nuo)}, nepriklausantis;F{net d’impôt}neapmokestinamas;I{4}aiškus, ryškus;F{diction très nete}labai aiški tarsena, dikcija;S{&rArr;}A{adv}I{1}staiga;F{s’arrêter net}staiga sustoti;I{2}L{psn.}aiškiai, kategoriškai.
+0{nettement}[nɛtm&#593;&#771;]A{adv}I{1}aiškiai, ryškiai;F{expliquer nettement}aiškiai paaiškinti;I{2}tiesiai, atvirai;F{répondre nettement}atvirai atsakyti;I{3}L{prk.}labai, daug;F{il va nettement mieux}jis daug geriau jaučiasi.
+0{netteté}[nɛtte]A{f}I{1}švarumas;I{2}aiškumas, ryškumas, nedviprasmiškumas;F{la netteté des idées}minčių aiškumas;F{netteté}F{d’une photo}fotografijos ryškumas.
+0{nettoiement}[netwam&#593;&#771;]A{m}I{1}asenizacija, išvalymas;F{nettoiement des rues}gatvių valymas;F{service du nettoiement}valyklal{(drabužių)};I{2}:F{nettoiement des terres}pasėlių išravėjimas, miško valymas;F{nettoiement des grains}grūdų valymas.
+0{nettoyable}[netwajabl]A{adj}galimas nuvalyti, nuvalomas; išvalomas;F{une robe difficilement nettoyable}sunkiai išvaloma suknelė.
+0{nettoyage}[netwajaʒ]A{m}I{1}(nu)valymas; išvalymas, skalbimas;F{nettoyage à sec}sausas valymas;F{nettoyage du linge}baltinių skalbimas;F{nettoyage des vêtements}drabužių valymas;I{2}L{kar.}:F{nettoyage d’un village occupé par l’ennemi}priešo užimto kaimo išlaisvinimas;I{3}L{šnek.}staigus atleidimas iš darbo.
+0{nettoyant, -ante}[netwaj&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}valantis;S{&rArr;}A{m}valiklis, ploviklis.
+0{nettoyer}[netwaje]A{vt}I{1}(nu)valyti; (iš)valyti, (iš)skalbti, švarinti;F{nettoyer la maison}išvalyti namus;F{nettoyer les casseroles, une baignoire}(iš)valyti, (iš)šveisti puodus, vonią;F{nettoyer à l’eau}išplauti vandeniu;F{nettoyer un jardin}(iš)ravėti daržą;I{2}ištuštinti;F{nettoyer son compte en banque}ištuštinti banko sąskaitą;I{3}(iš)valytil{(vietą)}, atsikratytil{(pavojingų žmonių, priešų)};I{4}L{šnek.}pašalinti, užmušti, likviduoti.
+0{nettoyeur}A{m},0{-euse}A{f}[netwajœr, -øz]I{1}valytojas, valytoja;I{2}A{m}valytuvas.
+0{neuf^{1}}[nœf]S{&rArr;}A{déterm}C{numér,}A{adj}C{numér card}A{inv}devyni;F{neuf livres}devynios knygos;F{neuf ans}[nœv&#593;&#771;]devyneri metai;F{neuf heures}[nœvœr]devynios valandos;F{les neuf dixièmes}devynios dešimtosios;S{&rArr;}A{adj numér ord}devintas;F{Louis IX}Liudvikas Devintasis;F{nous sommes le neuf janvier}sausio devinta;F{nous sommes neuf}mes devyniese;S{&rArr;}A{m}A{inv}devynil{(skaičius)};F{neuf pour cent (9%)}devyni procentai;F{elle a eu neuf sur 10 en anglais}iš anglų ji turėjo devynis iš dešimt balų.
+0{neuf^{2}, neuve}[nœf, nœv]S{&rArr;}A{adj}I{1}naujas;I{2}neprityręs, neįgudęs;F{le regard neuf de l’enfant}neįgudęs vaiko žvilgsnis;S{&rArr;}A{m}tai, kas nauja, orginalu;F{à neuf}naujai;F{remettre à neuf}atnaujinti;F{appartement refait à neuf}naujai pertvarkytas, perdažytas butas;F{de neuf}naujas, nedėvėtasl{(drabužis irL{pan.})};F{être vêtu de neuf}būti apsirengusiam naujais drabužiais;L{šnek.}F{_{qch}de neuf}kas nors naujo;F{quoi de neuf?}kas naujo?;F{rien de neuf}nieko naujo;F{il vaut mieux acheter du neuf que de l’occasion}geriau apsimoka pirkti naują nei panešiotąl{(dėvėtą)}.
+0{neurasthénie}[nørasteni]A{f}L{med.}neurastenija, viena iš neurozės formų.
+0{neurolinguistique}[nørol&epsilon;&#771;gɥistik]A{f}neurolingvistika.
+0{neurologie}[nørɔlɔʒi]A{f}neurologija.
+0{neurone}[nørɔn]A{m}neuronas, nervinė ląstelė.
+0{neutralisation}[nøtralizasj&#596;&#771;]A{f}I{1}neutralizavimas;L{lingv.}fonologinės priešpriešosl{(opozicijos)}kalboje išnykimas;L{med.}F{neutralisation d’un agent nocif par un anticorps}kenksmingo veiksniol{(faktoriaus)}neutralizavimas antikūniu;I{2}L{polit.}valstybės pripažinimas neutralia, draudimas joje vykdyti karo veiksmus;F{neutralisation du personnel sanitaire}sanitarinio personalo neliečiamumas.
+0{neutraliser}[nøtralize]A{vt}I{1}daryti neutralų, neutralizuoti;I{2}L{chem.}neutralizuoti, sumažinti, susilpninti;I{3}daryti nepavojingą, nekenksmingą;F{neutraliser la circulation}laikinai sustabdyti judėjimą;$2{se neutraliser}tapti neutraliu.
+0{neutralisme}[nøtralism]A{m}neutralizmas, neprisijungimo politikal{(prie karinių blokų, bendradarbiavimo)}.
+0{neutralité}[nøtralite]A{f}neutralitetas, neutralumas;F{garantir, violer la neutralité d’un État}garantuoti, pažeisti valstybės neutralitetą.
+0{neutre}[nøtr]S{&rArr;}A{adj}I{1}neutralus; bešališkas;I{2}L{lingv.}niekatrasisl{(apie giminę)};I{3}L{zool.}belytis;I{4}L{mat.}nulinis;I{5}L{chem.}neutralus, neduodantis nei šarminės, nei rūgščio reakcijos;I{6}:F{style neutre}neišraiškus, neturintis emocinio atspalvio stilius;S{&rArr;}A{m}I{1}L{lingv.}bevardė (C{niekatroji}) giminė;I{2}L{el.}neutralė.
+0{neuvaine}[nœvɛn]A{f}L{relig.}novena, maldos, trunkančios devynias dienas.
+0{neuvième}[nœvjɛm]S{&rArr;}A{adj numér ord}devintas;F{le IXe siècle}devintasis amžius;F{une chambre au neuvième}kambarys devintame aukštel{(L{pr.}dešimtame)}; F{quatre neuvièmes}keturios devintosios (4/9);F{elle est neuvième sur la liste}sąraše ji devinta;S{&rArr;}A{m},A{f}devintoji dalis;F{le neuvième d’une longueur}devintoji ilgio dalis.
+0{neveu}[n(ə)vø]A{m}sūnėnas.
+0{névralgie}[nevralʒi]A{f}L{med.}neuralgija.
+0{névrite}[nevrit]A{f}L{med.}neuritas.
+0{névrose}[nevroz]A{f}L{med.}neurozė.
+0{névrotique}[nevrɔtik]A{adj}neurozinis.
+0{newsmagazine}[njuzmagazin]A{m}L{angl.}savaitinis, iliustruotas žurnalas apie bylų, tyrimų, reportažų aktualijas.
+0{newton}[njutɔn]A{m}niutonas, jėgos mato vienetas (A{symb}3{N}).
+0{nez}[ne]A{m}I{1}nosis;F{long nez}ilga nosis;F{nez droit}tiesi nosis;F{nez camus, écrasé}priplota nosis;F{nez épaté, retroussé}riesta nosis;F{nez aquilin, busqué}kumpa nosis;F{nez en bec d’aigle}ereliška nosis;F{se faire refaire le nez}pasidaryti plastinę nosies operaciją;F{aspirer, souffler, respirer par le nez}įkvėpti, iškvėpti, kvėpuoti per nosį;F{parler du nez}kalbėti per nosį, sniaukroti;F{saigner du nez}kraujuoti iš nosies;F{à vue de nez}iš akies, apytikriai;L{šnek.}F{se manger, se bouffer le nez}smarkiai ginčytis;F{avoir la goutte, la morve au nez}lašėti, tekėti snargliui;F{mouche ton nez, mouche-toi}nusišnypšk nosį;A{loc}F{à plein nez}labai stipriai;F{ça sent le gaz à plein nez}labai stipriai jaučiamas dujų kvapas;L{šnek.}F{gagner les doigts dans le nez}be didelio vargo, be didelių sunkumų; pasiekti ką nors, gauti;F{se piquer le nez}nusigerti;F{avoir un verre, un coup dans le nez}būti išgėrusiaml{(būti su raudona nosimi)};L{šnek.}F{avoir_{qn}dans le nez}nekęsti ko;I{2}veidas, galva;F{montrer son nez}pasirodyti;F{montrer le bout de son nez}trumpam pasirodyti;A{loc fam}F{mettre le nez dehors}išeiti;F{le nez en l’air, au vent}pakelta galva;F{baisser le nez}nuleisti galvą, nukabinti nosį;F{mettre, fourrer le nez dans les affaires d’autrui}kištis ne į savo reikalus;F{se trouver nez à nez avec_{qn}}netikėtai su kuo susitikti;I{3}uoslė, kvapas; įžvalgumas;F{il a bon nez}jis turi gerą uoslę;A{loc}F{avoir du nez}būti įžvalgiam, gerai skirti kvapusl{(vyno, kvepalų)};I{4}snukis, kiaulės šnipas;F{taureau qui porte un anneau dans le nez}jautis su žiedu snukyje;I{5}atsikišusi, smaili daikto dalisl{(laivo priekis, bato galas irL{pan.})}.
+0{ni}[ni]A{conj}C{négative}:I{1}2{ni}l{vartojama}l{su kitu neiginiu:}F{ne, ne ... pas, point, rien, jamais, personne}nei, ir ne, ir nei, arba;F{je ne crois pas qu’il veuille vous voir ni vous écrire}aš nemanau, kad jis norėtų jus matyti arba jums parašyti;F{je ne puis ni ne veux le faire}aš negaliu (o) ir nenoriu tai daryti;F{il n’a jamais eu d’amis ni de camarades}jis niekada neturėjo bičiulių nei draugų;F{il n’est ni blanc ni noir}jis nei baltas, nei juodas;I{2}:F{ni ... ni}nei ... nei;F{il ne dit ni oui ni non}jis nesako nei taip, nei ne;F{ni toi ni moi ne partirons}nei aš, nei tu nevyksime;F{tel que je suis ni meilleur ni pire}toks, koks aš esu, nei geresnis, nei blogesnis;I{3}2{ni}l{vartojama}C{su}F{sans, sans que}l{(+A{subj}) ir be}:F{du thé sans sucre ni lait}arbatos be cukraus ir be pieno;F{il est parti sans que son père ni sa mère sache}jis išvyko be tėvo ir be mamos žinios.
+0{niable}[njabl]A{adj}galimas paneigti, neigiamas;F{cela n’est pas niable}to negalima neigti.
+0{niais, niaise}[njɛ, njɛz]S{&rArr;}A{adj}kvailas;F{air niais}kvaila išvaizda;S{&rArr;}A{m},A{f}kvailys, kvailė;F{pauvre niais!}vargšas naivuolis, kvailelis!
+0{niaiserie}[njɛzri]A{f}kvailystė, niekai;F{il ne dit que des niaiseries}jis kalba vien kvailystes.
+0{niche}[niʃ]A{f}I{1}L{archit.}niša;I{2}būdal{(šuns)};F{chien à la niche}šuo būdoje;I{3}išdaiga, pokštas;F{faire des niches à_{qn}}(iš)krėsti kam pokštus.
+0{nichée}[niʃe]A{f}l{(paukščių)}jaunikliai;F{nichée de chiens}šunų jaunikliai.
+0{nicher}[niʃe]S{&rArr;}A{vi}I{1}sukti, krauti lizdą;I{2}L{šnek.}gyventi, įsikurti;F{où niche-t-il?}kur jis apsistojo?;S{&rArr;}A{vt}L{šnek.}padėti, patalpinti, apgyvendinti;F{nicher sa tête sur l’épaule de_{qn}}padėti galvą ant kieno peties;$2{se nicher}I{1}krauti lizdą;I{2}įsitaisyti, prisiglausti.
+0{nichet}[niʃɛ]A{m}padėlys, gūžtoje laikomas kiaušinis.
+0{nichoir}[niʃwar]A{m}gūžta, lizdas.
+0{nickel}[nikɛl]A{m}nikelis.
+0{nicodème}[nikɔdɛm]A{m}L{šnek.}kvailys.
+0{nicotine}[nikɔtin]A{f}nikotinas.
+0{nid}[ni]A{m}I{1}lizdas; gūžta;F{nid d’écureuil}voverės landa;F{nid de souris}pelės urvas;F{nid de fourmis}skruzdėlynas;L{šnek.}F{nid à rats}lūšna, urvas;F{nid d’aigle}aukštai esantis pastatasl{(pilis irL{pan.})};F{nids de poule}kelio duobės;L{jūr.}F{nid-de-pie}stebėjimo postas ant stiebo;I{2}L{prk.}:F{nid-d’abeilles}ažūrinis rankdarbis;F{serviette de toilette nid-d’abeilles}korėto audinio rankšluostis;L{elektrotech.}F{bobinage en nid-d’abeille}korėtoji apvija;I{3}:F{un nid douillet}jaukus lizdelis (butas);F{nid d’ange}kūdikio vokelis;I{4}L{prk.}:F{nid de}landynė;F{nid de brigands}plėšikų landynė.
+0{nidifier}[nidifje]A{vi}sukti lizdą;F{les oiseaux nidifient au printemps}paukščiai pavasarį suka lizdus.
+0{nièce}[njɛs]A{f}dukterėčia.
+0{nielle^{1}}[njɛl]A{f}L{bot.}kūlė;F{nielle des blés}javų kūlė.
+0{nielle^{2}}[njɛl]A{m}juodis, juodasis emalis, nielas.
+0{nieller}[njele]A{vt}inkrustuoti, puošti nielu.
+0{nielleur}[njelœr]A{m}nielo, nielažo graveris.
+0{nième, énième}[ɛnjɛm]S{&rArr;}A{adj}n-tasis;L{mat.}F{puissance nième}n-tasis laipsnis;S{&rArr;}A{f}n kartų;L{šnek.}F{je vous le répète pour la nième fois}aš jums tai kartoju n-tąjį kartą.
+0{nier}[nje]A{vt}I{1}neigti; paneigti;F{l’accusé nie tout}kaltinamasis viską neigia;F{nier un fait}(pa)neigti faktą;F{nier que}f{(+A{indic})}, (+A{subj}):F{il nie qu’il est venu à quatre heures}jis neigia, kad jis atėjo ketvirtą valandąl{(bet jis atėjo)};F{il nie qu’il soit venu}jis neigia, kad atėjol{(nežinoma, ar jis atėjo, ar ne)};I{2}išsiginti, nepripažinti;F{nier une dette, sa signature}išsiginti skolos, nepripažinti parašo.
+0{nigaud, -aude}[nigo, -od]S{&rArr;}A{adj}kvailas;S{&rArr;}A{m},A{f}kvailys, kvailė; kvaiša, paikas žmogus;F{c’est un grand nigaud}visai kvailas;F{gros nigaud}kvailelis.
+0{nigauderie}[nigodri]A{f}kvailystė, niekniekiai.
+0{night-club}[najtklœb]A{m}(A{pl}2{night-clubs})L{angl.}naktinis klubas (baras).
+0{nihilisme}[niilism]A{m}L{fil.}nihilizmas.
+0{nihiliste}[niilist]A{m},A{f}nihilistas, nihilistė.
+0{nimbe}[n&epsilon;&#771;b]A{m}aureolė, nimbas, aukso spalvos ratilas aplink galvą.
+0{nimbus}[n&epsilon;&#771;bys]A{m}didelis, žemas, tamsus lietaus (sniego) debesis.
+0{niolo}[njɔlo]A{m}avies (ožkos) pieno sūris, pagamintas Korsikoje.
+0{nipper}[nipe]A{vt}L{šnek.}L{psn.}aprengti;$2{se nipper}apsirengti, išsipuošti.
+0{Nippon}A{m},0{-one}A{f},0{-onne}A{f}[nip&#596;&#771;, -ɔn]japonas, japonė.
+0{nippon, -one, -onne}[nip&#596;&#771;, -ɔn]A{adj}japoniškas, Japonijos.
+0{nique}[nik]A{f}:F{faire la nique à_{qn}}pasityčioti iš ko, rodyti špygą.
+0{nirvana}[nirvana]A{m}nirvana.
+0{nitrate}[nitrat]A{m}nitratas, salietra.
+0{nitrobactérie}[nitrobakteri]A{f}nitrobakterija.
+0{nitroglycérine}[nitrogliserin]A{f}nitroglicerinas.
+0{nival, -ale}[nival]A{adj}(A{pl}A{m}2{-aux}[-o]) nivalinis, sniego.
+0{nivéal, -ale}[niveal]A{adj}(A{pl}A{m}2{-aux}[-o])L{bot.}žydintis sniege;F{l’edelweiss, fleur nivéale}edelveisas, sniege žydinti gėlė.
+0{niveau}[nivo]A{m}I{1}L{tech.}gulsčiukas, nivelyras;I{2}:F{surface de niveau}horizontalioji plokštuma;F{courbe de niveau}izohipsė, žemėlapio linija;F{passage à niveau}pervažal{(geležinkelio)};I{3}lygmuo, lygis;F{niveau de la mer}jūros lygis;F{au niveau de}lygyje, pagal, sulig;F{se mettre au niveau d’une personne}prilygti kokiam asmeniui;L{lingv.}F{niveaux de langue}kalbos lygmenysl{(literatūrinė, šnekamoji)};I{4}:F{niveau de vie}pragyvenimo lygis;F{le haut niveau de vie des pays riches}turtingų šalių aukštas pragyvenimo lygis.
+0{niveler}[niv(ə)le]A{vt}I{1}niveliuoti;I{2}L{tech.}išlygintil{(su gulsčiuku, nivelyru)};I{3}L{prk.}sulyginti;F{niveler les profits}sulyginti, suvienodinti pelną.
+0{niveleur}A{m},0{-euse}A{f}[niv(ə)lœr, -øz]I{1}niveliuotojas, niveliuotoja;I{2}L{prk.}L{niek.}(svieto) lygintojas.
+0{nivellement}[nivɛlm&#593;&#771;]A{m}I{1}sulyginimas, niveliavimas;I{2}L{prk.}:F{le nivellement des rangs}padėties sulyginimas.
+0{nobélisable}[nɔbelizabl]A{m},A{f}asmuo, galintis gauti Nobelio premiją.
+0{nobiliaire}[nɔbiljɛr]S{&rArr;}A{adj}aristokratiškas, kilmingas;S{&rArr;}A{m}kilmingų šeimų registras.
+0{noble}[nɔbl]S{&rArr;}A{adj}I{1}kilnus, didis, didingas, didžiadvasis, aristokratiškas;I{2}gyvybiškai svarbus, taurus, natūralus;F{parties nobles}gyvybiškai svarbūs organail{(širdis, smegenys)};F{métaux nobles}taurieji metalai;F{matières nobles}natūralios medžiagosl{(medis, vilna)};S{&rArr;}A{m},A{f}aristokratas, aristokratė; kilmingas žmogusl{(bajoras, lordas, patricijus irL{pan.})}.
+0{noblesse}[nɔblɛs]A{f}I{1}didingumas, kilnumas;I{2}garbės vardasl{(titulas)};A{loc prov}F{noblesse oblige}aukšta padėtis įpareigoja;I{3}aristokratija, didikai; diduomenė; aukštuomenė;F{appartenir à la haute noblesse}priklausyti aukštuomenei.
+0{noce}[nɔs]A{f}I{1}vestuvės;F{voyage de noces}povestuvinė kelionė;F{épouser_{qn}en secondes noces}antrą kartą vesti;F{noces d’argent, d’or, de diamant, de platine}sidabrinės (25 metų), auksinės (50 metų), deimantinės (60 metų), platininės (70 metų) vestuvės;I{2}vestuvininkai, vestuvių palydos dalyviai;I{3}L{šnek.}:F{faire la noce}lėbauti, puotauti.
+0{nocif, -ive}[nɔsif, -iv]A{adj}kenksmingas, pavojingas;F{gaz nocif}kenksmingos dujos.
+0{noctambule}[nɔkt&#593;&#771;byl]A{m},A{f}I{1}nakviša, lunatikas, lunatikė;I{2}L{šnek.}naktibalda.
+0{noctuelle}[nɔktɥɛl]A{f}naktinis drugelis.
+0{nocturne}[nɔktyrn]S{&rArr;}A{adj}naktinis;S{&rArr;}A{m}I{1}L{muz.}noktiurnas;F{les nocturnes de Chopin}Šopeno noktiurnai;I{2}nakties paukštisl{(pelėda)};I{3}darbo laiko prailginimasl{(parduotuvių, parodų salių irL{pan.})};F{nocturne le mercredi jusqu’à 22 h}trečiadieniais dirba iki 22 val. vakaro.
+0{nodule}[nɔdyl]A{m}I{1}L{med.}mazgelis;F{nodule cancéreux}vėžinis (piktybinis) mazgelis, folikulas;I{2}L{geol.}gniutulas, mazgas.
+0{noduleux, -euse}[nɔdylø, -øz]A{adj}mazguotas, gumbuotas.
+0{Noël}[nɔɛl]A{m}I{1}L{relig.}Kalėdos;F{messes de Noël}vidurnakčio mišios, bernelių mišios; piemenėlių mišios;F{la crèche de Noël}prakartėlė;F{sapin, arbre de Noël}Kalėdų eglė;F{réveillon de Noël}Kūčios;F{joyeux Noël!}linksmų Kalėdų!;F{père Noël}Kalėdų senelis;F{vacances de Noël}Kalėdų atostogos;F{pour Noël, à Noël, elle est partie faire du ski}per Kalėdas ji išvyko slidinėti;I{2}:F{le petit noël}kalėdinė dovanėlė;F{donner aux enfants leurs petits Noëls}vaikams duoti kalėdines dovanėles.
+0{nœud}[nø]A{m}I{1}mazgas;F{faire un nœud}surišti mazgą;F{nœud double}dvigubas mazgas;F{nœud gordien}Gordijaus mazgas;I{2}L{jūr.}mazgas, laivų greičio vienetas;I{3}surištas kaspinas;F{porter des nœuds dans les cheveux}nešioti plaukuose kaspinus;F{nœud papillon}peteliškė;I{4}kamuolys, gumulas, gniutulas;F{nœud de vipères}gyvačių gumulas;I{5}saitai, ryšiai;I{6}transporto mazgas; geležinkelio mazgas;I{7}L{el.}mazgas; elektros grandinės mazgas.
+0{noir, -e}[nwar]S{&rArr;}A{adj}I{1}juodas;F{chat noir}juodas katinas;F{noir comme (du) jais, du charbon}juodas kaip smala, kaip anglis;I{2}juodaodis;F{une femme noire}juodaodė moteris;F{le problème noir aux État-Unis}juodaodžių problema JAV;I{3}tamsus;F{il faisait nuit noire}buvo tamsi naktis;F{cheveux noirs}tamsūs plaukai; labai tamsiai rudi;I{4}niūrus, rūškanas, liūdnas, juodas;F{j’ai des idées noires}mane apniko liūdnos mintys;F{ciel noir}apsiniaukęs dangus;I{5}nešvarus; suteptas;F{avoir les mains noires}būti nešvariomis rankomis;L{šnek.}F{les gueules noires}angliakasiai;F{noir de...}juodas nuo...;F{mur noir de suie}siena juoda nuo suodžių;I{6}L{prk.}nešvarus, juodas; niekšiškas; nelegalus;F{magie noire}juodoji magija;F{film noir}siaubo filmas;F{marché noir}juodoji rinka;F{travail au noir}nelegalus darbas;F{la caisse noire}slapti fondai;I{7}L{šnek.}girtas, nusigėręs;I{8}sunkus, sudėtingas, pavojingas;F{c’est le point noir de leur programme}tai sunkiausi jų programos punktai;F{les points noirs de la circulation}pavojingiausios kelio vietos;S{&rArr;}A{m}I{1}juoda spalva;F{porter du noir, être en noir}vilkėti juodais drabužiaisl{(esant gedului)};A{loc}F{c’est écrit noir sur blanc}juodu ant balto parašyta;I{2}sutemos, naktis; tamsa;L{šnek.}F{il a peur du noir}jis bijo tamsos;I{3}juodi dažai; juodai dažanti medžiaga;F{mettre du noir sur ses cils}dažyti juodai blakstienas;F{avoir du noir sur la joue}išsitepti juodai skruostą;I{4}L{prk.}juoduma;L{šnek.}liūdnumas;F{en noir, au noir}juodai;F{voir tout en noir}viską matyti juodai;I{5}A{m},A{f}juodaodis, juodaodė; negras, negrė.
+0{noirâtre}[nwaratr]A{adj}juosvas, juodokas, apytamsis;F{couleur noirâtre}juosva spalva.
+0{noiraud, -aude}[nwaro, -od]A{adj}tamsios odos, tamsių plaukų;F{face noiraude}tamsiaveidisl{(baltosios rasės)}.
+0{noirceur}[nwarsœr]A{f}I{1}juodumas;F{noirceur de l’encre}rašalo juodumas;I{2}niekšiškumas, apgaulė, klastingumas; apmaudas;F{la noirceur d’un regard}žvilgsnio klastingumas;F{tramer, méditer quelque noirceur}sąmokslauti, rengti, apgalvoti kokią apgaulę.
+0{noircir}[nwarsir]S{&rArr;}A{vi}pajuõsti; pajuoduoti;F{ce tableau a noirci}šis paveikslas pajuodo;S{&rArr;}A{vt}I{1}šmeižti, juodinti;F{noircir la réputation de_{qn}}juodinti kieno reputaciją;I{2}ištepti juodai;F{le charbon noircit les mains}anglis juodina rankas; supurvinti, sudėmėti;$2{se noircir}I{1}eiti juodyn, juosti, patamsėti;I{2}L{šnek.}pasigerti.
+0{noircissement}[nwarsism&#593;&#771;]A{m}pajuodavimas; patamsėjimas;F{noircissement du papier sensible à la lumière}jautraus šviesai popieriaus pajuodavimas.
+0{noircisseur}[nwarsisœr]A{m}L{šnek.}terlius;F{noircisseur de papier}rašeiva (prastas rašytojas).
+0{noircissure}[nwarsisyr]A{f}juoda dėmė; pajuodavimas; vyno juodavimasl{(pasikeitimas į bloga)}.
+0{noise}[nwaz]A{f}ginčas, disputas;F{chercher (des) noise(s) à_{qn}}ieškoti kliauties, ginčytis.
+0{noisetier}[nwaz(ə)tje]A{m}L{bot.}lazdynas.
+0{noisette}[nwazɛt]S{&rArr;}A{f}I{1}riešutasl{(lazdyno)}; F{cueillir des noisettes}skinti, raškyti riešutus;F{un goût de noisette}riešutų skonis;I{2}riešuto dydžio daiktas;F{mettre une noisette de beurre sur une escalope}įdėti riešuto dydžio sviesto ant eskalopo;S{&rArr;}A{adj}A{inv}riešutų spalvos;F{couleur (de) noisette}riešuto spalva;F{elle a des yeux noisette}jos akys pilkai rusvos, riešuto spalvos.
+0{noix}[nwa]A{f}I{1}riešutasl{(graikiškas)};F{gauler des noix}numušti riešutus;F{cueillir des noix}(nu)raškyti riešutus;F{huile de noix}riešutų alyva;F{écaler des noix}gliaudyti, gvildenti riešutus;F{casse-noix}spaustukai riešutams;I{2}įvairūs vaisiai, panašūs į riešutus;F{noix de coco}kokoso riešutas;F{noix d’acajou (de cajou)}anakardžių riešutai; F{une noix de beurre}sviesto gabalėlis sulig riešutu;I{3}:F{noix de bœuf}užpakalinio jautienos kumpio riebalų gumulėlis;I{4}L{šnek.}kvailys.
+0{nom}[n&#596;&#771;]A{m}I{1}vardas, pavardė;F{nom de famille}pavardė;F{nom, prénom, domicile}pavardė, vardas, gyvenamoji vieta;F{avoir, porter tel nom}būti vardu, turėti tokią pavardę;F{nom de jeune fille}mergautinė pavardė;F{nom d’une femme mariée}ištekėjusios moters pavardė;F{nom patronymique}tėvavardis;F{nom de baptême, petit nom}krikšto vardas;F{chercher un nom pour un bébé}rinkti vaikui vardą;F{franciser son nom}suprancūzinti savo vardą;F{se faire un nom}pasidaryti garsiu, išgarsėti; I{2}vardas, pavadinimasl{(gyvulio, gatvės, upės irL{pan.})};F{quel est le nom de cette rue?}kaip vadinasi ši gatvė?;A{interj}F{nom d’une pipe!, nom d’un chien!, nom d’un petit bonhomme!}po galais!, po paraliais!;F{traiter_{qn}de tous les noms}įžeidinėti, plūstis, išvadinti visokiais vardais;F{au nom de}vardan, kieno nors vardu;F{au nom de la loi}įstatymo vardu;F{au nom de notre amitié}mūsų draugystės vardan;I{3}L{gram.}daiktavardis;F{nom propre}tikrinis;F{nom commun}bendrinis daiktavardis;F{complément du nom}nederinamasis pažyminys.
+0{nomade}[nɔmad]S{&rArr;}A{adj}klajoklių;F{tribu nomade}klajokių gentis;S{&rArr;}A{m},A{f}klajoklis, klajoklė.
+0{nomadisme}[nɔmadism]A{m}nomadizmas, klajoklystė.
+0{nombrable}[nɔmbrabl]A{adj}suskaičiuojamas.
+0{nombre}[nɔmbr]A{m}I{1}skaičius;F{nombre pair, impair}lyginis, nelyginis skaičius;F{nombre cardinal, ordinal}kiekinis, kelintinis skaitvardis;L{mat.}F{nombre entier naturel}sveikas natūralusis skaičius;F{nombre premier}pirminis skaičius;F{écrire un nombre en lettres}skaičių parašyti žodžiais;I{2}L{šnek.}konkretus skaičius, įvardijantis kiekį;F{nombre d’habitants d’un pays}šalies gyventojų skaičius;F{nombre de fois}dažnumas;F{quel nombre?}kiek?;F{évaluer le nombre de}suskaičiuoti, įkainoti (kiek);F{le plus grand nombre des}dauguma iš;F{en grand nombre}skaitlingai; labai daug;A{loc prép}F{au nombre de}iš viso;F{ils étaient au nombre de trois}iš viso jų buvo trys;F{du nombre de}tarp;F{serez-vous du nombre des invités?}ar jūs būsite tarp pakviestųjų?;F{sans nombre}be skaičiaus, daug, nesuskaičiuojamai;I{3}daugybė, didelis skaičius;F{en nombre}masiškai, didelis kiekis;F{nombre de}daug, daugybė;F{depuis nombre d’années}jau daug metų;F{nombre d’entre eux sont mécontents}daugybė tarp jų yra nepatenkinti;I{4}L{lingv.}skaičius kaip gramatinė kategorija;F{accord en genre et en nombre}derinimas gimine ir skaičiumi.
+0{nombrer}[n&#596;&#771;bre]A{vt}suskaičiuoti, išvardinti.
+0{nombreux, -euse}[n&#596;&#771;brø, -øz]A{adj}gausus, skaitlingas;F{famille nombreuse}gausi šeima;F{dans de nombreux cas}daugeliu atvejų;F{de nombreuses fois}dažnai.
+0{nombril}[n&#596;&#771;bri(l)]A{m}bamba;F{être décolletée jusqu’au nombril}būti su iškirpte iki bambos; su gilia iškirpte;A{loc fam}F{se prendre pour le nombril du monde}laikyti save pasaulio bamba (centru).
+0{nomenclature}[nɔm&#593;&#771;klatyr]A{f}I{1}visuma pavadinimų kurioje nors mokslo, meno, technikos srityje; vardynas, katalogas, klasifikacija, metodiškas daiktų, vienos profesijos asmenų sąrašas;I{2}leksinių vienetų, žodžių, įeinančių į žodyno apimtį, skaičius.
+0{nomenklatura}[nɔmɛnklatura]A{f}L{rus.}nomenklatūra.
+0{nominal, -ale}[nɔminal]A{adj}(A{pl}A{m}2{-aux}[-o])I{1}vardinis;F{liste nominale}vardinis sąrašas;I{2}nominalinis;F{phrase nominale}vardažodinis sakinys;L{ekon.}F{valeur nominale}nominalinė kaina (vertė);F{valeur nominale d’une monnaie}nominali monetos vertė.
+0{nominalement}[nɔminalm&#593;&#771;]A{adv}I{1}vardu, pavarde, įvardijant;F{être nominalement appelé}būti paminėtam, pakviestam pavarde;I{2}L{lingv.}:F{forme verbale employée nominalement}veiksmažodinė forma panaudota kaip vardažodinė, daiktavardinė.
+0{nominaliser}[nɔminalize]A{vt}L{lingv.}veiksmažodinį sakinį pakeisti į nominalinę, daiktavardinę sintagmą.
+0{nominalisme}[nɔminalism]A{m}I{1}L{fil.}nominalizmas;I{2}L{ekon.}nuostata, pagal kurią pinigų suma turi būti mokama, visais atvejais įvardinta, neatsižvelgiant į pinigų vertės svyravimus.
+0{nominatif, -ive}[nɔminatif, -iv]S{&rArr;}A{adj}vardinis; nominatyvinis;S{&rArr;}A{m}L{gram.}vardininko linksnis, nominatyvas.
+0{nomination}[nɔminasj&#596;&#771;]A{f}paskyrimasl{(eiti kokias nors pareigas)}, nominacija; įvardijimas.
+0{nominé, -ée}[nɔmine]A{adj}nominuotas, įvardintas, pavadintas, paskirtas;F{trois films nominés aux Oscars}trys filmai nominuoti Oskarais.
+0{nommé, -ée}[nɔme]A{adj}vadinamas;F{un homme nommé Dubois}žmogus, pavarde Diubua; F{les personnes nommées plus haut}aukščiau paminėti (išvardinti) asmenys;A{loc}F{à point nommé}pačiu laiku, norimu momentu.
+0{nommer}[nɔme]A{vt}I{1}pavadinti;I{2}paskirti;F{il a été nommé directeur}jis buvo paskirtas direktoriumi;I{3}nurodyti, išvardinti;F{l’accusé refuse de nommer ses complices}kaltinamasis atsisako pasakyti savo bendrininkus;$2{se nommer}vadintis;F{comment se nomme-t-elle?}kokia jos pavardė?
+0{non}[n&#596;&#771;]S{&rArr;}A{adv}C{de négation}ne:I{1}l{(neigiamas atsakymas, atsisakymas)}:F{non merci}ačiū, ne;F{ma foi non}garbės žodis, ne;F{je vous dis que non}aš jums sakau, kad ne;F{vous êtes fâché? – oh! que non}jūs supykot? – ne! visai ne, nė kiek;I{2}l{(neigimo sustiprinimas)}:F{non, je ne regrette pas}ne, aš nesigailiu;I{3}L{šnek.}l{(pasipiktinimas, protestas)}:F{non par exemple! non, mais!}ne, jokiu būdu ne;I{4}l{(nustebimas)}:F{il nous quitte, non, pas possible?}jis mus palieka, negali būti?;I{5}l{(sujungiamuosiuose ir prijungiamuosiuose sakiniuose)}:F{et non}o ne;F{mais non}bet ne;F{ou non}ar ne;F{il est sévère mais non injuste}jis griežtas, bet teisingas;I{6}:F{non pas}visai ne;F{non plus}taip pat ne;F{elle ne parlait pas, Charles non plus}ji nekalbėjo, Šarlis taip pat;F{non point}visiškai ne;F{non seulement}ne tik;F{non sans}ne be;F{non sans hésitation}ne be svyravimųl{(su tam tikru svyravimu, abejojimu)};F{non sans avoir consulté tous ses amis}pasitaręs su visais savo draugaisl{(prieš tai)};I{7}l{(su būdvardžiu, prieveiksmiu, dalyviu)}:F{non soluble}netirpstamas;F{une leçon non sue}neišmokta pamoka;F{non que}f{(+A{subj})}ne todėl, kad;S{&rArr;}A{m}A{inv}C{neigiamas atsakymas}:F{un non catégorique}kategoriškas atsisakymas.
+0{nonagénaire}[nɔnaʒenɛr]S{&rArr;}A{adj}devyniasdešimt metų amžiaus;S{&rArr;}A{m},A{f}devyniasdešimtmetis, devyniasdešimtmetė.
+0{non-agression}[nɔnagresj&#596;&#771;]A{f}nepuolimas;F{pacte de non-agression}nepuolimo paktas.
+0{non-appartenance}[nɔnapartən&#593;&#771;s]A{f}nepriklausymas.
+0{nonce}[n&#596;&#771;s]A{m}popiežiaus pasiuntinys, nuncijus.
+0{nonchalamment}[n&#596;&#771;ʃalam&#593;&#771;]A{adv}nerūpestingai, tingiai; abejingai;F{travailler nonchalamment}nerūpestingai dirbti.
+0{nonchalance}[n&#596;&#771;ʃal&#593;&#771;s]A{f}nerūpestingumas, aplaidumas; abejingumas;F{avec nonchalance}atsainiai.
+0{nonchalant, -ante}[n&#596;&#771;ʃal&#593;&#771;, -&#593;&#771;t]A{adj}nerūpestingas, aplaidus; abejingas;F{écolier nonchalant}nerūpestingas mokinys, tingus.
+0{nonciature}[n&#596;&#771;sjatyr]A{f}nunciatūra, nuncijaus būstinė.
+0{non-dit}[n&#596;&#771;di]A{m}potekstė.
+0{non-droit}[n&#596;&#771;drwa]A{m}zona, kurioje negalioja įstatymai.
+0{non-être}[nɔnɛtr]A{m}A{inv}L{fil.}nebūtis.
+0{non-inscrit, -ite}[nɔn&epsilon;&#771;skri, -it]A{adj}nepriklausomas, nepriklausantis;F{un député non-inscrit}nepriklausomas deputatas.
+0{non-intervention}[nɔn&epsilon;&#771;tɛrv&#593;&#771;sj&#596;&#771;]A{f}nesikišimasl{(į kitos valstybės reikalus)}.
+0{non-lieu}[n&#596;&#771;ljø]A{m}L{teis.}nusikaltimo sudėties nebuvimas;F{bénéficier d’un non-lieu}išteisinti nesant nusikaltimo sudėties.
+0{nonobstant}[nɔnɔpst&#593;&#771;]S{&rArr;}A{prép}L{psn.}nepaisant;S{&rArr;}A{adv}L{psn.}tačiau, vis dėlto.
+0{non-paiement}[n&#596;&#771;pɛm&#593;&#771;]A{m}L{teis.}nemokėjimas, nemokumas, nesumokėjimas.
+0{nonpareil, -eille}[n&#596;&#771;parɛj]S{&rArr;}A{adj}neturintis lygaus;S{&rArr;}A{f}I{1}siauras kaspinėlis, juostelė;I{2}L{poligr.}spaustuvinis šriftas;I{3}A{m},A{f}gvazdikų rūšis.
+0{non-prolifération}[n&#596;&#771;prɔliferasj&#596;&#771;]A{f}neplatinimas, kiekio ribojimasl{(branduolinio ginklo)};F{traité de non-prolifération}neplatinimo sutartis.
+0{non-sens}[n&#596;&#771;s&#593;&#771;s]A{m}nesąmonė, beprasmybė, nonsensas.
+0{non-stop}[nɔnstɔp]A{adv}A{inv}tiesioginis, nepertraukiamas, nesustojantis;F{un vol non-stop entre Paris et New York}tiesioginis skrydis (reisas) Paryžius–Niujorkas.
+0{non-usage}[nɔnyzaʒ]A{m}nenaudojimas, nevartojimas;F{non-usage d’un mot}žodžio nevartojimas.
+0{nord}[nɔr]S{&rArr;}A{m}A{inv}I{1}šiaurė;F{vent du nord}šiaurės vėjas;F{le nord de l’Italie}Italijos šiaurė;A{loc}F{perdre le nord}eiti iš proto;F{au nord de}šiaurėjel{(vietos atžvilgiu)};I{2}Šiaurė;F{Amérique du Nord}Šiaurės Amerika;F{habiter dans le Nord}gyventi Šiaurėje;F{Pôle Nord}Šiaurės ašigalis, Arktika;S{&rArr;}A{adj}A{inv}šiaurinis, šiaurės;F{la banlieue nord de Paris}šiaurinis Paryžiaus priemiestis.
+0{nord-est}[nɔrɛst]S{&rArr;}A{m}A{inv}šiaurės rytai;S{&rArr;}A{adj}šiaurės rytų.
+0{nordique}[nɔrdik]S{&rArr;}A{adj}šiaurės, šiaurinis;F{Europe nordique}šiaurinė Europa;S{&rArr;}A{m},A{f}šiaurietis, šiaurietė.
+0{nord-ouest}[nɔrwɛst]S{&rArr;}A{m}A{inv}šiaurės vakarai;S{&rArr;}A{adj}šiaurės vakarų.
+0{noria}[nɔrja]A{f}norija, hidraulinis įrenginys kroviniams vertikaliai kelti.
+0{normal, -ale}[nɔrmal](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}normalus, taisyklingas;F{la situation est normale}normali padėtis;F{il n’est pas normal}jis nenormalus;F{dans des conditions normales}įprastomis sąlygomis;S{&rArr;}A{f}I{1}L{mat.}normalė;I{2}norma;F{s’écarter de la normale}nutolti nuo normos;F{les normales saisonnières}metų laikų vidutinės temperatūros;I{3}pedagoginė mokykla;F{l’École normale supérieure}aukštoji pedagoginė mokykla;F{être reçu à Normale Lettre, à Normale Science}būti priimtam į aukštosios pedagoginės mokyklos humanitarinį skyrių, tiksliųjų mokslų skyrių.
+0{normalement}[nɔrmalm&#593;&#771;]A{adv}normaliai.
+0{normalien}A{m},0{-ienne}A{f}[nɔrmalj&epsilon;&#771;, -jɛn]aukštosios pedagoginės mokyklos studentas, studentė.
+0{normalisation}[nɔrmalizasj&#596;&#771;]A{f}normalizavimas, norminimas.
+0{normaliser}[nɔrmalizer]A{vt}I{1}normalizuoti;F{normaliser les relations diplomatiques}normalizuoti diplomatinius santykius;I{2}norminti, racionalizuoti, standartizuoti.
+0{Normand}A{m},0{-ande}A{f}[nɔrm&#593;&#771;, -&#593;&#771;d]normanas, normanė.
+0{normand, -ande}[nɔrm&#593;&#771;, -&#593;&#771;d]S{&rArr;}A{adj}normanų;S{&rArr;}A{m}normanų tarmė.
+0{normatif, -ive}[nɔrmatif, -iv]A{adj}normatyvinis;F{grammaire normative}normatyvinė gramatika.
+0{norme}[nɔrm]A{f}I{1}norma, taisyklė, modelis, kanonas; matas, dydis, nustatytas kiekis;F{être, rester dans la norme}laikytis normos, taisyklės;I{2}L{tech.}A{pl}standartai, normos, techninės normos;F{appareil conforme aux normes françaises}(L{sutr.}3{NF}) aparatas, atitinkantis prancūzų gamybos normas (standartus);I{3}L{lingv.}kalbos norma, bendrinės kalbos normos;I{4}L{teis.}juridinė nuostata, teisės norma.
+0{Norvégien}A{m},0{-ienne}A{f}[nɔrveʒj&epsilon;&#771;, -jɛn]norvegas, norvegė.
+0{norvégien, -ienne}[nɔrveʒj&epsilon;&#771;, -jɛn]S{&rArr;}A{adj}norvegiškas;S{&rArr;}A{m}norvegų kalba.
+0{nos}A{L{žr.}R{notre}}.
+0{nosographie}[nozɔgrafi]A{f}nozolografija, ligų aprašymas ir klasifikavimas.
+0{nosologie}[nozɔlɔʒi]A{f}nozologija, medicinos šaka, tirianti ligų atsiradimo priežastis, raidą, ypatybes.
+0{nostalgie}[nɔstalʒi]A{f}I{1}tėvynės ilgesys, nostalgija;I{2}melancholija, liūdesys.
+0{nostalgique}[nɔstalʒik]S{&rArr;}A{adj}ilgesingas, liūdnas;S{&rArr;}A{m},A{f}liūdintis asmuo.
+0{nota bene}[nɔtabene]A{m}A{inv}A{loc}L{lot.}(L{sutr.}2{N.B.}) gerai įsidėmėkl{(pastaba knygos, straipsnio, dokumento paraštėje)}.
+0{notabilité}[nɔtabilite]A{f}I{1}aukšta padėtis, aukšta kilmė, kilmingumas;I{2}kilmingas, užimantis aukštą padėtį asmuo.
+0{notable}[nɔtabl]S{&rArr;}A{adj}(į)žymus;F{un fait notable}žymus įvykis;S{&rArr;}A{m}žymus asmuo;F{les notables d’une ville}žymūs miesto žmonės.
+0{notablement}[nɔtabləm&#593;&#771;]A{adv}žymiai, labai daug.
+0{notaire}[nɔtɛr]A{m},A{f}notaras, notarė;F{signature devant notaire}pasirašymas dalyvaujant notarui.
+0{notamment}[nɔtam&#593;&#771;]A{adv}būtent, kaip tik; ypatingai.
+0{notarial, -iale}[nɔtarjal]A{adj}(A{pl}A{m}2{-iaux}[-jo]) notarinis, notaro;F{actes notariaux}notariniai aktai.
+0{notariat}[nɔtarja]A{m}notariatas.
+0{notarié, -iée}[nɔtarje]A{adj}notaro patvirtintas.
+0{notation}[nɔtasj&#596;&#771;]A{f}I{1}žymėjimas sutartiniais ženklais;F{notation numérique}skaitinis žymėjimas;F{notation phonétique}transkripcija;I{2}užrašas, atžyma, pastaba;I{3}įvertinimasl{(pažymiu, balais)};I{4}atestacijal{(darbe)}.
+0{note}[nɔt]A{f}I{1}L{muz.}gaida, nata;F{savoir lire les notes}mokėti skaityti natas;A{loc}F{donner la note}duoti toną;I{2}L{prk.}detalė, elementas;I{3}muzikinis garsas;I{4}anotacija,l{(rašytinė)}pastaba, komentaras, užsirašymas;F{notes en fin de chapitre}pastabos skyriaus gale; atžyma;I{5}nota;F{note diplomatique}diplomatinė nota;I{6}užrašas; užrašymas; pasižymėjimasl{(raštu)}, užsirašymas;F{carnet de notes}užrašų knygutė;F{prendre en note une adresse, un numéro de téléphone}užsirašyti adresą, telefoną;F{prendre des notes}užsirašinėti;F{prendre des notes pendant un cours}vesti užrašus per paskaitą, konspektuoti;I{7}sąskaita;F{note d’électricité, de restaurant}sąskaita už elektrą, restorano sąskaita;F{demander sa note}paprašyti sąskaitos;F{acquitter, payer, régler une note}apmokėti sąskaitą;I{8}atestacijal{(darbe)}, įvertinimas,l{(mokyklinis)}pažymys;F{carnet de notes d’un écolier}mokinio pažymių knygelė.
+0{noter}[nɔte]A{vt}I{1}pasižymėti, pažymėti;F{j’ai noté d’une croix ce qui pouvait vous concerner}kryželiu aš pažymėjau tai, kas susiję su jumis;I{2}užsirašyti;F{noter une adresse}užsirašyti adresą;I{3}pastebėti, konstatuoti;F{noter une différence}pastebėti skirtumą;I{4}įvertinti, parašyti pažymį;I{5}L{muz.}užrašyti, nurašyti natas.
+0{notice}[nɔtis]A{f}I{1}knygos pratarmė;F{notice de l’éditeur}leidėjo pratarmė;I{2}trumpasl{(ko nors)}aprašymas, išdėstymas, aprašas; instrukcija;F{notice bibliographique}bibliografinis aprašas;F{notice de mode d’emploi}naudojimo instrukcija;F{notice nécrologique}nekrologas.
+0{notification}[nɔtifikasj&#596;&#771;]A{f}pranešimas.
+0{notifier}[nɔtifje]A{vt}pranešti, informuoti, perspėti.
+0{notion}[nɔsj&#596;&#771;]A{f}I{1}sąvoka, idėja, mintis;F{le mot et la notion}žodis ir sąvoka;I{2}bendras supratimas, samprata;F{je n’en ai pas la moindre notion}aš apie tai neturiu nė mažiausio supratimo;I{3}elementarios žinios;F{avoir des notions d’informatique}turėti elementarias informatikos žinias.
+0{notoire}[nɔtwar]A{adj}aiškus, akivaizdus, visiems žinomas, visų pripažintas;F{il est notoire que...}visiems aišku, žinoma, kad...;F{vivre en concubinage notoire}gyventi susidėjus visiems žinant;F{un criminel notoire}gerai žinomas nusikaltėlis.
+0{notoirement}[nɔtwarm&#593;&#771;]A{adv}aiškiai; žinomai;F{nouvelle notoirement fausse}aiškiai netikra naujiena.
+0{notoriété}[nɔtɔrjete]A{f}I{1}aiškumas, akivaizdumas;A{loc}F{il est de notoriété publique que...}visi žino, kad...;L{teis.}F{acte de notoriété}aktas, kuriuo paliudijama, patvirtinama;I{2}pripažinimas, išgarsinimas;F{la notoriété d’un écrivain}rašytojo pripažinimas.

@@ -1,0 +1,1000 @@
+0{A, a}[ɑ, a]A{m}A{inv}l{pirmoji prancūzų abėcėlės raidė};A{loc}F{depuis A jusqu’à Z (de A à Z)}nuo pradžios iki pabaigos;F{ne savoir ni a ni b}nieko nežinoti, nieko neišmanyti.
+0{A, a}A{abrév}C{et}A{symb}I{1}2{A}A{adj}A{inv}F{masse atomique}atomo masė, išreikšta gramais;I{2}2{A}[&#593;&#771;pɛr]A{m}A{inv}F{Ampère}amperas, elektros srovės stiprumo vienetas;I{3}2{a}[ar]A{m}A{inv}F{are}aras.
+0{à}[a]A{prép}(A{art}C{contraction}2{au}=C{à}+C{le};2{aux}=C{à}+C{les});l{prielinksnis}F{0{à}}l{išreiškia}:I{1}l{kryptį}:F{je vais à l’université}aš einu į universitetą;F{aller à la pêche}eiti žvejoti;F{aller à Paris}vykti į Paryžių;F{droit au but!}tiesiai į tikslą!;F{à la porte!}laukan!;F{de... à}iš... į;F{du nord au sud}iš šiaurės į pietus;I{2}l{vietą}:F{il habite à Paris}jis gyvena Paryžiuje;F{s’installer aux États-Unis}įsitaisyti, apsigyventi JAV;F{il est debout à la fenêtre}jis stovi prie lango;F{une propriété à la campagne}sodyba kaime;I{3}l{laiką, trukmę}:F{à midi}vidurdienį;F{partir à cinq heures}išvykti penktą valandą;F{à la prochaine (fois)}iki kito karto;F{emprisonnement à perpétuité}įkalinimas iki gyvos galvos;F{à tout à l’heure}tuoj, tuojau; iki greito pasimatymo; tuo tarpu;F{de 10 au 20 février}nuo 10 iki 20 vasario;F{au début du mois de mai}gegužės mėnesio pradžioje;I{4}l{nuotolį, atstumą, erdvę}:F{de... à}nuo... iki;F{de Paris à Marseille}nuo Paryžiaus iki Marselio;F{du début à la fin}nuo pradžios iki galo;F{à... de}:F{à 100 kilomètres de la mer}už šimto kilometrų nuo jūros;F{à 10 minutes de marche de l’hôtel}nuo viešbučio 10 minučių kelio pėsčiomis;I{5}l{priklausomybę, nuosavybę}:F{ce livre est à Jean}ši knyga Jono;F{à qui est ce livre? – ce livre est à moi}kieno ši knyga? – ši knyga mano;F{à vous la parole}jums žodis;F{c’est à moi de l’aider}mano pareiga, aš privalau, man priklauso jam padėti;F{à vous de le dire}tai pasakyti turite jūs;F{c’est...}l{(A{adj})}F{à}:F{c’est gentil à vous accepter}tai malonu, jūs labai malonus, kad sutikote;I{6}l{tikslą, paskirtį}:F{machine à coudre}siuvamoji mašina;F{brosse à dents}dantų šepetėlis;F{un verre à liqueur}taurė likeriui;F{donner un pantalon à nettoyer}duoti kelnes išvalyti;F{nous avons à manger}mes turime valgyti;I{7}l{matą, kiekį, svorį, vertę}:F{vendre au mètre (au litre)}parduoti metrais (litrais);F{une cravate à 60 francs}kaklaraištis už 60 frankų;F{ils vivent à quatre dans l’appartement}jie keturiese gyvena bute;I{8}l{pasekmę}:F{il court à perdre haleine}jis bėga uždusdamas;F{filer à l’anglaise}išeiti neatsisveikinus;I{9}l{rūšį, savybę}:F{café au lait}balta kava;F{machine à vapeur}garo mašina;I{10}l{veikimo būdą}:F{marcher à reculons}trauktis atbulom;F{marcher à pied}eiti pėsčiomis;F{observer à l’œil nu}stebėti plika akimi;I{11}l{adresatą, paskirtį}:F{écrire à Marie}rašyti Marytei;F{hymne au soleil}himnas saulei;F{donner de l’argent à un ami}draugui duoti pinigų;F{n’être bon à rien}niekam netikti;I{12}l{veiksmą (à +A{inf})}:F{il commence à lire}jis pradeda skaityti;F{je demande à voir}leiskite pažiūrėti;F{il se prépare à partir}jis ruošiasi išvykti;F{il chantait à faire pleurer}jis taip dainavo, kad norėjosi verkti;F{il n’y a plus rien à craindre}nėra ko daugiau bijoti;F{à dire vrai}tiesą pasakius;F{à vous croire}jeigu tikėti jumis;F{à y bien regarder}geriau pažiūrėjus, jeigu geriau pažiūrėtum;F{à en juger par...}jeigu spręsti pagal, sprendžiant pagal...;F{c’est à}f{(+A{inf})}:F{c’est à refaire}tai reikia perdaryti;F{c’est à voir}reikia pamatyti;F{c’est à mourir de rire}mirk iš juoko;F{c’est à rougir de honte}sudek iš gėdos;F{avoir à}f{(+A{inf})}privalėti;F{j’ai encore deux pages à traduire}privalau išversti dar du puslapius;F{tu as à répondre}tu privalai atsakyti;I{13}l{įeina į daugelio posakių sudėtį}:F{à côté}F{de}šalia;F{à demain}iki rytojaus;F{à bientôt}iki greito pasimatymo;F{à la mode}madingai;F{à perte de vue}kiek akys užmato;F{à la dérobée}slapčiomis;F{vis-à-vis}vienas prieš kitą;F{pas à pas}žingsnis po žingsnio;F{grâce à}dėka;F{être au régime}laikytis dietos;F{à cause de}dėl;F{quant à}kai dėl;F{au lieu de}užuot;F{à votre santé}į jūsų sveikatą;F{crier au secours}šauktis pagalbos;F{au feu!}dega!, gaisras!;F{à votre aise}kaip jums patinka.
+0{abaissant, -ante}[abɛs&#593;&#771;, -&#593;&#771;t]A{adj}žeminantis, žeminamas, degraduojamas.
+0{abaisse}[abɛs]A{f}iškočiota tešla.
+0{abaisse-langue}[abɛsl&#593;&#771;g]A{m}(A{pl}2{abaisse-langues};2{abaisse-langue})L{med.}mentelė liežuviui prispaustil{(apžiūrint gerklę)}.
+0{abaissement}[abɛsm&#593;&#771;]A{m}I{1}nuleidimas; nusileidimas;F{l’abaissement d’un store}užuolaidos nuleidimas;F{un léger abaissement des paupières}lengvas vokų nuleidimas;I{2}(su)mažinimas, sumažėjimas;F{abaissement d’un taux}mokesčio sumažinimas;F{abaissement de la température}temperatūros kritimas;I{3}(pa)žeminimas, (su)menkinimas; smukimas;I{4}L{psn.}nuopuolis, degradacija.
+0{abaisser}[abese]A{vt}I{1}padaryti žemesnį, nuleisti žemyn;L{geom.}F{abaisser une perpendiculaire}nuleisti statmenį;F{abaisser un chiffre}nukelti, parašyti dalmenyje skaičiųl{(dalijant)};F{abaisser la pâte au rouleau}iškočioti kočėlu tešlą;I{2}sumažinti;F{abaisser le prix}sumažinti kainą;F{abaisser l’âge de la retraite}anksčiau išleisti į pensijąl{(sumažinti darbo metus)};I{3}L{prk.}(pa)žeminti, (pa)niekinti;$2{s’abaisser}I{1}nusileisti, nuslūgtil{(apie vandenį)}, smegtil{(apie pastatą)};I{2}L{prk.}nusižeminti, žemintis;F{je ne m’abaisserai pas à répondre à ta question}aš tiek nesižeminsiu, kad atsakyčiau į tavo klausimą.
+0{abandon}[ab&#593;&#771;d&#596;&#771;]A{m}I{1}palikimas; išėjimas;F{abandon de poste}išėjimas iš darbo, posto palikimasl{(apie kareivį)};F{abandon du domicile conjugal}šeimos židinio palikimas;I{2}atsisakymas; atmetimas;F{abandon d’un projet}projekto atmetimas;I{3}pasitraukimas iš sportinių varžybų;I{4}pametimas, apleidimas; išsižadėjimas;F{abandon d’enfant}vaiko išsižadėjimas;A{loc adv}F{à l’abandon}paliktas likimo valiai;F{un jardin laissé à l’abandon}apleistas sodas, paliktas likimo valiai;I{5}atsainumas, atsipalaidavimas, nesivaržymas; F{avec abandon}laisvai, nesivaržant;F{s’épancher avec abandon}laisvai, nevaržomai atsiverti, atsiskleistil{(apie jausmus, sielą)}.
+0{abandonnataire}[ab&#593;&#771;dɔnatɛr]A{m},A{f}L{teis.}abandonas.
+0{abandonné, -ée}[ab&#593;&#771;dɔne]A{adj}apleistas, paliktas, pamestas; nebenaudojamas;F{enfant abandonné}pamestinukas;F{chien abandonné}benamis šuo;F{maison abandonnée}paliktas, negyvenamas, tuščias namas.
+0{abandonner}[ab&#593;&#771;dɔne]A{vt}I{1}apleisti, palikti, pamestil{(namus, vaikus irL{pan.})};F{abandonner sa ville natale}palikti gimtą miestą;F{abandonner Paris pour Lyon}iš Paryžiaus išvažiuoti į Lioną;I{2}atsisakyti, atiduoti, palikti kam;F{abandonner sa fortune à_{qn}}palikti kam savo turtą;I{3}atsižadėti, kapituliuoti, atsistatydinti;F{abandonner une hypothèse}atsisakyti hipotezės;$2{s’abandonner}I{1}F{s’abandonner à}atsiduoti;F{s’abandonner au désespoir}pulti į neviltį;F{s’abandonner à la facilité}eiti lengviausiu keliu;F{s’abandonner au sommeil}užmigti;I{2}pasitikėti, pasikliautil{(kuo nors)}; atsiduoti.
+0{abaque}[abak]A{m}I{1}abakas, skaičiavimo lental{(skaitytuvų prototipas)};I{2}skaitytuvai;I{3}L{archit.}abakas, viršutinė kapitelio dalis.
+0{abasourdir}[abazurdir]A{vt}I{1}apkurtinti;I{2}labai nustebinti, pritrenkti, apstulbinti;F{cette nouvelle m’a abasourdi}ši naujiena mane apstulbino.
+0{abat}[aba]A{m}I{1}kirtimas;F{abat d’arbres}medžių kirtimas;I{2}:F{pluie d’abat}staigi liūtis, smarkus lietus;I{3}A{pl}galvijų kogalviai.
+0{abâtardir}[abatardir]A{vt}I{1}degeneruoti, išsigimti;F{race qui s’est abâtardie}rasė, kuri išsigimė, degeneravo;I{2}L{prk.}netekti kokybiškumo, nuvertėti, degraduoti.
+0{abat-jour}[abaʒur]A{m}A{inv}lempos gaubtas;F{l’abat-jour de papier}popierinis lempos gaubtas.
+0{abattage}[abataʒ]A{m}I{1}medžių kirtimas, pjovimas;F{l’abattage d’un sapin à la scie}eglės nupjovimas pjūklu;I{2}kasyba, gamybal{(akmens anglies)};I{3}galvijų skerdimas;F{abattage d’un bœuf}jaučio skerdimas;I{4}parvertimas, paguldymas;F{l’abattage d’un cheval}arklio paguldymasl{(norint jį gydyti)};I{5}L{jūr.}laivo parvertimas ant šono jį taisant;I{6}L{kom.}:F{vente à l’abattage}prekių išpardavimas sumažintomis kainomis.
+0{abattant}[abat&#593;&#771;]A{m}atlenkiama baldo, kėdės dalisl{(kurią galima pakelti ir nuleisti)};F{l’abattant d’une cuvette de W.-C.}klozeto atlenkiamas dangtelis.
+0{abattement}[abatm&#593;&#771;]A{m}I{1}didelis fizinių jėgų išsekimas, nuovargis;I{2}nusiminimas, moralinė depresija;F{être dans un état d’abattement profond}būti gilioje depresijoje;I{3}sumažinimas; apribojimas; apmokestinamų pajamų dalies atleidimas nuo mokesčio;F{abattement à la base}neapmokestinimas dalies bazinio atlyginimo;F{un abattement de dix pour cent}sumažinimas dešimčia procentų.
+0{abatteur}[abatœr]A{m}I{1}medžių kirtėjas;I{2}anglies kasėjas;I{3}darbininkas, daug ir sėkmingai dirbantis.
+0{abattis}[abati]A{m}I{1}krūva nukirstų medžių;L{kar.}nukirstų medžių ir šakų užkarda, kliūtis; užtvara;F{faire un abattis}daryti užtvarą;I{2}A{pl}paukščių kogalviai;I{3}L{šnek.}L{prk.}rankos ir kojos.
+0{abattoir}[abatwar]A{m}skerdykla;L{prk.}F{envoyer les soldats à l’abattoir}siųsti kareivius į žūtį.
+0{abattre}_{*}[abatr]A{vt}I{1}kirsti, parversti, parblokšti, numušti;F{abattre un arbre}kirsti, pjauti medį;F{abattre les quilles avec une boule}kamuoliu nuversti kėglius;L{sport.}F{abattre l’adversaire}parversti priešininką ant žemės;F{abattre un mur}nugriauti sieną;I{2}užmušti, nušauti, skersti;F{abattre un oiseau}nušauti paukštį;I{3}priblokšti, prislėgti, priploti prie žemės; I{4}daug, efektyviai dirbti;F{abattre de la besogne}dirbti iš peties, nenuleidžiant rankų;I{5}L{prk.}nusilpninti; prislėgti, išsekinti, nuvarginti;F{cette grosse fièvre l’a abattu}ši aukšta temperatūra jį išsekino;A{loc}F{ne pas se laisser abattre}nenusiminti, neliūdėti, būti ramiam;I{6}paguldyti, apversti;F{abattre un cheval}paguldyti arklįl{(norint jį (pa)gydyti)};F{abattre un navire en carène}apversti laivąl{(norint taisyti povandeninę laivo dalį)};$2{s’abattre}I{1}pargriūti, parvirsti;I{2}:F{s’abattre sur}(už)pulti, (už)griūti;F{aigle qui s’abat sur sa proie}erelis, kuris puola savo auką;L{prk.}F{le malheur s’abattit sur lui}užgriuvo jį nelaimė;I{3}staiga prapliupti;F{une grosse pluie s’abattit sur le jardin}virš sodo prapliupo smarkus lietus.
+0{abattu, -ue}[abaty]A{adj}I{1}bejėgis, silpnasl{(kalbant apie ligonį)};I{2}liūdnas, prislėgtas, apatiškas, susikrimtęs;F{l’air abattu}nusiminęs, sugniužęs;I{3}numuštasl{(apie lėktuvą)};I{4}:F{à bride abattue}galvotrūkčiais, šuoliaisl{(kiek kojos įkabina)}.
+0{abat-vent}[abav&#593;&#771;]A{m}I{1}stoginėl{(nuo lietaus, vėjo)};I{2}deflektorius.
+0{abbatial, -iale}[abasjal](A{pl}A{m}2{-iaux}[-ʃo])S{&rArr;}A{adj}abatijos, vienuolyno;S{&rArr;}A{f}vienuolyno bažnyčia.
+0{abbaye}[abei]A{f}I{1}abatija, vienuolynas;I{2}abatijos, vienuolyno pastatas.
+0{abbé}[abe]A{m}I{1}abatas, vienuolyno vyresnysis;I{2}Prancūzijos katalikų kunigas.
+0{abbesse}[abɛs]A{f}abatė, moterų vienuolyno viršininkė.
+0{abc}[abese]A{m}A{inv}I{1}abėcėlė, elementorius; pradžiamokslis;I{2}L{prk.}elementarios kokio nors dalyko žinios;F{l’abc du métier}amato pradmenys.
+0{abcéder}[apsede]A{vi}L{med.}tvinkti, pūliuoti;F{tumeur qui abcède}auglys, pūlinys, kuris tvinksta.
+0{abcès}[apsɛ]A{m}votis, tvinkinys, pūlinys;F{l’abcès est mûr, a crevé}votis pritvinko, trūko;A{loc fig}F{crever, vider l’abcès}imtis griežtų priemonių blogiui, nesutarimui pašalinti.
+0{abdicataire}[abdikatɛr]A{adj}kuris atsisako sosto, valdžios, laipsnio.
+0{abdication}[abdikasj&#596;&#771;]A{f}abdikacija, sosto, valdžios, pareigų, laipsnio atsisakymas, išsižadėjimas.
+0{abdiquer}[abdike]A{vt}I{1}atsisakyti;F{abdiquer la couronne}atsisakyti karūnos;F{abdiquer en faveur de son fils}atsisakyti sūnaus naudai;I{2}išsižadėti, atsistatydinti.
+0{abdomen}[abdɔmɛn]A{m}I{1}pilvo ertmė;L{šnek.}pilvas;F{douleurs de l’abdomen}pilvo skausmai;I{2}apatinė nariuotakojų liemens dalis.
+0{abdominal, -ale}[abdɔminal]A{adj}(A{pl}A{m}2{-aux}[-o]), (L{sutr.}L{šnek.}2{abdos}[abdo]) pilvo;F{muscles abdominaux}pilvo raumenys;F{faire des abdominaux}daryti pratimus pilvo raumenims stiprinti.
+0{abduction}[abdyksj&#596;&#771;]A{f}abdukcija, atitraukimas.
+0{abécédaire}[abesedɛr]S{&rArr;}A{adj}abėcėlinis;S{&rArr;}A{m}elementorius, abecedarijus.
+0{abeille}[abɛj]A{f}bitė;F{abeille femelle travailleuse}bitė darbininkė; F{abeille reproductrice}bitė motinėlė;F{abeille mâle}tranas;F{piqûre d’abeille}bitės įgėlimas;F{l’abeille bourdonne}bitė dūzgia;A{loc fam}F{avoir les abeilles}būti susinervinusiam;F{essaim d’abeilles}bičių spiečius;F{nid(s) d’abeille}bičių korys.
+0{aberrant, -ante}[aber&#593;&#771;, -&#593;&#771;t]A{adj}I{1}nukrypstantis nuo normos;I{2}klaidingas, nesilaikantis taisyklių, sveiko proto;F{une conduite aberrante}beprotiškas elgesys, nesilaikantis elgesio normų;I{3}L{lingv.}anomalus, netaisyklingos formos.
+0{aberration}[aberasj&#596;&#771;]A{f}I{1}aberacija, nukrypimas nuo normos;I{2}L{šnek.}nenormalumas, absurdiškumas.
+0{abêtir}[abetir]A{vt}(ap)kvailinti, (at)bukinti;$2{s’abêtir}kvailėti, paikėti;F{il abêtit de jour en jour}jis diena iš dienos darosi kvailesnis, jis kasdien kvailėja.
+0{abêtissement}[abetism&#593;&#771;]A{m}kvailėjimas, atbukimas, apkvaišimas;F{un abêtissement d’esprit}bukaprotystė, proto apdujimas.
+0{abhorrer}[abɔre]A{vt}bjaurėtis, neapkęsti;F{j’abhorre le despotisme}neapkenčiu despotizmo;F{abhorré de tous}visų neapkenčiamas.
+0{abîme}[abim]A{m}I{1}bedugnė, praraja; pražūtis;F{être au bord de l’abîme}būti ant bedugnės krašto;A{loc}F{la course à l’abîme}bėgimas į pražūtį;I{2}L{šnek.}:F{abîme entre...}didelis skirtumas, praraja, duobė;F{il y a un abîme entre eux}tarp jų praraja;I{3}neišmatuojamas daiktas, begalybė;F{se perdre dans l’abîme des temps}pasiklysti laike, laiko begalybėje.
+0{abîmer}[abime]A{vt}I{1}įstumti į bedugnę;L{prk.}patekti į pavojingą padėtį;I{2}(su)gadinti, (su)žaloti; (su)griauti;F{abîmer un meuble, un vêtement}sulaužyti baldą, suplėšyti rūbą;L{šnek.}F{abîmer_{qn}}sužeisti, sužaloti, subjauroti;$2{s’abîmer}I{1}nukristi, nugrimzti;L{prk.}pasinerti, (pa)skęsti;F{l’avion s’abîma dans la mer}lėktuvas nukrito į jūrą;F{être abîmé dans ses réflexions}paskęsti apmąstymuose;I{2}susigadinti, susižaloti, gesti;F{s’abîmer sa vue}susigadinti regėjimą;F{les fruits s’abîment vite}vaisiai greitai genda.
+0{abject, -e}[abʒɛkt]A{adj}šlykštus, bjaurus, žemas, niekingas;F{son comportement est abject}jo elgesys begėdiškas, atgrasus.
+0{abjection}[abʒɛksj&#596;&#771;]A{f}niekšybė, niekšiškumas, begėdiškumas, šlykštybė.
+0{abjuration}[abʒyrasj&#596;&#771;]A{f}abjuracija, išsižadėjimas, viešas atsisakymas.
+0{abjurer}[abʒyre]A{vt}viešai atsisakyti, išsižadėtil{(tikėjimo, doktrinos)}.
+0{ablatif}[ablatif]A{m}L{lingv.}abliatyvas, įnagininkas.
+0{ablation}[ablasj&#596;&#771;]A{f}I{1}L{chir.}pašalinimas;F{l’ablation d’un rein}inksto pašalinimas;I{2}L{geol.}abliacija;I{3}progresuojanti destrukcija, erozija, sublimacija.
+0{ablette}[ablɛt]A{f}aukšlėl{(žuvis)}.
+0{ablution}[ablysj&#596;&#771;]A{f}L{relig.}abliucija, apiplovimas.
+0{abnégation}[abnegasj&#596;&#771;]A{f}pasiaukojimas, savęs atsižadėjimas, pasišventimas.
+0{aboi}[abwa]A{m}I{1}lojimas;F{abois de chiens}šunų lojimas;I{2}A{pl}užpjudymas šunimis;F{la biche aux abois}šunimis užpjudyta elnė;A{loc fig}F{aux abois}sunkioje, beviltiškoje materialinėje padėtyje;F{il est aux abois}jis sunkioje padėtyje.
+0{aboiement}[abwam&#593;&#771;]A{m}I{1}lojimas;I{2}šūkaliojimas;F{les aboiements des crieurs de journaux}laikraščių pardavinėtojų šūkaliojimai;I{3}L{prk.}L{niek.}užgauliojimas, užsipuldinėjimas;F{les aboiements de la critique}kritikos užgaulūs užsipuldinėjimai.
+0{abolir}[abɔlir]A{vt}panaikinti, atšaukti, anuliuoti;F{abolir une peine}panaikinti bausmę;F{abolir une loi}atšaukti, anuliuoti įsakymą;F{abolir les parenthèses}atskliausti.
+0{abolition}[abɔlisj&#596;&#771;]A{f}abolicija, panaikinimas;F{l’abolition des privilèges}privilegijų panaikinimas.
+0{abominable}[abɔminabl]A{adj}baisus, siaubingas, bjaurus, šlykštus, labai blogas;F{un temps abominable}labai blogas oras.
+0{abomination}[abɔminasj&#596;&#771;]A{f}bjaurumas; šlykštumas;F{avoir_{qn},_{qch}en abomination}bjaurėtis kuo, jausti pasibjaurėjimą;F{j’ai le mensonge en abomination}aš bjauriuosi melu.
+0{abominer}[abɔmine]A{vt}bjaurėtis, šlykštėtis, neapkęsti.
+0{abondamment}[ab&#596;&#771;dam&#593;&#771;]A{adv}gausiai, apsčiai;F{saler abondamment}smarkiai pasūdyti;F{la pluie tomba abondamment}gausiai palijo.
+0{abondance}[ab&#596;&#771;d&#593;&#771;s]A{f}I{1}gausa, gausumas;F{l’abondance des légumes sur le marché}daržovių gausa turguje;A{loc adv}F{en abondance}gausiai;F{il y a des fruits en abondance}vaisių yra gausiai;I{2}perteklius;F{vivre dans l’abondance}gyventi pertekliuje;F{corne d’abondance}gausybės ragas;I{3}:F{parler avec abondance}kalbėti sklandžiai, lengvai, gerai valdyti žodį;A{loc}F{parler d’abondance}improvizuoti, kalbėti nepasiruošus;A{loc}F{d’abondance de cœur}atveriant širdį, su pasitikėjimu.
+0{abondant, -ante}[ab&#596;&#771;d&#593;&#771;, -&#593;&#771;t]A{adj}gausus, turtingas;F{récolte abondante}gausus derlius;F{imagination abondante}turtinga vaizduotė;L{mat.}F{nombre abondant}perteklinis skaičius (su pertekliumi);F{style abondant}sodrus stilius.
+0{abonder}[ab&#596;&#771;de]A{vi}I{1}būti gausiam;F{les fautes abondent dans ce texte}šiame tekste gausu klaidų;I{2}:F{abonder de, en}gausiai turėti ar gausiai gaminti ką nors; būti kuo turtingam;F{pays qui abonde en vigne}šalis turtinga vynuogynais;F{le texte abonde en citations}tekste yra daug citatų;I{3}:F{abonder dans le sens de_{qn}}būti su kuo vienos nuomonės.
+0{abonné},0{-ée}[abɔne]S{&rArr;}A{m},A{f}abonentas, abonentė; prenumeratorius, prenumeratorė;F{liste des abonnés du téléphone}telefono abonentų sąrašas;L{šnek.}F{être abonné à}turėti įprotį;S{&rArr;}A{adj}užsiprenumeravęs, užsisakęs;F{lecteurs abonnés à un journal}skaitytojai užsiprenumeravę laikraštį.
+0{abonnement}[abɔnm&#593;&#771;]A{m}I{1}abonementas, prenumeravimas; dokumentas, suteikiantis teisę;F{prendre, souscrire un abonnement à un journal, au théâtre}užsiprenumeruoti laikraštį, įsigyti abonementą į teatrą;F{carte d’abonnement (pour les moyens de transport)}nuolatinis bilietas (transportui);I{2}L{šnek.}įprotis.
+0{abonner}[abɔne]A{vt}abonuoti, užsakyti, užprenumeruotil{(kam nors kitam)};F{abonner un ami à un journal}draugui užprenumeruoti laikraštį;$2{s’abonner}užsiprenumeruoti;F{s’abonner à un journal}užsiprenumeruoti laikraštį;F{s’abonner à une série de concerts}įsigyti abonementą koncertams.
+0{abonnir}[abɔnir]A{vt}(pa)gerinti;$2{s’abonnir}gerėti;F{le vin s’abonnit en vieillissant}vynas gerėja (sendamas) ilgiau bręsdamas.
+0{abord}[abɔr]A{m}I{1}priėjimas; priplaukimas, prieiga;I{2}A{pl}apylinkės;F{les abords d’un lieu}vietovės apylinkės;I{3}priėjimas prie ko, kreipimasis į ką;F{un homme d’un abord froid}neprieinamas žmogus;F{être d’un abord facile}būti prieinamam;F{à l’abord}l{(L{lit.})};F{dès l’abord}l{(L{lit.})}iš pat pradžių;F{au premier abord, de prime abord}iš pirmo karto, iš pirmo žvilgsnio, iš pirmo pamatymo, pirmąkart sutikus;F{au premier abord, le problème paraît insoluble}iš pirmo karto uždavinys atrodo neišsprendžiamas;A{loc}A{adv}F{d’abord}iš pradžių, pradžioje, pirmiausia;F{demandons-lui d’abord son avis, nous déciderons ensuite}iš pradžių paklauskime jo nuomonės, po to nuspręsime;F{tout d’abord}pirmiausia, visų pirma;F{les femmes et les enfants d’abord}pirmiausia moterys ir vaikai;F{moi, d’abord, je n’aime pas le café}pirmiausia, aš nemėgstu kavos (F{d’abord}l{, pavartotas pradžioje sakinio, sustiprina teiginį}).
+0{abordable}[abɔrdabl]A{adj}I{1}prieinamas, linkęs bendrauti;F{il n’est pas abordable depuis quelques jours}jau keletas dienų, kai jis nebendrauja;I{2}L{šnek.}įperkamas, prieinamasl{(apie kainą)};F{manteau d’un prix abordable}apsiaustas prieinama kaina;F{en cette saison, les fraises ne sont pas abordables}šįmet braškės neįperkamos.
+0{aborder}[abɔrde]S{&rArr;}A{vt}I{1}L{jūr.}priplaukti, prisišlieti bortas prie bortol{(jūros kautynių metu)};I{2}susidurti su kitu laivu;I{3}priplaukti prie nežinomos, sunkiai prieinamos vietos;I{4}L{prk.}:F{aborder_{qn}}prieiti ir užkalbintil{(nepažįstamą žmogų)};F{aborder_{qn}dans la rue}užkalbinti ką gatvėje;I{5}L{prk.}paliestil{(klausimą, temą)};F{un sujet difficile à aborder}sunkiai suprantama, įkandama tema;I{6}L{šnek.}l{(apie mašiną)}įvažiuoti, įsukti į pavojingą kelio ruožą;F{aborder avec prudence un carrefour}atsargiai įvažiuoti į kryžkelę;$2{s’aborder}užkalbinti vienam kitą, kreiptis vienam į kitą;S{&rArr;}A{vi}priplaukti prie kranto, įplaukti į uostą;F{aborder dans une île}priplaukti prie salos;F{aborder au port}įplaukti į uostą.
+0{aborigène}[abɔriʒɛn]S{&rArr;}A{m},A{f}aborigenas, aborigenė;F{les aborigènes d’Australie}Australijos aborigenai, čiabuviai;S{&rArr;}A{adj}vietinis, čionykštis;F{plantes aborigènes}vietiniai augalai.
+0{aboucher}[abuʃe]A{vt}I{1}sujungti, sudurtil{(vamzdžius)};L{chir.}F{aboucher deux vaisseaux}sujungti dvi kraujagysles;I{2}supažindinti, suvesti;F{il faut les aboucher}reikia, kad jie susitiktų;$2{s’aboucher}2{avec_{qn}}susitikti su kuo, pasimatyti, pasikalbėti.
+0{aboulie}[abuli]A{f}L{med.}abulija, silpna valia, bevališkumas, apatija.
+0{aboulique}[abulik]S{&rArr;}A{adj}bevalis;S{&rArr;}A{m},A{f}bevalis žmogus.
+0{about}[abu]A{m}spraustas, įlaidas, išdroža.
+0{abouter}[abute]A{vt}L{tech.}sujungti galą su galu.
+0{aboutir}[abutir]S{&rArr;}A{vt}baigtis;F{les négociations ont abouti}derybos baigėsi;S{&rArr;}A{vi}I{1}pasiekti tikslą, užsibaigti, pavykti; išeiti į;F{après deux heures de marche, ils ont abouti dans un village}po dviejų valandų kelionės jie pasiekė kaimą;F{cette rue aboutit dans une place}ši gatvė išeina į aikštę;I{2}L{prk.}:F{aboutir à}atvesti, nuvesti;F{ce chemin aboutit à la gare}šis kelias nuveda į stotį;F{cela n’aboutit à rien}tuščias darbas, tai nieko neduoda.
+0{aboutissant}[abutis&#593;&#771;]A{m}rezultatas, baigtis;F{il connaît les tenants et les aboutissants de ce scandale}jis viską žinol{(iki nago juodymo)}apie šį skandalą.
+0{aboutissement}[abutism&#593;&#771;]A{m}pasiekimas, užbaigimas, rezultatas;F{l’aboutissement d’un projet}projekto užbaigimas.
+0{aboyer}[abwaje]S{&rArr;}A{vi}I{1}loti; kiauksėti; staugti, amčioti;A{prov}F{chien qui aboie ne mord pas}šuo, kuris loja, nekanda;I{2}L{prk.}garsiai šaukti, plūsti ką;F{aboyer contre, après_{qn}}šaukti ant ko, prieš ką;S{&rArr;}A{vt}piktu balsu pasakyti, garsiai išrėkti;F{l’adjudant aboie ses ordres}puskarininkis rėkte išrėkia savo nurodymus.
+0{aboyeur}A{m},0{-euse}A{f}[abwajœr, -øz]I{1}skalikas, skalikė;I{2}pranešėjas, pranešėja; kvietėjas, kvietėjal{(gatvėje, prie įėjimo į kokį renginį, cirką irL{pan.})}.
+0{abracadabrant, -ante}[abrakadabr&#593;&#771;, -&#593;&#771;t]A{adj}nepaprastas, stulbinantis, neįtikimas;F{une histoire abracadabrante}neįtikima istorija.
+0{abrasif, -ive}[abrazif, -iv]S{&rArr;}A{m}L{tech.}abrazyvas;S{&rArr;}A{adj}abrazyvinis, šlifuojamas;F{poudre abrasive}abrazyviniai milteliai.
+0{abrasion}[abrazj&#596;&#771;]A{f}L{tech.}abrazija, nugramdymas, išgramdymas.
+0{abrégé}[abreʒe]A{m}trumpas turinio išdėstymas, santrauka, konspektas;F{l’abrégé d’un livre}trumpas knygos turinio išdėstymas; knygos santrauka;F{un abrégé de grammaire}trumpas gramatikos kursas, vadovėlis;A{loc adv},A{loc adj}F{en abrégé}trumpai, glaustai;F{mot en abrégé}sutrumpintas žodis, sutrumpinimas.
+0{abrégement, abrègement}[abrɛʒm&#593;&#771;]A{m}(su)trumpinimas;F{abrégement d’un texte}teksto sutrumpinimas;F{abrégement d’un mot}žodžio sutrumpinimas;L{fon.}trumpas garso tarimas.
+0{abréger}[abreʒe]A{vt}I{1}sutrumpintil{(trukmę)};F{abréger une visite}sutrumpinti vizito laiką;I{2}sutrumpintil{(kalbą, pasakojimą, tekstą)};F{abrégeons! au fait!}trumpiname! einame prie reikalo!;F{abréger un mot}sutrumpinti žodį;F{s’abréger}susitrumpinti;F{Madame s’abrège en Mme}žodis Madame trumpinamas Mme;F{cette page peut s’abréger de moitié}šis puslapis gali sutrumpėti per pusę.
+0{abreuvement}[abrœvm&#593;&#771;]A{m}l{(gyvulių)}girdymas.
+0{abreuver}[abrœve]A{vt}I{1}(pa)girdyti;F{abreuver un troupeau}girdyti bandą;F{abreuver un cheval}girdyti arklį;I{2}L{prk.}:F{abreuver_{qn}de_{qch}}gausiai kam ką duoti;F{abreuver_{qn}de compliments}apipilti komplimentais;F{il l’a abreuvé d’injures}jis smarkiai jį iškoneveikė, apipylė keiksmais;F{être abreuvé de_{qch}}primaitintas kuo, sotus, nuvargęs;I{3}L{tech.}sumirkyti, sudrėkinti, prisigerti;$2{s’abreuver}numalšinti troškulį, atsigerti.
+0{abreuvoir}[abrœvwar]A{m}girdykla;F{mener les bêtes à l’abreuvoir}vesti galvijus į girdyklą.
+0{abréviatif, -ive}[abrevjatif, -iv]A{adj}santrumpos, sutrumpinimo;F{signes abréviatifs}santrumpos ženklai.
+0{abréviation}[abrevjasj&#596;&#771;]A{f}sutrumpinimas, santrumpa, abreviatūra;F{abréviation de Mademoiselle en Mlle}Mademoiselle sutrumpinimas Mlle;F{abréviation de kilomètre en km}kilometro sutrumpinimas km.
+0{abri}[abri]A{m}I{1}prieglauda, pastogė, prieglobstis;F{chercher un abri sous un arbre}ieškoti prieglobsčio po medžiu;I{2}stoginė, transporto stotelė, pašiūrė;I{3}L{kar.}slėptuvė, tranšėja, kazematas;F{abri antiaérien, antiatomique}priešlėktuvinė, priešatominė slėptuvė;I{4}L{prk.}prieglobstis, globa, apsauga;A{loc adv}F{à l’abri}saugioje vietoje;F{les dossiers sont à l’abri}bylos saugioje vietoje;A{loc prép}F{à l’abri de}apsaugoje, priedangoje;F{à l’abri du vent}užuovėjoje;L{prk.}F{être}F{à l’abri du besoin}nieko nestokoti, nieko nereikėti.
+0{abricot}[abriko]S{&rArr;}A{m}abrikosasl{(vaisius)};F{confiture d’abricots}abrikosų uogienė;S{&rArr;}A{adj}A{inv}abrikosų spalvos;F{des rubans abricot}abrikosų spalvos kaspinai.
+0{abricoté, -ée}[abrikɔte]A{adj}abrikosinis;F{gâteau abricoté}abrikosų pyragas.
+0{abricotier}[abrikɔtje]A{m}L{bot.}abrikosasl{(medis)}.
+0{abriter}[abrite]A{vt}duoti prieglaudą, priglausti, apsaugoti;F{abriter_{qn}sous son parapluie}priglausti ką po savo skėčiu;F{un grand parasol qui abrite du soleil}didelis saulės skėtis apsaugo nuo saulės;F{abriter deux cents personnes}duoti prieglaudą, suteikti pastogę dviem šimtams asmenų;$2{s’abriter}I{1}pasislėptil{(nuo vėjo, lietaus)};F{s’abriter sous un arbre, derrière un arbre}pasislėpti po medžiu, už medžio;I{2}L{prk.}susirasti prieglobstį, užtarimą;F{s’abriter derrière la loi}prisidengti įstatymu.
+0{abrivent}[abriv&#593;&#771;]A{m}užtvara nuo vėjol{(augalų apsaugai)}; stoginė, sarginėl{(laukuose)}.
+0{abrogation}[abrɔgasj&#596;&#771;]A{f}L{teis.}abrogacija, atšaukimas, panaikinimas;F{abrogation tacite}tylus panaikinimas.
+0{abroger}[abrɔʒe]A{vt}atšaukti, panaikinti, anuliuoti;F{abroger une loi}panaikinti įstatymą.
+0{abrupt, -e}[abrypt]S{&rArr;}A{adj}I{1}status, skardingas;F{versant abrupt d’une montagne}status kalno šlaitas;I{2}L{prk.}grubus, griežtas;F{un homme abrupt et revêche}grubus ir nesugyvenamas žmogus;S{&rArr;}A{m}skardis.
+0{abruptement}[abryptəm&#593;&#771;]A{adv}griežtai, tiesiai, šiurkščiai, netikėtai.
+0{abruti, -ie}[abryti]S{&rArr;}A{adj}I{1}atbukęs, apkvaitęs, nejautrus;F{être abruti de vin}būti apkvaitusiam nuo vyno;I{2}apkvaišęs, pakvaišęs;F{ce type est complètement abruti}šis tipas visiškai pakvaišęs;S{&rArr;}A{m}pakvaišėlis, bukaprotis, stuobrys.
+0{abrutir}[abrytir]A{vt}I{1}atbukintil{(protiškai, moraliai)}, pabloginti, apkvailinti;F{une propagande qui abrutit les masses}propaganda, apkvailinanti mases;I{2}pervarginti, išsekinti, apkurtinti;F{abrutir un enfant de travail}pervarginti vaiką darbu;F{ce vacarme nous abrutit}šis triukšmas mus apkurtina;$2{s’abrutir}pervargti, išsekti;F{s’abrutir de travail}labai išvargti nuo darbo.
+0{abrutissement}[abrytism&#593;&#771;]A{m}sugyvulėjimas, atbukimas, sukvailėjimas.
+0{abscisse}[apsis]A{f}abscisė.
+0{absence}[aps&#593;&#771;s]A{f}I{1}nebuvimas;F{nous avons regretté votre absence}mes apgailestavom, kad jūsų nebuvo;I{2}nutolimas, palikimas, atsiskyrimas;F{pendant votre absence}jums nesant;F{en l’absence de}kam nesant;F{en l’absence du directeur, voyez son adjoint}direktoriui nesant, kreipkitės į jo pavaduotoją;I{3}nelankymas, nedalyvavimas, absenteizmas;I{4}trūkumas, stoka;F{absence de contrôle}kontrolės stoka;I{5}neturėjimas, nebuvimas šalia;F{l’absence de père est néfaste à un enfant}tėvo nebuvimas pražūtingas vaikui, daro vaiką nelaimingą;I{6}laikinas atminties, sąmonės netekimas;L{med.}F{absence (épileptique)}(epilepsijos) priepuolis.
+0{absent, -ente}[aps&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}I{1}nesantis, nedalyvaujantis;F{elle a été absente deux mois, pendant deux mois}jos nebuvo du mėnesius;F{elle était absente à la réunion, au procès}ji nedalyvavo susirinkime, bylos svarstyme;F{être}F{absent}nebūti kur, nedalyvauti;F{qui est absent?}ko nėra?l{(klasėje irL{pan.})};I{2}nesantisl{(apie daiktus)}, stokojantis, trūkstantis;F{la gaieté est absente de cette maison}šiam namui trūksta linksmumo;F{la ponctuation est totalement absente de ce texte}šiame tekste visai nėra skyrybos;S{&rArr;}A{m},A{f}nesantysis, nesančioji; nedalyvaujantysis, nedalyvaujančioji;F{dire du mal des absents, des absentes}blogai kalbėti apie nesančius, nesančias.
+0{absenter (s’)}[aps&#593;&#771;te]pasišalinti, išeitil{(kuriam laikui)}, pasitraukti;F{s’absenter de son poste}pasitraukti iš darbo vietos;F{demander la permission de s’absenter}paprašyti leidimo išeiti.
+0{abside}[apsid]A{f}L{archit.}apsidė.
+0{absinthe}[aps&epsilon;&#771;t]A{f}absentas, alkoholinis gėrimas, anyžių ir pelynų antpilas.
+0{absolu, -ue}[apsɔly]S{&rArr;}A{adj}I{1}absoliutus, visiškas, nepriklausomas;F{silence absolu}visiška tyla;F{pouvoir absolu}absoliuti totalitarinė valdžia;F{alcool absolu}grynas alkoholis;I{2}idealus, tobulas;I{3}autoritarinis, despotiškas; nepripažįstantis nuolaidų; nekintantis; absoliutus;F{température absolue}absoliučioji temperatūra; L{mat.}F{valeur absolue}absoliutusis dydis;L{gram.}F{ablatif absolu}absoliutusis abliatyvas;S{&rArr;}A{m}absoliutas;A{loc}F{dans l’absolu}neatsižvelgiant į aplinkybes, į sąlygas, abstrakčiai, teoriškai;F{on ne peut juger de cela dans l’absolu}apie tai negalima spręsti abstrakčiai.
+0{absolument}[apsɔlym&#593;&#771;]A{adv}I{1}absoliučiai, visiškai;F{c’est absolument faux}tai visiškai neteisinga;I{2}būtinai;F{il veut absolument vous voir}jis būtinai nori jus pamatyti.
+0{absolution}[apsolysj&#596;&#771;]A{f}I{1}absoliucija, atleidimas;L{liturg.}nuodėmių atleidimas;I{2}L{teis.}teismo sprendimas, atleidžiantis teisiamąjį nuo bausmės;F{prononcer l’absolution de l’accusé}paskelbti kaltinamajam absoliuciją.
+0{absolutisme}[apsɔlytism]A{m}absoliutizmas, vienvaldystė.
+0{absorbable}[apsɔrbabl]A{adj}absorbuojamas, (su)geriamas;F{médicament absorbable sans eau}vaistas geriamas be vandens.
+0{absorbant, -ante}[apsɔrb&#593;&#771;, -&#593;&#771;t]A{adj}sugeriantis, absorbuojantis, susiurbiantis; F{papier absorbant}sugeriamasis popierius;F{couches-culottes absorbantes}sauskelnės;L{prk.}F{un travail absorbant}darbas, reikalaujantis visiško atsidavimo.
+0{absorber}[apsɔrbe]A{vt}I{1}sugerti, susiurbti, įsiurbti, įtraukti, absorbuoti;F{le sable absorbe l’eau}smėlis sugeria vandenį;I{2}gerti, valgyti, praryti, suryti;F{il n’a rien absorbé depuis hier}nuo vakar dienos jis nieko nevalgė;L{prk.}F{cet achat a absorbé toutes mes économies}šis pirkinys prarijo visas mano santaupas;I{3}įtraukti, apimti;F{ce travail l’absorbe beaucoup}šis darbas jį labai įtraukia, jis visiškai atsiduoda šiam darbui;$2{s’absorber}pasinerti; įsigilinti;F{être absorbé dans ses pensées}būti paskendusiam savo mintyse;F{elle a l’air absorbé}ji susimąsčiusi, susirūpinusi.
+0{absorption}[apsɔrpsj&#596;&#771;]A{f}I{1}absorbcija, sugėrimas, įsiurbimas;F{l’absorption d’une crème par la peau}kremo absorbcija į odą;I{2}įkvėpimas, suvalgymas, nurijimas;F{absorption de gaz toxiques}nuodingųjų dujų įkvėpimas;I{3}L{prk.}nustelbimas, užgožimas;F{absorption de l’individu dans le groupe}individo nustelbimas grupėje.
+0{absoudre}_{*}[apsudr]A{vt}I{1}išteisinti, atleisti kaltę;F{il l’a absous}jis jam atleido kaltę;I{2}L{liturg.}atleisti nuodėmes;F{absoudre un pécheur}atleisti nuodėmes nusidėjėliui.
+0{abstème}[apstɛm]S{&rArr;}A{adj}negeriantis;S{&rArr;}A{m},A{f}blaivininkas, blaivininkė; abstinentas, abstinentė.
+0{abstenir}_{*}0{(s’)}[apstənir]:F{s’abstenir de faire_{qch}}susilaikyti, susivaldyti, susiturėti;F{s’abstenir de manger}atsisakyti valgyti;F{s’abstenir de dire}nutylėti;F{s’abstenir de voter}nebalsuoti;A{prov}F{dans le doute abstiens-toi}jei abejoji, gerai nežinai, tai tylėk;F{elle s’abstient d’alcool}ji atsisako alkoholio, ji susilaiko nuo alkoholio.
+0{abstention}[apst&#593;&#771;sj&#596;&#771;]A{f}susilaikymas, susiturėjimas, nebalsavimas;F{il y a eu quarante pour cent d’abstentions aux élections}rinkimuose buvo keturiasdešimt procentų susilaikiusiųjų (nebalsavusių).
+0{abstinence}[apstin&#593;&#771;s]A{f}abstinencija, susilaikymasl{(mėsos nevalgymas, alkoholio negėrimas dėl medicininių apribojimų ar religinių įsitikinimų)}.
+0{abstinent, -ente}[apstin&#593;&#771;, -&#593;&#771;t]A{adj}santūrus, saikingas, nuosaikusl{(kuris laikosi savo religijos draudimų, nevartoja svaigalų)}.
+0{abstraction}[apstraksj&#596;&#771;]A{f}abstrahavimas, abstrakcija, atitraukimas, atsiejimas nuo tikrovės;F{faire abstraction de}abstrahuotis, mintimis atsiriboti; atitrūkti nuo tikrovės.
+0{abstraire}_{*}[apstrɛr]A{vt}atsieti, atitraukti; abstrahuoti;$2{s’abstraire}atsiriboti, atitrūkti mintimisl{(nuo išorinio pasaulio, tikrovės)}.
+0{abstrait, -aite}[apstrɛ, -ɛt]S{&rArr;}A{adj}abstraktus, atsietas, atitrūkęs nuo realaus pasaulio;F{l’art abstrait}abstraktusis menas;F{pensée abstraite}abstrakti mintis;S{&rArr;}A{m}abstraktumas;F{aller du concret vers l’abstrait}nuo konkretaus eiti prie abstraktaus.
+0{abstraitement}[apstrɛtm&#593;&#771;]A{adv}abstrakčiai;F{s’exprimer trop abstraitement}labai abstrakčiai pasakyti.
+0{abstrus, -use}[apstry, -yz]A{adj}sunkiai suprantamas, neaiškus.
+0{absurde}[apsyrd]S{&rArr;}A{adj}absurdiškas, beprasmiškas; neprotingas;F{c’est une idée absurde}tai absurdiška mintis; A{imp}F{il est absurde de penser que cela changera}neprotinga būtų galvoti, kad tai pasikeis;S{&rArr;}A{m}absurdas, nesąmonė, beprasmybė.
+0{absurdité}[apsyrdite]A{f}absurdiškumas, beprasmiškumas, kvailystė, niekai;F{dire des absurdités}niekus kalbėti.
+0{abus}[aby]A{m}I{1}piktnaudžiavimas;F{l’abus d’alcool}piktnaudžiavimas alkoholiu;F{abus d’autorité, de pouvoir}piktnaudžiavimas autoritetu, valdžia;F{abus de confiance}piktnaudžiavimas pasitikėjimu;A{loc fam}F{il y a de l’abus}tai perdėta, to jau per daug.
+0{abuser}[abyze]S{&rArr;}A{vi}piktnaudžiauti; negailėti, per daug naudoti; F{abuser de l’alcool}piktnaudžiauti alkoholiu;F{abuser de ses forces}negailėti savo jėgų;F{abuser de la patience de_{qn}}piktnaudžiauti kieno kantrybe;F{abuser une personne}išprievartauti asmenį;S{&rArr;}A{vt}apgaudinėti, klaidinti;F{se laisser abuser}leistis apgaudinėjamam;$2{s’abuser}klysti;F{c’était hier si je ne m’abuse}jei neklystu, tai buvo vakar.
+0{abusif, -ive}[abyzif, -iv]A{adj}I{1}neteisėtas, neteisingas, priešingas įstatymams;I{2}perdėtas, besaikis; netinkamas;F{l’usage abusif d’un médicament}besaikis vaisto vartojimas;F{emploi abusif d’un mot}netinkamas žodžio vartojimas.
+0{abyssal, -ale}[abisal]A{adj}(A{pl}A{m}2{-aux}[-o])L{geogr.}giluminis, gelminis.
+0{abysse}[abis]A{m}L{geogr.}l{(vandenyno)}gelmė, giluma.
+0{Abyssin}A{m},0{-ine}A{f}[abis&epsilon;&#771;, -in]abisinas, abisinė.
+0{abyssin,}0{-ine}[abis&epsilon;&#771;, -in]A{adj}abisinų, abisiniškas, Abisinijos;F{un chat abyssin}abisiniškas katinas.
+0{acabit}[akabi]A{m}L{šnek.}savybė, kokybė;A{loc}F{du même acabit}vienodi, tos pačios kokybės; tokios pačios prigimties.
+0{acacia}[akasja]A{m}L{bot.}akacija.
+0{académicien}A{m},0{-ienne}A{f}[akademisj&epsilon;&#771;, -jɛn]akademikas, akademikė.
+0{académie}[akademi]A{f}I{1}akademija;F{l’Académie des Sciences}Mokslų akademija;F{être élu à l’académie}būti išrinktam Akademijos nariu;I{2}aukštoji mokykla;I{3}aktas; piešinys, vaizduojantis nuogą kūną;I{4}L{psn.}kūnas, kūno sudėjimas.
+0{académique}[akademik]A{adj}I{1}akademinis, susijęs su Akademija;I{2}mokymo, mokomasis;F{année académique}mokslo metai;I{3}akademiškas, griežtas, tikslus;F{style académique}akademiškas stilius.
+0{académisme}[akademism]A{m}akademizmas.
+0{acajou}[akaʒu]S{&rArr;}A{m}raudonmedis;S{&rArr;}A{adj}A{inv}rusva spalva;F{des cheveux acajou}rusvi plaukai.
+0{accablant, -ante}[akabl&#593;&#771;, -&#593;&#771;t]A{adj}sunkus, slegiantis, varginantis;F{une chaleur accablante}slegiantis karštis;F{une douleur accablante}nepakeliamas skausmas; F{il est accablant}su juo sunku, jis vargina.
+0{accablement}[akabləm&#593;&#771;]A{m}prislėgta būsena, išsekimas, nuovargis;F{accablement physique, moral}fizinis, moralinis išsekimas, nuovargis.
+0{accabler}[akable]A{vt}I{1}(pri)slėgti, priblokšti;F{être accablé sous le poids des ans}būti metų naštos slegiamam, linkti nuo metų naštos;F{les impôts accablent les habitants}mokesčiai slegia gyventojus;I{2}nugalėti, pribaigtil{(priešininką)};I{3}apkrauti, apsunkinti;F{il nous accable de travail}jis mus apkrauna darbu;F{accabler d’injures, de reproches}iškoneveikti, priekaištauti;F{accabler de cadeaux}užversti dovanomis;F{il nous accable de ses conseils}jis mus vargina savo patarimais.
+0{accalmie}[akalmi]A{f}I{1}aptilimas, aprimimasl{(apie jūrą, vėją)}; nustojimas lyti;I{2}ramumas, ramybė, nurimimas;F{période d’accalmie}ramybės laikotarpis.
+0{accaparement}[akaparm&#593;&#771;]A{m}užgrobimas, pasiglemžimas.
+0{accaparer}[akapare]A{vt}I{1}L{ekon.}supirkti, supirkinėtil{(spekuliacijos tikslais)};F{accaparer la production de sucre}supirkti visą pagamintą cukrų;I{2}užgrobti, paglemžti;F{accaparer le pouvoir}užgrobti valdžią;F{accaparer l’attention}patraukti dėmesį;F{elle accapare la salle de bains pendant des heures}ji užima vonią ištisas valandas;I{3}L{šnek.}nesitraukti nuo ko, nepalikti ko;F{cet invité a accaparé la maîtresse de la maison}šis svečias nesitraukė nuo namų šeimininkės;F{le travail l’accapare tout entier}jis visas įsitraukęs į darbą, paskendęs darbe.
+0{accapareur}A{m},0{-euse}A{f}[akaparœr, -øz]supirkėjas, supirkėja; spekuliantas, spekuliantė.
+0{accéder}[aksede]A{vi}I{1}patekti, įeiti;L{prk.}pasiekti;F{on accède au grenier par une échelle}į palėpę patenkama kopėčiomis;F{accéder au trône}įžengti į sostą, gauti karūną;F{accéder à la propriété}tapti savininku;I{2}sutikti, prisijungti, prisidėti;F{accéder à un traité}sutikti su sutartimi;F{accéder aux vœux de_{qn}}prisijungti prie kieno linkėjimų.
+0{accélérateur, -trice}[akseleratœr, -tris]S{&rArr;}A{adj}pagreitinantis, greitinantis; akceleracinis;S{&rArr;}A{m}I{1}akceleratorius, greičio reguliavimo įtaisas;F{pédale d’accélérateur}akceleratoriaus pedalas;I{2}L{fiz.}greitintuvas;F{accélérateur linéaire}tiesinis greitintuvas;F{accélérateur circulaire}ciklotronas.
+0{accélération}[akselerasj&#596;&#771;]A{f}I{1}greičio didinimas; pagreitinimas, pagreitėjimas;F{l’accélération de la respiration}kvėpavimo pagreitėjimas;I{2}L{fiz.}greitinimas, pagreitis;F{accélération de la pesanteur}svorio jėgos greitinimas;L{ekon.}F{principe d’accélération}akceleratoriaus principas.
+0{accélérer}[akselere]S{&rArr;}A{vt}I{1}pagreitinti, paspartinti;F{accélérer l’allure}paspartinti ėjimo greitį;I{2}L{prk.}padaryti aktyvesnį, paskubinti;F{il faut accélérer les travaux}reikia paskubinti darbus;S{&rArr;}A{vi}padidinti greitįl{(mašinos, motoro)};F{pour dépasser un autre véhicule il faut accélérer}norint aplenkti kitą mašiną, reikia padidinti greitį.
+0{accélérographe}[akselerɔgraf]A{m}akcelerografas.
+0{accéléromètre}[akselerɔmɛtr]A{m}akcelerometras.
+0{accent}[aks&#593;&#771;]A{m}I{1}L{lingv.}kirtis; diakritinis ženklas;F{é accent aigu}[aks&#593;&#771;tegy]ė akūtas;F{è accent grave}[aks&#593;&#771;grav]e gravis;F{ê accent circonflexe}[aks&#593;&#771;sirk&#596;&#771;flɛks]e cirkumfleksas;I{2}tarimas, akcentas;F{parler avec l’accent}kalbėti su akcentu;F{avoir l’accent français}turėti prancūzišką akcentą;I{3}balso išraiška, tonas; intonacija;F{un accent douloureux}skausminga balso intonacija;I{4}A{pl}garsai, žodžiai;F{ces accents pleins d’amour}šie žodžiai pilni meilės.
+0{accentuation}[aks&#593;&#771;tɥasj&#596;&#771;]A{f}I{1}L{lingv.}kirčiavimas;I{2}pabrėžimas, akcentavimas;I{3}L{prk.}sustiprinimas, padidinimas, paryškinimas;F{accentuation de la hausse des prix}kainų didėjimo pagreitinimas.
+0{accentué, -ée}[aks&#593;&#771;tɥe]A{adj}I{1}kirčiuotas;F{syllabe accentuée}kirčiuotas skiemuo;I{2}ryškus, akcentuotas;I{3}turintis grafinį kirtį.
+0{accentuer}[aks&#593;&#771;tɥe]A{vt}I{1}L{lingv.}kirčiuoti;F{accentuer la voyelle finale en français}prancūzų kalboje kirčiuoti paskutinę balsę;I{2}uždėti diakritinį kirtįl{(ant raidės)};F{accentuer un a}uždėti diakritinį kirtį ant a; I{3}(už)akcentuoti, pabrėžti;I{4}stiprinti, aštrinti, intensyvinti;F{accentuer son effort}intensyvinti savo pastangas;$2{s’accentuer}intensyvėti, (pa)aštrėti;F{le froid s’accentue}šaltis stiprėja.
+0{acceptable}[aksɛptabl]A{adj}priimtinas, patenkinamas;F{offres acceptables}priimtini pasiūlymai;L{lingv.}F{phrase acceptable}taisyklingas sakinys.
+0{acceptation}[aksɛptasj&#596;&#771;]A{f}I{1}priėmimas, sutikimas;F{l’acceptation d’un cadeau}dovanos priėmimas;I{2}L{ekon.}akceptavimas.
+0{accepter}[aksɛpte]S{&rArr;}A{vt}I{1}priimti;F{accepter une invitation}priimti pakvietimą;F{accepter des excuses}priimti atsiprašymą;I{2}L{teis.}duoti sutikimą;I{3}pasiduoti, paklusti, nesipriešinti;F{accepter la mort}susitaikyti su mirtimi;S{&rArr;}A{vi}:F{accepter de}f{(+A{inf})}sutikti;F{il a accepté de nous aider}jis sutiko mums padėti.
+0{acception}[aksɛpsj&#596;&#771;]A{f}žodžio reikšmė;F{acception propre, figurée}tiesioginė, perkeltinė žodžio prasmė;F{mot à nombreuses acceptions}žodis, turintis daugybę reikšmių, daugiareikšmis žodis;A{loc}F{dans toute l’acception du terme}pilna (to) žodžio prasme;A{loc}F{sans acception de}neatsižvelgiant;F{sans acception de fortune}neatsižvelgiant į turtinę padėtį.
+0{accès}[aksɛ]A{m}I{1}įėjimas, įvažiavimas:F{l’accès de ce parc est interdit}įeiti į šį parką draudžiama;I{2}priėjimas, patekimas;F{il est d’un accès difficile}pas jį sunku patekti, prie jo sunku prieiti;F{avoir accès auprès de_{qn}}galėti prie ko prieiti;F{avoir accès à_{qch}}turėti prie ko nors priėjimą;F{la Suisse n’a pas accès à la mer}Šveicarija neturi priėjimo prie jūros;I{3}L{prk.}galimybė pažintil{(ką nors)}, dalyvautil{(kur nors)};F{le libre accès à l’information}laisvas priėjimas prie informacijos;I{4}L{inf.}prieiga, kreipts;F{accès d’entrée, de sortie}įvesties, išvesties prievadai;F{accès associatif aux mémoires d’un ordinateur}asociatyvioji prieiga prie kompiuterio atminties;I{5}priepuolis;F{accès de toux}kosulio priepuolis;F{des accès de colère}pykčio priepuoliai;F{par accès}laikas nuo laiko, nereguliariai, protrūkiais.
+0{accessibilité}[aksesibilite]A{f}prieinamumas, pasiekiamumas;F{l’accessibilité à un lieu}vietos pasiekiamumas.
+0{accessible}[aksesibl]A{adj}I{1}prieinamas, pasiekiamas;F{ce lieu n’est accessible que par avion}vietovė pasiekiama tik lėktuvu;L{prk.}F{prix accessible}prieinama kaina;F{roue de secours facilement accessible}gelbėjimo ratas lengvai pasiekiamas;I{2}L{prk.}imlus, jautrus, atviras;F{être accessible aux idées nouvelles}būti imliam naujoms idėjoms;F{il est accessible à la pitié}jis jautrus gailesčiui.
+0{accession}[aksesj&#596;&#771;]A{f}I{1}atėjimas;F{accession au pouvoir}atėjimas į valdžią;F{accession au trône}įžengimas į sostą;I{2}L{prk.}pasiekimas, gavimas;F{accession d’un pays à l’indépendance}šalies nepriklausomybės pasiekimas;I{3}prisijungimas; įstojimas;F{l’accession d’un État à un traité}valstybės prisijungimas prie sutarties.
+0{accessit}[aksesit]A{m}pagyrimo raštas.
+0{accessoire}[akseswar]S{&rArr;}A{adj}papildomas, antraeilis, šalutinis;F{jouer un rôle accessoire}vaidinti antraeilį vaidmenį;F{c’est tout à fait accessoire}tai visai nereikšminga;F{une clause accessoire}papildomas straipsnis;S{&rArr;}A{m}I{1}antraeilis (neesminis) dalykas;F{distinguer l’essentiel de l’accessoire}skirti esmę nuo antraeilių dalykų;I{2}A{pl}aksesuarail{(teatro, kino, televizijos)}; tualeto priedail{(rankinė, diržas, pirštinės irL{pan.})}; dalys, detalės;F{accessoires d’automobiles}automobilių dalys.
+0{accessoiriser}[akseswarize]A{vt}papildytil{(tualetą)}vienu ar keliais aksesuarais, priedais.
+0{accident}[aksid&#593;&#771;]A{m}I{1}atsitiktinumas;A{loc}F{par accident}atsitiktinai; iš netyčių;I{2}nelaimingas įvykis, eismo nelaimė;F{accident du travail}nelaimingas įvykis darbe; F{les accidents de la route}eismo nelaimės;I{3}L{med.}ligos komplikacija, priepuolis;F{un accident cardiaque}širdies priepuolis;I{4}:F{accident de terrain}žemės, vietovės nelygumas;I{5}L{muz.}alteracijos ženklas.
+0{accidenté, -ée}[aksid&#593;&#771;te]A{adj}I{1}nelygus;F{terrain accidenté}nelygi vietovė;I{2}L{prk.}nukentėjęs nuo nelaimingo atsitikimo;F{les accidentés de la route}nukentėję eismo nelaimėse.
+0{accidentel, -elle}[aksid&#593;&#771;tɛl]A{adj}atsitiktinis;F{mort accidentelle}atsitiktinė mirtis.
+0{accise}[aksiz]A{f}L{ekon.}akcizas.
+0{acclamation}[aklamasj&#596;&#771;]A{f}garsus, džiugus sveikinimas, sveikinimo šūksniai; ovacijos;F{salle tremblait d’acclamations}salė drebėjo nuo ovacijų;A{loc adv}F{par acclamation}vieningai pritariant šauksmais;F{élire par acclamation}išrinkti vieningai pritariant.
+0{acclamer}[aklame]A{vt}ploti, sveikinti šauksmais, kelti ovacijas.
+0{acclimatation}[aklimatasj&#596;&#771;]A{f}aklimatizacija;F{jardin d’acclimatation}zoologijos sodasl{(retų, egzotiškų rūšių gyvūnų)}.
+0{acclimatement}[aklimatm&#593;&#771;]A{m}aklimatizavimas.
+0{acclimater}[aklimate]A{vt}I{1}aklimatizuoti, pripratinti prie naujų geografinių sąlygų;I{2}L{prk.}pritapti;$2{s’acclimater}aklimatizuotis, priprasti;F{plante qui s’acclimate}augalas, kuris aklimatizuojasi.
+0{accointance}[akw&epsilon;&#771;t&#593;&#771;s]A{f}artimi ryšiai, artima pažintis;A{loc}F{avoir des accointances}turėti ryšių;F{il avait des accointances parmi les hommes du pouvoir}jis turėjo ryšių tarp valdžios vyrų.
+0{accolade}[akɔlad]A{f}I{1}apkabinimas,l{(priglaudžiant skruostą prie skruosto)}sveikinant, įteikiant apdovanojimą;I{2}L{ist.}įšventinimas į riterius pridedant kardą prie peties;I{3}riestinis skliaustelis;I{4}L{muz.}akoladė.
+0{accolage}[akɔlaʒ]A{m}jaunų (vynuogės, medžio) šakelių priraišiojimas prie kartelių, smaigų.
+0{accolement}[akɔlm&#593;&#771;]A{m}sujungimas, vienas prie kito pritvirtinimas.
+0{accoler}[akɔle]A{vt}I{1}apkabinti rankomis;I{2}sujungti, suartinti;F{accoler la vigne}priraišioti vynuogę;I{3}suskliausti riestiniais skliaustais;F{accoler deux paragraphes}suskliausti du paragrafus;$2{s’accoler}apsivytil{(apie augalus)}, pristatyti vieną šalia kito, prijungtil{(apie pastatus)}.
+0{accommodant, -ante}[akɔmɔd&#593;&#771;, -&#593;&#771;t]A{adj}sukalbamas, nuolaidus.
+0{accommodation}[akɔmɔdasj&#596;&#771;]A{f}pri(si)taikymas, akomodacija.
+0{accommodement}[akɔmɔdm&#593;&#771;]A{m}susitarimasl{(draugiškas)}, susitaikymas, kompromisas;F{obtenir un accommodement}pasiekti susitarimo.
+0{accommoder}[akɔmɔde]S{&rArr;}A{vt}I{1}pritaikyti, priderinti; akomoduoti;I{2}paruošti, pagaminti;F{accommoder du poisson avec une sauce}paruošti žuvį su padažu;I{3}sutvarkyti, sutaikyti;S{&rArr;}A{vi}adaptuotis, prisiderinti;F{les astigmates accommodent mal}astigmatų akys blogai prisitaiko, adaptuojasi;$2{s’accommoder}I{1}l{(à)}prisitaikyti;F{cherchons à nous accommoder à cette vie}stenkimės prisitaikyti prie gyvenimo;I{2}l{(de)}pasitenkinti;F{elle s’est accommodée de la situation}ji pasitenkino esama padėtimi.
+0{accompagnateur}A{m},0{-trice}A{f}[ak&#596;&#771;paɲatœr, -tris]I{1}akompanuotojas, akompanuotoja;I{2}palydovas, palydovė.
+0{accompagnement}[ak&#596;&#771;paɲm&#593;&#771;]A{m}I{1}lydėjimas;I{2}L{muz.}akompanimentas;I{3}garnyrasl{(prie mėsos, žuvies)};I{4}:F{accompagnement d’un malade}fizinė ir moralinė parama ligoniui, buvimas prie jo iki pat mirties.
+0{accompagner}[ak&#596;&#771;paɲe]A{vt}I{1}lydėti; prižiūrėti;F{il l’accompagne partout}jis ją visur lydi;F{accompagnez-moi à la gare}palydėkite mane į stotį;F{accompagner pour surveiller}prižiūrėti; globoti;F{accompagner un malade}būti prie ligonio iki jo mirties;I{2}eiti su, būti prie; patiekti kartu, tikti;F{l’adjectif qui accompagne le nom}būdvardis eina, vartojamas su daiktavardžiu;F{accompagner une viande de légumes}mėsą patiekti su daržovėmis;F{le vin blanc sec accompagne l’entrée}sausas baltas vynas patiekiamas prie užkandos;I{3}akompanuoti;F{accompagner un violoniste au piano}smuikininkui akompanuoti pianinu.
+0{accompli, -ie}[ak&#596;&#771;pli]S{&rArr;}A{adj}įvykęs, užbaigtas;A{loc}F{le fait accompli}įvykęs faktas;S{&rArr;}A{m}L{lingv.}įvykęs veiksmas; būtieji laikai.
+0{accomplir}[akɔmplir]A{vt}I{1}atlikti, įgyvendinti;F{accomplir une peine de prison}atlikti bausmę kalėjime;F{accomplir des réformes}įgyvendinti reformas;I{2}įvykdyti, užbaigti;F{accomplir une promesse}įvykdyti, ištesėti pažadą;F{accomplir la volonté de Dieu}vykdyti Dievo valią;F{accomplir un travail}užbaigti darbą;$2{s’accomplir}įvykti, išsipildyti;F{son souhait s’est accompli}jo linkėjimas išsipildė.
+0{accomplissement}[ak&#596;&#771;plism&#593;&#771;]A{m}įvykdymas, įgyvendinimas;F{l’accomplissement de son rêve}jo svajonės išsipildymas.
+0{accord}[akɔr]A{m}I{1}sutarimas, vieninga nuomonė, santarvė, santaika;F{l’accord est unanime, général}vienbalsis, visuotinas sutarimas;I{2}:F{en accord}:F{vivre en accord, en parfait accord avec_{qn}}puikiai sutarti su kuo;F{être d’accord avec_{qn}}sutiktil{(su kuo nors)}; būti tos pačios nuomonės;F{accords bilatéraux}abipusiai sutarimai;F{se mettre d’accord}susitarti, pasiekti vieningą nuomonę;I{2}pritarimas, sutikimas;F{donner son accord}duoti sutikimą, leisti;F{d’accord}sutinku;L{šnek.}F{d’ac(c)}sutinku, gerai;I{3}suderinamumas, atitikimas;F{l’accord des couleurs}spalvų suderinimas;F{mettre en accord}suderinti;I{4}L{muz.}akordas;I{5}L{el.}derinimas;F{accord de fréquence}dažnio derinimas;I{6}L{gram.}suderinimas;F{accord en genre et en nombre}suderinimas gimine ir skaičiumi.
+0{accordailles}[akɔrdaj]A{f}A{pl}sužadėtuvės.
+0{accordéon}[akɔrde&#596;&#771;]A{m}akordeonas;A{loc}F{en accordéon}suklostytas smulkiomis klostėmis.
+0{accordéoniste}[akɔrdeɔnist]A{m},A{f}akordeonistas, akordeonistė.
+0{accorder}[akɔrde]A{vt}I{1}(su)derinti, (su)taikyti, susitarti;F{accorder ses principes et sa vie}suderinti savo principus ir gyvenimą;F{accorder une querelle}užbaigti ginčą;I{2}sutikti (neprieštarauti);F{je vous accorde que j’ai eu tort}sutinku, kad klydau;I{3}duoti, suteikti;F{accorder un crédit}suteikti kreditą;F{accorder sa confiance}pasitikėti;I{4}teikti;F{accorder de l’importance}teikti reikšmės;I{5}L{muz.}derinti;I{6}L{gram.}suderinti;F{accorder l’adjectif avec le nom}būdvardį suderinti su daiktavardžiu;$2{s’accorder}sau leisti, duoti, sutarti, suteikti;F{accordez-vous un peu de repos!}pailsėkite truputį!
+0{accordeur}A{m},0{-euse}A{f}[akɔrdœr, -øz]derintojas, derintojal{(muzikos instrumentų)}.
+0{accordoir}[akɔrdwar]A{m}prietaisas muzikos instrumentams derinti.
+0{accort, -orte}[akɔr, -ɔrt]A{adj}I{1}malonus, mielas, švelnus, žavus;F{une accorte jeune fille}miela mergaitė;I{2}apsukrus, sumanus.
+0{accoster}[akɔste]A{vt}I{1}prieiti, užkalbinti;F{être accostée par un inconnu}būti užkalbintai nepažįstamo žmogaus;I{2}L{jūr.}priplaukti;F{accoster le quai}priplaukti prie krantinės.
+0{accotement}[akɔtm&#593;&#771;]A{m}šalikelė, pakelė;F{stationner sur l’accotement}stoviniuoti pakelėje.
+0{accoter}[akɔte]A{vt}atremti, prišlieti;F{accoter sa tête sur son fauteuil}prišlieti galvą prie fotelio;$2{s’accoter}atsišlieti, atsiremti;F{s’accoter à la porte}atsiremti į duris.
+0{accotoir}[akɔtwar]A{m}atrama, atkaltė, atlošas.
+0{accouchée}[akuʃe]A{f}gimdyvė.
+0{accouchement}[akuʃm&#593;&#771;]A{m}gimdymas;F{accouchement à terme}gimdymas laiku;F{accouchement avant terme, prématuré}priešlaikinis gimdymas;F{ce médecin a fait des centaines d’accouchements}šis gydytojas priėmė šimtus gimdymų;F{accouchement par césarienne}gimdymas darant Cezario pjūvį.
+0{accoucher}[akuʃe]S{&rArr;}A{vi}I{1}:F{accoucher de}(pa)gimdyti;F{elle a accouché d’un garçon}ji pagimdė berniuką;I{2}L{prk.}sukurti, labai stengtis ką padaryti;F{il a fini par accoucher d’un mauvais roman}jis pagaliau sukurpė prastą romaną;S{&rArr;}A{vt}teikti pagalbą gimdant, priiminėti naujagimį.
+0{accoucheur}A{m},0{-euse}A{f}[akuʃœr, -øz]akušeris, akušerė.
+0{accoudement}[akudm&#593;&#771;]A{m}atsirėmimas alkūnėmis.
+0{accouder (s’)}[akude]atsiremti alkūnėmis;F{s’accouder sur une table}atsiremti į stalą alkūnėmis.
+0{accoudoir}[akudwar]A{m}alkūnramstis; atrama, ramstis;F{l’accoudoir d’une portière d’automobile}automobilio durelių atrama;F{l’accoudoir d’un prie-Dieu}klauptas.
+0{accouplement}[akupləm&#593;&#771;]A{m}I{1}sujungimas poromis;I{2}L{tech.}sujungimas, sukabinimas; sankaba;L{prk.}F{un étrange accouplement de mots}keistas žodžių sujungimas;I{3}L{šnek.}lytinis aktas; gyvūnų sukergimas.
+0{accoupler}[akuple]A{vt}I{1}sujungti poromis;I{2}poruoti, kergti;I{3}L{tech.}sukabinti;F{accoupler des générateurs électriques}sukabinti elektrinius generatorius;I{4}L{prk.}:F{accoupler dans cette phrase deux expressions}du posakius sujungti į sakinį;$2{s’accoupler}poruotisl{(apie gyvulius)}.
+0{accourcir}[akursir]S{&rArr;}A{vt}(su)trumpinti;S{&rArr;}A{vi}trumpėti;F{les jours accourcissent}dienos trumpėja.
+0{accourir}_{*}[akurir]A{vi}atbėgti, atskubėti;F{nous avons accouru pour l’aider}mes atbėgom jam padėti;F{il est accouru nous voir}jis atskubėjo mus pamatyti.
+0{accoutumance}[akutym&#593;&#771;s]A{f}I{1}papratimas, įpratimas, įprotis;I{2}L{med.}pripratinimas, priklausomybė; pripratimasl{(prie vaisto, narkotiko)};F{accoutumance à un poison}pripratinimasl{(organizmo)}prie nuodo;F{ce médicament n’a pas d’effet d’accoutumance}prie šio vaisto nepriprantama.
+0{accoutumé, -ée}[akutyme]A{adj}įprastas;F{à l’heure accoutumée}įprastą valandą;A{loc adv}F{à l’accoutumée}kaip paprastai, kaip įprasta.
+0{accoutumer}[akutyme]A{vt}I{1}turėti įprotį;L{lit.}F{avoir accoutumé de faire_{qch}}turėti įprotį ką daryti;F{être accoutumé à}įprasti;F{je n’étais pas accoutumé à ce qu’on me parlât ainsi}aš neįpratęs, kad su manimi taip kalbėtų;I{2}įpratinti;F{on ne l’a pas accoutumé à travailler}neįpratino jo dirbti;$2{s’accoutumer à}įprasti, paprasti, apsiprasti;F{s’accoutumer au bruit}įprasti prie triukšmo, apsiprasti su triukšmu.
+0{accréditation}[akreditasj&#596;&#771;]A{f}akreditavimas, paskyrimas;F{accréditation d’un ambassadeur}ambasadoriaus paskyrimas eiti pareigas.
+0{accréditer}[akredite]A{vt}I{1}akredituoti, įgalioti;I{2}:F{accréditer_{qch}}skleisti, platintil{(gandą, naujieną)};$2{s’accréditer}sklisti, plistil{(gandui, naujienai)}.
+0{accréditeur}[akreditœr]A{m}asmuo, duodantis garantiją, laiduojantis, laiduotojas, laiduotoja.
+0{accréditif, -ive}[akreditif, -iv]S{&rArr;}A{adj}akredituojantis, įgaliojantis, laiduojantis;S{&rArr;}A{m}akredityvas.
+0{accro}[akro]A{m},A{f}I{1}L{šnek.}asmuo, priklausantis nuo narkotikų, narkomanas, narkomanė;I{2}fanatikas, fanatikė;F{les accros du jazz}džiazo fanatikai.
+0{accroc}[akro]A{m}I{1}skylė, praplyšimas, išplėštas gabalas;F{faire un accroc à son pantalon}praplėšti kelnes;I{2}sunkumas, kliūtis, komplikacija;F{sans accroc}be kliūčių, sklandžiai.
+0{accrochage}[akrɔʃaʒ]A{m}I{1}pakabinimas, užkabinimas;F{l’accrochage d’un tableau}paveikslo pakabinimas;F{l’accrochage de deux wagons}dviejų vagonų sukabinimas;I{2}susidūrimasl{(mašinų)};I{3}L{kar.}trumpas susirėmimas;L{šnek.}ginčas, susikirtimas;F{l’accrochage entre le gouvernement et l’opposition}vyriausybės ir opozicijos vaidas.
+0{accroche-cœur}[akrɔʃkœr]A{m}(A{pl}2{accroche-cœurs}) plaukų garbanėlė ant smilkinio.
+0{accrocher}[akrɔʃe]S{&rArr;}A{vt}I{1}užkabintil{(už ko aštraus)}, praplėšti;F{accrocher un bas}užkabinti kojinę;I{2}(pa)kabinti;F{accrocher un manteau}pakabinti apsiaustą;I{3}L{prk.}sulaikyti kąl{(praeinant)}, užkalbinti;I{4}L{kar.}susidurti, susiremti;I{5}atkreipti dėmesį, patraukti dėmesį;F{cette publicité accroche}ši reklama patraukia dėmesį;I{6}užkliudyti;F{le camion a accroché une voiture}sunkvežimis užkliudė mašiną;I{7}L{šnek.}:F{être accroché}būti priklausomam nuo narkotikų;S{&rArr;}A{vi}susidurti su sunkumais;L{tech.}pradėti blogiau veikti;$2{s’accrocher}I{1}kabintis į ką, už ko; laikytis ko;F{accrochez-vous à la rampe}laikykitės turėklo; F{plante qui s’accroche par des vrilles}augalas kabinasi ūseliais;I{2}L{šnek.}prikibti prie ko;I{3}L{šnek.}susikibti su kuo, išsibarti;F{il se sont accrochés}jie susiginčijo.
+0{accrocheur, -euse}[akrɔʃœr, -øz]S{&rArr;}A{adj}atkaklus, kibus, patraukiantis dėmesį;F{une publicité accrocheuse}patraukianti dėmesį reklama;S{&rArr;}A{m}įkyruolis.
+0{accroire}_{*}[akrwar]A{vt}:F{faire, laisser accroire_{qch}}įtikinti nebūtu dalyku, apdumti akis;A{loc}F{en faire accroire}apgauti;F{s’en laisser accroire}leistis apgaunamam.
+0{accroissement}[akrwasm&#593;&#771;]A{m}augimas, didėjimas;l{(augalo, gyvūno)}prieaugis;F{accroissement de la production}gamybos augimas, didėjimas;F{accroissement des revenus}pajamų augimas.
+0{accroître}_{*}[akrwatr]A{vt}gausinti, didinti;F{accroître ses biens}didinti savo turtus;$2{s’accroître}gausėti, didėti;F{la population de ce pays s’est accrue de deux millions de personnes}šios šalies gyventojų skaičius padidėjo dviem milijonais;F{il écoutait avec une attention accrue}jis klausė su dideliu dėmesiu.
+0{accroupir}0{(s’)}[akrupir]atsitūpti, susiriesti, susigūžti.
+0{accroupissement}[akrupism&#593;&#771;]A{m}atsitūpimas, pritūpimas.
+0{accru}[akry]A{m}ataugal{(iš šaknų)}.
+0{accueil}[akœj]A{m}sutikimas, priėmimas;F{accueil chaleureux}šiltas priėmimas;A{loc}F{faire bon, mauvais accueil à_{qn}}gražiai, prastai ką sutikti;F{le public a fait un accueil enthousiaste à cette pièce}publika entuziastingai sutiko šią pjesę;F{bureau d’accueil}priėmimo, sutikimo biuras;F{adressez-vous à l’accueil}kreipkitės į priėmimo biurą;F{centre d’accueil}oficialus garsaus asmens sutikimo centras.
+0{accueillant, -ante}[akœj&#593;&#771;, -&#593;&#771;t]A{adj}I{1}svetingas, malonus, meilus;F{des gens très accueillants}labai malonūs žmonės;F{maison accueillante}svetingas namas;I{2}palankus;F{il s’est montré accueillant à nos projets}jis pasirodė palankus, pritariantis mūsų projektams.
+0{accueillir}_{*}[akœjir]A{vt}I{1}priimti, sutikti;F{ils sont venus m’accueillir à la gare}jie atėjo manęs sutikti į stotį;I{2}apgyvendinti; priimti gyventi;F{pays qui accueille les immigrés}šalis, kuri priima gyventi imigrantus;F{le stade peut accueillir cent mille personnes}į stadioną telpa, stadionas talpina šimtą tūkstančių asmenų;I{3}sutikti, priimti;F{accueillir un ami chaleureusement}šiltai sutikti (priimti) draugą;F{un silence glacial accueillit ses paroles}jo žodžiai buvo priimti mirtina tyla.
+0{acculer}[akyle]A{vt}I{1}įvaryti į; nustumti;F{acculer l’ennemi à la mer}nustumti priešą prie jūros;I{2}L{prk.}pastatyti į padėtį be išeities;F{la crise économique a acculé l’entreprise à la faillite}ekonominė krizė atvedė įmonę į bankrotą;F{être acculé à une impasse}būti įvarytam į kampą, į padėtį be išeities.
+0{accumulateur}[akymylatœr](L{sutr.}L{šnek.}2{accus}[aky])A{m}akumuliatorius.
+0{accumuler}[akymyle]A{vt}kaupti, rinkti;F{accumuler des preuves}rinkti įrodymus;$2{s’accumuler}susikaupti, susirinkti;F{le courrier s’accumule dans la boîte à lettres}pašto dėžutėje susikaupia korespondencija.
+0{accusateur}A{m},0{-trice}A{f}[akyzatœr, -tris]S{&rArr;}kaltintojas, kaltintoja; šmeižikas, šmeižikė;S{&rArr;}A{adj}kaltinantis;F{documents accusateurs}kaltinantys dokumentai.
+0{accusation}[akyzasj&#596;&#771;]A{f}I{1}kaltinimas, šmeižtas, nepalankus atsiliepimas, žeminančių žinių skleidimas;I{2}skundas, kaltinamasis aktas; teisminis persekiojimas;F{mise en accusation}apkaltinimas, padavimas į teismą;F{acte d’accusation}kaltinamasis aktas;F{dresser un acte d’accusation}surašyti kaltinamąjį aktą.
+0{accusé}A{m},0{-ée}A{f}[akyze]I{1}kaltinamasis, kaltinamoji;F{l’accusé est acquitté, condamné}kaltinamasis yra išteisinamas, nubaudžiamas;I{2}:F{accusé de réception}kvitasl{(patvirtinantis, kad gautas laiškas, siunta, telegrama irL{pan.})}.
+0{accuser}[akyze]A{vt}I{1}kaltinti;F{accuser_{qn}de...}kuo nors ką apkaltinti;I{2}patvirtinti gavimą, pakvituoti;F{accuser réception d’une lettre}patvirtinti, kad laiškas gautas;I{3}išpažinti;L{relig.}F{accuser ses péchés}išpažinti savo nuodėmes;I{4}išduoti, atskleisti, parodyti;F{son visage accuse l’âge}jo veidas išduoda amžių;I{5}išryškinti, užakcentuoti;F{robe moulante qui accuse les formes du corps}aptempta suknelė išryškina kūno formas;F{des traits accusés}ryškūs veido bruožai;$2{s’accuser}save apkaltinti, prisipažinti save kaltu;F{il s’accusa d’imprudence}jis save kaltino neatsargumu.
+0{acéphale}[asefal]A{adj}begalvis, be galvos;F{gouvernement acéphale}vyriausybė be vadovo.
+0{acerbe}[asɛrb]A{adj}I{1}aitrus, gaižus;F{goût acerbe}aitrus skonis;I{2}piktas, griežtas, agresyvus, sarkastiškas;F{répondre d’une manière acerbe}piktai atsakyti.
+0{acéré, -ée}[asere]A{adj}I{1}aštrus;F{griffes acérées}aštrūs nagai;I{2}kandus;F{des paroles acérées}kandūs žodžiai.
+0{acescence}[ases&#593;&#771;s]A{f}rūgimas;F{acescence des vins}vynų rūgimas.
+0{acescent, -ente}[ases&#593;&#771;, -&#593;&#771;t]A{adj}rūgstantis;F{bière acescente}rūgstantis alus.
+0{acétification}[asetifikasj&#596;&#771;]A{f}acto rūgšties gamyba; vyno, alkoholio pavertimas acto rūgštimi.
+0{acétique}[asetik]A{adj}:F{acide acétique}acto rūgštis.
+0{acétone}[asetɔn]A{f}L{chem.}acetonas.
+0{acétyle}[asetil]A{m}L{chem.}acetilas.
+0{acétylène}[asetilɛn]A{m}L{chem.}acetilenas.
+0{achalander}[aʃal&#593;&#771;de]A{vt}L{šnek.}aprūpinti prekėmis;F{boutique achalandée}parduotuvė aprūpinta prekėmis.
+0{acharnement}[aʃarnəm&#593;&#771;]A{m}įtūžis, įniršis;F{avec acharnement}įnirtingai; užsispyrusiai;F{l’acharnement au jeu}aistra, azartas žaisti.
+0{acharner}[aʃarne]A{vt}įnirtinti, įniršintil{(šunį)};$2{s’acharner sur, après, contre}įniršti, įtūžti, įnirtingai ką pulti;F{s’acharner à faire_{qch}}įnirtingai ką daryti, atkakliai ko siekti;F{s’acharner à démontrer}atkakliai įrodinėti;F{s’acharner au jeu}įeiti į azartą žaidžiant, pasiduoti azartui žaidžiant.
+0{achat}[aʃa]A{m}I{1}pirkimas;F{faire l’achat de_{qch}}ką nusipirkti; F{faire des achats}apsipirkti;F{achat au comptant}pirkimas mokant grynaisiais;F{achat à crédit}pirkimas kreditan;F{prix d’achat}perkamoji kaina;L{ekon.}F{pouvoir d’achat}perkamoji galia;I{2}A{pl}pirkiniai;F{montrez-moi vos achats}parodykite savo pirkinius.
+0{acheminement}[aʃ(ə)minm&#593;&#771;]A{m}I{1}žengimas į priekį, ėjimas į tikslą;I{2}persiuntimas, pristatymas;F{l’acheminement du courrier (des colis)}korespondencijos (siuntinių) pristatymas.
+0{acheminer}[aʃ(ə)mine]A{vt}I{1}nugabenti, nuvežti, pristatyti;F{acheminer des marchandises}nugabenti prekes;I{2}L{prk.}nukreipti į;$2{s’acheminer}vykti, žengti, eiti kur link, siekti;F{il s’achemina vers la rivière}jis nuėjo link upės.
+0{achetable}[aʃ(ə)tabl]A{adj}nuperkamas, įperkamas, paperkamas;F{tout individu est achetable}kiekvienas individas yra paperkamas.
+0{acheter}[aʃ(ə)te]A{vt}I{1}(nu)pirkti;F{acheter des marchandises au comptant, à crédit, en gros}pirkti prekes mokant grynaisiais, į kreditą, urmu;F{c’est un livre que j’ai acheté d’occasion, très bon marché}knyga, kurią aš nusipirkau su nuolaida, labai pigiai;I{2}L{prk.}nupirkti, papirkti;F{acheter le suffrage}nusipirkti balsą;F{vous achetez bien cher votre tranquillité}jūs labai brangiai mokate už savo ramybę;$2{s’acheter}nusipirkti;F{elle s’est acheté de nouvelles chaussures}ji nusipirko naujus batus;F{ce ne sont pas des choses qui s’achètent}tai nenusiperkami dalykai.
+0{acheteur}A{m},0{-euse}A{f}[aʃ(ə)tœr, -øz]pirkėjas, pirkėja.
+0{achèvement}[aʃɛvm&#593;&#771;]A{m}užbaigimas, išbaigimas, užbaigtumas, galas.
+0{achever}[aʃ(ə)ve]A{vt}I{1}(už)baigti, pabaigti;F{achever sa vie dans la retraite}vienatvėje užbaigti savo gyvenimą;F{achever de}f{(+A{inf})}galutinai užbaigti;F{j’ai achevé de ranger mes papiers}aš galutinai sutvarkiau savo popierius, aš užbaigiau tvarkyti savo popierius;I{2}pribaigti;F{achever un cheval blessé}pribaigti sužeistą arklį;I{3}sužlugdyti, suardyti, priblokšti, nuvarginti;$2{s’achever}baigtis, pasibaigti.
+0{achoppement}[aʃɔpm&#593;&#771;]A{m}kliūtis;F{pierre d’achoppement}kliuvinys.
+0{achopper}[aʃɔpe]A{vi}užkliūti koja už ko, kluptelėti, suklupti;L{prk.}F{achopper sur cette question}suklupti ties šiuo klausimu;$2{s’achopper}susidurti;F{s’achopper à une difficulté}susidurti su sunkumu.
+0{achromatique}[akrɔmatik]A{adj}achromatinis, bespalvis, neskaidrus.
+0{acide}[asid]S{&rArr;}A{adj}I{1}rūgštus;F{fruit vert et acide}žalias ir rūgštus vaisius;I{2}L{prk.}kandus, ironiškas, aštrus;S{&rArr;}A{m}rūgštis.
+0{acidité}[asidite]A{f}I{1}rūgštumas, rūgštingumas;F{acidité du citron}citrinos rūgštumas;F{acidité gastrique}skrandžio rūgštingumas;I{2}L{prk.}kandumas.
+0{acidulé, -ée}[asidyle]A{adj}apyrūgštis, porūgštis, rūgštokas;F{bonbons acidulés}rūgštoki saldainiai.
+0{aciduler}[asidyle]A{vt}(pa)rūgštinti.
+0{acier}[asje]S{&rArr;}A{m}I{1}plienas;F{acier trempé}grūdintas plienas;F{acier inoxydable}nerūdijantis plienas;I{2}plieno pramonė, prekyba;S{&rArr;}A{adj}I{1}:F{d’acier}plieninis;F{arme d’acier}plieninis ginklas;I{2}plieno spalvos;F{gris, bleu acier}pilkos, melsvos, plieno spalvos;F{une voiture gris acier}pilkos plieno spalvos mašina;I{3}L{prk.}:F{d’acier}kietas kaip plienas, labai kietas;F{des muscles d’acier}labai kieti raumenys;A{loc}F{avoir un moral d’acier}būti tvirtos moralės.
+0{aciérage}[asjeraʒ]A{m}plieno gamyba.
+0{aciérer}[asjere]A{vt}I{1}gaminti plieną;I{2}gaminti iš plieno, padengti plienu.
+0{aciérie}[asjeri]A{f}plieno gamykla.
+0{acmé}[akme]A{m},A{f}I{1}aukščiausia ligos intensyvumo fazė;I{2}aukščiausias ko nors taškas, apogėjus; viršūnė, akmė;F{l’acmé de la vie}gyvenimo apogėjus.
+0{acné}[akne]A{f}spuogas ant veido; inkštiras;F{acné juvénile}jaunatviškas spuogas.
+0{acolyte}[akɔlit]A{m}I{1}L{relig.}klierikas; patarnautojas prie altoriaus;I{2}L{prk.}suokalbininkas, bendrininkas.
+0{acompte}[ak&#596;&#771;t]A{m}I{1}dalinis įmokėjimas, avansas; rankpinigiai;F{donner, verser un acompte}duoti avansą, rankpinigius;I{2}L{prk.}mažas malonumas, savęs pamaloninimasl{(tikintis didesnio malonumo)}.
+0{à-côté}[akote]A{m}(A{pl}2{à-côtés}) šalutinė problema, šalutinis dalykas, antraeilis (neesminis) dalykas;F{ce n’est qu’un à-côté de la question}tai tik šalutinė šio klausimo pusė.
+0{à-coup}[aku]A{m}(A{pl}2{à-coups}) staigus judesys, staigi pauzė, trūktelėjimas, stumtelėjimas, krūptelėjimas;A{loc adv}F{par à-coups}nereguliariai;F{travailler par à-coups}nereguliariai dirbti, priebėgom(is), priešokomis.
+0{acoustique}[akustik]S{&rArr;}A{adj}akustinis, girdėjimo;F{nerf acoustique}klausos nervas;F{les ondes acoustiques}garso bangos;S{&rArr;}A{f}I{1}L{fiz.}akustika;I{2}pastato akustika.
+0{acquérir}_{*}[akerir]A{vt}įgyti, įgauti, nu(si)pirkti;F{acquérir des connaissances}įgyti žinių;F{acquérir un immeuble pour mille francs}nupirkti pastatą už tūkstantį frankų;F{ces tableaux ont acquis beaucoup de valeur}šie paveikslai įgavo didelę vertę;$2{s’acquérir}įsigyti;F{il s’est acquis l’estime de ses chefs}jis įgijo vadovų pagarbą;F{une habitude qui s’acquiert difficilement}sunkiai įgyjamas įprotis.
+0{acquiescement}[akjɛsm&#593;&#771;]A{m}sutikimas;F{elle prit notre silence pour un acquiescement}mūsų tylėjimą ji priėmė kaip sutikimą;F{donner son acquiescement à}duoti savo sutikimą.
+0{acquiescer}[akjese]A{vi}sutikti, pritarti;F{acquiescer à un jugement}sutikti su sprendimu;F{acquiescer à une demande}patenkinti prašymą;F{acquiescer d’un signe}duoti sutikimo ženklą.
+0{acquis, -ise}[aki, -iz]S{&rArr;}A{adj}I{1}įgytas, įsigytas, pelnytas;F{bien mal acquis ne profite jamais}nedorai įgytas turtas neatneša laimės;I{2}:F{acquis à_{qn}}priklausantis kam;F{ce droit lui est acquis}ši teisė priklauso jam;F{je vous suis tout acquis}jums atsidavęs, giliai jums atsidavęs, nuoširdžiai jūsų;S{&rArr;}A{m}I{1}įgūdis, patyrimas, patirtis, žinios;I{2}A{pl}nauda, pelnas.
+0{acquisition}[akizisj&#596;&#771;]A{f}įgijimas;F{faire l’acquisition de_{qch}}įsigyti, nusipirkti ką;F{l’acquisition à titre onéreux, à titre gratuit}įsigijimas už pinigus, veltui;F{l’acquisition de connaissances}žinių įsigijimas.
+0{acquit}[aki]A{m}pakvitavimas, kvitas;F{pour acquit (avec date et signature)}pinigus gavau (data ir parašas);A{loc}F{par acquit de conscience}kad būtų rami sąžinė.
+0{acquittement}[akitm&#593;&#771;]A{m}I{1}sumokėjimasl{(skolos)}, atsiskaitymas;I{2}l{(kaltinamojo)}išteisinimas.
+0{acquitter}[akite]A{vt}I{1}sumokėti, apmokėti;F{acquitter ses impôts}sumokėti savo mokesčius; I{2}išteisintil{(kaltąjį)};I{3}pakvituoti; patvirtintil{(kad gavote)};F{n’oubliez pas d’acquitter la facture}nepamirškite apmokėti sąskaitą, pasirašyti, kad apmokėjote;$2{s’acquitter}I{1}apsimokėti, atsiskaityti;F{s’acquitter d’une dette}atiduoti skolą, atsiskaityti;I{2}atlikti, įvykdyti;F{s’acquitter}F{de ses fonctions}atlikti savo pareigas, įsipareigojimus.
+0{acre}[akr]A{f}akrasl{(žemės ploto matas)}.
+0{âcre}[akr]A{adj}I{1}aštrus, aitrus, gailus;F{une fumée âcre}aitrūs dūmai;I{2}L{prk.}kandus, šiurkštusl{(charakteris)}.
+0{âcreté}[akrəte]A{f}I{1}aštrumas, aitrumas;F{l’âcreté de la fumée}dūmų aitrumas;I{2}L{prk.}kandumas, šiurkštumasl{(kalbos, charakterio)}.
+0{acrimonie}[akrimɔni]A{f}kandumas, apmaudas, vaidingumas.
+0{acrimonieux, -ieuse}[akrimɔnjø, -jøz]A{adj}kandus, vaidingas, apmaudus;F{un ton acrimonieux}piktas tonas.
+0{acrobate}[akrɔbat]A{m},A{f}akrobatas, akrobatė.
+0{acrobatie}[akrɔbasi]A{f}akrobatika.
+0{acronyme}[akrɔnim]A{m}akronimas, santrumpa.
+0{acropole}[akrɔpɔl]A{f}akropolis.
+0{acte^{1}}[akt]A{m}I{1}veiksmas, darbas, poelgis, veikimas;F{un acte de courage}drąsus poelgis;F{un acte de bonté}geras darbas;F{acte de violence}smurtas;F{faire acte de}pareikšti, įrodyti;F{faire acte de bonne volonté}pareikšti gerą valią;F{passage à l’acte}perėjimas prie veiksmų;I{2}aktas, juridinis dokumentas;F{acte de vente}pardavimo aktas;F{acte de dernière volonté}testamentas;F{acte de l’état civil (de naissance, de mariage, de décès)}civilinės būklės akto įrašas (gimimo, vedybų, mirties);F{acte d’accusation}kaltinamasis aktas;F{validité, nullité d’un acte}akto galiojimas, negaliojimas;F{dresser un acte}surašyti aktą;F{signer un acte}pasirašyti aktą;A{loc}F{demander, donner acte de}paliudyti, patvirtinti raštu;F{j’ai pris acte de votre promesse}aš paėmiau raštišką jūsų pažado patvirtinimą;F{prendre acte de_{qch}}įsidėmėti, pasižymėti, konstatuoti;I{3}A{pl}užrašai, darbai, aprašai, memuarai, protokolai.
+0{acte^{2}}[akt]A{m}L{teatr.}veiksmas;F{les tragédies classiques comportent cinq actes}klasikinės tragedijos susideda iš penkių veiksmų.
+0{acteur}A{m},0{-trice}A{f}[aktœr, -tris]I{1}aktorius, aktorė, artistas, artistė;I{2}L{prk.}veikėjas, veikėja.
+0{actif, -ive}[aktif, -iv]S{&rArr;}A{adj}I{1}veiklus, aktyvus;F{membre actif d’une société}aktyvus draugijos (bendrovės) narys;F{méthode active}aktyvusis (kalbų) mokymo metodas;F{prendre une part active à}aktyviai dalyvauti; L{el.}F{élément actif}aktyvusis elementas;L{fiz.}F{charbon actif}aktyvioji anglis;I{2}L{gram.}:F{forme active, voix active}veikiamoji rūšis;I{3}veiksmingas;F{un remède actif}veiksmingas vaistas;I{4}darbštus, veiklus, dinamiškas;F{c’est une femme active}tai darbšti, veikli moteris;S{&rArr;}A{m}I{1}aktyvas;F{l’actif d’une communauté}bendruomenės aktyvas;I{2}L{ekon.}aktyvas, buhalterinio balanso kairioji dalis;F{excédent de l’actif sur le passif}aktyvo perviršis, perteklius, lyginant su pasyvu.
+0{actinium}[aktinjɔm]A{m}aktinisl{(radioaktyvusis elementas)}.
+0{action}[aksj&#596;&#771;]A{f}I{1}poelgis, darbas, veiksmas;F{une bonne, mauvaise action}geras, blogas poelgis, darbas;F{action d’éclat}žygdarbis;F{pensées, paroles et actions}mintys, žodžiai ir darbai;I{2}veikla, veikimas, poveikis;F{un homme d’action}veiklos žmogus;F{disposer d’une liberté d’action réduite}turėti ribotą veikimo laisvę;F{il lui faut d’action}jam reikia veiklos;F{il est temps de passer à l’action}laikas pradėti veikti;F{liberté d’action}veikimo laisvė;F{champ d’action}veikimo laukas;F{en action}veikiantis;F{en pleine action}veikimo įkarštyje;F{mettre en action}paleisti į darbą, paleisti veikti;F{action de penser}mąstymas;F{l’action de courir}bėgimas;I{3}akcija, veikla;F{l’action politique, syndicale}politinė, profsąjunginė akcija;F{l’action directe}streikas, manifestacija;F{société par actions}akcinė bendrovė;F{action de capital}kapitalo apyvarta;F{dividendes d’une action}akcijos dividendai;I{4}L{teis.}ieškinys, byla;F{action civile}civilinis ieškinys;F{intenter une action civile}pateikti civilinį ieškinį;F{action d’état}ieškinys dėl teisių pripažinimo;F{action en nullité}ieškinys dėl pripažinimo negaliojančiu;F{action publique}visuomeninis, valstybinis ieškinys;F{entraver l’action de la justice}apsunkinti bylą;I{5}pagalba, parama;F{les syndicats ont organisé une journée d’action}profsąjungos suorganizavo vienos dienos talką;F{action de grâce(s)}paramos, šelpimo akcija.
+0{actionnaire}[aksjɔnɛr]A{m},A{f}akcininkas, akcininkė, akcijų turėtojas, turėtoja.
+0{actionner}[aksjɔne]A{vt}I{1}L{teis.}pateikti ieškinį;I{2}L{šnek.}paleisti mechanizmą, kad imtų veikti;F{actionner le dispositif de départ d’un moteur}paleisti motoro variklį;I{3}L{šnek.}priversti veikti ką;F{je vais actionner le ministre}aš pajudinsiu ministrą, kad imtų veikti.
+0{activement}[aktivm&#593;&#771;]A{adv}aktyviai.
+0{activer}[aktive]A{vt}I{1}stiprinti, greitinti, spartinti;F{activer les travaux}spartinti darbus;F{le vent activait l’incendie}vėjas stiprino gaisrą;I{2}L{chem.}aktyvuoti;$2{s’activer}skubintis, sparčiai dirbti, bėgioti.
+0{activeur}[aktivœr]A{m}L{chem.}aktyvatorius, aktyviklis.
+0{activiste}[aktivist]A{m},A{f}aktyvistas, aktyvistė; spartuolis, spartuolė.
+0{activité}[aktivite]A{f}I{1}veikla, veikimas, aktyvumas;F{activité intellectuelle}protinė veikla;F{sphère d’activité}veikimo sfera;L{fiz.}F{activité magnétique}magnetinis aktyvumas;F{les produits de l’activité humaine}žmogaus veiklos produktai;F{activité mentale}proto aktyvumas, protinė veikla;F{en activité}veikiantis;I{2}darbinė veikla, darbas;F{fonctionnaire encore en activité}dar dirbantis, veiklus valdininkas;F{industrie en pleine activité}pramonė, veikianti visu pajėgumu;F{activité licite}teisėta veikla;F{activité subversive}kenkėjiška veikla.
+0{actualisation}[aktɥalizasj&#596;&#771;]A{f}I{1}L{fil.},L{psich.}aktualizacija;I{2}suaktualinimas, įgyvendinimas;L{lingv.}aktualizacija.
+0{actualiser}[aktɥalize]A{vt}aktualinti, įgyvendinti.
+0{actualité}[aktɥalite]A{f}I{1}aktualija;I{2}šiuolaikiškumas, aktualumas;F{souligner l’actualité d’un problème}pabrėžti problemos šiuolaikiškumą;I{3}A{pl}paskutiniai įvykiai, naujienos, kronika.
+0{actuel, -elle}[aktɥɛl]A{adj}dabartinis, šiuolaikinis, aktualus; šiuolaikiškas;F{à l’heure actuelle}dabar;F{l’actuel président de la République}dabartinis šalies prezidentas.
+0{actuellement}[aktɥɛlm&#593;&#771;]A{adv}dabar, šiuo metu.
+0{acuité}[akɥite]A{f}I{1}l{(peilio, skausmo)}aštrumas;I{2}l{(garso)}šaižumas;L{prk.}F{l’acuité de la crise économique}ekonominės krizės svarbumas;F{l’acuité visuelle}akylumas;I{3}l{(proto)}įžvalgumas; F{une grande acuité d’esprit}didelis proto įžvalgumas;I{4}L{fiz.}:F{acuité de résonance}rezonanso ryškumas.
+0{acupuncture, acuponcture}[akyp&#596;&#771;ktyr]A{f}akupunktūra.
+0{acutangle}[akyt&#593;&#771;gl]A{adj}smailiakampis;L{mat.}F{triangle acutangle}smailiakampis trikampis.
+0{adage}[adaʒ]A{m}patarlė, priežodis.
+0{adamantin, -ine}[adam&#593;&#771;t&epsilon;&#771;, -in]A{adj}deimantinis, kietas kaip deimantas.
+0{adaptabilité}[adaptabilite]A{f}adaptavimasis.
+0{adaptable}[adaptabl]A{adj}galintis adaptuotis, lankstus, nuolaidus, paklusnus, prisitaikantis.
+0{adaptateur}A{m},0{-trice}A{f}[adaptatœr, -tris]I{1}adaptuotojas, adaptuotoja; aranžuotojas, aranžuotoja;I{2}A{m}adapteris; priedėlis;F{adaptateur d’impédance}pilnutinių varžtų adapteris.
+0{adaptation}[adaptasj&#596;&#771;]A{f}I{1}pritaikymas, adaptacija, priderinimas, suderinimas;F{faculté d’adaptation}sugebėjimas prisitaikyti;F{adaptation à la lumière}prisitaikymas prie šviesos;F{adaptation d’un enseignement à l’âge des élèves}mokymo suderinimas su mokinių amžiumi;I{2}inscenizacija, ekranizacija, aranžuotė.
+0{adapter}[adapte]A{vt}I{1}:F{adapter}l{(A{qch},A{qn})}F{à}l{(A{qch},A{qn})}pritaikyti, priderinti, pritaisyti, prijungti;F{adapter ses désirs aux circonstances}pritaikyti savo norus prie aplinkybių;$2{s’adapter}prisitaikyti, adaptuotis;F{s’adapter aux nouvelles conditions climatiques}prisitaikyti prie naujų klimatinių sąlygų;I{2}adaptuoti, inscenizuoti, ekranizuoti;F{adapter un roman pour la télévision}ekranizuoti romaną televizijai.
+0{addiction}[adiksj&#596;&#771;]A{f}palinkimas, žalingas įprotisl{(alkoholiui, narkotikams irL{pan.})};F{addiction au tabac}žalingas įprotis tabakui.
+0{additif, -ive}[aditif, -iv]S{&rArr;}A{adj}papildomas, pridėtinis;L{mat.}F{loi additive}adityvumo dėsnis;S{&rArr;}A{m}I{1}papildymas, priedas;F{un additif au budget}biudžeto papildymas;I{2}papildas;F{additif alimentaire}maisto papildas.
+0{addition}[adisj&#596;&#771;]A{f}I{1}pridėjimas, priedas;I{2}L{mat.}sudėtis, sudėties veiksmas; susumavimas;I{3}sąskaital{(kavinėje, restorane)};F{régler l’addition}atsiskaityti, apmokėti sąskaitą.
+0{additionner}[adisjɔne]A{vt}I{1}pridėti;F{jus de fruit additionné de sucre}vaisių sultys su cukrumi;F{du vin additionné d’eau}vynas, atskiestas vandeniu;I{2}L{mat.}sudėti;F{additionner des fractions}sudėti trupmenas;$2{s’additionner}prisidėti vienam prie kito; susijungti;F{toutes ces difficultés s’additionnent}visi šie sunkumai susideda.
+0{adducteur}[adyktœr]A{m}I{1}L{anat.}aduktorius; pritraukiamasis raumuo;I{2}L{tech.}tiekiamasis vamzdis, kanalas.
+0{adduction}[adyksj&#596;&#771;]A{f}I{1}L{anat.}adukcija, pritraukimas;I{2}L{tech.}l{(vandens)}atvedimas, tiekimas;F{travaux d’adduction d’eau}vandens atvedimo darbai.
+0{adepte}[adɛpt]A{m},A{f}šalininkas, šalininkė; pasekėjas, pasekėja.
+0{adéquat, -ate}[adekwa(t)]A{adj}adekvatus, tolygus, visiškai atitinkantis.
+0{adéquation}[adekwasj&#596;&#771;]A{f}adekvatumas, atitiktis, tapatumas.
+0{adhérence}[ader&#593;&#771;s]A{f}I{1}l{(glaudus)}susilietimas, prilipimas;F{l’adhérence de l’écorce à l’arbre}žievės prilipimas prie medžio;I{2}L{med.}sąauga.
+0{adhérent, -ente}[ader&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}glaudžiai susiliečiantis, priaugęs;S{&rArr;}A{m},A{f}narys, narė; šalininkas, šalininkė;F{carte d’adhérent}nario bilietas.
+0{adhésif, -ive}[adezif, -iv]S{&rArr;}A{adj}lipnus, sankabus;S{&rArr;}A{m}lipni juosta, lipni plėvelė, pleistras, traukas;F{appliquer un adhésif sur une plaie}užklijuoti pleistrą ant žaizdos.
+0{adhésion}[adezj&#596;&#771;]A{f}I{1}sutikimas;F{donner son adhésion à un projet}duoti savo sutikimą dėl projekto;I{2}prisijungimas;I{3}L{fiz.}sankabumas, sukibimas, priekiba;I{4}įstojimas, priklausymas, narystė.
+0{adieu}[adjø]S{&rArr;}A{interj}sudie, likite sveiki;F{adieu, mes amis!}sudie, mano draugai!;A{loc}F{dire adieu à_{qn}}atsisveikinti su kuo, pasakyti kam sudie;A{loc}F{dire adieu à}atsižadėti, netekti, atsisakyti;F{vous pouvez dire adieu à votre tranquillité}jūs galite atsisveikinti su savo ramybe;S{&rArr;}A{m}atsisveikinimas;F{une visite d’adieu}atsisveikinimo vizitas;F{faire ses adieux à_{qn}}atsisveikinimas su kuo visam laikui, išsiskyrimas visam laikui.
+0{adipeux, -euse}[adipø, -øz]A{adj}L{anat.}riebalinis;F{tissu adipeux}riebalinis audinys.
+0{adjacent, -ente}[adʒas&#593;&#771;, -&#593;&#771;t]A{adj}gretutinis, gretimas;F{angles adjacents}gretutiniai kampai;F{terrain adjacent à un bois}žemė prie miško, greta miško.
+0{adjectif, -ive}[adʒɛktif, -iv]S{&rArr;}A{m}L{gram.}būdvardis;F{degrés de comparaison de l’adjectif}būdvardžio laipsniai;S{&rArr;}A{adj}būdvardinis.
+0{adjectiver}[adʒɛktive]A{vt}vartoti kaip būdvardį;F{participe présent adjectivé}esamojo laiko dalyvis, vartojamas kaip būdvardis.
+0{adjoindre}_{*}[adʒw&epsilon;&#771;dr]A{vt}I{1}:F{adjoindre}l{(A{qn})}F{à}l{(A{qn})}paskirti ką kaml{(kad padėtų)};F{on m’a adjoint une secrétaire}man davė, paskyrė sekretorę;I{2}prijungti, pridėtil{(vieną daiktą prie kito)}.
+0{adjoint}A{m},0{-ointe}A{f}[adʒw&epsilon;&#771;, -w&epsilon;&#771;t]padėjėjas, padėjėja, pavaduotojas, pavaduotoja;F{demandez à mon adjoint}kreipkitės į mano pavaduotoją;F{directeur adjoint}direktoriaus pavaduotojas.
+0{adjonction}[adʒ&#596;&#771;ksj&#596;&#771;]A{f}prijungimas, pridėjimas, pristatymasl{(priestato)};F{confiture sans adjonction de conservateur}uogienė be konservantų;F{faire des adjonctions}pridėti, prijungti, papildyti;F{l’adjonction d’un nom à une liste}pavardės įrašymas į sąrašą; sąrašo papildymas viena pavarde.
+0{adjudant}[adʒyd&#593;&#771;]A{m}puskarininkis;F{adjudant-chef}viršila.
+0{adjudication}[adʒydikasj&#596;&#771;]A{f}I{1}varžytynės;F{vente par adjudication}pardavimas iš varžytynių;F{adjudication volontaire; judiciaire, forcée}savanoriškas, teismo sprendimu, priverstinis pardavimas iš varžytynių;I{2}priteisimas.
+0{adjuger}[adʒyʒe]A{vt}I{1}priteisti, paskirti;F{adjuger un prix}paskirti premiją;I{2}parduoti iš varžytynių;F{adjuger une œuvre d’art}parduoti iš varžytynių meno kūrinį;$2{s’adjuger}paskirti sau, pasiskirti;F{il s’est adjugé la meilleure part}jis sau pasiskyrė geriausią dalį.
+0{adjuration}[adʒyrasj&#596;&#771;]A{f}I{1}maldavimas;F{céder aux adjurations de ses amis}nusileisti draugų maldavimams, prašymams;I{2}užkerėjimas, užkalbėjimas.
+0{adjurer}[adʒyre]A{vt}maldauti, labai prašyti, užkerėti;F{je vous adjure de quitter le pays}maldauju jus palikti šalį.
+0{adjuvant}[adʒyv&#593;&#771;]A{m}I{1}L{med.}papildomas vaistas, pagalbinė gydymo priemonė;I{2}priedas;F{les adjuvants du béton}betono priedai;I{3}L{prk.}skatinanti, stimuliuojanti priemonė.
+0{admettre}_{*}[admɛtr]A{vt}I{1}priimtil{(ką, kur nors)}; leisti;F{admettre_{qn}à sa table}maloniai priimti ką prie savo stalo;F{être admis à un examen}leisti laikyti egzaminą; būti išlaikiusiam egzaminą;F{les chiens ne sont pas admis}su šunimis neįleidžiama;I{2}pripažinti;F{j’admets que j’ai eu tort}pripažįstu, kad klydau;F{admettons que...}tarkime, kad...;I{3}leisti, sutikti, toleruoti, pripažintil{(ypač neigiama forma)};F{il n’admet pas la contradiction}jis netoleruoja prieštaravimų;F{cette règle n’admet aucune exception}ši taisyklė neturi jokios išimties.
+0{administrateur}A{m},0{-trice}A{f}[administratœr, -tris]administratorius, administratorė, vedėjas, vedėja, valdytojas, valdytoja.
+0{administratif, -ive}[administratif, -iv]A{adj}administracinis;F{la division administrative du pays}šalies administracinis padalijimas.
+0{administration}[administrasj&#596;&#771;]A{f}I{1}valdyba, administracija;F{l’administration d’une entreprise}gamyklos valdyba;I{2}valdymas, administravimas, tvarkymas;F{administrations publiques}valstybės aparatas; F{l’administration des départements est confiée aux préfets}departamentų valdymas patikėtas prefektams;F{École nationale d’administration}(L{sutr.}3{E.N.A.}) Nacionalinė vadybos, administravimo mokyklal{(aukštoji)};I{3}l{(sakramentų)}suteikimas;l{(vaistų)}paskyrimas.
+0{administré}A{m},0{-ée}A{f}[administre](pa)valdinys, valdinė.
+0{administrer}[administre]A{vt}I{1}valdyti, tvarkyti, administruoti;F{le maire administre la commune}meras administruoja komuną;I{2}suteiktil{(sakramentus)};F{administrer un malade}suteikti paskutinius sakramentus ligoniui; paskirti vaistus; teismui pateikti įrodymą;I{3}L{šnek.}apkulti, primušti.
+0{admirable}[admirabl]A{adj}puikus, žavingas, nuostabus, stebinantis.
+0{admirablement}[admirabləm&#593;&#771;]A{adv}puikiai, nuostabiai.
+0{admirateur}A{m},0{-trice}A{f}[admiratœr, -tris]garbintojas, garbintoja; gerbėjas, gerbėja.
+0{admiratif, -ive}[admiratif, -iv]A{adj}kupinas pasigėrėjimo, susižavėjęs;F{un regard admiratif}kupinas susižavėjimo žvilgsnis.
+0{admiration}[admirasj&#596;&#771;]A{f}žavėjimasis, susižavėjimas;F{exciter, soulever l’admiration}nustebinti, apstulbinti, sukelti susižavėjimą;F{son courage fait l’admiration de tout le monde}jo drąsa visus žavi;F{être en admiration}būti sužavėtam, apstulbusiam iš susižavėjimo;F{tomber en admiration}susižavėti.
+0{admirativement}[admirativm&#593;&#771;]A{adv}su pasigėrėjimu, susižavėjus.
+0{admirer}[admirer]A{vt}gėrėtis, žavėtis, stebėtis;F{admirer le coucher du soleil}žavėtis saulėlydžiu;$2{s’admirer}susižavėti savimi, gėrėtis savimi, gėrėtis vienas kitu.
+0{admissibilité}[admisibilite]A{f}leistinumas, priimtinumas; priėmimas;F{liste d’admissibilité}prileistųjųl{(L{pvz.}, prie egzaminų)}sąrašas;F{l’admissibilité aux emplois}priėmimas į darbą.
+0{admissible}[admisibl]S{&rArr;}A{adj}priimtinas, leistinas; toleruojamas;F{sa conduite n’est pas admissible}jo elgesys neleistinas;F{candidat déclaré admissible}kandidatui, išlaikiusiam egzaminą raštu, leidžiama laikyti žodžiu;S{&rArr;}A{m},A{f}priimtasis, priimtoji;F{liste des admissibles}priimtųjų sąrašas.
+0{admission}[admisj&#596;&#771;]A{f}I{1}priėmimas, leidimas;F{admission dans une école}priėmimas į mokyklą; F{admission sur concours}leidimas dalyvauti konkurse;F{demande d’admission}prašymas priimti;F{admission de pourvoi}skundo priėmimas;I{2}l{(dujų)}įleidimas; įsiurbimas;F{soupape d’admission}įleidžiamasis vožtuvas.
+0{admittance}[admit&#593;&#771;s]A{f}L{fiz.}laidumas, laidis;F{l’unité d’admittance est le siemens}simensas yra elektros laidumo vienetas.
+0{admonestation}[admɔnɛstasj&#596;&#771;]A{f}pabarimas, papeikimas, rimtas perspėjimas.
+0{admonester}[admɔnɛste]A{vt}išbarti, griežtai perspėti, kad daugiau taip nedarytų.
+0{admonition}[admɔnisj&#596;&#771;]A{f}įspėjimas, griežtas perspėjimas.
+0{adolescence}[adɔles&#593;&#771;s]A{f}paauglystė.
+0{adolescent}A{m},0{-ente}A{f}[adɔles&#593;&#771;, -&#593;&#771;t](L{sutr.}L{šnek.}2{ado}[ado]) paauglys, paauglė, jaunuolis, jaunuolė.
+0{adonner (s’)}[adɔne]labai pamėgtil{(ką nors)}; atsiduoti, atsidėti;F{elle s’était adonnée à l’étude}ji atsidavė studijoms.
+0{adoptant}A{m},0{-ante}A{f}[adɔpt&#593;&#771;, -&#593;&#771;t]įvaikintojas, įvaikintoja; įsūnytojas, įsūnytoja.
+0{adopter}[adɔpte]A{vt}I{1}įvaikinti;F{c’est un enfant qu’ils ont adopté}vaikas, kurį jie įsivaikino;F{un orphelin adopté, un adopté}įvaikintas našlaitis, įvaikis;I{2}priimtil{(įstatymą, nutarimą irL{pan.})}, nubalsuoti;F{l’Assemblée a adopté le projet de loi}Asamblėja priėmė įstatymo projektą.
+0{adoptif, -ive}[adɔptif, -iv]A{adj}įvaikintas;F{fils adoptif}įsūnis;F{fille adoptive}įdukra;F{père adoptif}įtėvis;F{mère adoptive}įmotė;F{famille adoptive}įvaikinusi šeima.
+0{adoption}[adɔpsj&#596;&#771;]A{f}I{1}įvaikinimas;F{la France est devenue sa patrie d’adoption}Prancūzija tapo jo antrąja tėvyne;F{un Parisien d’adoption}iš kitur atvykęs, nevietinis paryžietis;I{2}priėmimasl{(įstatymo, plano irL{pan.})}.
+0{adorable}[adɔrabl]A{adj}žavingas, patrauklus;F{vous êtes adorable dans cette robe}su šia suknele jūs žavinga.
+0{adorateur}A{m},0{-trice}A{f}[adɔratœr, -tris]garbintojas, garbintoja, gerbėjas, gerbėja.
+0{adoration}[adɔrasj&#596;&#771;]A{f}garbinimas, dievinimas;F{être en adoration devant_{qn},_{qch}}garbinti ką, ką nors, keliaklupsčiauti prieš ką, ką nors.
+0{adorer}[adɔre]A{vt}I{1}garbinti, šlovintil{(Dievą)};I{2}dievinti, labai mylėti;F{il adore sa fille}jis labai myli savo dukrą;I{3}labai mėgti;F{il adore la musique}jis labai mėgsta muziką.
+0{adosser}[adose]A{vt}atremti, prišlieti;F{adosser un malade à un oreiller}atremti ligonį į pagalvę;$2{s’adosser}atsiremti, atsišlieti, atsilošti.
+0{adoucir}[adusir]A{vt}sušvelninti, suminkštinti, palengvinti; pasaldyti;F{adoucir un mal}palengvinti skausmą;F{adoucir l’eau}suminkštinti vandenį;F{adoucir les souffrances}palengvinti kančias;$2{s’adoucir}sušvelnėti, suminkštėti.
+0{adoucissant, -ante}[adusis&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}sušvelninantis, palengvinantisl{(skausmą)};S{&rArr;}A{m}minkštiklis, minkštinanti priemonėl{(skalbinių skalavimui)}.
+0{adoucissement}[adusism&#593;&#771;]A{m}I{1}sušvelninimas;I{2}palengvinimas;I{3}pasaldinimas;F{adoucissement de la température}atšilimas.
+0{adrénaline}[adrenalin]A{f}L{med.}adrenalinas.
+0{adressage}[adresaʒ]A{m}A{inf}adresavimas.
+0{adresse^{1}}[adrɛs]A{f}I{1}adresas;F{mettre l’adresse sur l’enveloppe}užrašyti ant voko adresą;F{écrivez lisiblement votre adresse}įskaitomai parašykite savo adresą;F{changer d’adresse}pakeisti adresą, gyvenamąją vietą;F{partir sans laisser d’adresse}išvykti nepalikus adreso, išvykti nežinia kur;I{2}kreipimasis;F{une adresse à tous les congressistes}kreipimasis į visus kongreso dalyvius;F{à l’adresse de_{qn}}skirtas kam;F{une lettre à l’adresse de mon frère}laiškas mano broliui; adresuotas broliui;I{3}adresasl{(sveikinamasis raštas)}, linkėjimai;F{présenter une adresse de félicitations}įteikti sveikinimo raštą;I{4}L{inf.}adresas;F{définition de l’adresse d’une donnée}duomenų adreso definicija.
+0{adresse^{2}}[adrɛs]A{f}I{1}vikrumas, apsukrumas;F{l’adresse d’un jongleur}fokusininko vikrumas; F{jeux d’adresse, tours d’adresse}žongliravimas, fokusų darymas, pokštavimas;I{2}gudrumas, sumanumas, pirštų miklumas, įžvalgumas.
+0{adresser}[adrese]A{vt}I{1}siųsti;F{adresser des vœux}siųsti linkėjimus; sveikinimus;F{la dernière lettre que vous m’avez adressée}paskutinis laiškas, kurį jūs man atsiuntėte;I{2}kreiptis;F{adresser une demande}kreiptis su prašymu, prašyti;I{3}nukreipti, pasiųsti;F{le médecin m’a adressé à un spécialiste}gydytojas mane pasiuntė (nukreipė) pas specialistą;$2{s’adresser}2{à_{qn}}kreiptis į ką; būti skirtam;F{à qui tu t’adresses?}į ką tu kreipiesi?;F{je m’adresse à votre cœur}kreipiuosi į jūsų širdį;F{c’est à vous que ce discours s’adresse}ši kalba yra skirta jums.
+0{adroit, -oite}[adrwa, -wat]A{adj}vikrus, guvus, miklus, apsukrus; gudrus;F{il est très adroit de ses mains}jis turi labai miklias rankas.
+0{adulateur}A{m},0{-trice}A{f}[adylatœr, -tris]pataikautojas, pataikautoja; meilikautojas, meilikautoja; palaižūnas, palaižūnė.
+0{adulation}[adylasj&#596;&#771;]A{f}pataikavimas, meilikavimas.
+0{adulte}[adylt]S{&rArr;}A{adj}suaugęs; subrendęs;F{être adulte}būti subrendusiam;S{&rArr;}A{m},A{f}suaugęs žmogus;F{film réservé aux adultes}filmas skirtas suaugusiems.
+0{adultération}[adylterasj&#596;&#771;]A{f}(su)klastojimas, falsifikacija, padirbimas.
+0{adultère}[adyltɛr]S{&rArr;}A{adj}svetimaujantis, nesilaikantis sutuoktinių ištikimybės;S{&rArr;}A{m}svetimavimas;F{commettre un adultère}svetimauti.
+0{adultérer}[adyltere]A{vt}klastoti, falsifikuoti.
+0{adultérin, -ine}[adulter&epsilon;&#771;, -in]A{adj}nesantuokinis, pavainikis;F{enfant adultérin}pavainikis;F{rapports adultérins}nesantuokiniai ryšiai.
+0{advenir}_{*}[advənir]A{vi}atsitikti, įvykti, pasisekti;F{les graves événements advenus ces jours-ci}rimti įvykiai, įvykę šiomis dienomis;F{advenir à faire_{qch}}pasisekti ką padaryti;A{loc prov}F{advienne que pourra}kas bus, tas bus;A{vimp}F{advenir}l{(que +A{indic})}F{il advint que...}atsitiko, kad...;A{loc}F{quoi qu’il advienne}kad ir kas atsitiktų;F{que va-t-il advenir de moi}kas bus su manimi?
+0{adventice}[adv&#593;&#771;tis]A{adj}atsitiktinis; adventyvinis;F{plantes adventices}piktžolės.
+0{adventiste}[adv&#593;&#771;tist]A{m},A{f}adventistas, adventistė.
+0{adverbe}[advɛrb]A{m}L{gram.}prieveiksmis;F{adverbe de lieu, de temps}vietos, laiko prieveiksmis.
+0{adverbial, -iale}[advɛrbjal]A{adj}(A{pl}A{m}2{-iaux}[-jo]) prieveiksminis.
+0{adversaire}[advɛrsɛr]A{m},A{f}priešininkas, priešininkė; varžovas, varžovė.
+0{adverse}[advɛrs]A{adj}priešingas, priešiškas;F{des forces adverses}priešiškos jėgos.
+0{adversité}[advɛrsite]A{f}nelaimė, nesėkmė, nedalia;F{il est tombé dans l’adversité}jam atsitiko nesėkmė.
+0{adynamie}[adinami]A{f}L{med.}adinamija.
+0{aérage}[aeraʒ]A{m}vėdinimas, ventiliacijal{(požeminė)};F{l’aérage d’une mine}kasyklos ventiliacija.
+0{aérateur}[aeratœr]A{m}ventiliatorius.
+0{aération}[aerasj&#596;&#771;]A{f}l{(patalpos)}vėdinimas; F{conduit d’aération}vėdinimo vamzdis.
+0{aérer}[aere]A{vt}I{1}vėdinti; ventiliuoti;F{aérer la chambre}vėdinti kambarį;I{2}L{prk.}pašalinti, kas nereikalinga; praretintil{(mišką)};F{il faut aérer ce texte}reikia pataisyti tekstą, išbraukti, kas nereikalinga;$2{s’aérer}prasivėdinti, įkvėpti gryno oro.
+0{aérien, -ienne}[aerj&epsilon;&#771;, -jɛn]S{&rArr;}A{adj}oro, orinis;F{lignes aériennes}oro linijos;F{forces aériennes}oro pajėgos;S{&rArr;}A{m}antenal{(radijo)}.
+0{aérobic}[aerɔbik]A{f}aerobika.
+0{aéro-club, aéroclub}[aeroklœb]A{m}aeroklubas.
+0{aérodrome}[aerodrom]A{m}aerodromas.
+0{aérodynamique}[aerodinamik]S{&rArr;}A{f}aerodinamika;S{&rArr;}A{adj}aerodinaminis.
+0{aérogare}[aerogar]A{f}aerouostas, aerostotisl{(oro uosto pastatai)}.
+0{aéronaute}[aeronot]A{m},A{f}aeronautas, aeronautė; oreivis, oreivė.
+0{aéronautique}[aeronotik]S{&rArr;}A{f}aeronautika;S{&rArr;}A{adj}aeronautikos;F{industrie aéronautique}aeronautikos pramonė.
+0{aéronomie}[aeronɔmi]A{f}aeronomijal{(fizikos šaka)}.
+0{aéroport}[aerɔpɔr]A{m}aerouostas.
+0{aéroporté, -ée}[aeropɔrte]A{adj}oru pervežamas, oru gabenamas.
+0{aéropostal, -ale}[aeropɔstal](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}oro pašto;S{&rArr;}A{f}oro paštas.
+0{aéroscope}[aerɔskɔp]A{m}L{fiz.}aeroskopas.
+0{aérosol}[aerɔsɔl]A{m}aerozolis.
+0{aérostat}[aerostat]A{m}aerostatas.
+0{aérotechnique}[aerotɛknik]A{f}aerotechnika.
+0{affabilité}[afabilite]A{f}meilumas, mandagumas; palankumas;F{l’affabilité de son accueil}jo priėmimo meilumas.
+0{affable}[afabl]A{adj}meilus, malonus, mandagus;F{il a été très affable avec nous}su mumis jis buvo labai malonus.
+0{affabulation}[afabylasj&#596;&#771;]A{f}I{1}pasakėčios moralas;I{2}kūrinio, romano fabula, siužetas.
+0{affabuler}[afabyle]A{vt}fantazuoti, prikurti, išgalvoti.
+0{affadir}[afadir]A{vt}daryti be skonio, neskanų, prėską, atimti pikantiškumą, aštrumą;F{affadir une sauce}padaryti prėską padažą;F{traduction qui affadit texte}vertimas, suprastinantis tekstą;$2{s’affadir}netekti skonio.
+0{affadissement}[afadism&#593;&#771;]A{m}skonio netekimas, beskoniškumas.
+0{affaiblir}[afeblir]A{vt}(su)silpninti; (su)mažinti;F{une longue maladie a affaibli le malade}ilga liga susilpnino ligonį;F{l’âge affaiblit la mémoire}su amžiumi silpnėja atmintis;$2{s’affaiblir}(su)silpnėti, nusilpti;F{il s’affaiblit de jour en jour}jis silpsta diena iš dienos.
+0{affaiblissement}[afeblism&#593;&#771;]A{m}nusilpimas, susilpnėjimas, jėgų netekimas;F{il s’inquiète de l’affaiblissement de sa vue}jis susirūpinęs dėl susilpnėjusio regėjimo.
+0{affaire}[afɛr]A{f}I{1}reikalas, dalykas;F{c’est mon affaire et non la vôtre}tai mano reikalas, o ne jūsų;A{loc}F{être à son affaire}daryti tai, ką mėgsti, kas patinka, ką moki daryti;F{c’est une affaire de goût}tai skonio dalykas; F{affaire de...}... reikalas, klausimas;F{une affaire d’honneur}garbės reikalas;F{faire l’affaire}atitikti, derėti, tikti, būti tinkamam;F{cet horaire ne fait pas mon affaire}šis tvarkaraštis man netinka;I{2}byla, procesas;F{plaider une affaire civile}ginti civilinę bylą;F{classer une affaire}nutraukti bylą;F{conclure une affaire}užbaigti procesą;F{affaire criminelle}baudžiamoji byla;I{3}afera, biznis, sandėris;F{vous avez fait une bonne affaire}jūs padarėte gerą sandėrį (biznį);I{4}verslas, prekybos ar pramonės įmonė;A{pl}prekybiniai, finansiniai reikalai;F{être à la tête d’une affaire}vadovauti įmonei;F{lancer une affaire}pradėti biznį;F{homme d’affaires}verslininkas, biznio žmogus; F{voyage d’affaire}komandiruotė;F{lettre d’affaires}reikalų raštas;F{avoir affaire à_{qn}}turėti reikalų su kuo;F{Ministère des Affaires étrangères}Užsienio reikalų ministerija;L{dipl.}F{un chargé d’affaires}patikėtinis, įgaliotinis;I{5}materialinė padėtis;F{mettre de l’ordre dans ses affaires}sutvarkyti savo materialinę padėtį;I{6}asmeniniai daiktai;F{fouiller dans les affaires de_{qn}}raustis kieno asmeniniuose daiktuose.
+0{affairé, -ée}[afere]A{adj}užsiėmęs, užimtas; susirūpinęs;F{il a l’air affairé}jis atrodo susirūpinęs (reikalais), užsiėmęs;F{être affairé}būti užimtam.
+0{affairement}[afɛrm&#593;&#771;]A{m}I{1}užimtumas;I{2}blaškymasis, lakstymas, be reikalo bėgiojimas;F{je ne puis appeler travail cet affairement}šio bereikalingo bėgiojimo aš negaliu pavadinti darbu.
+0{affairer}(0{s’)}[afere]bėgioti, skubėti, plušėti; triūsti;F{s’affairer autour de ses invités}bėgioti aplink savo svečius;F{elle s’affaire à préparer son dîner}ji pluša ruošdama pietus.
+0{affairiste}[aferist]A{m},A{f}aferistas, aferistė; didelis sukčius.
+0{affaissement}[afɛsm&#593;&#771;]A{m}I{1}susmukimas, nuslūgimas; sugriuvimas;F{affaissement du sol}dirvožemio susmukimas;I{2}L{prk.}nusilpimas, jėgų susilpnėjimas, prislėgtas būvis.
+0{affaisser}[afese]A{vt}slugdyti, slėgti, sulenkti;$2{s’affaisser}susilenkti nuo svorio, slėgio, susmukti, sudribti;F{s’affaisser sous le poids des années}sulinkti po metų našta.
+0{affamé, -ée}[afame]A{adj}I{1}alkanas, išalkęs; išbadėjęs;F{populations affamées}išbadėję gyventojai;I{2}L{prk.}ištroškęs, godus;F{affamé de gloire}ištroškęs garbės.
+0{affamer}[afame]A{vt}marinti badu;F{un blocus pour affamer la population}blokada, marinanti badu gyventojus.
+0{affameur}A{m},0{-euse}A{f}[afamœr, -øz]asmuo, marinantis badu gyventojus.
+0{affect}[afɛkt]A{m}afektas, stiprus susijaudinimas.
+0{affectation^{1}}[afɛktasj&#596;&#771;]A{f}I{1}paskyrimas, paskirtis;F{affectation d’une somme à un budget}pinigų sumos paskyrimas į biudžetą;F{avoir une autre affectation}turėti kitą paskirtį;I{2}paskyrimas į tarnybą, į karinį dalinį.
+0{affectation^{2}}[afɛktasj&#596;&#771;]A{f}afektacija, dirbtinumas, nenatūralumas, perdėtas jausmingumas;F{l’affectation dans le geste, dans le parler}elgsenos, kalbos nenatūralumas.
+0{affecter^{1}}[afɛkte]A{vt}I{1}apsimetinėti, dėtis, tartis;F{elle affecte d’être émue}ji apsimeta, kad yra susijaudinusi;F{elle affecte l’indifférence}ji dedasi abejinga;I{2}įgyti, įgautil{(formą, pavidalą)}.
+0{affecter^{2}}[afɛkte]A{vt}I{1}:F{affecter à}paskirti, skirti, rezervuoti;F{les crédits que le budget a affectés à l’Éducation nationale}kreditai, kuriuos biudžetas paskyrė švietimui;I{2}skirti, komandiruoti.
+0{affecter^{3}}[afɛkte]A{vt}paveikti, paliesti, sujaudinti, nuliūdinti;F{son échec l’a beaucoup affecté}pralaimėjimas jį labai paveikė;$2{s’affecter}imti į širdį, nuliūsti.
+0{affectif, -ive}[afɛktif, -iv]A{adj}emocinis, jausminis;F{état affectif}emocinė būsena.
+0{affection}[afɛksj&#596;&#771;]A{f}I{1}prisirišimas, švelnumas, meilė;F{affection maternelle}motinos meilė;F{prendre_{qn}en affection}prisirišti prie ko, pamilti;F{avoir, éprouver de l’affection pour_{qn}}mylėti ką;F{avoir besoin d’affection}reikėti švelnumo, meilės;I{2}afekto būklė, susijaudinimas, aistra;I{3}susirgimas, anomalija, sindromas;F{affection chronique}chroniškas susirgimas.
+0{affectionné, -ée}[afɛksjɔne]A{adj}mylintis, atsidavęs;F{votre fille affectionnée}jus mylinti duktėl{(laiške)}.
+0{affectionner}[afɛksjɔne]A{vt}mylėti, būti prisirišusiam;F{il affectionne beaucoup sa grand-mère}jis labai prisirišęs prie senelės.
+0{affectivité}[afɛktivite]A{f}emocingumas, jausmingumas.
+0{affectueusement}[afɛktyøzm&#593;&#771;]A{adv}nuoširdžiai, su meile;F{je vous embrasse affectueusement}nuoširdžiai bučiuoju;F{affectueusement vôtre}nuoširdžiai jūsų.
+0{affectueux, -euse}[afɛktɥø, -øz]A{adj}mylintis, nuoširdus, prieraišus;F{paroles affectueuses}šilti žodžiai;F{votre fils affectueux}jus mylintis sūnusl{(laiške)}.
+0{afférent, -ente^{1}}[afer&#593;&#771;, -&#593;&#771;t]A{adj}priklausantis;F{la part afférente à cet héritier}dalis, priklausanti šiam paveldėtojui.
+0{afférent, -ente^{2}}[afer&#593;&#771;, -&#593;&#771;t]A{adj}I{1}aferentinis, atnešantis, atitekantis;I{2}L{med.}įcentrinis;F{nerf afférent}įcentrinis nervas.
+0{affermage}[afɛrmaʒ]A{m}I{1}išnuomojimas;I{2}išsinuomojimas.
+0{affermer}[afɛrme]A{vt}nuomoti.
+0{affermir}[afɛrmir]A{vt}sustiprinti, sutvirtinti;F{affermir ses positions}sustiprinti savo pozicijas;F{affermir son autorité}sustiprinti savo autoritetą;$2{s’affermir}sustiprėti, sutvirtėti.
+0{affermissement}[afɛrmism&#593;&#771;]A{m}(su)stiprinimas, sutvirtinimas;F{l’affermissement de l’État}valstybės stiprinimas.
+0{afféterie, affèterie}[afɛtri]A{f}manieringumas, maivymasis, dirbtinumas.
+0{affichage}[afiʃaʒ]A{m}I{1}skelbimų iškabinimas;F{affichage électoral}rinkiminių skelbimų iškabinimas;F{tableau d’affichage}reklaminis stendas; stendas rezultatams skelbtil{(hipodrome, stadione)};F{affichage des départs d’avions}lėktuvų skridimo telestendas;I{2}L{inf.}rodinys.
+0{affiche}[afiʃ]A{f}skelbimas, afiša, plakatas;F{affiche publicitaire}reklama;A{loc}F{mettre une pièce à l’affiche}paskelbti; afišuoti pjesę;F{spectacle qui reste à l’affiche}spektaklis, kuris dar eina, rodomas;F{l’art de l’affiche}plakatų menas.
+0{afficher}[afiʃe]A{vt}I{1}paskelbtil{(skelbimuose)}; iškabintil{(skelbimus, plakatus)};F{les prix, les horaires sont affichés}kainos, tvarkaraščiai yra paskelbti (iškabinti);I{2}afišuoti, viešai reikšti;F{afficher ses opinions politiques}viešai reikšti savo politines pažiūras;$2{s’afficher}puikuotis, viešai rodytis, afišuotis.
+0{affichette}[afiʃɛt]A{f}skelbimėlis, nedidelė afiša, plakatas; lapelis.
+0{afficheur}[afiʃœr]A{m}skelbimų klijuotojas, kabintojas.
+0{affichiste}[afiʃist]A{m},A{f}afišininkas, plakatus kuriantis dailininkas, dailininkė.
+0{affidé, -ée}[afide]S{&rArr;}A{adj}turintis pasitikėjimą, patikimas;S{&rArr;}A{m},A{f}L{niek.}slaptas agentas, agentė, šnipas, šnipė, bendrininkas, bendrininkė.
+0{affilage}[afilaʒ]A{m}galandimas, aštrinimas.
+0{affiler}[afile]A{vt}galąsti, aštrinti;A{loc}F{avoir la langue (bien) affilée}būti labai plepiam, turėti gerą liežuvį (gerai pagaląstą).
+0{affiliation}[afiljasj&#596;&#771;]A{f}I{1}prisijungimasl{(prie organizacijos, draugijos)};I{2}priėmimas;F{l’affiliation à une association}priėmimas į asociaciją.
+0{affilier}[afilje]A{vt}priimtil{(į narius)}prijungti;$2{s’affilier}prisijungti, prisidėti.
+0{affiloir}[afilwar]A{m}galąstuvas, pustyklė.
+0{affin, -ine}[af&epsilon;&#771;, -in]A{adj}giminingas, giminiškas;F{langues affines}giminiškos kalbos.
+0{affinage}[afinaʒ]A{m}I{1}afinavimas, valymas, priemaišų šalinimas, gryninimas;F{affinage des métaux}metalų afinavimas;F{affinage du verre}stiklo nuskaidrinimas;I{2}linų šukavimas;I{3}sūrių brandinimas.
+0{affiner}[afine]A{vt}I{1}gryninti, valytil{(metalą, stiklą)};I{2}:F{affiner les fromages}baigti sūrių brandinimą;I{3}šlifuoti, gludinti, ploninti, smulkinti; daryti subtilesnį;$2{s’affiner}darytis grynesniam, taurėti;F{son goût s’est affiné}jo skonis tapo subtilesnis.
+0{affinité}[afinite]A{f}panašumas, artumas, giminingumas;L{prk.}atitikimas;L{lingv.}kalbos giminiškumas;L{fiz.}F{affinité électronique}elektroninis giminiškumas.
+0{affirmatif, -ive}[afirmatif, -iv]A{adj}I{1}(pa)tvirtinamasis; tvirtinantis;F{une réponse affirmative}patvirtinantis atsakymas;I{2}teigiamas;F{proposition affirmative}teigiamas sakinys;F{répondre par l’affirmative}atsakyti teigiamai.
+0{affirmation}[afirmasj&#596;&#771;]A{f}tvirtinimas, teigimas;F{en dépit de vos affirmations}nepaisant jūsų tvirtinimų;L{teis.}F{affirmation de compte}sąskaitos patvirtinimas.
+0{affirmativement}[afirmativm&#593;&#771;]A{adv}patvirtinamai, teigiamai.
+0{affirmer}[afirme]A{vt}I{1}tvirtinti, teigti;F{j’affirme qu’il ment}tvirtinu, kad jis meluoja;F{j’affirme sur l’honneur que...}prisiekiu savo garbe, kad...;I{2}parodyti, pareikšti;F{affirmer son caractère}rodyti savo charakterį;$2{s’affirmer}pasireikšti;F{son talent s’affirme}jo talentas pasireiškia.
+0{affixe}[afiks]A{m}L{lingv.}afiksas.
+0{affleurement}[aflœrm&#593;&#771;]A{m}iškilimas į žemės paviršių, atodanga.
+0{affleurer}[aflœre]S{&rArr;}A{vt}lyginti, išlyginti; pasiekti lygį;F{la rivière affleure ses bords}upė susilygino su krantais;S{&rArr;}A{vi}iškilti į žemės paviršių;F{roc qui affleure}išsikišusi uola.
+0{affliction}[afliksj&#596;&#771;]A{f}sielvartas, širdgėla; nuliūdimas;F{être plongé dans une profonde affliction}labai sielvartauti.
+0{affligeant, -ante}[afliʒ&#593;&#771;, -&#593;&#771;t]A{adj}liūdnas, nemalonus, apgailėtinas, apverktinas;F{il est dans une situation affligeante}jo padėtis apgailėtina.
+0{affliger}[afliʒe]A{vt}I{1}nuliūdinti, sukelti sielvartą;F{cette nouvelle l’a profondément affligé}ši naujiena jį giliai nuliūdino;I{2}ištikti, užklupti, prislėgti, gniuždyti;$2{s’affliger}nuliūsti, sielvartauti, sielotis;F{ne vous affligez pas ainsi}nesisielokite taip.
+0{affluence}[afly&#593;&#771;s]A{f}antplūdisl{(žmonių)};F{heures d’affluence}spūsties valandos.
+0{affluent}[afly&#593;&#771;]A{m}intakas.
+0{affluer}[aflye]A{vi}I{1}gausiai plūsti;F{le sang afflue au cerveau}į smegenis gausiai plūsta kraujas;I{2}plūstil{(apie žmones)}, veržtis;F{la foule afflue dans le métro}minia veržiasi į metro.
+0{afflux}[afly]A{m}I{1}pritekėjimas, priplūdimas;I{2}antplūdis;F{il y a eu un afflux de visiteurs}buvo lankytojų antplūdis.
+0{affolant, -ante}[afɔl&#593;&#771;, -&#593;&#771;t]A{adj}sukrečiantis, jaudinantis, trikdantis; baisus;F{une nouvelle affolante}labai jaudinanti naujiena, žinia.
+0{affolement}[afɔlm&#593;&#771;]A{m}pakvaišimas, išprotėjimas, nerimas, sutrikimas; didelis susijaudinimas; panika;F{pas d’affolement!}be panikos!
+0{affoler}[afɔle]A{vt}vesti iš proto, išmušti iš vėžių, labai sujaudinti;F{ce bruit les a affolés}šis triukšmas juos išvedė iš proto;$2{s’affoler}nesivaldyti, nesitvardyti, eiti iš proto, blaškytis, jaudintis.
+0{affranchir}[afr&#593;&#771;ʃir]A{vt}I{1}išlaisvinti, paleisti į laisvę;I{2}L{prk.}atpalaiduoti, išlaisvinti iš to, kas varžo;I{3}L{šnek.}suteikti žinių, apšviesti;F{puisque tu ne sais rien, je vais t’affranchir}kadangi tu nieko nežinai, aš tau pasakysiu, aš tave apšviesiu;I{4}apmokėti mokestį; apmokėtil{(laišką, siuntą)}pašto ženklais;F{lettre insuffisamment affranchie}nevisiškai apmokėtas laiškas;$2{s’affranchir}išsilaisvinti, atsiskirti;F{il est difficile de s’affranchir de ses habitudes}sunku atsikratyti savo įpročių.
+0{affranchissement}[afr&#593;&#771;ʃism&#593;&#771;]A{m}I{1}paleidimas į laisvę, išlaisvinimas, išvadavimas;I{2}l{(laiško, siuntinio)}apmokėjimas pašto ženklais;F{tarifs d’affranchissement}apmokestinimo tarifai;F{tarifs d’affranchissement pour l’étranger}apmokestinimo tarifai siunčiant į užsienįl{(laišką, siuntinį)}.
+0{affres}[afr]A{f}A{pl}kančios;F{être dans les affres de la douleur}kankintis iš skausmo.
+0{affrètement}[afrɛtm&#593;&#771;]A{m}frachtavimas, nuomojimas;F{courtier d’affrètement}frachtavimo agentas, tarpininkas;F{affrètement à temps}laikinas nuomojimas.
+0{affréter}[afrete]A{vt}frachtuoti, nuomotil{(sunkvežimį, laivą)}.
+0{affreusement}[afrøzm&#593;&#771;]A{adv}baisiai, siaubingai.
+0{affreux, -euse}[afrø, -øz]A{adj}I{1}baisus, siaubingas;F{un accident affreux}baisi katastrofa;F{un affreux homme}bjaurus, piktas žmogus;I{2}labai negražus, bjaurus;F{elle est affreuse avec cette coiffure}su šia šukuosena ji negraži.
+0{affriander}[afrij&#593;&#771;de]A{vt}vilioti, masinti;F{affriander les poissons}masinti žuvis.
+0{affrioler}[afrijɔle]A{vt}vilioti, gundyti;F{je suis affriolé par l’idée de ce voyage}mane gundo mintis apie šią kelionę.
+0{affriquée}[afrike]A{f}L{lingv.}afrikata.
+0{affront}[afr&#596;&#771;]A{m}viešas įžeidimas, užgaulė, nuoskauda, pažeminimas;F{faire un affront à_{qn}}viešai įžeisti, sugėdinti;F{essuyer un affront}būti įžeistam, patirti nuoskaudą.
+0{affrontement}[afr&#596;&#771;tm&#593;&#771;]A{m}I{1}susidūrimas, stojimas vieno prieš kitą;F{l’affrontement entre policiers et manifestants}policijos susidūrimas su demonstrantais;I{2}suartėjimas, susiglaudimas, susiartinimas;F{l’affrontement de la plaie}žaizdos užsitraukimas.
+0{affronter}[afr&#596;&#771;te]A{vt}I{1}drąsiai stoti prieš ką, drąsiai sutikti;F{affronter des difficultés}drąsiai sutikti sunkumus;F{affronter la mort}drąsiai sutikti mirtį; drąsiai žiūrėti mirčiai į akis;I{2}suartinti kraštus, suglausti, sujungti;I{3}L{sport.}susitiktil{(sportinėse varžybose)};$2{s’affronter}stoti vienas prieš kitą, lenktyniautil{(rinkimuose)}; varžytisl{(sporte)};L{prk.}F{deux thèses s’affrontent}susitinka du požiūriai, dvi pozicijos.
+0{affubler}[afyble]A{vt}keistai, juokingai aprengti;$2{s’affubler}keistai apsirengti.
+0{affût}[afy]A{m}pasala;F{être à l’affût}tykoti;A{loc}F{être à l’affût de}ieškoti progos, gaudyti progą;F{elle est à l’affût de tous les vents de la mode}ji gaudyte gaudo mados naujoves.
+0{affûtage}[afytaʒ]A{m}l{(įrankių)}galandimas, aštrinimas.
+0{affûter}[afyte]galąsti, aštrinti;F{meule à affûter}galąstuvas, tekėlas.
+0{affûteur}A{m},0{-euse}A{f}[afytœr, -øz]I{1}galąstojas, galąstoja;I{2}A{f}galandimo mašina.
+0{affûtiaux}[afytjo]A{m}A{pl}L{šnek.}mažmožis, menkavertis papuošalas.
+0{Afghan}A{m},0{-ane}A{f}[afg&#593;&#771;, -an]afganistanietis, afganistanietė.
+0{afghan,}0{-ane}[afg&#593;&#771;, -an]C{S{&rArr;}}A{adj}afganistaniškas, Afganistano;S{&rArr;}A{m}afganų kalba.
+0{afin de}[af&epsilon;&#771;də]A{loc prép},0{afin que}[af&epsilon;&#771;kə]A{loc}A{conj}:F{afin de de}f{(+A{inf})};F{afin de que}f{(+A{subj})}kad; tam, kad;F{nous partons en vacances afin de de nous reposer}vykstame atostogų, kad pailsėtume;F{afin de qu’on ne vous oublie pas...}kad jūsų nepamirštų...
+0{Africain}A{m},0{-aine}A{f}[afrik&epsilon;&#771;, -ɛn]afrikietis, afrikietė.
+0{africain, -aine}[afrik&epsilon;&#771;, -ɛn](L{sutr.}2{afro}[afro])A{adj}afrikietiškas, Afrikos;F{langues africaines}Afrikos kalbos.
+0{africanisation}[afrikanizasj&#596;&#771;]A{f}afrikanizacija.
+0{africaniste}[afrikanist]A{m},A{f}Afrikos kalbų ir kultūros specialistas, specialistė; afrikanistas, afrikanistė.
+0{Afro-américain}A{m},0{-aine}A{f}[afroamerik&epsilon;&#771;, -ɛn]juodaodis amerikietis, juodaodė amerikietė.
+0{afro-américain, -aine}[afroamerik&epsilon;&#771;, -ɛn]A{adj}afroamerikietiškas, juodaodžių amerikiečių.
+0{after-shave}[aftœrʃɛv]S{&rArr;}A{m}A{inv}L{angl.}priemonė po skutimosi;S{&rArr;}A{adj}:F{lotion after-shave}losjonas po skutimosi.
+0{agaçant, -ante}[agas&#593;&#771;, -&#593;&#771;t]A{adj}erzinantis, įkyrus, nervinantis.
+0{agacement}[agasm&#593;&#771;]A{m}susierzinimas;F{manifester son agacement}rodyti savo susierzinimą.
+0{agacer}[agase]A{vt}I{1}erzinti, kiršinti;I{2}dirginti, suerzinti;F{les acides agacent les dents}rūgštys dirgina dantis.
+0{agacerie}[agasri]A{f}A{pl}įkyrumas, maivymasis, koketavimas.
+0{agape}[agap]A{f}I{1}agapė, pirmųjų krikščionių bendros vaišės;I{2}draugiška vakarienė.
+0{agate}[agat]A{f}L{miner.}agatas.
+0{agave}[agav]A{m}L{bot.}agava.
+0{âge}[aʒ]A{m}I{1}amžius, metai;F{quel âge a-t-il?}kiek jam metų?, kokio jis amžiaus?;A{loc}F{à la fleur de l’âge}pačioje jaunystėje;F{il est dans la force de l’âge}jis pačiame jėgų stiprume;F{il ne fait, il ne paraît, il ne porte pas son âge}jis neatrodo, kad turi tiek metų, jam neduotum tiek metų;F{il fait plus jeune que son âge}pagal metus jis jauniau atrodo;F{un homme d’un âge avancé}senyvas, pagyvenęs žmogus;F{âge scolaire}mokyklinis amžius;F{âge de raison}brandos amžius;F{reconnaître l’âge d’un arbre, d’un vin}atpažinti medžio, vyno amžių;F{l’âge de la Terre}Žemės amžius;I{2}gyvenimo periodail{(pagal amžių)};F{bas âge}kūdikystė;F{âge tendre}vaikystė ir paauglystė;F{bel âge}jaunystė;F{l’âge adulte, mûr}subrendusio žmogaus amžiaus;F{entre deux âges}vidutinio amžiaus;F{le troisième âge}trečiasis amžius, pensinis amžius;F{le quatrième âge}senatvėl{(nuo 75 metų)};F{l’âge critique}menopauzė;F{homme d’âge}pagyvenęs žmogus;I{3}amžius, epocha, era; šimtmetis;F{le Moyen Âge}viduramžiai;F{Âge de la pierre}akmens amžius;A{loc}F{âge d’or}aukso amžius;F{l’âge actuel, notre âge}šiuolaikinė epocha;F{des vieux âges}kadaise, senovėje;F{d’âge en âge}amžius iš amžiaus, epocha iš epochos, per visą istoriją.
+0{âgé, -ée}[aʒe]A{adj}pagyvenęs, senyvas;F{il est très âgé}jis labai senas;F{le plus âgé, le moins âgé des deux enfants}vyresnysis ir jaunesnysis iš dviejų vaikų;F{âgé de trente ans}trisdešimties metų.
+0{agence}[aʒ&#593;&#771;s]A{f}agentūra;F{l’agence internationale de l’énergie atomique}tarptautinė atominės energijos agentūra;F{l’agence nationale pour l’emploi}(L{sutr.}3{A.N.P.E.}) nacionalinė darbo agentūra;F{agence de presse}spaudos agentūra.
+0{agencement}[aʒ&#593;&#771;sm&#593;&#771;]A{m}sugrupavimas; išdėstymas, sutvarkymas;F{l’agencement de cet appartement est remarquable}šio buto išdėstymas yra puikus;F{l’agencement d’une phrase}sakinio struktūra.
+0{agencer}[aʒ&#593;&#771;se]A{vt}sutvarkyti, išdėstyti, sugrupuoti;$2{s’agencer}susigrupuoti, susitvarkyti;F{une langue se compose de mots, qui s’agencent en phrases}kalba susideda iš žodžių, kurie jungiasi į sakinius.
+0{agenda}[aʒ&epsilon;&#771;da]A{m}užrašų knygelė.
+0{agenouillement}[aʒ(ə)nujm&#593;&#771;]A{m}atsiklaupimas, priklaupimas.
+0{agenouiller (s’)}[aʒ(ə)nuje]atsiklaupti, klauptis, priklaupti;L{prk.}nusižeminti.
+0{agenouilloir}[aʒ(ə)nujwar]A{m}klauptasl{(bažnyčioje)}.
+0{agent^{1}}[aʒ&#593;&#771;]A{m}veiksnys, faktorius, veikianti jėga; reiškinys;F{agent antistatique}antistatikas;F{agent anesthésique}anestetikas;F{agent chimique}cheminis reagentas;F{agent réfrigérant}aušinimo skystis, aušalas.
+0{agent^{2}}[aʒ&#593;&#771;]A{m}agentas, įgaliotinis; valdininkas; darbuotojas;F{agent d’assurances}draudimo agentas;F{agent de publicité}reklamos agentas;F{agent de police}policijos įgaliotinis, policininkas;F{agent public, administratif, de l’État}visuomeninis darbuotojas, administracijos valdininkas, valstybės tarnautojas;F{agent de la sûreté}kriminalinės policijos agentas;F{agent d’une police privée}slaptosios policijos tarnautojas, privatus detektyvas;F{agent de change}biržos tarpininkas;F{agent secret}šnipas.
+0{agglomérat}[aglɔmera]A{m}aglomeratas.
+0{agglomération}[aglɔmerasj&#596;&#771;]A{f}I{1}aglomeracija, kaupimasis, susigrūdimas;I{2}gyvenvietė, miestas su priemiesčiais;F{l’agglomération parisienne}Paryžius su priemiesčiais.
+0{agglomérer}[aglɔmere]A{vt}I{1}sukaupti, sukrauti, sujungti į vieną;F{population agglomérée}gyventojai, sutelkti į vieną vietą, kartu gyvenantys;I{2}L{tech.}sukoncentruoti, sujungti į vieną bloką;$2{s’agglomérer}kauptis, rinktis, susijungti;F{les sables se sont agglomérés en dunes}smėlis susikaupė, susipresavo į kopas;F{les hommes s’agglomèrent dans les villes}žmonės susitelkė į miestus.
+0{agglutinant, -ante}[aglytin&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}lipnus, kibus; lipus;F{substances agglutinantes}lipnios, kibios medžiagos;L{lingv.}F{langues agglutinantes}agliutinacinės, agliutinatyvinės kalbos (fino-ugrų kalbos); S{&rArr;}A{m}agliutininai.
+0{agglutination}[aglytinasj&#596;&#771;]A{f}I{1}agliutinacija, su(si)lipdymas, su(si)klijavimas, priklijavimas;I{2}L{lingv.},L{biol.},L{med.}agliutinacija.
+0{agglutiner}[aglytine]A{vt}suglausti, sulipinti;$2{s’agglutiner}sulipti, susitelkti;F{les passants s’étaient agglutinés devant la vitrine}praeiviai susibūrė prie vitrinos.
+0{aggravant, -ante}[agrav&#593;&#771;, -&#593;&#771;t]A{adj}sunkinantis, didinantis;F{circonstance aggravante}sunkinanti aplinkybė.
+0{aggravation}[agravasj&#596;&#771;]A{f}l{(kaltės)}pasunkinimas; pablogėjimas,l{(ligos)}paūmėjimas;F{aggravation de la situation financière}finansinės padėties pablogėjimas;F{aggravation du conflit}konflikto paaštrėjimas.
+0{aggraver}[agrave]A{vt}pasunkinti, pabloginti, sukomplikuoti;F{aggraver les impôts}padidinti mokesčius;$2{s’aggraver}pablogėti, paaštrėti;F{l’état du malade s’est aggravé dans la nuit}naktį ligonio būklė pablogėjo.
+0{agile}[aʒil]A{adj}vikrus, greitas, guvus;F{un esprit agile}guvus protas.
+0{agilité}[aʒilite]A{f}vikrumas, greitumas, guvumas;F{l’agilité d’un acrobate}akrobato vikrumas;F{avec agilité}vikriai, greitai.
+0{agiotage}[aʒjɔtaʒ]A{m}ažiotažas, spekuliavimas biržoje, didelis sujudimas.
+0{agir}[aʒir]S{&rArr;}A{vi}I{1}veikti, būti aktyviam; daryti;F{le moment est venu d’agir}atėjo laikas veikti, daryti ką;I{2}elgtis, pasielgti;F{manière d’agir}elgesys, elgsena;F{agir à la légère}lengvabūdiškai pasielgti;F{agir par calcul}elgtis su išskaičiavimu;F{agir en honnête homme}garbingai pasielgti;F{agir en sa faveur}veikti savo naudai;F{agir au nom du parti}veikti partijos vardu;I{3}:F{faire agir}daryti įtaką, paveikti, veikti;F{faites agir vos amis}paveikite savo draugus;F{le remède n’agit plus}vaistai nebeveikia;F{agir sur les événements}lemti įvykius;S{&rArr;}$2{s’agir}A{vimp}:F{il}F{s’agit de...}kalbama, eina kalba;F{de quoi s’agit-il?}apie ką kalbama?, kas yra, kas nutiko, kas atsitiko?;F{il s’agit de}f{(+A{inf})}reikia, kad; svarbu;F{quand il s’agit de se mettre à table, il est toujours le premier}kai reikia sėsti už stalo, jis visada pirmas;F{il s’agit maintenant d’être}F{sérieux}dabar svarbu būti rimtam;F{s’agissant de...}kalbant apie...; kai kalbama apie...; jei kalbama apie...; jei reikia...
+0{agissant, -ante}[aʒis&#593;&#771;, -&#593;&#771;t]A{adj}veiklus, veiksmingas; aktyvus, efektyvus;F{un remède agissant}veiksmingas vaistas.
+0{agissements}[aʒism&#593;&#771;]A{m}A{pl}smerktini veiksmai, machinacijos, pinklės, intrigos.
+0{agitateur}A{m},0{-trice}A{f}[aʒitatœr, -tris]I{1}agitatorius, agitatorė; kurstytojas, kurstytoja;I{2}A{m}L{tech.}maišytuvas, maišiklis.
+0{agitation}[aʒitasj&#596;&#771;]A{f}I{1}judėjimas, neramumas;F{l’agitation de l’eau}vandens bangavimas;I{2}susijaudinimas, nerimas, blaškymasis;F{être en proie à une grande agitation}būti apimtam didelio nerimo;I{3}nepasitenkinimas politine, socialine tvarka, sujudimas, bruzdėjimas;F{l’agitation gagna toutes les usines}nepasitenkinimas, bruzdėjimas apėmė visas gamyklas.
+0{agité, -ée}[aʒite]S{&rArr;}A{adj}neramus, audringas, susijaudinęs;F{son sommeil est agité}jo miegas neramus;F{mer agitée}audringa jūra;F{un enfant agité}nervingas vaikas;S{&rArr;}A{m},A{f}neramus psichinis ligonis.
+0{agiter}[aʒite]A{vt}I{1}judinti, siūbuoti, mosuoti, mojuoti;F{barque agitée par les vagues}bangų supamas laivas;F{agiter son mouchoir}mojuoti nosine;I{2}jaudinti, kelti nerimą;I{3}diskutuoti, svarstyti;F{nous avons longuement agité la question}mes ilgai svarstėm klausimą;I{4}judinti, plakti, maišyti;F{agiter avant l’utilisation}prieš vartojimą suplakti, sumaišyti;$2{s’agiter}judėti; jaudintis, bruzdėti, blaškytis, siūbuoti.
+0{agit-prop}[aʒitprɔp]A{f}A{inv}agitacija ir politinė propaganda.
+0{agneau}[aɲo]A{m}I{1}ėriukas, avinėlis;F{agneau de lait}žindomas ėriukas;F{agneau pascal}velykinis avinėlis;F{être doux comme un agneau}būti taikaus, ramaus charakterio;F{l’Agneau de Dieu}Dievo avinėlis;I{2}ėriuko mėsa;l{(kailis)}karakulis;F{manteau d’agneau}karakulio kailiniai.
+0{agnelle}[aɲɛl]A{f}avytėl{(ėriukas)}.
+0{agnelage}[aɲ(ə)laʒ]A{m}ėriavimasis.
+0{agneler}[aɲ(ə)le]A{vi}ėriuotis.
+0{agnosticisme}[agnɔstisism]A{m}agnosticizmas.
+0{agonie}[agɔni]A{f}agonija;F{entrer en agonie, être à l’agonie}būti agonijoje.
+0{agonir}[agɔnir]A{vt}įžeidinėti, keikti;F{agonir d’injures}apipilti keiksmais.
+0{agonisant, -ante}[agɔniz&#593;&#771;, -&#593;&#771;t]A{adj}mirštantis, merdintis.
+0{agoniser}[agɔnize]A{vi}I{1}būti agonijoje;I{2}L{prk.}merdėti.
+0{agrafage}[agrafaʒ]A{m}užsegimas, užsegiojimas, sutvirtinimas; pritvirtinimas;F{agrafage des bouchons de champagne}šampano kamščių sutvirtinimas.
+0{agrafe}[agraf]A{f}I{1}sagtis, kabliukas;I{2}sagė;I{3}gnybtas, apkabėlė;I{4}:F{agrafe de bureau}sąvaržėlė.
+0{agrafer}[agrafe]A{vt}I{1}susegti, užsegti, prisegti;I{2}L{šnek.}suimti, susemti, sulaikyti;F{il s’est fait agrafer par les flics}jį sučiupo policininkai.
+0{agraire}[agrɛr]A{adj}agrarinis; žemės;F{réforme agraire}agrarinė reforma.
+0{agrandir}[agr&#593;&#771;dir]A{vt}I{1}padidinti, išplėsti, praplėsti;F{agrandir le cercle de ses connaissances}praplėsti savo žinių ratą;I{2}padaryti svarbesnį, kilnesnį, platesnį;$2{s’agrandir}padidėti, išaugti, išsiplėsti.
+0{agrandissement}[agr&#593;&#771;dism&#593;&#771;]A{m}I{1}padidinimas, išplėtimas;I{2}padidėjimas, išsiplėtimas.
+0{agrandisseur}[agr&#593;&#771;disœr]A{m}fotodidintuvas.
+0{agrarien, -ienne}[agrarj&epsilon;&#771;, -jɛn]S{&rArr;}A{adj}agrarininkų, žemės ūkio;F{parti agrarien}agrarininkų (žemės ūkio) partija;S{&rArr;}A{m},A{f}agrarininkas, agrarininkė.
+0{agréable}[agreabl]A{adj}malonus, smagus;F{sons agréables à l’oreille}ausiai malonūs garsai;F{une odeur agréable}skanus kvapas;F{il mène une vie agréable}jis laimingai gyvena;F{agréable à voir, à entendre, à toucher}malonus matyti, girdėti, liesti;F{il me serait agréable de vous rencontrer}man būtų malonu su jumis susitikti.
+0{agréablement}[agreabləm&#593;&#771;]A{adv}smagiai, maloniai;F{j’en ai été agréablement surpris}buvau tuo maloniai nustebintas.
+0{agréer}[agree]S{&rArr;}A{vt}palankiai priimti, pritarti, aprobuoti;F{agréer une demande}palankiai priimti prašymą; l{(mandagumo formuluotės)}F{veuillez agréer mes hommages (mes respects)}su pagarba;F{veuillez agréer mes salutations distinguées, l’expression de mes sentiments respectueux}priimkite mano nuoširdžiausius sveikinimus ir pagarbą;S{&rArr;}A{vi}:F{agréer à}patikti, pritarti;F{le projet agréait à tous}projektas visiems patiko, visi pritarė projektui.
+0{agrégat}[agrega]A{m}agregatas; konglomeratas; sankaupa, sukaupimas;F{les roches sont des agrégats de minéraux}uolos yra mineralų sankaupa.
+0{agrégation}[agregasj&#596;&#771;]A{f}(L{šnek.}2{agrég}[agrɛg])I{1}agregacija, dalelių sukibimas;I{2}konkursas agrežė moksliniam vardui gauti; leidimas dalyvauti konkurse agrežė moksliniam vardui gauti; leidimas dirbti dėstytoju universitete;F{se présenter, réussir à l’agrégation de lettres, de mathématiques}dalyvauti konkurse, laimėti konkursą filologijos, matematikos agrežė moksliniam vardui gauti;I{3}L{chem.}agregacija.
+0{agrégé}A{m},0{-ée}A{f}[agreʒe]agrežė, mokslinis vardas Prancūzijoje, leidžiantis dėstyti licėjuje ir kai kuriose aukštosiose mokyklose;F{une agrégée de géographie}dėstytoja, turinti geografijos mokslinį vardąl{(Prancūzijoje)}.
+0{agréger}[agreʒe]A{vt}I{1}sujungti į vieną visumą, agreguoti;I{2}suvienyti, susieti, įjungti, inkorporuoti, suburtil{(į draugiją, į bendrovę irL{pan.})};$2{s’agréger}susivienyti, susijungti.
+0{agrément}[agrem&#593;&#771;]A{m}I{1}sutikimas, pritarimas, leidimas;L{dipl.}agremanas, pritarimas;F{il voulait avoir l’agrément du ministre}jis norėjo gauti ministro sutikimą;I{2}malonumas; žavumas, patrauklumas;F{les agréments de la vie}gyvenimo malonumai;F{voyage d’agrément}pramoginė kelionė.
+0{agrémenter}[agrem&#593;&#771;te]A{vt}pagražinti; papuošti;F{une robe agrémentée de broderies}suknelė papuošta siuvinėjimais.
+0{agrès}[agrɛ]A{m}A{pl}gimnastikos prietaisai;F{exercices aux agrès}pratimai ant prietaisų.
+0{agresser}[agrese]A{vt}I{1}užpulti, padaryti žalos;F{deux individus l’ont agressé la nuit dernière}praėjusią naktį jį užpuolė du tipai;I{2}provokuoti, šokiruoti, įžeisti;F{être, se sentir agressé}būti, jaustis įžeistam.
+0{agresseur}[agresœr]A{m}agresorius, užpuolikas, grobikas.
+0{agressif, -ive}[agresif, -iv]A{adj}I{1}agresyvus, puolantis;I{2}įžūlus, vaidingas, karingas.
+0{agression}[agresj&#596;&#771;]A{f}agresija, užpuolimas.
+0{agressivement}[agresivm&#593;&#771;]A{adv}agresyviai.
+0{agressivité}[agresivite]A{f}agresyvumas, įžūlus elgimasis.
+0{agreste}[agrɛst]A{adj}kaimiškas, sodietiškas;F{la vie agreste}kaimiškas gyvenimas.
+0{agricole}[agrikɔl]A{adj}žemės ūkio;F{la Lituanie est un pays agricole}Lietuva – žemės ūkio šalis;F{produits agricoles}žemės ūkio produktai;F{machines agricoles}žemės ūkio technika.
+0{agriculteur}A{m},0{-trice}A{f}[agrikyltœr, -tris]žemdirbys, žemdirbė.
+0{agriculture}[agrikyltyr]A{f}žemės ūkis, žemdirbystė.
+0{agrion}[agrij&#596;&#771;]A{m}laumžirgis.
+0{agrippement}[agripm&#593;&#771;]A{m}stvėrimasis, sučiupimas; įsikibimas.
+0{agripper}[agripe]A{vt}godžiai stverti, sučiupti;$2{s’agripper}įsikibti į, įsitverti;F{s’agripper d’une main à une branche}viena ranka įsikibti į šaką.
+0{agrobiologie}[agrobjɔlɔʒi]A{f}agrobiologija.
+0{agrochimie}[agroʃimi]A{f}agrochemija.
+0{agro-industrie}[agro&epsilon;&#771;dystri]A{f}agropramonė.
+0{agrologie}[agrɔlɔʒi]A{f}dirvotyra.
+0{agronome}[agrɔnɔm]A{m},A{f}agronomas, agronomė.
+0{agronomie}[agrɔnɔmi]A{f}agronomija.
+0{agrotourisme}[agroturism]A{m}kaimo turizmas.
+0{agrume}[agrym]A{m}citrusiniai vaisiai;F{l’orange est un agrume riche en vitamine C}apelsinas yra citrusinis vaisius, turtingas vitamino C.
+0{agrumiculture}[agrymikyltyr]A{f}citrusinės kultūros.
+0{aguerrir}[agerir]A{vt}I{1}pratinti prie karo pavojų, įpratinti kautis;I{2}(už)grūdinti;$2{s’aguerrir}užsigrūdinti;F{s’aguerrir au froid, contre le froid}grūdintis šalčiu, priprasti prie šalčio.
+0{aguets (aux)}[ozagɛ]A{loc adv}:F{être, rester aux aguets}tykoti, būti budriam.
+0{agueusie}[agøzi]A{f}skonio jutimo neturėjimas.
+0{aguichant, -ante}[agiʃ&#593;&#771;, -&#593;&#771;t]A{adj}gundantis, viliojantis, koketiškas.
+0{aguicher}[agiʃe]A{vt}gundyti, vilioti.
+0{aguicheur}A{m},0{-euse}A{f}[agiʃœr, -øz]viliotojas, viliotoja; gundytojas, gundytoja.
+0{ah}[a]A{interj}ak!, ai!, oi!, o!, vaje!
+0{ahaner, ahanner}[aane]A{vi}dėti daug pastangų, dejuoti.
+0{ahuri, -ie}[ayri]A{adj}apstulbęs, suglumęs, pritrenktas iš nustebimo;F{l’air ahuri}apstulbęs;F{rester ahuri devant_{qch}}stovėti apstulbusiam prieš ką.
+0{ahurir}[ayrir]A{vt}apstulbinti, pritrenkti, nustebinti;F{cette déclaration nous a ahuris}šis pareiškimas mus apstulbino.
+0{ahurissant, -ante}[ayris&#593;&#771;, -&#593;&#771;t]A{adj}stebinantis, stulbinantis, pritrenkiantis;F{un bruit ahurissant}kurtinantis triukšmas.
+0{ahurissement}[ayrism&#593;&#771;]A{m}didelis nustebimas, apstulbimas, sumišimas.
+0{aide^{1}}[ɛd]A{f}I{1}pagalba;F{j’ai besoin de votre aide}man reikia jūsų pagalbos;F{apporter, offrir son aide à_{qn}}suteikti kam pagalbą, pagelbėti kam;F{venir à l’aide de_{qn}, en aide à_{qn}}ateiti kam į pagalbą;F{appeler_{qn}à son aide}šauktis ką į pagalbą;F{avec l’aide de Dieu}su Dievo pagalba;F{à l’aide!}gelbėkit!;A{loc prép}F{à l’aide de}kam padedant, dėka ko; su ko pagalba;I{2}paspirtis, paramal{(finansinė, moralinė)};F{aide sociale}socialinė parama;F{aide sociale aux personnes âgées}socialinė parama pagyvenusiems žmonėms;F{aide au retour}parama į šalį grįžtantiems išeiviams;F{aide au développement}parama besivystančioms ar menkai išsivysčiusioms šalims.
+0{aide^{2}}[ɛd]A{m},A{f}padėjėjas, padėjėja; pagalbininkas, pagalbininkė; asistentas, asistentė; parankinis, parankinė;F{aide-ménagère}moteris, padedanti šeimininkauti;F{aide-soignante}moteris, padedanti slaugyti invalidus ir ligonius.
+0{aide-mémoire}[ɛdmemwar]A{m}A{inv}atmintinė.
+0{aider}[ede]S{&rArr;}A{vt}padėti, paremti, pagelbėti, teikti paramą, paspirtį;F{je lui tendis la main pour l’aider à se relever}aš jam ištiesiau ranką, kad padėčiau atsistoti;F{son fils l’a aidé dans ses travaux}jo sūnus jam padėjo darbuose;F{que Dieu vous aide!}tepadeda jums Dievas!;S{&rArr;}A{vi}:F{aider à}prisidėti; palengvinti;F{ses conseils aidèrent à la réussite du projet}jo patarimai prisidėjo prie projekto sėkmės;$2{s’aider}padėti sau, pasinaudoti kuo, kad būtų lengviau; padėti vienas kitam;F{elle s’est aidée d’un dictionnaire pour traduire ce texte}ji pasinaudojo žodynu versdama tekstą;F{ils se sont aidés mutuellement}jie vieni kitiems padėjo;A{loc prov}F{aide-toi, le Ciel t’aidera}stenkis, ir Dangus padės.
+0{aïe}[aj]A{interj}ai!, oi!l{(skausmui reikšti)}.
+0{aïeul, aïeule}[ajœl]A{m},A{f}senelis, senelė, senolis, senolė;A{pl}F{aïeux}[ajø]protėviai.
+0{aigle}[ɛgl]A{m},A{f}erelis, erelio patelė;F{des yeux d’aigle}ereliškos akys;F{nez en bec d’aigle}kumpa (ereliška) nosis;L{prk.}F{regard d’aigle}veriantis, aštrus žvilgsnis;A{loc fam}F{ce n’est pas un aigle}tai ne erelisl{(jis nėra labai protingas)}.
+0{aiglon, -onne}[ɛgl&#596;&#771;, -ɔn]A{m},A{f}ereliukas.
+0{aigre}[ɛgr]S{&rArr;}A{adj}I{1}rūgštus, aitrus; aštrus;F{aigre au goût}rūgštaus skonio;F{tourner à l’aigre}prarūgtil{(apie vyną, pieną)};F{le lait tourne à l’aigre}pienas rūgsta;I{2}šaižus, spiegiantisl{(balsas)};F{un froid aigre}šaižus, žvarbus šaltis;I{3}L{prk.}smarkus, staigus, žiaurus;S{&rArr;}A{m}L{psn.}rūgštumas, šaižumas.
+0{aigre-doux, -douce}[ɛgrədu, -dus]A{adj}saldžiarūgštis;F{la sauce aigre-doux}saldžiarūgštis padažas.
+0{aigrefin}[ɛgrəf&epsilon;&#771;]A{m}sukčius, nedorėlis, nenaudėlis.
+0{aigrelet, -ette}[ɛgrəlɛ, -ɛt]A{adj}rūgštokas.
+0{aigrement}[ɛgrəm&#593;&#771;]A{adv}dygiai, kandžiai, nemaloniai.
+0{aigrette}[ɛgrɛt]A{f}I{1}l{(paukščio)}kuodas;F{aigrette du paon}povo kuodas;I{2}gėlių, plunksnų papuošalas.
+0{aigreur}[ɛgrœr]A{f}I{1}rūgštumas;F{l’aigreur du lait tourné}surūgusio pieno rūgštumas;I{2}skrandžio rūgštingumas, rėmuo; deginimo jutimas stemplėje, kartėlis;I{3}L{prk.}apmaudas, bloga nuotaika, pagieža.
+0{aigri, -ie}[egri]A{adj}I{1}prarūgęs, surūgęs;I{2}irzlus, paniuręs.
+0{aigrir}[egrir]S{&rArr;}A{vt}rauginti, raugti;F{faire aigrir le lait}rauginti pieną;S{&rArr;}A{vi}rūgti;F{le vin commence à aigrir}vynas pradeda rūgti; $2{s’aigrir}I{1}surūgti;I{2}L{prk.}suirzti, sugesti.
+0{aigu, -uë}[ɛgy]A{adj}I{1}aštrus, smailus;F{oiseau au bec aigu}paukštis smailiu snapu;F{angle aigu}smailusis kampas;I{2}spiegiamas, veriantis;F{une voix aiguë}spiegiantis balsas;I{3}smarkus, aštrusl{(skausmas)}; aukštasl{(apie gaidą)};F{un conflit aigu}smarkus, didelis konfliktas;I{4}L{prk.}kandus, skvarbus, šaižus.
+0{aiguille}[egɥij]A{f}I{1}adata;F{aiguille à coudre}siuvamoji adata;F{aiguille de machine à coudre}siuvamosios mašinos adata;F{travaux d’aiguille}darbai su adata;F{aiguille à tricoter}virbalas;F{aiguille hypodermique}adata poodiniams vaistams leisti;F{aiguilles d’acupuncteur}akupunktūros adatos;I{2}rodyklė;F{les aiguilles d’une montre, d’une balance}laikrodžio, svarstyklių rodyklės;I{3}smailė, špilis;F{aiguille d’un clocher}varpinės smailė;I{4}L{bot.}spyglysl{(spygliuočio medžio)}.
+0{aiguillée}[egɥije]A{f}adata su įvertu siūlu.
+0{aiguiller}[egɥije]A{vt}I{1}L{glžk.}iešmu nukreipti traukinį;I{2}L{prk.}nukreipti, padėti susiorientuoti;F{aiguiller un élève vers les mathématiques}nukreipti vaiką į matematiką.
+0{aiguilleur}[egɥijœr]A{m}iešmininkas.
+0{aiguillon}[egɥij&#596;&#771;]A{m}I{1}geluonisl{(bitės, vapsvos)};I{2}L{bot.}dyglys; spyglys, akstinas;F{les aiguillons de la tige de l’églantier}erškėčio koto akstinai;I{3}L{prk.}paskata, akstinas.
+0{aiguillonner}[egɥijɔne]A{vt}I{1}durti, smeigti, gelti;I{2}L{prk.}skatinti, raginti, akinti;F{aiguillonner l’appétit}žadinti apetitą.
+0{aiguisage}[egizaʒ]A{m}galandimas, aštrinimas.
+0{aiguiser}[egize]A{vt}I{1}galąsti, aštrinti;F{pierre, meule à aiguiser}galąstuvas, pustyklė, tekėlas;I{2}užaštrinti, padaryti skvarbesnį, įtikinantį;F{aiguiser son style}gludinti, šlifuoti stilių.
+0{aiguiseur}A{m},0{-euse}A{f}[egizœr, -øz]galąstojas, galąstoja; aštrintojas, aštrintoja.
+0{aiguisoir}[egizwar]A{m}galąstuvas, pustyklė, tekėlas, budė.
+0{ail}[aj]A{m}česnakas;F{à l’ail}su česnaku.
+0{aile}[ɛl]A{f}I{1}sparnas;F{battre des ailes}plasnoti sparnais;F{coup, battement d’aile}sparno mostas;F{ailes déployées}išskleisti sparnai;F{voler de ses propres ailes}būti savarankiškam, apsieiti be kitų pagalbos;F{sous l’aile de}globojant kam, padedant;F{rogner les ailes à un oiseau}pakirpti paukščiui sparnus;I{2}l{(lėktuvo, malūno, automobilio)}sparnas;I{3}L{kar.}flangas, sparnas;I{4}pastato sparnas;I{5}:F{ailes du nez}nosies sparneliai.
+0{ailé, -ée}[ele]A{adj}sparnuotas;F{pégase, le cheval ailé}pegasas, arklys su sparnais.
+0{aileron}[ɛlr&#596;&#771;]A{m}I{1}paukščio sparno kraštas, galiukas; pelekas; I{2}L{tech.}mentė;L{av.}eleronas, užpakalinė lėktuvo sparno dalis.
+0{ailier}[elje]A{m}l{(futbole)}kraštinis puolėjas.
+0{aillade}[ajad]A{f}I{1}padažasl{(iš acto, aliejaus, druskos)}su česnaku;I{2}duonos skrebutis, įtrintas česnaku ir sudrėkintas alyvuogių aliejumi.
+0{ailler}[aje]A{vt}I{1}prismaigyti česnakol{(į kepsnį)};I{2}įtrinti česnakul{(duoną)};F{croûton aillé}skrebutis, įtrintas česnaku.
+0{ailleurs}[ajœr]A{adv}kitur;F{allons ailleurs}einam kitur;F{partout ailleurs}visur, visur kitur;L{prk.}F{il est ailleurs}jis išsiblaškęs, užsisvajojęs, galvoja apie ką kitą;A{loc adv}F{d’ailleurs}iš kitur; beje;F{il a dit beaucoup de choses, fort intéressantes d’ailleurs}jis pasakė daug dalykų, beje, labai įdomių;F{par ailleurs}be to, antra vertus, kitu požiūriu.
+0{aimable}[ɛmabl]A{adj}malonus, mandagus, meilus;F{je vous remercie vous êtes très aimable}aš jums dėkoju, jūs labai malonus;F{c’est bien aimable à vous d’être venue}labai malonu, kad jūs atėjote;F{il a eu un mot aimable pour tout le monde}jis visiems surado meilų žodį.
+0{aimablement}[ɛmabləm&#593;&#771;]A{adv}maloniai, mandagiai, paslaugiai.
+0{aimant^{1}}[ɛm&#593;&#771;]A{m}I{1}magnetas;F{les deux pôles d’un aimant}du magneto poliai; I{2}L{prk.}traukos jėga, vilionė.
+0{aimant^{2}, -ante}[ɛm&#593;&#771;, -&#593;&#771;t]A{adj}mylintis.
+0{aimantation}[ɛm&#593;&#771;tasj&#596;&#771;]A{f}įmagnetinimas.
+0{aimanter}[ɛm&#593;&#771;te]A{vt}įmagnetinti;$2{s’aimanter}įsimagnetinti;F{substances qui s’aimantent}medžiagos, kurios įsimagnetina.
+0{aimer}[eme]A{vt}I{1}mylėti;F{aimer_{qn}de tout son cœur}mylėti ką iš visos širdies;F{je l’aime bien}aš jį labai myliu;I{2}mėgti;F{aimer le sport, la musique}mėgti sportą, muziką;I{3}:F{aimer à}patikti, mėgti; būti linkusiam;F{il y a des lieux où l’on aimerait à vivre}yra vietų, kur patiktų gyventi;F{j’aime à croire, à penser que...}aš noriu galvoti, kad..., man patiktų galvoti, kad..., aš esu linkęs galvoti, kad...;F{j’aime à croire que vous viendrez}man norisi galvoti, kad jūs ateisite, aš manau, kad jūs ateisite;I{4}:F{aimer mieux}labiau mėgti;F{il aime mieux jouer que travailler}jis labiau mėgsta žaisti nei dirbti;$2{s’aimer}mylėti save, mylėti vienas kitą.
+0{aine}[ɛn]A{f}L{anat.}kirkšnis.
+0{aîné, -ée}[ene]S{&rArr;}A{adj}vyresnis;F{la sœur aînée}vyresnioji sesuo;F{l’aînée des sœurs}vyriausioji iš seserų;F{elle est mon aînée de deux ans}ji už mane vyresnė dvejais metais;S{&rArr;}A{m},A{f}vyresnysis, ioji.
+0{aînesse}[ɛnɛs]A{f}pirmagimystė;F{droit d’aînesse}pirmagimystės teisė.
+0{ainsi}[&epsilon;&#771;si]A{adv}taip; šitaip;F{c’est ainsi et pas autrement}tai taip ir ne kitaip;F{c’est ainsi que...}štai kaip, šitaip; taip;F{est-ce ainsi que les hommes vivent?}tai taip žmonės gyvena?;F{ainsi dit, ainsi fait}kaip pasakyta, taip padaryta;F{ainsi soit-il!}teesie!, tebūnie!;A{loc}F{et ainsi de suite}ir taip toliau;F{pour ainsi dire}taip sakant;F{il est pour ainsi dire le chef}jis beveik (kone) viršininkas;A{loc conj}F{ainsi que}taip, kaip; kadangi;F{je le connais ainsi que sa femme}aš jį pažįstu taip, kaip ir žmoną;F{ainsi qu’il a été dit plus haut}kadangi aukščiau buvo pasakyta.
+0{air^{1}}[ɛr]A{m}I{1}oras;A{loc}F{prendre l’air}kvėpuoti grynu oru, vaikščioti gryname ore;F{changer d’air}pakeisti klimatą, gyvenamą vietovę;F{on manque d’air ici}čia trūksta oro;F{donner de l’air}įleisti gryno oro, vėdinti;F{ne pas manquer d’air}pasitikėti savimi, elgtis drąsiai;F{à l’air}nepridengtas; ore esantis;F{mettre à l’air}vėdinti išnešus į gryną orą;F{courant d’air}skersvėjis, vėjo gūsis;F{pesanteur de l’air}oro slėgis;F{air comprimé}suslėgtas oras;F{coussin d’air}oro pagalvė;I{2}vėjas;F{il y a, il fait de l’air}vėjuota;F{en plein air}vėjyje, lauke, gryname ore;A{loc}F{être libre comme l’air}būti laisvam kaip vėjui;I{3}oras, dangus, erdvė;F{descendre du haut des airs}nusileisti iš dangaus;L{av.}F{la conquête de l’air}pergalė ore;F{armée de l’air}oro pajėgos;F{Ministère de l’Air}aviacijos ministerija;F{École de l’air}aviacijos mokykla;F{hôtesse de l’air}stiuardesė;F{pirates de l’air}oro piratai;A{loc adv}F{en l’air}ore, aukštai;F{regarder en l’air}žiūrėti į dangų, į aukštį, į viršų;F{mettez les bras en l’air}pakelkite rankas;F{les mains en l’air}rankas aukštyn;F{tirer en l’air}šaudyti į orą;F{il a tout mis en l’air en cherchant ce papier}jis viską apvertė ieškodamas šio popieriaus;F{ce sont des paroles en l’air}tai tušti žodžiai;F{c’est une tête en l’air}tai lengvabūdis žmogus;I{4}L{prk.}atmosfera, aplinka;F{prendre l’air du bureau}teirautis, kokia atmosfera įstaigoje, kas ten vyksta;F{il y a de l’orage dans l’air, il y a_{qch}dans l’air}kaupiasi audra, kažkas turi įvykti;F{l’air du temps}to meto atmosfera, gyvenimo būdas, mintys;F{se donner de l’air}išsilaisvinti iš tam tikrų apribojimų.
+0{air^{2}}[ɛr]A{m}I{1}išvaizda, išorė;F{avoir l’air}f{(+ nom)}būti panašiam;F{il a l’air d’une fille}jis panašus į mergaitę;F{avoir l’air}f{(+A{adj})}atrodyti;l{(A{adj}gali būti verčiamasA{adv})}F{elle avait l’air surpris}ji atrodė nustebusi;F{elle avait l’air hardi}ji drąsiai atrodė;F{tous ont l’air triste}visi atrodo liūdnai;F{avoir l’air de}f{(+A{inf})}dėtis, vaizduoti;F{il a l’air de me détester}jis vaizduoja, kad manęs nekenčia;F{n’avoir l’air de rien}iš pažiūros atrodyti menku, beverčiu, paprastul{(o iš tikrųjų taip nėra)};F{du dehors, la maison n’avait l’air de rien}iš išorės namas atrodė bevertis;F{c’est un travail qui n’a l’air de rien, mais qui demande de la patience}iš pažiūros darbas atrodo lengvas, bet jis reikalauja kantrybės;F{il n’a l’air de rien, mais il sait tout}pažiūrėjus neatrodo, bet jis viską žino;I{2}būdas, išraiška, panašumas, laikysena;F{avoir (un) grand air}išdidžiai laikytis;F{prendre de grands airs}vaizduoti svarbų, didelį poną;F{l’air comme il faut}tinkama laikysena, tinkamas elgesys;F{il a un drôle de l’air}jis keistai atrodo, keista jo laikysena;F{il a un air pincé}jis nenatūraliai, manieringai atrodo;F{il y a entre eux un air de famille}tarp jų yra panašumo.
+0{air^{3}}[ɛr]A{m}arija, melodija, gaida;F{fredonner, siffler l’air d’une chanson à la mode}niūniuoti, švilpauti populiarios dainos melodiją.
+0{airain}[ɛr&epsilon;&#771;]S{&rArr;}A{m}bronza, žalvaris;S{&rArr;}A{adj}L{prk.}kietas, geležinis;F{cœur d’airain}kieta širdis;F{la loi d’airain}griežtas įstatymas.
+0{aire}[ɛr]A{f}I{1}grendymas, plūktinė asla, laitas;I{2}plėšraus paukščio lizdas;F{l’aire d’un aigle}erelio lizdas;I{3}plotas, ruožas, juosta;L{av.}F{l’aire d’atterrissage}lėktuvų nutūpimo aikštelė;I{4}L{geom.}plotas;F{calculer l’aire d’un triangle}apskaičiuoti trikampio plotą;I{5}laukas, sritis, zona.
+0{airelle}[ɛrɛl]A{f}:F{l’airelle myrtille}mėlynėl{(uoga)};F{l’airelle rouge, l’airelle à fruits rouges}bruknė;F{l’airelle des bois (des marais)}vaivoras.
+0{airer}[ere]A{vi}sukti lizdąl{(apie plėšrų paukštį)}.
+0{aisance}[ɛz&#593;&#771;s]A{f}I{1}gerovė, aprūpintas gyvenimas;F{vivre dans l’aisance}pasiturinčiai gyventi;I{2}laisvumas, lengvumas;F{s’exprimer en français avec aisance}laisvai kalbėti prancūziškai;F{manquer d’aisance}būti suvaržytam, nesijausti laisvai;I{3}A{pl}:F{cabinets, lieux d’aisances}išvietė;F{fosse d’aisances}išmatų duobė.
+0{aise}[ɛz]S{&rArr;}A{f}I{1}patogumas, gera savijauta;A{loc}F{être}F{à l’aise}patogiai, gerai jaustis;F{je suis à l’aise dans ce costume}su šiuo kostiumu jaučiuosi patogiai;F{se mettre à l’aise}nesivaržyti, patogiai įsitaisyti;F{mettez-vous à l’aise}jauskitės patogiai, laisvai;F{être mal à l’aise}blogai jaustis; negaluoti;F{à son aise}laisvai, be apribojimų;F{faire_{qch}à son aise}visai laisvai, nesivaržant ką daryti;F{à votre aise!}kaip jums patinka!;I{2}malonumas, džiaugsmas, pasitenkinimas;F{combler, remplir d’aise}pripildyti džiaugsmo; I{3}A{pl}l{(gyvenimo)}patogumai; komfortas, gerbūvis;F{aimer ses aises}mėgti patogumus, komfortą;S{&rArr;}A{adj}patenkintas;F{je suis bien aise de vous rencontrer}labai džiaugiuosi, kad jus sutikau.
+0{aisé, -ée}[eze]A{adj}I{1}lengvas;F{c’est aisé à dire}tai lengva pasakyti;A{imp}F{il est aisé de faire_{qch}}lengva ką padaryti;I{2}natūralus, lankstus, lengvas, nuolaidus, pasiturintis;F{une famille aisée}pasiturinti šeima;F{un style aisé}lankstus stilius;F{une démarche aisée}lengva eisena.
+0{aisément}[ezem&#593;&#771;]A{adv}lengvai, laisvai, patogiai.
+0{aisselle}[ɛsɛl]A{f}pažastis.
+0{ajointer}[aʒw&epsilon;&#771;te]A{vt}sujungti galą su galu;F{ajointer les tuyaux}sujungti vamzdžius.
+0{ajour}[aʒur]A{m}ažūras.
+0{ajouré, -ée}[aʒyre]A{adj}ažūrinis, permatomas.
+0{ajournement}[aʒyrnəm&#593;&#771;]A{m}atidėjimas vėlesniam laikui;F{ajournement d’un procès}bylos atidėjimas; perkėlimas į kitą datą.
+0{ajourner}[aʒurne]A{vt}atidėtil{(kitai dienai)}.
+0{ajout}[aʒu]A{m}pridėjimas, priedas;F{manuscrits surchargés d’ajouts}rankraščiai perkrauti priedų.
+0{ajouter}[aʒute]S{&rArr;}A{vt}pridėti, pridurti;F{sans rien ajouter ni retrancher}nieko nei pridedant, nei atimant;F{permettez-moi d’ajouter un mot}leiskite man pridurti žodį;F{ajouter foi à}tikėti; patikėti;S{&rArr;}A{vi}padidinti;$2{s’ajouter}prisidėti, prisijungti.
+0{ajustage}[aʒystaʒ]A{m}pritaikymas, priderinimas, sureguliavimas.
+0{ajustement}[aʒystm&#593;&#771;]A{m}I{1}pritaikymas;I{2}L{prk.}priderinimas; parinkimas; sureguliavimas;F{l’ajustement des termes}terminų suderinimas;F{ajustement des salaires}darbo atlyginimų nustatymas;F{le projet de loi a subi quelques ajustements}įstatymų projekte buvo padaryti kai kurie patikslinimai.
+0{ajuster}[aʒyste]A{vt}I{1}sureguliuoti, tiksliai nustatyti;I{2}surinkti, sumontuoti;I{3}taikyti, prisitaikyti;F{ajuster un lièvre}taikyti į kiškį;$2{s’ajuster}prisiderinti, tikti.
+0{ajusteur}[aʒystœr]A{m}reguliuotojas;F{ajusteur-méchanicien}mechanikas;F{ajusteur-outilleur}įrankininkas;F{ajusteur-monteur}surinkėjas, montuotojas.
+0{alambiqué, -ée}[al&#593;&#771;bike]A{adj}įmantrus, rafinuotasl{(apie stilių, kalbą)}.
+0{alanguir}[al&#593;&#771;gir]A{vt}nusilpninti, nuvarginti;$2{s’alanguir}nusilpti, išvargti, netekti energijos.
+0{alanguissement}[al&#593;&#771;gism&#593;&#771;]A{m}nusilpimas, nuovargis, alpulys.
+0{alarmant, -ante}[alarm&#593;&#771;, -&#593;&#771;t]A{adj}keliantis nerimą, jaudinantis, bauginantis; F{des rumeurs alarmantes}keliantys nerimą gandai.
+0{alarme}[alarm]A{f}I{1}aliarmasl{(signalas)};F{sonner l’alarme}duoti pavojaus signalą;F{pousser un cri d’alarme}šaukti, aliarmuoti;I{2}nerimas, nerimastis.
+0{alarmer}[alarme]A{vt}aliarmuoti, kelti nerimą, duoti pavojų skelbiantį signalą;$2{s’alarmer}jaudintis, nerimauti, išsigąsti;F{elle s’alarme pour un rien}ji dėl niekų nerimauja, panikuoja.
+0{alarmiste}[alarmist]A{m},A{f}keliantis paniką asmuo, aliarmuotojas, aliarmuotoja, pesimistas, pesimistė.
+0{Albanais}A{m},0{-aise}A{f}[albanɛ, -ɛz]albanas, albanė.
+0{albanais,}0{-aise}[albanɛ, -ɛz]S{&rArr;}A{adj}albaniškas, Albanijos;S{&rArr;}A{m}albanų kalba.
+0{albatros}[albatros]A{m}albatrosasl{(paukštis)}.
+0{albinisme}[albinism]A{m}albinizmas.
+0{albinos}[albinos]A{m},A{f}albinosas.
+0{album}[albɔm]A{m}I{1}albumas;F{un album de timbre}pašto ženklų albumas;I{2}spausdintas iliustracijų rinkinys; meno albumas;I{3}muzikinis albumas.
+0{albumine}[albymin]A{m}L{biochem.}albuminas.
+0{alcali}[alkali]A{m}L{chem.}šarmas.
+0{alcalin, -ine}[alkal&epsilon;&#771;, -in]A{adj}šarminis;F{solution alcaline}šarminis tirpalas.
+0{alcaliniser}[alkalinize]A{vt}šarminti.
+0{alcalinité}[alkalinite]A{f}L{chem.}šarmingumas.
+0{alchimie}[alʃimi]A{f}alchemija.
+0{alchimiste}[alʃimist]A{m},A{f}alchemikas, alchemikė.
+0{alcool}[alkɔl]A{m}alkoholis, spiritas.
+0{alcoolé}[alkɔle]A{m}spirito antpilas, tinktūra.
+0{alcoolique}[alkɔlik]S{&rArr;}A{adj}alkoholinis;S{&rArr;}A{m},A{f}alkoholikas, alkoholikė.
+0{alcooliser}[alkɔlize]A{vt}I{1}spirituoti;F{boisson alcoolisée}spirituotas gėrimas;$2{s’alcooliser}L{šnek.}piktnaudžiauti alkoholiu, pasigerti.
+0{alcoolisme}[alkɔlism]A{m}alkoholizmas.
+0{alcoomètre}[alkɔmɛtr]A{m}alkometras.
+0{alcootest}[alkɔtɛst]A{m}alkotesteris.
+0{alcôve}[alkov]A{f}alkova.
+0{aléa}[alea]A{m}atsitiktinumas, nenumatytas įvykis.
+0{aléatoire}[aleatwar]A{adj}abejotinas, atsitiktinis, rizikingas, netikras;F{son succès est bien aléatoire}jo sėkmė labai abejotina.
+0{aléatoirement}[aleatwarm&#593;&#771;]A{adv}atsitiktinai, abejotinai.
+0{alène, alêne}[alɛn]A{f}yla.
+0{alentour}[al&#593;&#771;tur]A{adv}aplinkui;F{d’alentour}aplinkinis;F{les bois d’alentour}aplinkiniai miškai.
+0{alentours}[al&#593;&#771;tur]A{m}A{pl}apylinkės;F{les alentours de la ville}miesto apylinkės;F{aux alentours de}apie, maždaug;F{aux alentours de 100 francs}apie šimtą frankų.
+0{alerte^{1}}[alɛrt]A{f}I{1}pavojus, pavojaus signalas;F{donner l’alerte}duoti pavojaus signalą;F{alerte aérienne}oro pavojus;I{2}grėsmė, perspėjimas;I{3}kritiška, pavojinga padėtis;F{en cas d’alerte}pavojaus atveju;A{interj}F{alerte!}pavojus!
+0{alerte^{2}}[alɛrt]A{adj}greitas, guvus, žvalus;F{un esprit alerte}guvus protas.
+0{alerter}[alɛrte]A{vt}perspėti pavojaus atveju, aliarmuoti, sukelti ant kojų;F{alerter la police}pranešti policijai; iškviesti policiją.
+0{aléser}[aleze]A{vt}L{tech.}išgręžti, ištekinti.
+0{aléseur}[alezœr]A{m}tekintojas.
+0{aléseuse}[alezøz]A{f}tekinamosios staklės.
+0{alésoir}[alezwar]A{m}plėstuvas.
+0{alevin}[alv&epsilon;&#771;]A{m}mailiusl{(žuvies jaunikliai)}.
+0{alevinage}[alvinaʒ]A{m}žuvivaisa.
+0{aleviner}[alvine]A{vt}veisti žuvis.
+0{alevinier}A{m},0{-ière}A{f}[alvinje, -jɛr]žuvivaisos tvenkinys.
+0{alezan, -ane}[alz&#593;&#771;, -an]A{adj}raudas, sartas;F{une jument alezane}sarta kumelė.
+0{algèbre}[alʒɛbr]A{f}algebra.
+0{algébrique}[alʒebrik]A{adj}algebrinis;F{fonction algébrique}algebrinė funkcija.
+0{algébriste}[alʒebrist]A{m},A{f}algebros specialistas, specialistė.
+0{Algérien}A{m},0{-ienne}A{f}[alʒerj&epsilon;&#771;, -jɛn]alžyrietis, alžyrietė.
+0{algérien,}0{-ienne}[alʒerj&epsilon;&#771;, -jɛn]S{&rArr;}A{m}alžyriečių kalba;S{&rArr;}A{adj}alžyrietiškas, Alžyro;F{populations algériennes}Alžyro gyventojai.
+0{algie}[alʒi]A{f}L{med.}skausmas.
+0{algorithme}[algɔritm]A{m}algoritmas.
+0{algorithmique}[algɔritmik]A{adj}algoritminis.
+0{algue}[alg]A{f}L{bot.}dumblis.
+0{alias}[aljas]A{adv}L{lot.}alias, kitaip (tariant); tai yra; kitu laiku, kitoje vietoje; vadinamas darl{(kitu vardu)}.
+0{alibi}[alibi]A{m}L{teis.}alibi;F{avoir un alibi}turėti nekaltumo įrodymą.
+0{aliénabilité}[aljenabilite]A{f}L{teis.}l{(turto)}perleidžiamumas.
+0{aliénable}[aljenabl]A{adj}L{teis.}perleidžiamas;F{biens aliénables}perleidžiami turtai.
+0{aliénataire}[aljenatɛr]A{m},A{f}L{teis.}asmuo, kuriam perleidžiamas turtas.
+0{aliénateur}A{m},0{-trice}A{f}[aljenatœr, -tris]L{teis.}asmuo, kuris perleidžia turtą.
+0{aliénation}[aljenasj&#596;&#771;]A{f}I{1}L{teis.}l{(turto)}perleidimas, perdavimas;I{2}:F{aliénation mentale}pamišimas, silpnaprotystė, demencija;I{3}L{prk.}priešiškumas, nepalankumas.
+0{aliéné,}0{-ée}[aljene]S{&rArr;}A{adj}pamišęs;S{&rArr;}A{m},A{f}pamišėlis, pamišėlė;L{psn.}F{asile d’aliénés}psichiatrinė ligoninė.
+0{aliéner}[aljene]A{vt}I{1}L{teis.}perleisti, perduoti;I{2}išvesti iš proto; netekti, išsižadėti;I{3}atstumti, atgrasinti;$2{s’aliéner}atgrasinti, atstumti nuo savęs.
+0{aliéniste}[aljenist]A{m},A{f}psichiatras, psichiatrė.
+0{alignement}[aliɲ(ə)m&#593;&#771;]A{m}I{1}išdėstymas tiesia linija, eile;I{2}L{kar.}lygiavimas;F{soldat qui se met à l’alignement}kareivis, kuris lygiuojasi;F{mettre les soldats à l’alignement}išrikiuoti kareivius;L{prk.}F{l’alignement d’un pays sur une grande puissance}šalies lygiavimasis į didžiąją valstybę.
+0{aligner}[aliɲe]A{vt}I{1}lygiuoti, rikiuoti;F{aligner des soldats}rikiuoti kareivius;I{2}sudėlioti į seką;F{aligner des mots, des phrases}kalbėti darniai;I{3}:F{aligner_{qch}sur}lygiuoti ką nors į;F{aligner son pas sur celui de son voisin}eiti koja kojon su kaimynu;I{4}nustatyti pinigų kursą;$2{s’aligner}lygiuotis, rikiuotis, išsirikiuoti;L{sport.}F{s’aligner pour le départ}stoti prie starto linijos.
+0{aliment}[alim&#593;&#771;]A{m}I{1}l{(maisto)}produktas; I{2}A{pl}maistas;F{aliments de l’homme}žmogaus maistas;F{valeur énergétique, nutritive d’un aliment}energetinė, maistinė produkto vertė;I{3}L{prk.}penas.
+0{alimentaire}[alim&#593;&#771;tɛr]A{adj}maisto;F{denrées, produits alimentaires}maisto produktai;F{régime alimentaire}maisto dieta;F{industrie alimentaire}maisto pramonė;F{pâtes alimentaires}makaronų gaminiai;L{teis.}F{pension alimentaire}alimentail{(išlaikymui)}.
+0{alimentation}[alim&#593;&#771;tasj&#596;&#771;]A{f}I{1}maitinimas(is), mityba;F{magasin d’alimentation}maisto produktų parduotuvė;I{2}aprūpinimas, tiekimas;F{alimentation d’une ville en eau}vandens tiekimas miestui;I{3}L{tech.}maitinimas;F{alimentation à courant alternatif}maitinimas kintamąja srove.
+0{alimenter}[alim&#593;&#771;te]A{vt}I{1}maitinti;F{alimenter avec des légumes}maitinti daržovėmis;I{2}aprūpinti, tiekti;L{prk.}F{alimenter la conversation}palaikyti pokalbį;$2{s’alimenter}maitintis.
+0{alinéa}[alinea]A{m}naujoji eilutėl{(su įtrauka)}, pastraipa.
+0{aliquote}[alikɔt]A{f}L{mat.}skaičiaus daliklis;F{le nombre 3 est une partie aliquote de douze}trys yra skaičiaus dvylika daliklis (kartotinis).
+0{alise, alize}[aliz]A{m}gudobelėl{(uoga)}.
+0{alisier,}0{alizier}[alizje]A{m}L{bot.}gudobelėl{(krūmas)}.
+0{alitement}[alitm&#593;&#771;]A{m}ligonio gulėjimas lovoje.
+0{aliter}[alite]A{vt}paguldyti ligonį į lovą;$2{s’aliter}atsigulti susirgus;F{il a dû s’aliter hier}jis vakar buvo priverstas atsigulti į lovą.
+0{alizé}[alize]S{&rArr;}A{adj}:F{vent alizé}atogrąžų vėjas;S{&rArr;}A{m}pasatas.
+0{allaitement}[alɛtm&#593;&#771;]A{m}žindymas.
+0{allaiter}[alete]A{vt}žindyti.
+0{allant, -ante}[al&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{m}A{pl}:F{allants et venants}vaikščiojantys žmonės;S{&rArr;}A{adj}judrus, žvalus, guvus;F{tu est plus allante que moi}tu esi judresnė nei aš.
+0{alléchant, -ante}[aleʃ&#593;&#771;, -&#593;&#771;t]A{adj}viliojantis, patrauklus;F{une odeur alléchante}žadinantis apetitą kvapas;L{prk.}F{une proposition alléchante}gundantis pasiūlymas.
+0{allécher}[aleʃe]A{vt}privilioti, gundyti, masinti;L{prk.}pritraukti;F{afin d’allécher les lecteurs}kad pritrauktų skaitytojus.
+0{allée}[ale]A{f}I{1}alėja;I{2}žmonių vaikščiojimas;F{c’était une allée et venue continuelle}tai buvo nuolatinis vaikščiojimas;I{3}L{psn.}praėjimas.
+0{allégation}[a(l)legasj&#596;&#771;]A{f}I{1}nuoroda;I{2}tvirtinimas, teigimas;F{selon les allégations du ministre...}pagal ministro tvirtinimus...
+0{allégé, -ée}[aleʒe]A{adj}nekaloringas, nuriebintas;F{un fromage allégé}nekaloringas sūris.
+0{allégeance^{1}}[aleʒ&#593;&#771;s]A{f}palengvinimas, nuraminimas.
+0{allégeance^{2}}[aleʒ&#593;&#771;s]A{f}ištikimybėl{(vasalui)}; atsidavimasl{(karaliui)};F{serment d’allégeance}ištikimybės priesaika.
+0{allégement, allègement}[alɛʒm&#593;&#771;]A{m}I{1}svorio, krūvio sumažinimas;F{allégement d’un chargement}apkrovimo sumažinimas;I{2}sutrumpinimas; palengvinimas, sumažinimas;F{demander l’allégement des programmes scolaires}reikalauti mokyklinių programų palengvinimo;F{un allégement fiscal}mokesčių sumažinimas.
+0{alléger}[aleʒe]A{vt}I{1}palengvinti, sumažinant krūvį, svorį;F{alléger une sauce}atskiesti padažą, kad nebūtų tirštas;L{šnek.}F{alléger quelqu’un de son portefeuille}pavogti pinigų iš ko;I{2}sumažinti, apriboti;F{alléger les impôts}sumažinti mokesčius;I{3}L{prk.}pasiguosti, išlieti širdį.
+0{allégorie}[a(l)legɔri]A{f}alegorija.
+0{allégorique}[a(l)legɔrik]A{adj}alegorinis.
+0{allègre}[a(l)lɛgr]A{adj}linksmas, žvalus, gyvas;F{marcher d’un pas allègre}eiti žvaliu žingsniu, sparčiai žingsniuoti.
+0{allégrement, allègrement}[a(l)lɛgrəm&#593;&#771;]A{adv}linksmai, žvaliai, žvitriai.
+0{allégresse}[a(l)legrɛs]A{f}didelis džiaugsmas, džiūgavimas.
+0{allegro}[a(l)legro]A{m}L{it.}L{muz.}alegro.
+0{alléguer}[a(l)lege]A{vt}I{1}remtis kuo, cituoti kaip autoritetą, pateikti;F{alléguer un auteur}remtis autoriumi;F{alléguer de mauvaises raisons}pateikti abejotinus argumentus;I{2}pasiteisinti, priminti, atsiprašyti;F{alléguer une excuse}atsiprašyti.
+0{alléluia}[a(l)leluja]A{m}aleliuja, Velykų šlovinimo giesmė.
+0{Allemand}A{m},0{-ande}A{f}[alm&#593;&#771;, -&#593;&#771;d]vokietis, vokietė.
+0{allemand, -ande}[alm&#593;&#771;, -&#593;&#771;d]S{&rArr;}A{adj}vokiškas, Vokietijos; vokiečių;F{le peuple allemand}vokiečių tauta;F{la musique allemande}vokiška muzika;S{&rArr;}A{m}vokiečių kalba.
+0{aller^{1}}[ale]S{&rArr;}A{vi}I{1}eiti, vykti, važiuoti;F{aller à pied}eiti pėsčiomis;F{aller à cheval}joti;F{aller à bicyclette, en voiture}važiuoti dviračiu, mašina;F{aller à Paris, au Portugal, en Italie; dans les Alpes, en ville, sur la côte}vykti į Paryžių, į Portugaliją, į Italiją, į Alpes, į miestą, į pajūrį;F{aller chez le coiffeur, chez le médecin}eiti pas kirpėją, gydytoją;F{aller dehors}išeiti;F{aller et venir}vaikštinėti;I{2}:F{aller à}:F{la route qui va au château}kelias, kuris veda į pilį;F{le chapitre qui va de la page 20 à la page 35}skyrius, kuris tęsiasi nuo 20 iki 35 puslapio;F{l’eau lui va jusqu’aux épaules}vanduo siekia jam (jai) iki pečių;F{l’héritage va à sa fille}palikimas atitenka jo dukrai;I{3}tikti, pritikti, būti kartu;F{cette robe, cette coiffure vous va bien}ši suknelė, šukuosena jums labai tinka;F{le noir lui va mal}juoda spalva jai netinka;F{l’abonnement va jusqu’en décembre}abonementas galioja iki gruodžio;I{4}gyvuoti, jaustis, pasiteirauti, kaip sekasi;F{comment allez-vous?}kaip gyvuojate?, kaip sekasi?, kaip sveikata?;F{ça va}ar gerai, ar viskas gerai?;F{ça va la santé?}kaip sveikata?, ar viskas gerai su sveikata?;F{rendez-vous demain, ça vous va? – Ça me va}pasimatom rytoj, jums tinka? – taip, tinka;F{les serviettes qui vont avec la nappe}servetėlės yra kartu su staltiese;I{5}A{loc}:F{y aller de}statyti lošiant;F{y aller de mille francs}statyti tūkstantį frankų;I{6}l{eina pagalbiniuL{veiksm.}futur immédiat (allerA{prés}+A{inf}) ir futur immédiat dans le passé (allerA{imparf}+A{inf}) laikuose}:F{ce soir je vais me coucher tôt}šį vakarą atsigulsiu anksti;F{au moment où il allait sortir le téléphone a sonné}tuo momentu, kai jis buvo beišeinąs (ruošėsi išeiti), suskambo telefonas;I{7}:F{s’en aller}:I{a)}išeiti, pasišalinti, dingti;F{adieu, je m’en vais}likit sveiki, aš išeinu;F{elles s’en sont allées sans rien dire}jos išėjo (pasišalino) nieko nesakydamos;F{va-t’en!}eik sau!, eik laukan!;F{allez-vous-en!}išeikite, nešdinkitės!;I{b)}L{psn.}mirti;F{le jour où il s’en est allé}diena, kai jis mus paliko, mirė;I{c)}dingti, pranykti;F{le parfum s’en va}kvepalai išgaruoja, aromatas dingsta;I{d)}nusilupti, nusiimti;F{la peau des tomates s’en va difficilement}pomidorų oda sunkiai nusilupa;I{e)}išvalyti, išimti;F{la tache ne s’en va à la lessive}skalbiant dėmė neišsiskalbia (nedingsta);I{8}l{liepiamojoje nuosakoje}:F{va, allons, allez}eik, eikime, eikite;F{va, et ne pêche plus}eik ir nebenusidėk;F{allez au travail!}prie darbo!;F{allez, vas-y! allez-y! et allez donc!}nagi! drąsiau!;F{allons-y!}pradėkime!l{(padrąsinančios formuluotės)};F{va pour}sutikti, duoti sutikimą;F{va pour 200 francs}sutik už 200 frankų;F{va pour demain}sutik rytdienai;I{9}:F{y aller}veikti, elgtis;F{y aller doucement}atsargiai veikti;F{ne pas y aller de main morte}smarkiai suduoti.
+0{aller^{2}}[ale]A{m}I{1}ėjimas, vykimas, važiavimas;F{l’aller a été plus facile que le retour}nuėjimas buvo lengvesnis nei grįžimas;F{j’ai pris à l’aller le train du matin}išvykdamas sėdau į rytinį traukinį;F{un aller (et) retour}vienas bilietas ten ir atgal;L{sport.}F{match aller}pirmasis čempionato mačas;I{2}A{loc fam}:F{aller et retour}pora antausių.
+0{allergène}[alɛrʒɛn]A{m}L{med.}alergenas.
+0{allergie}[alɛrʒi]A{f}alergija;F{avoir des allergies}būti alergiškam;F{allergie à la pénicilline}alergija penicilinui.
+0{allergique}[alɛrʒik]A{adj}alergiškas;F{il est allergique à ce médicament}jis alergiškas šiam vaistui;L{prk.}F{il est allergique au jazz}jis neapkenčia džiazo.
+0{allergologie}[alɛrgɔlɔʒi]A{f}L{med.}alergologija.
+0{allergologue}[alɛrgɔlɔg],0{allergologiste}[alɛrgɔlɔʒist]A{m},A{f}alergologas, alergologė.
+0{alliacé, -ée}[aljase]A{adj}I{1}česnako;F{odeur alliacée}česnako kvapas;I{2}L{bot.}:F{plantes alliacées}svogūniniai augalai;I{3}patiekalas su česnaku;F{un beurre alliacé}sviestas su česnaku.
+0{alliage}[aljaʒ]A{m}I{1}lydinys;F{alliage de nickel}nikelio lydinys;I{2}L{prk.}mišinys.
+0{alliance}[alj&#593;&#771;s]A{f}I{1}sąjunga, susivienijimas, aljansas;F{conclure, contracter une alliance}sudaryti sąjungą;F{rompre alliance}nutraukti sąjungą;F{la Sainte-Alliance}šventoji sąjunga;I{2}santuoka, giminystė pagal santuoką;F{c’est mon oncle par alliance}tai mano dėdėl{(pagal vyrą, pagal žmoną)};F{anneau d’alliance}vestuvinis žiedas;F{porter une alliance}nešioti vestuvinį žiedą;I{3}bendrumas, giminiškumas;F{des alliances d’intérêts}interesų bendrumas;F{alliance de mots}žodžių junginys;F{alliance de couleurs}spalvų derinys.
+0{allié, -ée}[alje]S{&rArr;}A{adj}sąjunginis;F{les pays alliés}šalys sąjungininkės;S{&rArr;}I{1}A{m},A{f}sąjungininkas, sąjungininkė;I{2}A{m}atrama, rėmėjas, draugas.
+0{allier}[alje]A{vt}I{1}sulydyti, sumaišyti;F{allier l’or et l’argent, avec l’argent}sulydyti auksą ir sidabrą;I{2}sujungti, suvesti;$2{s’allier à, avec}I{1}susilydyti;I{2}susijungti, sudaryti sąjungą.
+0{alligator}[aligatɔr]A{m}aligatorius.
+0{allitération}[a(l)literasj&#596;&#771;]A{f}aliteracija.
+0{allo, allô}[alo]A{interj}alio.
+0{allocataire}[alɔkatɛr]A{m},A{f}asmuo, gaunantis pašalpą.
+0{allocation}[alɔkasj&#596;&#771;]A{f}(L{sutr.}L{šnek.}2{alloc}) asignavimas; pašalpal{(piniginė)};F{allocation de chômage}bedarbio pašalpa;F{allocation de maternité}motinystės pašalpa;F{toucher les allocations}gauti pašalpas.
+0{allocutaire}[a(l)lɔkytɛr]A{m},A{f}pašnekovas, klausytojas, kuriam perduodama žinia;F{le locuteur et son allocutaire}kalbėtojas ir jo klausytojas.
+0{allocution}[a(l)lɔkysj&#596;&#771;]A{f}trumpa kalba, sveikinimo kalba, trumpas pasisakymas;F{une allocution radiotélévisée du chef de l’État}šalies vadovo trumpa kalba per radiją, televiziją;F{prononcer, faire une allocution}trumpai pakalbėti, pasisakyti.
+0{allonge}[al&#596;&#771;ʒ]A{f}I{1}prieduras, pridūrimas, pailginimas;I{2}kablys mėsai pakabinti;I{3}L{sport.}boksininko rankų ilgis.
+0{allongement}[al&#596;&#771;ʒm&#593;&#771;]A{m}I{1}pailginimas, prailginimas;I{2}pailgėjimas;F{l’allongement des jours au printemps}dienų pailgėjimas pavasarį.
+0{allonger}[al&#596;&#771;ʒe]S{&rArr;}A{vt}I{1}pailginti;L{kul.}praskiesti;F{allonger une jupe}pailginti sijoną;A{loc}F{allonger la sauce}praskiesti padažą;I{2}ištęsti, ištiesti;F{allonger le bras}ištiesti ranką;F{allonger le pas}paspartinti žingsnį;L{šnek.}F{allonger une gifle à_{qn}}skelti kam antausį;I{3}parversti, paguldyti, patiesti;F{il l’a allongé au tapis}jis jį patiesė ant kilimol{(priešininką)};I{4}pratęsti;F{allonger ses vacances}pratęsti atostogas;S{&rArr;}A{vi}ilgėti;F{les jours commencent à allonger}dienos pradeda ilgėti;$2{s’allonger}I{1}pailgėtil{(laiko ir erdvės atžvilgiu)};I{2}išsitiesti, atsigulti;L{šnek.}pargriūti ant žemės.
+0{allopathie}[alɔpati]A{f}L{med.}alopatija.
+0{allophone}[alɔfɔn]I{1}A{m}L{lingv.}alofonas;I{2}A{m},A{f}asmuo, kurio gimtoji kalba yra užsienio kalba, o ne tos šalies kalba, kurioje gyvena.
+0{allouer}[alwe]A{vt}paskirtil{(pinigų sumą, pašalpą)}; duoti, suteikti (tam tikrą laiką atlikti darbui).
+0{allumage}[alymaʒ]A{m}uždegimas, užkūrimas;F{l’allumage des poêles}krosnių užkūrimas;L{autom.}F{bougies d’allumage}degimo žvakės;F{allumage électronique}elektroninis uždegimas; F{régler l’allumage}reguliuoti uždegimą.
+0{allumé, -ée}[alyme]A{adj}I{1}užsidegęs; uždegtas; apšviestas;I{2}L{šnek.}įkaušęs;I{3}įraudęs;F{un teint allumé}įraudęs veidas.
+0{allume-cigare}[alymsigar]A{m}žiebtuvėlis.
+0{allume-feu}[alymfø]A{m}prakurai.
+0{allume-gaz}[alymgaz]A{m}A{inv}dujų degiklis.
+0{allumer}[alyme]A{vt}I{1}uždegti, užkurtil{(ugnį)};F{allumer une pipe, le poêle}uždegti pypkę, užkurti krosnį;F{allumer le feu}uždegti, sukurti laužą;I{2}įkvėpti, sukelti;F{allumer les désirs}sukelti norą;I{3}L{šnek.}suviliotil{(žmogų)};I{4}uždegtil{(šviesą)}; įjungti;F{allumer la lumière}uždegti šviesą;F{allumer la chambre}įjungti, uždegti kambaryje šviesą, apšviesti kambarį;I{5}įjungtil{(radiją, televizorių)};$2{s’allumer}užsidegti, įsižiebti, nušvisti, įsijungti;F{ses yeux s’allument}jos akys nušvinta;F{le signal lumineux s’allume}įsijungia šviesos signalas.
+0{allumette}[alymɛt]A{f}I{1}degtukas;F{boîte d’allumettes}degtukų dėžutė;F{gratter une allumette}uždegti, brūkštelėti degtuką;A{loc}F{avoir les jambes comme les allumettes}turėti plonas ir ilgas kojas;I{2}ilgas, sluoksninės tešlos pyragas;F{pommes allumettes}šiaudeliais supjaustytos bulvės.
+0{allumettier}A{m},0{-ière}A{f}[alym(ə)tje, -alymetje, -jɛr]degtukų fabrikantas, fabrikantė, gamintojas, gamintoja.
+0{allumeur}A{m},0{-euse}A{f}[alymœr, -øz]I{1}žibintų degiotojas;I{2}A{f}L{šnek.}koketė;I{3}A{m}degtuvas.
+0{allure}[alyr]A{f}I{1}eisena; eigastis, ėjimo būdas;F{les allures du cheval}arklio eigastis;I{2}greitis, tempas;F{à toute allure}visu greičiu;F{à petite allure}lėtai, lėtu tempu;F{forcer son allure}padidinti greitį, tempą;I{3}L{prk.}kūno laikysena, poza, elgesys, elgimasis, elgsena;F{elle a une drôle d’allure}jos keistas elgesys;F{avoir de l’allure}gražiai, elegantiškai atrodyti, imponuoti savo laikysena;F{une robe qui a de l’allure}gražiai atrodanti suknelė.
+0{allusif, -ive}[a(l)lyzif, -iv]A{adj}I{1}turintis užuominą;F{phrase allusive}sakinys su užuomina;I{2}kalbantis užuominomis.
+0{allusion}[a(l)lyzj&#596;&#771;]A{f}užuomina, aliuzija;F{une allusion claire}aiški užuomina;A{loc}F{faire allusion à...}užsiminti, netiesiogiai priminti.
+0{alluvial, -iale}[a(l)lyvjal]A{adj}(A{pl}A{m}2{-iaux}[-jo]) sąnašinis, samplovinis, aliuvinis;F{terrains alluviaux}aliuviniai dirvožemiai, sąnašiniai dirvožemiai.
+0{alluvion}[a(l)lyvj&#596;&#771;]A{f}sąnašos, aliuvis;F{delta formé par les alluvions d’un fleuve}upės sąnašų suformuota delta.
+0{alluvionner}[a(l)lyvjɔne]A{vi}l{(tekamiesiems vandenims)}sunešti sąnašas, aliuvį.
+0{Alma Mater}[almamatɛr]A{f}A{inv}L{lot.}I{1}motina maitintoja; 2)L{prk.}universitetas.
+0{almanach}[almana]A{m}almanachas.
+0{aloès}[alɔɛs]A{m}L{bot.}alijošius;F{aloès médicinal}gydomasis alijošius.
+0{alogique}[alɔʒik]A{adj}aloginis, nelogiškas, prieštaraujantis logikai.
+0{aloi}[alwa]A{m}I{1}l{(aukso, sidabro)}praba;I{2}kokybė;A{loc adj}F{de bon, de mauvais aloi}kokybiškas, vertas pagarbos, nekokybiškas, prastas.
+0{alopécie}[alɔpesi]A{f}plaukų slinkimas, nuplikimas.
+0{alors}[alɔr]S{&rArr;}A{adv}I{1}tada, tuomet;F{il comprit alors son erreur}tada jis suprato savo klaidą;F{d’alors}to meto, to laiko;F{les gens d’alors}to meto žmonės;F{jusqu’alors}iki tol; iki to meto, iki tos epochos;I{2}tad, taigi, tuo atveju;F{alors n’en parlons plus}tad apie tai nebekalbėkime;F{et alors?}na ir ką?, na ir kaip?, na ir kas?; F{et alors, ça leur a plu?}na ir ką, tai jiems patiko?;I{3}C{išreiškiant nekantrumą, nuostabą, pradedant pokalbį ir}L{pan.}:F{alors, ça va?}nagi, pradedam?;F{ça alors!}kas tada!;F{non, mais alors!}ne, bet tada...;S{&rArr;}A{loc conj}:F{alors que}I{1}kai; jei net;F{il fait bon chez vous, alors que chez moi on gèle}pas jus gera, šilta, kai pas mane (mano namuose) šalta;I{2}nors;F{on la critique alors qu’elle n’est pas responsable}ją kritikuoja, nors ji net nėra atsakinga.
+0{alouette}[alwɛt]A{f}vieversys, vyturys.
+0{alourdir}[alurdir]A{vt}I{1}(ap)sunkinti;F{les fruits alourdissent les branches}šakos pasunkėja nuo vaisių;F{sa tête alourdie de sommeil}jo galva apsunkusi nuo apsnūdimo;F{l’âge commençait de l’alourdir}amžius pradėjo jį slėgti;I{2}L{prk.}padidintil{(svorį, krūvį)};F{alourdir les charges}padidinti išlaidas;$2{s’alourdir}pasunkėti, apsunkti, darytis vis sunkesniam.
+0{alourdissement}[alurdism&#593;&#771;]A{m}pasunkėjimas, apsunkimas.
+0{aloyau}[alwajo]A{m}jautienos nugarinė, filė.
+0{alpage}[alpaʒ]A{m}bandos ganymas aukštuose kalnuose.
+0{alpe}[alp]A{f}ganymas Alpių kalnuose.
+0{alpestre}[alpɛstr]A{adj}Alpių;L{bot.}F{plantes alpestres}Alpių kalnuose augantys augalai.
+0{alpha}[alfa]A{m}I{1}alfa, pirmoji graikų abėcėlės raidė;F{l’alpha et l’oméga}pradžia ir pabaiga;I{2}:F{rayons alpha}alfa spinduliai.
+0{alphabet}[alfabɛ]A{m}I{1}abėcėlė, raidynas; alfabetas;F{les vingt-six lettres de l’alphabet du français}dvidešimt šešios prancūzų kalbos abėcėlės raidės;I{2}elementorius.
+0{alphabétique}[alfabetik]A{adj}I{1}abėcėlinis; alfabetinis, alfabetiškas;I{2}išdėstytas abėcėlės tvarka;F{index alphabétique}abėcėlinė rodyklė.
+0{alphabétiser}[alfabetize]A{vt}išmokyti skaityti ir rašyti.
+0{alpin, -ine}[alp&epsilon;&#771;, -in]A{adj}Alpių;F{la chaîne alpine}Alpių kalnynas.
+0{alpinisme}[alpinism]A{m}alpinizmas.
+0{alpiniste}[alpinist]A{m},A{f}alpinistas, alpinistė.
+0{Alsacien}A{m},0{-ienne}A{f}[alzasj&epsilon;&#771;, -jɛn]elzasietis, elzasietė; Elzaso gyventojas, gyventoja.
+0{alsacien, -ienne}[alzasj&epsilon;&#771;, -jɛn]A{adj}elzasietiškas, Elzaso.
+0{altérable}[alterabl]A{adj}nepatvarus, gendantis, trapus, silpnas.
+0{altérant, -ante}[alter&#593;&#771;, -&#593;&#771;t]A{adj}sukeliantis troškulį, troškinantis.
+0{altération}[alterasj&#596;&#771;]A{f}I{1}pakeitimas, modifikacija, transformacija;I{2}L{muz.}alteracija;I{3}pasikeitimasl{(į bloga)}; degradacija;L{med.}organizmo pakitimai;I{4}suklastojimas, iškraipymas, falsifikacija;F{altération de la vérité}teisybės iškraipymas.
+0{altercation}[altɛrkasj&#596;&#771;]A{f}disputas, barnis, vaidas.
+0{alter ego}[altɛrego]A{m}A{inv}L{lot.}antrasis aš, artimas bičiulis, bendramintis.
+0{altérer}[altere]A{vt}I{1}pakeisti, modifikuoti, transformuoti;I{2}pakeisti, pabloginti, gadinti;F{voix altérée}pakitęs, sujaudintas, persimainęs balsas;F{couleur altérée par le soleil}spalva nublukusi nuo saulės;F{la chaleur altère les denrées périssables}karštis gadina greit gendančius maisto produktus;I{3}iškraipyti, suklastoti;F{altérer un texte}iškraipyti tekstą;F{altérer un auteur}suklastoti autorystę;I{4}sukelti troškulį;F{la promenade m’a altéré}bevaikščiodamas ištroškau;$2{s’altérer}pasikeisti, pablogėti.
+0{alternance}[altɛrn&#593;&#771;s]A{f}I{1}kaita; kaitaliojimasis;F{l’alternance des saisons}metų laikų kaita;I{2}L{lingv.}alternacija; apofonija;F{alternance vocalique}garsų alternacija;I{3}L{fiz.}:F{alternance négative}neigiamasis pusperiodis.
+0{alternant, -ante}[altɛrn&#593;&#771;, -&#593;&#771;t]A{adj}besikaitaliojantis, kintamas;F{pouls alternant}pulso aritmija, besikaitaliojantis pulsas.
+0{alternateur}[altɛrnatœr]A{m}kintamosios srovės generatorius, alternatorius.
+0{alternatif, -ive}[altɛrnatif, -iv]A{adj}alternatyvus, kaitaliojamas; periodinis, einąs vienas po kito;F{courant alternatif}kintamoji elektros srovė.
+0{alternative}[altɛrnativ]A{f}I{1}alternatyva, kaitaliojimasis; pasirinkimas vieno iš dviejų;I{2}L{log.}disjunkcijos narys.
+0{alternativement}[altɛrnativm&#593;&#771;]A{adv}pakaitomis.
+0{alterne}[altɛrn]A{adj}einantis vienas paskui kitą;L{bot.}F{disposition alterne des feuilles}pražanginis lapų išsidėstymas;L{mat.}F{angles alternes}priešiniai kampai.
+0{alterner}[altɛrne]S{&rArr;}A{vi}kaitaliotis, pakaitomis eiti;F{deux personnes qui alternent}du asmenys, kurie vienas kitą keičia;S{&rArr;}A{vt}keisti sėjamas kultūras.
+0{altesse}[altɛs]A{f}l{(garbės titulas)}šviesybė, didenybė;F{Son Altesse Royale le prince de...}Jo karališkoji Šviesybė princas...
+0{altier, -ière}[altje, -jɛr]A{adj}išdidus, išpuikęs, didingas.
+0{altimètre}[altimɛtr]A{m}altimetras, aukščiamatis.
+0{altitude}[altityd]A{f}aukštis;F{mesure des altitudes}aukščių matai;F{voler à basse altitude}skristi neaukštai;F{avion qui prend de l’altitude}kylantis lėktuvas;F{en altitude}aukštai.
+0{altruisme}[altrɥism]A{m}altruizmas.
+0{altruiste}[altrɥist]A{m},A{f}altruistas, altruistė.
+0{aluminium}[alyminjɔm]A{m}L{chem.}aliuminis.
+0{alun}[al&oelig;&#771;]A{m}L{chem.}alūnas.
+0{aluner}[alyne]A{vt}mirkyti alūne.
+0{alunir}[alynir]A{vi}nusileisti Mėnulyje.
+0{alunissage}[alynisaʒ]A{f}nusileidimas, nutūpimas Mėnulyje.
+0{alvéolaire}[alveɔlɛr]A{adj}I{1}alveolinis, korytas, korėtas; akytas;I{2}L{lingv.}alveolinis.
+0{alvéole}[alveɔl]A{m}I{1}korio akutė;I{2}danties alveolė;F{alvéoles pulmonaires}plaučių alveolės;I{3}uolos įduba.
+0{amabilité}[amabilite]A{f}meilumas, mandagumas;F{avec une grande amabilité}labai maloniai, mandagiai.
+0{amadou}[amadu]A{m}pintis, kempė.
+0{amadouer}[amadwe]A{vt}prisigerinti, įsiteikti.
+0{amaigrir}[amegrir]A{vt}liesėti, darytis liesam, lysti; liesinti;F{des figures amaigries par la faim}nuo bado sulysę veidai;F{amaigrir un terrain}nualinti žemę;$2{s’amaigrir}liesėti, lysti.
+0{amaigrissant, -ante}[amegris&#593;&#771;, -&#593;&#771;t]A{adj}liesinantis;F{régime amaigrissant}liesinanti dieta.
+0{amaigrissement}[amegrism&#593;&#771;]A{m}sulysimas, suliesėjimas;F{cure d’amaigrissement}gydymas dieta.
+0{amalgame}[amalgam]A{m}I{1}amalgama;I{2}L{prk.}mišinys, kratinys.
+0{amalgamer}[amalgame]A{vt}I{1}amalgamuoti, padengti amalgama;I{2}sumaišytil{(skirtingus daiktus)}, sulydyti;F{amalgamer du beurre et de la farine}sumaišyti sviestą su miltais;I{3}L{prk.}susieti, sujungti, įtraukti į ką;$2{s’amalgamer}2{à_{qch}, avec_{qch}}susijungti su kuo.
+0{amandaie}[am&#593;&#771;dɛ]A{f}migdolų plantacija.
+0{amande}[am&#593;&#771;d]A{f}I{1}migdolasl{(vaisius)}; F{gâteaux d’amandes}migdoliniai pyragaičiai;F{lait d’amandes}migdolų pienelis;F{en amande}migdolo formos, pailgas;I{2}vaisiaus kauliukas;F{l’amande de la cerise, de l’abricot}vyšnios, abrikoso kauliukas.
+0{amandier}[am&#593;&#771;dje]A{m}migdolo medis.
+0{amant}A{m},0{-ante}A{f}[am&#593;&#771;, -&#593;&#771;t]meilužis, meilužė;F{avoir un amant}turėti meilužį;F{elle a pris un amant}ji įsigijo meilužį.
+0{amarrage}[amaraʒ]A{m}laivo prišvartavimas prieplaukoje, uoste; dirižablio išlaikymas ore, tam tikru atstumu nuo žemės.
+0{amarre}[amar]A{f}lynas, trosas laivui, oro balionui pririšti.
+0{amarrer}[amare]A{vt}I{1}pririšti lynu, trosu;I{2}pritvirtinti, surišti;F{amarrer des caisses sur un camion}pritvirtinti dėžes prie sunkvežimio.
+0{amaryllis}[amarilis]A{f}L{bot.}amarilis.
+0{amas}[ama]A{m}krūva, šūsnis;F{un amas de neige}sniego pusnis;F{amas d’étoiles}žvaigždžių sankaupa, galaktika.
+0{amasser}[amase]A{vt}rinkti, kaupti;F{amasser les richesses}kaupti turtus;F{amasser des preuves}rinkti įrodymus;$2{s’amasser}kauptis.
+0{amateur}A{m},0{-trice}A{f}[amatœr, -tris]I{1}mėgėjas, mėgėja;F{un amateur de musique}muzikos mėgėjas;F{amateur d’art}meno daiktų kolekcionierius;I{2}sportininkas mėgėjas;I{3}diletantas, diletantė;F{travailler en amateur}neatsakingai, nerūpestingai dirbti;F{c’est un travail d’amateur}tai diletanto darbas.
+0{amazone}[amazon]A{f}amazonė, raitelė.
+0{ambages}[&#593;&#771;baʒ]A{f}A{pl}išsisukinėjimail{(kalbant)}, dviprasmybės;A{loc adv}F{sans ambages}be išsisukinėjimų;F{parler sans ambages}kalbėti tiesiai.
+0{ambassade}[&#593;&#771;basad]A{f}ambasada;F{l’ambassade de France à Vilnius}Prancūzijos ambasada Vilniuje;F{s’adresser à l’ambassade}kreiptis į Ambasadą.
+0{ambassadeur}A{m},0{-drice}A{f}[&#593;&#771;basadœr, -dris]ambasadorius, ambasadorė;F{ambassadeur extraordinaire}nepaprastasis ambasadorius;F{nommer, accréditer un ambassadeur}paskirti, akredituoti ambasadorių;F{l’ambassadeur de Lituanie a présenté ses lettres de créance à l’Élysée}Lietuvos ambasadorius įteikė įgaliojamuosius raštus į Eliziejaus rūmus.
+0{ambiance}[&#593;&#771;bj&#593;&#771;s]A{f}aplinka, atmosfera, terpė;F{une bonne ambiance de travail}gera darbo aplinka;F{ambiance}F{chaleureuse}šilta aplinka;L{šnek.}F{il y a de l’ambiance ici}čia linksma, maloni atmosfera;A{loc adj}F{d’ambiance}uždaros aplinkos;L{šnek.}F{lumière d’ambiance}neintensyvi, silpna šviesa;F{musique d’ambiance}švelni, maloni muzika.
+0{ambiant, -iante}[&#593;&#771;bj&#593;&#771;, -j&#593;&#771;t]A{adj}aplinkos, aplinkinis;F{la température ambiante}aplinkos temperatūra, kambario temperatūra.
+0{ambidextre}[&#593;&#771;bidɛkstr]A{m},A{f}ambidekstras, žmogus, galintis vienodai gerai dirbti abiem rankomis.
+0{ambigu, -uë}[&#593;&#771;bigy]S{&rArr;}A{adj}dviprasmiškas; dvilypis;F{une réponse ambiguë}dviprasmiškas atsakymas;L{mat.}F{théorème ambigu}teorema, turinti kelis įrodymus;S{&rArr;}A{m}:F{un ambigu de... et de...}mišinys, kratinys.
+0{ambiguïté}[&#593;&#771;bigɥite]A{f}dviprasmiškumas, dviprasmybė, nevienareikšmiškumas;L{lingv.}F{ambiguïté d’un mot}žodžio daugiareikšmiškumas, polisemija.
+0{ambigument}[&#593;&#771;bigym&#593;&#771;]A{adv}dviprasmiškai.
+0{ambiophonie}[&#593;&#771;bjofɔni]A{f}ambiofonija.
+0{ambisexué, -ée}[&#593;&#771;bisɛksɥe]A{adj}biseksualus.
+0{ambitieusement}[&#593;&#771;bisjøzm&#593;&#771;]A{adv}ambicingai.
+0{ambitieux,}0{-ieuse}[&#593;&#771;bisjø, -jøz]S{&rArr;}A{adj}ambicingas, trokštantis sėkmės, garbės;S{&rArr;}A{m},A{f}karjeristas, karjeristė; garbėtroška.
+0{ambition}[&#593;&#771;bisj&#596;&#771;]A{f}garbės troškimas, ambicija;F{il a de l’ambition}jis ambicingas, turi ambicijos;F{il a l’ambition de devenir président}jis trokšta tapti prezidentu;F{ambition de}pretenzija; silpnas noras, norėjimas;F{je n’ai pas l’ambition d’être la plus élégante}aš nepretenduoju būti elegantiškiausia.
+0{ambitionner}[&#593;&#771;bisjɔne]A{vt}siekti, trokšti ko, stengtis ką pasiekti, pretenduoti į ką.
+0{ambivalence}[&#593;&#771;bival&#593;&#771;s]A{f}ambivalencija, jausmų dvilypumas.
+0{amble}[&#593;&#771;bl]A{m}eidinė, keturkojo gyvulio risčia;F{aller l’amble}bėgti eidine.
+0{ambler}[&#593;&#771;ble]A{vi}eidinėti.
+0{amblyopie}[&#593;&#771;blijɔpi]A{f}L{med.}ambliopija, silpnaregystė.
+0{ambon}[&#593;&#771;b&#596;&#771;]A{m}ambona, sakykla.
+0{ambre}[&#593;&#771;br]A{m}I{1}:F{ambre gris}ambra;I{2}:F{ambre jaune}gintaras;F{collier d’ambre}gintaro vėrinys;F{couleur d’ambre}gintaro spalva.
+0{ambré, -ée}[&#593;&#771;bre]A{adj}I{1}kvepiantis ambra;F{eau de Cologne ambrée}ambra kvepiantis odekolonas;I{2}gintaro spalvos, gintarinis.
+0{ambulance}[&#593;&#771;byl&#593;&#771;s]A{f}greitoji pagalba, greitosios pagalbos mašina; F{elle a été transportée en ambulance à l’hôpital}į ligoninę ji buvo nuvežta greitosios pagalbos mašina;F{appelez une ambulance!}kvieskite greitąją!
+0{ambulancier}A{m},0{-ière}A{f}[&#593;&#771;byl&#593;&#771;sje, -jɛr]I{1}medikas, važiuojantis greitosios pagalbos mašina; sanitaras, sanitarė;I{2}greitosios pagalbos mašinos vairuotojas.
+0{ambulant, -ante}[&#593;&#771;byl&#593;&#771;, -&#593;&#771;t]S{&rArr;}A{adj}klajojantis, kilnojamas, keliaujantis;F{comédiens ambulants}keliaujantys aktoriai;F{marchand ambulant}keliaujantis prekybos agentas, prekiautojas;S{&rArr;}A{m},A{f}pašto vagonų tarnautojas, tarnautoja.
+0{ambulatoire}[&#593;&#771;bylatwar]A{adj}I{1}neturintis pastovios vietos;L{prk.}kintamas, nepastovus;I{2}L{med.}ambulatorinis;F{malade ambulatoire}ambulatorinis ligonis, vaikštantis;F{traitement ambulatoire}ambulatorinis gydymas.
+0{âme}[am]A{f}I{1}siela, dvasia;F{sauver, perdre son âme}išgelbėti, pražudyti savo sielą;A{loc}F{se donner corps et âme}atsiduoti kūnu ir siela;F{de toute son âme}iš visos širdies, visa siela;F{la paix de l’âme}dvasios ramybė;F{état d’âme}sielos būklė, būvis;F{être musicien dans l’âme}būti muziku sieloje; F{rendre l’âme}paskutinę dvasią išleisti, numirti; atiduoti Dievui sielą;I{2}gyventojas;F{une ville de plus de dix mille âmes}miestas, turintis per dešimt tūkstančių gyventojų;F{il n’y a pas âme qui vive}nėra nė (vienos gyvos) dvasios;I{3}įkvėpėjas, siela;F{il est l’âme de cette organisation}jis – šios organizacijos įkvėpėjas;F{l’âme d’un peuple}tautos dvasia, siela;I{4}pagrindinė ko dalis, šerdis, spindis, gysla; centras, branduolys;F{âme en cuivre}vario gysla.
+0{amélioration}[ameljɔrasj&#596;&#771;]A{f}I{1}pagerinimas, patobulinimas;F{faire des améliorations dans la maison}patobulinti, padailinti, pagražinti namą;F{apporter, faire, réaliser une amélioration}atnešti, padaryti, įgyvendinti pagerinimą;I{2}pagerėjimas;F{l’amélioration de sa situation, de ses conditions de travail, de son état de santé}padėties, darbo sąlygų, sveikatos pagerėjimas.
+0{améliorer}[ameljɔre]A{vt}I{1}pagerinti, patobulinti, pagražinti, restauruoti;I{2}patręšti žemę;I{3}pagerinti rezultatą;F{améliorer un texte, une traduction}ištaisyti tekstą, vertimą;$2{s’améliorer}(pa)gerėti;F{ce vin s’améliore avec l’âge}vyno kokybė gerėja su metais.
+0{aménagement}[amenaʒm&#593;&#771;]A{m}sutvarkymas, įrengimas, įtaisymas, išplanavimas;F{l’aménagement d’une maison}namo įrengimas;F{aménagement du territoire}teritorijos sutvarkymas;F{aménagement urbain}miesto išplanavimas.
+0{aménager}[amenaʒe]A{vt}sutvarkyti, įrengti, įtaisyti.
+0{aménageur}A{m},0{-euse}A{f}[amenaʒœr, -øz]įrangos specialistas, specialistė.
+0{amende}[am&#593;&#771;d]A{f}piniginė bauda;F{payer une amende}mokėti baudą;F{mettre à l’amende}nubausti pinigine bauda;A{loc}F{faire amende honorable}prisipažinti savo kaltę, atsiprašyti, atgailauti.
+0{amendement}[am&#593;&#771;dm&#593;&#771;]A{m}I{1}pagerinimas, pataisymas, pakeitimas, pataisa;F{discuter, mettre aux voix, voter un amendement}diskutuoti, aptarti, balsuoti už pataisą;I{2}dirvožemio pagerinimas, tręšimas.
+0{amender}[am&#593;&#771;de]A{vt}I{1}pagerinti, pataisyti;F{amender un projet}pataisyti projektą;I{2}patręštil{(žemę)};$2{s’amender}pasitaisyti.
+0{amène}[amɛn]A{adj}meilus, švelnus, malonus;F{un ton amène}švelnus tonas.
+0{amenée}[am(ə)ne]A{f}vandens tiekimas;F{tuyaux d’amenée}vandens tiekimo vamzdžiai.
+0{amener^{1}}[am(ə)ne]A{vt}I{1}atvesti, atsivesti; atvežti, atgabenti;F{amener_{qn}chez_{qn}}atvesti ką pas ką;F{quel bon vent vous amène}kokie vėjai jus atpūtė?;I{2}:F{amener}l{(A{qn})}F{à}palengva priversti, atvesti į; parvesti;F{amener_{qn}à résipiscence}atvesti ką į atgailą, priversti gailėtis;I{3}nuvežti, pristatyti, nunešti;L{prk.}nukreipti;F{le taxi qui nous a amenés}taksi, kuris mus nuvežė;F{n’amenons pas la conversation sur ce sujet}nenukreipkime pokalbio, nekeiskime pokalbio temos;I{4}sukelti, padaryti;F{cela pourrait t’amener des ennuis}tai galėtų tau pridaryti nemalonumų;$2{s’amener}L{šnek.}ateiti, atsivilkti, atkiūtinti;F{amène-toi ici!}ateik čia!
+0{amener^{2}}[am(ə)ne]A{vt}I{1}L{jūr.}nuleisti;F{amener les voiles}nuleisti bures;I{2}traukti link savęs;F{amener la couverture à soi}užsitraukti antklodę.
+0{aménité}[amenite]A{f}I{1}meilumas, švelnumas;F{traiter_{qn}sans aménité}šiurkščiai su kuo elgtis;I{2}A{pl}L{iron.}įžeidinėjimas, šiurkštūs žodžiai;F{elles se sont dit des aménités}jos žodžiavosi, viena kitą įžeidinėjo.
+0{amenuisement}[amənɥizm&#593;&#771;]A{m}nuobliavimas, suploninimas, sumažinimas;F{l’amenuisement des ressources}resursų sumažėjimas.
+0{amenuiser}[amənɥize]A{vt}I{1}nuobliuoti, suploninti;I{2}L{prk.}padaryti ne tokį svarbų;$2{s’amenuiser}sumažėti;F{nos revenus s’amenuisent}mūsų pajamos mažėja.
+0{amer, -ère}[amɛr]S{&rArr;}A{adj}I{1}kartus, gailus, aitrus;F{chocolat amer}kartusis šokoladas;F{j’ai la bouche amère}man kartu burnoje;I{2}kandus, graudus, skausmingas, liūdnas;F{une ironie amère}kandi ironija;S{&rArr;}A{m}I{1}l{(kai kurių gyvulių)}tulžis;I{2}l{(karčių žolių)}antpilas; kartumas.
+0{amèrement}[amɛrm&#593;&#771;]A{adv}su kartėliu, karčiai, gailiai.
+0{Américain}A{m},0{-aine}A{f}[amerik&epsilon;&#771;, -ɛn]amerikietis, amerikietė.
+0{américain, -aine}[amerik&epsilon;&#771;, -ɛn]S{&rArr;}A{adj}amerikietiškas, amerikiečių, Amerikos;S{&rArr;}A{m}anglų kalba, kuria kalbama Amerikoje.
+0{américaniser}[amerikanize]A{vt}amerikanizuoti.
+0{américanisme}[amerikanism]A{m}amerikanizmas.
+0{américium}[amerisjɔm]A{m}L{chem.}americis.
+0{amerrir}[amerir]A{vi}nusileisti ant vandens.
+0{amerrissage}[amerisaʒ]A{m}nusileidimas ant vandens.
+0{amertume}[amɛrtym]A{f}I{1}kartumas;I{2}kartėlis, apmaudas.
+0{améthyste}[ametist]S{&rArr;}A{f}ametistas;S{&rArr;}A{adj}ametisto spalvos.
+0{amétropie}[ametrɔpi]A{f}L{med.}ametropija, akies regėjimo yda.
+0{ameublement}[amœbləm&#593;&#771;]A{m}I{1}buto apstatymas baldais, baldai;F{tissu d’ameublement}baldų apmušalas;I{2}baldų pramonė, prekyba;F{rayon d’ameublement}baldų skyriusl{(parduotuvėje)}.
+0{ameublir}[amœblir]A{vt}įdirbti, parengti sėjai žemę.
+0{ameublissement}[amœblism&#593;&#771;]A{m}žemės įdirbimas.
+0{ameuter}[amøte]A{vt}suburti minią, sukurstyti;$2{s’ameuter}susitelkti, susiburti.
+0{ami}A{m},0{-ie}A{f}S{&rArr;}I{1}draugas, draugė; bičiulis, bičiulė;F{amis du livre}knygos bičiuliai;F{mon meilleur ami}mano geriausias draugas;F{cher ami}mielas draugel{(kreipiantis)};F{en ami}draugiškai, bičiuliškai;F{agir en ami}elgtis draugiškai, kaip draugui;F{ami d’enfance}vaikystės draugas;I{2}:F{petit ami, petite amie}draugužis, draugužė; meilužis, meilužė;S{&rArr;}A{adj}draugiškas, draugo;F{une main amie}draugo ranka, draugiška ranka;F{les destins amis}palankūs likimai;F{maison amie}svetingi namai.
+0{amiable}[amjabl]A{adj}draugiškas, geranoriškas;F{un partage amiable}draugiškos dalybos;A{loc adv}L{šnek.}F{à l’amiable}geruoju, taikiai, draugiškai;F{divorcer à l’amiable}išsiskirti geruoju;L{mat.}F{nombres amiables}sujungtiniai skaičiai.
+0{amiante}[amj&#593;&#771;t]A{m}asbestas;F{l’amiante est dangereux pour la santé}asbestas pavojingas sveikatai.
+0{amibe}[amib]A{f}L{zool.}ameba.
+0{amical, -ale}[amikal](A{pl}A{m}2{-aux}[-o])S{&rArr;}A{adj}draugiškas, bičiuliškas;F{nos relations sont amicales}mūsų santykiai draugiški;S{&rArr;}A{f}draugija, sandrauga;F{l’amicale des anciens élèves de l’école de...}buvusių klasės draugų draugija.
+0{amicalement}[amikalm&#593;&#771;]A{adv}draugiškai.
+0{amidon}[amid&#596;&#771;]A{m}krakmolas;F{amidon de riz, de pomme de terre}ryžių, bulvių krakmolas.
+0{amidonnage}[amidɔnaʒ]A{m}krakmolinimas.
+0{amidonner}[amidɔne]A{vt}krakmolyti.
+0{amidonnerie}[amidɔnri]A{f}krakmolo gamykla.
+0{amincir}[am&epsilon;&#771;sir]S{&rArr;}A{vt}(su)ploninti, padaryti plonesnį;F{son régime l’a aminci}nuo dietos jis suplonėjo;S{&rArr;}A{vi}L{šnek.}suplonėti;F{elle a aminci}ji suplonėjo;$2{s’amincir}susiploninti, tapti plonesniam, suplonėti.
+0{amincissant, -ante}[am&epsilon;&#771;sis&#593;&#771;, -&#593;&#771;t]A{adj}ploninantis, liekninantis;F{robe amincissante}liekninanti suknelė;F{crème amincissante}liekninantis, anticeliulitinis kremas.
+0{amincissement}[am&epsilon;&#771;sism&#593;&#771;]A{m}(su)ploninimas, padarymas lieknesniu.
+0{amine}[amin]A{f}L{chem.}aminai.
+0{amiral}A{m},0{-ale}A{f}[amiral](A{pl}A{m}2{-aux}[-o])I{1}A{m}admirolas;I{2}A{f}admirolo žmona.
+0{amirauté}[amirote]A{f}admiralitetas.
+0{amitié}[amitje]A{f}I{1}bičiulystė, draugystė;F{amitié entre deux pays}glaudūs dviejų šalių ryšiai;F{avoir de l’amitié pour_{qn}}jausti kam draugiškumą, bičiuliuotis su kuo;F{se lier d’amitié avec_{qn}}susidraugauti su kuo, susibičiuliauti;F{par amitié}iš draugiškumo;I{2}sveikinimai, linkėjimai;F{mes amitiés à votre mari}linkėjimai jūsų vyrui;F{faites-lui toutes mes amitiés}perduokite jam mano sveikinimus, linkėjimus.
+0{ammoniac, -iaque}[amɔnjak]S{&rArr;}A{m}L{chem.}amoniakas;S{&rArr;}A{adj}:F{gaz ammoniac}amoniako dujos;F{sel ammoniac}amoniako druska.
+0{ammoniaqué, -ée}[amɔnjake]A{adj}turintis amoniako.
+0{ammonite}[amɔnit]A{f}L{chem.}amonitas.
