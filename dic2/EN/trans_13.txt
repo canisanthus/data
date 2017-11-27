@@ -1,0 +1,1000 @@
+0{defense}[d&#618;'fens]E{n}L{amer.}A{=R{defence}}
+0{defensible}[d&#618;'fens&#601;bl]E{a}I{1}apginamas; parankus gynybaiI{2}pateisinamas
+0{defensive}[d&#618;'fens&#618;v]S{&rArr;}E{n}gynyba, gynimosi pozicija;F{to be/stand on the defensive}gintis, teisintis;F{to throw smb on the defensive}priversti ką gintisS{&rArr;}E{a}I{1}ginamasis, gynybos; apsauginis; kuris teisinasi;F{defensive moves}gynimosi taktika;F{defensive tandem}L{sport.}gynybos/gynėjų poraI{2}stabilusl{(apie pramonės šaką)}
+0{defensively}[d&#618;'fens&#618;vl&#618;]E{adv}besisaugant, atsargiai
+0{defensor}[d&#618;'fens&#601;]E{n}advokatas, gynėjas
+0{defer^{1}}[d&#618;'f&#601;:]E{v}I{1}atidė(lio)ti;F{to defer payments}atidėti mokesčiusI{2}L{amer.}atidėti karo prievolę
+0{defer^{2}}E{v}skaitytisl{(to – su)}, nusileisti, sutiktil{(su patarimu, pasiūlymu)}l{(to)};F{to defer to smb [to smb’s opinion]sutikti su kuo [su kieno nuomone]
+0{deference}['defX{&#601;}r&#601;ns]E{n}skaitymasisl{(su nuomone, patarimuL{ir pan.})}; pagarbumas, pagarba;F{to pay/show deference to smb}pagarbiai elgtis su kuo, gerbti ką;F{in deference, out of deference}l{(to)}iš pagarbosl{(kam)}
+0{deferent^{1}}['defX{&#601;}r&#601;nt]E{a}nuleidžiantis, nuleidžiamasis/išleidžiantisl{(apie kanalus, arterijasL{ir pan.})}
+0{deferent^{2}}E{a}L{ret.}pagarbus
+0{deferential}[,def&#601;'ren&#643;l]E{a}pagarbus
+0{deferment}[d&#618;'f&#601;:m&#601;nt]E{n}L{knyg.}I{1}atidė(lio)jimasI{2}L{amer.}karo prievolės atidėjimas
+0{deferral}[d&#618;'f&#601;:r&#601;l]E{n}A{=R{deferment}}
+0{deferred}[d&#618;'f&#601;:d]E{a}l{(ypačL{ekon.})}atidėtas;F{deferred annuity}atidėtas kasmetinės rentos mokėjimas;F{deferred shares}atidėtosios akcijos, akcijos, kurių dividendai išmokami vėliau;F{deferred income}būsimųjų metų pajamos
+0{defervescence}[,di:f&#601;'vesns]E{n}L{med.}temperatūros kritimasl{(iki normalios)}
+0{defiance}[d&#618;'fa&#618;&#601;ns]E{n}I{1}atviras ne(pa)klusnumas, nepaisymas, ignoravimas;l{(pavojaus)}niekinimas;F{in defiance of}ignoruojant, nepaisant, neklausant, prieš;F{to bid defiance}l{(to)},X{to set at defiance}ignoruoti, nesiskaityti; visai nevertintiI{2}iššūkis, iškvietimasl{(į kovą, ginčą)}
+0{defiant}[d&#618;'fa&#618;&#601;nt]E{a}nepaklūstantis, nesiskaitantis, ignoruojantis; įžūlus;F{his manner was defiant}jis elgėsi įžūliai
+0{defiantly}[d&#618;'fa&#618;&#601;ntl&#618;]E{adv}maištingai, įžūliai
+0{defibrillate}[,di:'f&#618;br&#618;le&#618;t]E{v}L{med.}defibriliuotil{(atitaisyti širdies ritmą)}
+0{defibrillation}[,di:f&#618;br&#618;'le&#618;&#643;n]E{n}L{med.}defibriliacijal{(širdies skilvelių/prieširdžių virpėjimo pašalinimas)}
+0{deficiency}[d&#618;'f&#618;&#643;ns&#618;]E{n}stoka, trūkumas, deficitas; nepakankamumas;F{deficiency disease}L{med.}avitaminozė, vitaminų stokal{(liga)};F{heart deficiency}L{med.}širdies nepakankamumas
+0{deficient}[d&#618;'f&#618;&#643;nt]E{a}I{1}stokojantisl{(in)}; trūkstamas;F{deficient amount}trūkstama sumal{(pinigų)}I{2}nepakankamas; netobulas;F{mentally deficient}protiškai atsilikęs, silpnaprotis
+0{deficit}['def&#618;s&#618;t]E{n}deficitas, stoka, trūkumas;F{to meet a deficit}padengti trūkumą;F{budget [payments] deficit}biudžeto [mokėjimo balanso] deficitas;F{deficit in calcium}kalcio trūkumas;F{deficit spending}deficitinės išlaidos
+0{defilade}[,def&#618;'le&#618;d]L{kar.}S{&rArr;}E{n}priedangaS{&rArr;}E{v}pri(si)dengti vietos reljefu
+0{defile^{1}}[d&#618;'fa&#618;l]E{v}I{1}(su)teršti, užterštiI{2}(iš)niekintil{(tai, kas šventa; jausmus)}
+0{defile^{2}}[d&#618;'fa&#618;l, 'di:fa&#618;l]S{&rArr;}E{n}L{knyg.}l{(siauras)}tarpeklisS{&rArr;}E{v}žygiuoti siaura kolonal{(apie kariuomenę)}
+0{defilement}[d&#618;'fa&#618;lm&#601;nt]E{n}L{knyg.}I{1}(už)teršimasI{2}(iš)niekinimas
+0{definable}[d&#618;'fa&#618;n&#601;bl]E{a}apibrėžiamas, apibūdinamas; nustatomas
+0{define}[d&#618;'fa&#618;n]E{v}I{1}apibrėžti, apibūdinti; charakterizuoti;F{the powers of the President are clearly defined in the Con-stitution}prezidento įgaliojimai aiškiai apibrėžti konstitucijoje I{2}apibrėžti/nustatytil{(žodžioL{ir pan.})}reikšmęI{3}l{(L{ppr.}E{pass})}nubrėžti, nustatytil{(ribas, kontūrus)}; išsiskirti, būti aiškiai matomaml{(against)}
+0{definite}['def&#618;n&#618;t]E{a}I{1}aiškus, apibrėžtas, tikslus; nustatytas;F{definite answer}aiškus atsakymas;F{the definite article}L{gram.}žymimasis artikelis;F{for a definite period}tam tikram laikotarpiui;F{to be definite}l{(about)}aiškiai pasakyti; būti tikramI{2}neabejotinas;F{definite success}neabejotinas pasisekimasI{3}įsakmus, tvirtasl{(apie žmogų, elgesį)}
+0{definitely}['def&#618;n&#618;tl&#618;]E{adv}I{1}aiškiai, apibrėžtai; neabejotinai;F{she’s definitely not there}jos ten tikrai nėraI{2}įsakmiaiI{3}E{mod}žinoma, būtinail{(atsakant į klausimus)};F{you will come, won’t you? – Definitely}tu ateisi? – Būtinai/Žinoma, ateisiu
+0{definition}[,def&#618;'n&#618;&#643;n]E{n}I{1}apibrėžimas, definicijaI{2}aiškumas, tikslumasI{3}L{tel.},L{fot.}l{(vaizdo)}ryškumas S{&loz;}X{by definition}iš esmės
+0{definitive}[d&#618;'f&#618;n&#618;t&#618;v]E{a}I{1}galutinisl{(apie atsakymą, pasiūlymą, sprendimąL{ir pan.})}I{2}pavyzdinis, geriausiasI{3}L{biol.}visiškai išsirutuliojęs
+0{deflagrate}['defl&#601;gre&#618;t]E{v}greitai sudeg(in)ti
+0{deflagration}[,defl&#601;'gre&#618;&#643;n]E{n}I{1}deflagracija, sprogstamųjų medžiagų sudegi(ni)masl{(be sprogimo)}I{2}l{(magnio)}tvykstelėjimas, blykstelėjimas
+0{deflagrator}[,defl&#601;'gre&#618;t&#601;]E{n}L{fot.}blykstė
+0{deflate}[d&#618;'fle&#618;t]E{v}I{1}išleistil{(orą, dujas)}; supliukšti, sukristil{(apie balionąL{ir pan.})}I{2}atimti pasitikėjimą, pažeminti, nusodinti; netekti pasitikėjimo;F{he looked deflated}jis atrodė kaip vandeniu perlietasI{3}L{fin.}mažinti pinigų emisiją/išleidimą; nustatyti pastoviasl{(sumažintas)}kainasl{(po infliacijos)}I{4}L{ekon.}įgyvendinti defliacijos politiką
+0{deflation}[d&#618;'fle&#618;&#643;n]E{n}I{1}l{(oro, dujų)}išleidimas, išsiurbimasI{2}L{ekon.},L{geol.}defliacija
+0{deflationary}[,di:'fle&#618;&#643;X{&#601;}n&#601;r&#618;]E{a}L{ekon.}defliacijos, defliacinis
+0{deflationist}[d&#618;'fle&#618;&#643;X{&#601;}n&#618;st]E{n}L{ekon.}defliacijos politikos šalininkas
+0{deflect}[d&#618;'flekt]E{v}I{1}atremtil{(kritikąL{ir pan.})}; atitraukti, nukreiptil{(dėmesį; from – nuo)}I{2}pakeisti kryptį/kursą;E{pass}nukryptiI{3}L{opt.}kreiptil{(spindulius)}
+0{deflection}[d&#618;'flek&#643;n]E{n}I{1}nukreipimas, nukrypimas, pa(si)sukimas, pa(si)slinkimas į šalįI{2}L{fiz.}nuokrypis, nukrypimas; kreipimas;F{deflection probability}nukrypimo tikimybėI{3}L{tech.}įlinkis, nuosvyraI{4}L{kar.}horizontalaus taikymo kampas
+0{deflective}[d&#618;'flekt&#618;v]E{a}nukreipiantis, pakreipiantis, kreipiamasis
+0{deflector}[d&#618;'flekt&#601;]E{n}L{spec.}kreiptuvas, deflektorius;F{air deflector}oro sklendė
+0{deflexion}[d&#618;'flek&#643;n]E{n}A{=R{deflection}}
+0{deflorate}[d&#618;'fl&#596;:r&#601;t]E{n}L{bot.}nužydėjęs
+0{defloration}[,di:fl&#596;:'re&#618;&#643;n]E{n}L{knyg.}I{1}žiedų (nu)draskymas/(nu)skynimasI{2}defloracija, nekaltybės atėmimas
+0{deflower}[d&#618;'flau&#601;, ,di:'flau&#601;]E{v}I{1}(nu)skinti/(nu)draskyti žiedusI{2}atimti nekaltybę; (nu)plėšti garbę, išniekinti
+0{defocus}[,di:'f&#601;uk&#601;s]E{v}L{fiz.}iš(si)fokusuoti
+0{Defoe}[d&#618;'f&#601;u]E{n}:X{Daniel Defoe}Danielis Defol{(anglų rašytojas)}
+0{defog}[di:'f&#596;g]E{v}L{amer.}L{aut.},L{av.}(nu)valyti aprasojusį stiklą
+0{defoliant}[di:'f&#601;ul&#618;&#601;nt]E{n}defoliantasl{(cheminis preparatas)}
+0{defoliate}S{&rArr;}E{a}[di:'f&#601;ul&#618;&#618;t]L{ret.}be lapųS{&rArr;}E{v}[di:'f&#601;ul&#618;e&#618;t](pa)šalinti lapusl{(ypač defoliantais)}
+0{defoliation}[,di:f&#601;ul&#618;'e&#618;&#643;n]E{n}L{bot.}lapų šalinimas, defoliacija
+0{deforest}[di:'f&#596;r&#618;st]E{v}(iš)kirsti/(iš)naikinti mišką
+0{deforestation}[di:,f&#596;ri'ste&#618;&#643;n]E{n}(iš)kirtimas/(su)deginimasl{(miško tam tikrame rajone)}
+0{deform}[d&#618;'f&#596;:m]E{v}I{1}deformuoti(s); (iš)kraipyti, (su)darkytiI{2}(su)bjaurinti, (su)bjauroti
+0{deformation}[,di:f&#596;:'me&#618;&#643;n]E{n}I{1}deformavimas(is), deformacijaI{2}l{(formos, vaizdo)}(su)darkymas, (iš)kraipymasI{3}(su)bjaurinimas
+0{deformity}[d&#618;'f&#596;:m&#601;t&#618;]E{n}I{1}iškrypimas; deformuotumasI{2}išsigimimas, nenormalumas
+0{defraud}[d&#618;'fr&#596;:d]E{v}apgau(dinė)ti, (su)klaidinti; (iš)vilioti;F{to defraud smb of his/her rights}neteisėtai atimti iš ko teises;F{with intent to defraud}L{teis.}siekiant apgauti
+0{defrauder}[d&#618;'fr&#596;:d&#601;]E{n}apgavikas, sukčius
+0{defray}[d&#618;'fre&#618;]E{v}L{kom.}apmokėti;F{to defray the expenses/costs}padengti/apmokėti išlaidas
+0{defrayal}[d&#618;'fre&#618;X{&#601;}l]E{n}L{kom.}l{(išlaidų)}apmokėjimas
+0{defrayment}[d&#618;'fre&#618;m&#601;nt]E{n}A{=R{defrayal}}
+0{defrock}[,di:'fr&#596;k]E{v}atimti dvasininko titulą, kunigystęL{ir pan.}
+0{defrost}[,di:'fr&#596;st]E{v}I{1}atšildyti, atitirpdytil{(šaldytuvo ledą, sušaldytus produktus)}; atitirpti; defrostuoti I{2}L{amer.}A{=R{demist}}
+0{defroster}[,di:'fr&#596;st&#601;]E{n}L{tech.},L{aut.}defrosteris;F{windscreen defroster}L{aut.}priekinio stiklo šildytuvas
+0{deft}[deft]E{a}miklus, mitrus;F{deft hands}miklios/mitrios rankos
+0{deftly}['deftl&#618;]E{adv}mikliai, mitriai
+0{deftness}['deftn&#618;s]E{n}miklumas, mitrumas
+0{defunct}[d&#618;'f&#652;&#331;kt]S{&rArr;}E{a}L{knyg.}I{1}miręsI{2}nebeegzistuojantis; išnykęs, išmiręs;F{the law is defunct}tas įstatymas atgyveno/pasenoS{&rArr;}E{n}X{(the defunct)}velionis
+0{defuse}[,di:'fju:z]E{v}I{1}išimtil{(bombos)}sprogdiklįI{2}L{prk.}(su)švelninti, (su)mažintil{(įtampą, padėties aštrumą)}, praskaidrintil{(atmosferą)}
+0{defy}[d&#618;'fa&#618;]E{v}I{1}nepaklusti, nepaisyti, ignoruoti;F{to defy the law [public opinion]ignoruoti įstatymą [visuomeninę nuomonę];F{to defy danger}nepaisyti pavojaus, niekinti pavojųI{2}iškviestil{(į kovą, ginčąL{ir pan.})}; mesti iššūkį;F{I defy you to do it}dedu galvą, kad tu to nepadarysiI{3}būti per daug sunkiam/neįveikiamam;F{the problem defies solution}problema neišsprendžiama;F{the door defied all efforts to open it}durų niekaip nebuvo galima atidaryti
+0{deg.}L{sutr.}X{degree}laipsnis
+0{degas}[di:'g&aelig;s]E{v}degazuoti
+0{degauss}[di:'gaus]E{v}L{spec.}išmagnetintil{(laivą, šasiL{ir pan.})}
+0{degeneracy}[d&#618;'d&#658;enX{&#601;}r&#601;s&#618;]E{n}I{1}išsigimimas, degeneracijaI{2}degeneratyvumas, neatsparumas
+0{degenerate}S{&rArr;}E{n}[d&#618;'d&#658;enX{&#601;}r&#601;t]išsigimėlis, degeneratasS{&rArr;}E{a}[d&#618;'d&#658;enX{&#601;}r&#601;t]išsigimęs; degeneravęsS{&rArr;}E{v}[d&#618;'d&#658;en&#601;re&#618;t]I{1}išsigimti, degeneruotiI{2}prastėti, blogėti;F{the debate soon degenerated into petty squabbling}diskusija greitai perėjo į smulkius ginčus
+0{degeneration}[d&#618;,d&#658;en&#601;'re&#618;&#643;n]E{n}išsigimimas, degeneracija
+0{degenerative}[d&#618;'d&#658;en&#601;r&#601;t&#618;v]E{a}išsigimstantis, degeneruojantis; degeneracinis
+0{degradation}[,degr&#601;'de&#618;&#643;n]E{n}I{1}degradacija; smukimas, blogėjimas; išsigimimasI{2}pažeminimasI{3}l{(laipsnio, tituloL{ir pan.})}atėmimasI{4}L{fiz.}nuvertėjimas, degradavimas
+0{degrade}[d&#618;'gre&#618;d]E{v}I{1}(pa)žeminti, (su)menkintiI{2}mažintil{(vertęL{ir pan.})}I{3}degraduoti, atimti laipsnįL{ir pan.}I{4}E{refl}nusižeminti, smukti, degraduoti;F{don’t degrade yourself by telling lies}nenusižemink iki melavimoI{5}L{biol.}degraduoti, išsigimtiI{6}L{geol.}išplauti; suardyti
+0{degrading}[d&#618;'gre&#618;d&#618;&#331;]E{a}žeminantis; degraduojantis
+0{degreasing}[di:'gri:s&#618;&#331;]E{n}L{aut.},L{av.}riebalų šalinimas
+0{degree}[d&#618;'gri:]E{n}I{1}laipsnis, mastas;F{by degrees}palaipsniui, pamažu;F{not in the least/slightest degree}nė kiek, nė trupučio;F{to a high/considerable degree}žymiu mastu; žymiai;F{to a very large degree}labai dideliu laipsniu/mastu;F{to the last degree}aukščiausio laipsnio, nepaprastai;F{to what degree?}kokiu lygiu/mastu?;F{to a (certain) degree, to/in some degree}tam tikru laipsniu/mastu;F{to such a degree that...}tokiu laipsniu/mastu, kad..., tiek, kad...I{2}L{spec.}laipsnis; F{prohibited degrees}L{teis.}giminystės laipsniai, kurių subjektams draudžiamos vedybos;F{ten degrees of frost}10° šalčio;F{an angle of 90 degrees}L{geom.}90° kampas;F{the third degree}X{a)}L{mat.}trečiasis laipsnis, kubas;X{b)}tardymas kankinant;F{degree of freedom}L{fiz.}laisvės laipsnis;F{degrees of comparison}L{gram.}laipsniavimas, laipsniaiI{3}mokslinis laipsnis;F{to take one’s degree}gauti laipsnį, baigti universitetąI{4}L{teis.}l{(nusikaltimo)}sunkumas;F{murder in the first degree}pirmojo laipsnio nužudymasI{5}L{psn.}padėtis, rangasl{(visuomenėje)};F{a lady of high degree}kilminga damaS{&loz;}X{to give smb the third degree}L{šnek.}išklausinėti, iškvosti
+0{degression}[d&#618;'gre&#643;n]E{n}(su)mažėjimas;l{(mokesčiųL{ir pan.})}(su)mažinimas
+0{degressive}[d&#618;'gres&#618;v]E{a}proporcingai mažėjantis/mažinamas
+0{dehisce}[d&#618;'h&#618;s]E{v}I{1}žiojėtil{(apie žaizdą)}I{2}atsiskleisti, (su)sprogtil{(apie sėklidę)}
+0{dehorn}[,di:'h&#596;:n]E{v}pašalinti ragusl{(gyvuliams)}
+0{dehumanize}[,di:'hju:m&#601;na&#618;z]E{v}I{1}dehumanizuotiI{2}padaryti laukinį/barbarišką;E{pass}pasidaryti mechanišku/blankiu
+0{dehumidify}[,di:hju:'m&#618;d&#618;fa&#618;]E{v}(nu)sausinti, džiovinti
+0{dehydrate}[,di:'ha&#618;dre&#618;t]E{v}I{1}L{spec.}dehidruoti; (pa)šalinti vandenįI{2}netekti daug vandensl{(organizme)}
+0{dehydration}[,di:ha&#618;'dre&#618;&#643;n]E{n}I{1}L{spec.}dehidratacijaI{2}L{med.}dehidracija
+0{dehydrogenate}[,di:ha&#618;'dr&#596;d&#658;&#601;ne&#618;t, ,di:'ha&#618;dr&#601;d&#658;&#601;ne&#618;t]E{v}L{chem.}dehidrinti
+0{dehypnotize}[di:'h&#618;pn&#601;ta&#618;z]E{v}dehipnotizuoti
+0{deice}[di:'a&#618;s]E{v}L{av.},L{aut.}apsaugoti nuo apledėjimo; pašalinti apledėjimą, nutirpdytil{(ledą)}
+0{deictic}['da&#618;kt&#618;k]E{a}I{1}L{log.}tiesiogiai įrodantisI{2}L{gram.}nurodantis; parodomasis
+0{deideologize}[,di:a&#618;d&#618;'&#596;l&#601;d&#658;a&#618;z]E{v}deideologizuoti
+0{deification}[,di:&#618;f&#618;'ke&#618;&#643;n]E{n}(su)dievinimas
+0{deify}['di:&#618;fa&#618;]E{v}I{1}(su)dievintiI{2}garbinti kaip Dievąl{(pinigusL{ir pan.})}
+0{deign}[de&#618;n]E{v}teiktis, malonėti, nusižeminti;F{in the end she deigned to reply}pagaliau ji teikėsi atsakyti
+0{deism}['di:&#618;zm]E{n}deizmas
+0{deist}['di:&#618;st]E{n}deistas
+0{deity}['di:&#601;t&#618;]E{n}I{1}dievybė;F{the Deity}Dievas;F{the deities of ancient Greece}senovės Graikijos dievaiI{2}dieviškumas
+0{déjà-vu}[,de&#618;&#658;a:'vju:]L{pr.}E{n}L{psich.}paramnezija, apgaulioji atmintis
+0{dejecta}[d&#618;'d&#658;ekt&#601;]E{n}E{pl}L{spec.}išmatos
+0{dejected}[d&#618;'d&#658;ekt&#618;d]E{a}prislėgtas, nuliūdęs
+0{dejectedly}[d&#618;'d&#658;ekt&#618;dl&#618;]E{adv}liūdnai
+0{dejection}[d&#618;'d&#658;ek&#643;n]E{n}prislėgta nuotaika, nusiminimas
+0{de jure}[di:'d&#658;u&#601;r&#618;, de&#618;'d&#658;u&#601;re&#618;]L{lot.}de jure, teisiškai, juridiškai; juridinis, teisiškai įformintas
+0{dekko}['dek&#601;u]E{n}L{šnek.}:X{to have a dekko}pažiūrėti
+0{Del.}L{sutr.}X{Delaware}Delaverasl{(JAV valstija)}
+0{del.}L{sutr.}X{delegate}delegatas
+0{delabialization}[di:,le&#618;b&#618;&#601;la&#618;'ze&#618;&#643;n]E{n}L{fon.}delabializacija
+0{delate}[d&#618;'le&#618;t]E{v}L{psn.}I{1}įskųstiI{2}L{amer.}l{(plačiai)}paskelbti
+0{delation}[d&#618;'le&#618;&#643;n]E{n}L{psn.}įskundimas
+0{delator}[d&#618;'le&#618;t&#601;]E{n}L{psn.}įskundėjas
+0{Delaware}['del&#601;w&#604;&#601;]E{n}Delaverasl{(JAV valstija)}
+0{delay}[d&#618;'le&#618;]S{&rArr;}E{n}I{1}atidė(lio)jimas;F{without delay}neatidėliojant; nedelsiantI{2}sulaikymas, užlaikymas; vilkinimas, (su)trukdymas; vėlinimas(is)I{3}(už)delsimas, delsa, (su)gaišimas, (su)gaištis;F{after an hour’s delay}po valandos sugaištiesS{&rArr;}E{v}I{1}atidė(lio)tiI{2}sulaikyti, užlaikyti; vilkinti;F{the train was delayed by fog}traukinys vėlavo dėl rūko;F{I was delayed}mane sutrukdėI{3}(už)delsti, gaišti;F{don’t delay!}negaiškite!
+0{delayed}[d&#618;'le&#618;d]E{a}uždelstas, uždelstinis;F{delayed action}uždelstas veikimas;F{delayed drop}L{av.}uždelstinis šuolis;F{delayed neutron}L{fiz.}vėluojantysis neutronas;F{delayed ignition}L{tech.}vėlyvasis uždegimas;F{to have a delayed effect}veikti po tam tikro laiko
+0{delayed-action}[d&#618;,le&#618;d'&aelig;k&#643;n]E{a}uždelsto veikimol{(apie bombąL{ir pan.})}
+0{deld., delv.}L{sutr.}X{delivered}pristatytas, įteiktas
+0{dele}['di:l&#618;]L{lot.}L{poligr.}S{&rArr;}E{n}l{(korektūros)}išmetimo ženklasS{&rArr;}E{v}išmesti, išbraukti
+0{delectable}[d&#618;'lekt&#601;bl]E{a}I{1}L{poet.},L{iron.}malonus, žavus, nuostabusI{2}skanus
+0{delectation}[,di:lek'te&#618;&#643;n]E{n}L{knyg.}pasitenkinimas, malonumas
+0{delegacy}['del&#618;g&#601;s&#618;]E{n}I{1}delegacijaI{2}delegavimasI{3}delegato įgaliojimai
+0{delegate}S{&rArr;}E{n}['del&#618;g&#601;t]I{1}delegatas, atstovasI{2}L{amer.}teritorijos deputatas KongreseS{&rArr;}E{v}['del&#618;ge&#618;t]I{1}deleguoti, paskirti atstovuI{2}įgalioti, pavesti;F{he delegated the work to his assistant}jis pavedė tai padaryti savo padėjėjuiI{3}L{teis.}perduoti teisesl{(kreditoriui; dėl skolos padengimo)}
+0{delegation}[,del&#618;'ge&#618;&#643;n]E{n}I{1}delegacijaI{2}delegavimasI{3}pavedimas, įgaliojimasl{(deputatui)};F{delegation of powers}įgaliojimų perdavimas
+0{delete}[d&#618;'li:t]E{v}išbrauktil{(iš teksto, sąrašo)}; ištrinti, pašalinti, panaikinti
+0{deleterious}[,del&#618;'t&#618;&#601;r&#618;&#601;s]E{a}žalingasl{(sveikatai;L{t. p.}L{prk.})};F{deleterious influence}žalinga įtaka
+0{deletion}[d&#618;'li:&#643;n]E{n}I{1}išbraukimas; ištrynimasI{2}tai, kas išbraukta: raidė, žodisL{ir pan.}
+0{delft}[delft]E{n}(Delfto) fajansas
+0{delftware}['delftw&#604;&#601;]E{n}A{=R{delft}}
+0{Delhi}['del&#618;]E{n}Delisl{(Indijos sostinė)}
+0{deli}['del&#618;]E{n}L{šnek.}A{=R{delicatessen}}1
+0{deliberate}S{&rArr;}E{a}[d&#618;'l&#618;bX{&#601;}r&#601;t]I{1}tyčinis; apgalvotas, sąmoningas;F{deliberate act/action}sąmoningas poelgis/žygis;F{deliberate intent}iš anksto apgalvotas ketinimasI{2}lėtas; atsargus;F{deliberate in speech}lėtai kalbantis;F{he entered the room with deliberate steps}jis įėjo į kambarį neskubėdamasS{&rArr;}E{v}[d&#618;'l&#618;b&#601;re&#618;t](ap)galvoti, (ap)svarstyti; pasitarti;F{to deliberate upon/about a matter}apsvarstyti klausimą
+0{deliberately}[d&#618;'l&#618;bX{&#601;}r&#601;tl&#618;]E{adv}I{1}tyčia; apgalvotai, sąmoningaiI{2}apdairiai, atsargiai; lėtai
+0{deliberation}[d&#618;,l&#618;b&#601;'re&#618;&#643;n]E{n}I{1}(ap)galvojimas, (ap)svarstymas;F{what was the outcome of your deliberations?}koks buvo jūsų svarstymų rezultatas?I{2}apdairumas, atsargumas; lėtumas;F{with great deliberation}labai atsargiai/apdairiai
+0{deliberative}[d&#618;'l&#618;bX{&#601;}r&#601;t&#618;v]E{a}I{1}(ap)svarstymo, aptarimo; rimtai apsvarstytasI{2}patariamasis;F{deliberative body/assembly}patariamasis organas
+0{delicacy}['del&#618;k&#601;s&#618;]E{n}I{1}subtilumas; taktas;F{a matter of great delicacy}dalykas, reikalaujantis daug taktoI{2}švelnumas;F{delicacy of skin}odos švelnumasI{3}gležnumas, trapumasI{4}l{(klausimo, padėties)}delikatumas, keblumasI{5}l{(aparatūrosL{ir pan.})}jautrumasI{6}skanėstas, delikatesas;F{the delicacies of the season}ankstyvieji vaisiai, ankstyvosios daržovės
+0{delicate}['del&#618;k&#601;t]E{a}I{1}subtilus, rafinuotas;F{delicate work}dailus darbasI{2}delikatusl{(apie žmogų)}; švelnus;F{delicate fragrance}švelnus aromatas;F{delicate hint}švelni užuominaI{3}trapus, gležnas;F{delicate health}gležna sveikata;F{delicate plant}trapus augalas;F{delicate lungs}silpni plaučiaiI{4}delikatus, keblusl{(apie klausimą, padėtį)}I{5}jautrusl{(apie klausą, aparatūrąL{ir pan.})}
+0{delicately}['del&#618;k&#618;tl&#618;]E{adv}subtiliai, švelniai
+0{delicatessen}[,del&#618;k&#601;'tesn]L{vok.}E{n}I{1}skanėstai, delikatesaiI{2}kulinarijos parduotuvė
+0{delicious}[d&#618;'l&#618;&#643;&#601;s]E{a}I{1}nepaprastai skanus;F{what a delicious cake!}koks skanus tortas!I{2}nuostabus, labai malonus, puikus
+0{deliciously}[d&#618;'l&#618;&#643;&#601;sl&#618;]E{adv}skaniai, gardžiai
+0{deliciousness}[d&#618;'l&#618;&#643;&#601;sn&#618;s]E{n}skanumas, gardumas
+0{delict}['di:l&#618;kt]E{n}L{teis.}L{psn.}deliktas, nusikaltimas, teisės pažeidimas;F{in flagrant delict}nusikaltimo vietoje
+0{delight}[d&#618;'la&#618;t]S{&rArr;}E{n}I{1}džiaugsmas; gėrėjimasis, pasigėrėjimas, žavėjimasis;F{to the delight}l{(of)}l{(kieno)}džiaugsmuiI{2}malonumas;F{to take (a) delight in smth}patirti malonumą dėl koS{&rArr;}E{v}I{1}džiuginti; žavėti;F{his singing delighted everyone}jo dainavimas visus žavėjoI{2}gėrėtis, žavėtis, turėti malonumą;F{to delight in music}gėrėtis muzika;F{to delight in doing smth}patirti malonumą ką darant
+0{delighted}[d&#618;'la&#618;t&#618;d]E{a}sužavėtas; patenkintasl{(with – kuo)};F{I shall be delighted to come}su mielu noru ateisiu;F{(I’m) delighted to meet you}džiaugiuosi galėdamas su jumis susipažinti;F{delighted!}su malonumu!
+0{delightedly}[d&#618;'la&#618;t&#618;dl&#618;]E{adv}susižavėjus, džiaugsmingai
+0{delightful}[d&#618;'la&#618;tfX{&#601;}l]E{a}žavus, žavingas
+0{delightfully}[d&#618;'la&#618;tfX{&#601;}l&#618;]E{adv}žavingai, žaviai
+0{Delilah}[d&#618;'la&#618;l&#601;]E{n}L{bibl.}Delilal{(vardas)}
+0{delimit}[,di:'l&#618;m&#618;t]E{v}nustatyti ribas, atriboti
+0{delimit(ate)}[d&#618;'l&#618;m&#618;t(e&#618;t)]E{v}nustatyti ribas, atriboti
+0{delimitation}[d&#618;,l&#618;m&#618;'te&#618;&#643;n]E{n}I{1}ribų nustatymas, atribojimasI{2}riba, siena
+0{delimiter}[d&#618;'l&#618;m&#618;t&#601;]E{n}L{komp.}riboklis; skyriklis
+0{delineate}[d&#618;'l&#618;n&#618;e&#618;t]E{v}I{1}apibrėžti, nubrėžti, nužymėtil{(kontūrus)}I{2}(pa)vaizduoti, aprašyti
+0{delineation}[d&#618;,l&#618;n&#618;'e&#618;&#643;n]E{n}I{1}l{(kontūrų)}nužymėjimas, apibrėžimasI{2}pavaizdavimas, aprašymasI{3}apybraiža, brėžinys
+0{delineator}[d&#618;'l&#618;n&#618;e&#618;t&#601;]E{n}I{1}apibrėžiantis dydį/kontūrusL{ir pan.}; braižytojas, projektuotojasI{2}l{(drabužių sukirpimo)}iškarpa
+0{delinquency}[d&#618;'l&#618;&#331;kw&#601;ns&#618;]E{n}I{1}nusikalstamumasl{(ypač paauglių)}I{2}smulkūs nusikaltimai; prasižengimas;F{delinquency list}L{kar.}nusikaltimų/prasižengimų sąrašas/duomenys
+0{delinquent}[d&#618;'l&#618;&#331;kw&#601;nt]S{&rArr;}E{n}nusikaltėlis, teisės pažeidėjasl{(ypač apie paauglius)}S{&rArr;}E{a}I{1}nusikaltęs; nusikaltėliųI{2}L{amer.}nesumokėtasl{(apie mokestįL{ir pan.})}
+0{deliquesce}[,del&#618;'kwes]E{v}I{1}L{knyg.}(iš)tirptiI{2}L{chem.}virsti skysčiu
+0{deliquescence}[,del&#618;'kwesns]E{n}L{chem.}tirpumas
+0{deliquescent}[,del&#618;'kwesnt]E{a}L{chem.}tirpus
+0{deliriant}[d&#618;'l&#618;r&#618;&#601;nt]E{a}L{med.}sukeliantis kliedėjimą
+0{delirious}[d&#618;'l&#618;r&#618;&#601;s]E{a}I{1}kliedintis;F{to be delirious with fever}kliedėti iš karščioI{2}paklaikęs, ekstazės apimtas;F{delirious with delight}netveriantis iš džiaugsmo
+0{deliriously}[d&#618;'l&#618;r&#618;&#601;sl&#618;]E{adv}beprotiškai; entuziastiškai;F{deliriously happy}beprotiškai laimingas
+0{delirium}[d&#618;'l&#618;r&#618;&#601;m]E{n}I{1}kliedesys, kliedėjimas;F{delirium tremens}L{med.}baltoji karštligėI{2}svaičiojimas; paklaikimas; ekstazė
+0{delitescence}[,del&#618;'tesns]E{n}L{med.}I{1}latentinė būklė; inkubacinis laikotarpisI{2}staigus ligos požymių pranykimas, delitescencija
+0{delitescent}[,del&#618;'tesnt]E{a}L{med.}latentinis, paslėptas
+0{deliver}[d&#618;'l&#618;v&#601;]E{v}I{1}(iš)nešiotil{(korespondenciją)}, pristatytil{(korespondenciją, prekes)}; atgabenti; tiektiI{2}įteikti, pateikti;F{to deliver a message}įteikti pranešimą;F{to deliver smb to the enemy}atiduoti ką į priešo rankasI{3}suteikti;F{to deliver smb one’s support}suteikti kam paramąI{4}skaitytil{(paskaitą)}; (pa)sakytil{(kalbą)};F{to deliver oneself of an opinion}L{ofic.}pareikšti savo nuomonęI{5}išvaduoti, išgelbėtil{(nuo pavojaus, tironijos, pagundos; from)}I{6}įvykdyti, tesėtil{(pažadą)};F{to deliver on one’s pledge}įvykdyti įsipareigojimąI{7}paskelbtil{(nuomonę, sprendimą)}I{8}smogtil{(smūgį;L{t. p.}L{kar.})};F{to deliver an attack}atakuotiI{9}L{med.}priimti naujagimį;E{pass}pagimdytil{(of)}S{o}1{deliver over}perduotil{(to – kam)};1{deliver up}X{a)}atiduoti, užleistil{(priešui miestą)};X{b)}E{refl}pasiduotil{(valdžios organams)}
+0{deliverance}[d&#618;'l&#618;vX{&#601;}rX{&#601;]_{E{n}L{knyg.}I{1}išvadavimas, išgelbėjimasl{(from)}I{2}viešai paskelbta nuomonė, oficialus pareiškimas}}
+0{deliverer}[d&#618;'l&#618;vX{&#601;}r&#601;]E{n}I{1}l{(prekių)}pristatytojasI{2}išvaduotojas
+0{delivery}[d&#618;'l&#618;vX{&#601;}r&#618;]E{n}I{1}pristatymas; atgabenimas;l{(korespondencijos)}išnešiojimas;F{including delivery}pristatytinai;F{on delivery}pristačius;F{delivery at door, delivery to smb’s door}užsakymų pristatymas į namus;F{express/special delivery}skubus pristatymas;F{bulk delivery}L{kom.}pristatymas didelėmis partijomis;F{delivery note}L{kom.}važtaraštisI{2}įteikimas, išdavimas;F{delivery of a telegram}telegramos įteikimas;F{recorded delivery}įteikimas pasirašytinai;F{delivery desk/room}knygų išdavimo vieta; abonementasI{3}l{(kalbos)}(pa)sakymas; kalbėsena, dėstysena;F{good [poor] delivery}gera [prasta] dikcijaI{4}l{(elektros, vandens, anglių)}tiekimas;F{to stop delivery}nutraukti tiekimąI{5}gimdymas;F{delivery room}gimdymo palataI{6}A{=R{deliverance}}2
+0{deliveryman}[d&#618;'l&#618;vX{&#601;}r&#618;m&#601;n]E{n}(E{pl}-men[-m&#601;n]) pristatytojas
+0{dell}[del]E{n}L{knyg.}miškingas slėnis
+0{delly}['del&#618;]E{n}L{šnek.}I{1}kulinarijal{(parduotuvė)}I{2}šalti užkandžiai
+0{delouse}[di:'laus]E{v}(iš)naikinti utėles; atsikratytil{(utėlių;L{t. p.}L{prk.})}
+0{delousing}[di:'laus&#618;&#331;]E{n}utėlių naikinimas, dezinsekcija
+0{Delphi}['delfa&#618;]E{n}Delfai
+0{Delphian}['delf&#618;&#601;n]E{a}A{=R{Delphic}}
+0{Delphic}['delf&#618;k]E{a}I{1}Delfų;F{Delphic oracle}Delfų orakulasI{2}L{knyg.}nesuprantamas, paslaptingas; dviprasmis
+0{delphinium}[del'f&#618;n&#618;&#601;m]E{n}L{bot.}pentinius, šarkakojis
+0{delta}['delt&#601;]E{n}I{1}deltal{(graikų raidė;L{t. p.}L{mat.})};F{delta connection}L{el.}trikampis jungimasI{2}L{geogr.}l{(upės)}delta;F{the Nile delta}Nilo delta
+0{deltaic}[del'te&#618;&#618;k]E{a}I{1}deltinis, deltiškasI{2}sudarantis deltą
+0{deltoid}['delt&#596;&#618;d]E{a}deltos/trikampio pavidalo;F{deltoid leaf}L{bot.}deltiškasis lapas;F{deltoid muscle}L{anat.}deltinis raumuo
+0{delude}[d&#618;'lX{j}u:d]E{v}apgauti, suklaidinti;E{refl}apsigauti; turėti iliuzijų;F{he deluded himself into thinking his wife would recover}jis guodėsi viltimi, kad žmona pasveiks
+0{deluge}['delju:d&#658;]S{&rArr;}E{n}I{1}potvynis, tvanas;F{the Deluge}L{bibl.}pasaulio tvanasI{2}liūtisI{3}l{(žodžių, klausimų, laiškųL{ir pan.})}srautas;l{(lankytojų)}antplūdisS{&rArr;}E{v}I{1}užtvindytiI{2}l{(L{ppr.}E{pass})}L{prk.}užplūsti, užversti;F{the editorial office was deluged with letters}redakciją užvertė laiškais
+0{delusion}[d&#618;'lu:&#658;n]E{n}I{1}klydimas; apgaulė, iliuzija;F{to be under a delusion}klysti, klaidingai manytiI{2}L{psich.}haliucinacija; manija;F{delusion of grandeur}didybės manija;F{to suffer from delusions}sirgti haliucinacijomis
+0{delusive, delusory}[d&#618;'lu:s&#618;v, -s&#601;r&#618;]E{a}I{1}apgaulingas, klaidinantisI{2}iliuzinis, nerealus
+0{deluxe}[d&#601;'l&#652;ks]L{pr.}E{a}liuksusinis, prabangus;F{an edition deluxe, a deluxe edition}puošnus, liuksusinis leidinys
+0{delve}[delv]E{v}I{1}knistis, knaisiotis, raustisl{(knygose, dokumentuose; spintoje, krepšyje, kišenėse)}I{2}L{psn.},L{poet.}kasti
+0{dely}L{sutr.}X{delivery}pristatymas, įteikimas
+0{Dem.}L{sutr.}X{Democrat}demokratas;F{Democratic}demokratinis
+0{demagnetization}[,di:m&aelig;gn&#601;ta&#618;'ze&#618;&#643;n]E{n}išmagnetinimas
+0{demagnetize}[,di:'m&aelig;gn&#601;ta&#618;z]E{v}išmagnetinti
+0{demagog}['dem&#601;g&#596;g]E{n}L{amer.}A{=R{demagogue}}
+0{demagogic}[,dem&#601;'g&#596;g&#618;k]E{a}demagogiškas, demagoginis
+0{demagogue}['dem&#601;g&#596;g]E{n}demagogas
+0{demagoguery}[,dem&#601;'g&#596;gX{&#601;}r&#618;]E{n}A{=R{demagogy}}
+0{demagogy}['dem&#601;g&#596;g&#618;]E{n}demagogija
+0{demand}[d&#618;'ma:nd]S{&rArr;}E{n}I{1}(pa)reikalavimas;F{wage demand}reikalavimas padidinti darbo užmokestį;F{to have many demands on one’s purse [time]turėti daug išlaidų [reikalų];F{on demand}pareikalavus, pagal pareikalavimąl{(apie apmokėjimąL{ir pan.})};F{demand deposit}neterminuotasis indėlisI{2}L{ekon.}paklausa; poreikis;F{demand factor}paklausos koeficientas;F{in (great) demand}X{a)}turintis (didelę) paklausą;X{b)}(labai) populiarus, pageidaujamasl{(pobūvyjeL{ir pan.})}S{&loz;}X{to make demands}daryti spaudimąl{(on – kam)}S{&rArr;}E{v}I{1}reikalautil{(of, from – iš)};F{to demand an explanation from/of smb}reikalauti pasiaiškinti ką;F{he demanded that she should stay in Vilnius}jis reikalavo, kad ji liktų VilniujeI{2}reikėti, būti reikalingam;F{this letter demands immediate answer}į šį laišką reikia tuojau atsakyti;F{he has all of the qualities demanded of a leader}jis turi daug vadovo savybiųI{3}(pa)klausti, (už)duoti klausimą
+0{demandant}[d&#618;'ma:nd&#601;nt]E{n}L{teis.}ieškovas
+0{demanding}[d&#618;'ma:nd&#618;&#331;]E{n}I{1}sunkus, reikalaujantis daug pastangų/laikoI{2}reiklus; reikalaujantis daug dėmesio
+0{demand-pull}[d&#618;'ma:ndpul]E{n}L{ekon.}paklausos infliacijal{(L{t. p.}X{demand-pull inflation})}
+0{demanning}[,di:'m&aelig;n&#618;&#331;]E{n}darbo jėgos sumažinimas/sumažėjimas
+0{demarcate}['di:ma:ke&#618;t]E{v}I{1}atriboti, atskirtiI{2}nužymėti demarkacijos liniją
+0{demarcation}[,di:ma:'ke&#618;&#643;n]E{n}I{1}ribų nustatymas; demarkacija;F{a line of demarcation}demarkacijos linijaI{2}at(si)ribojimas
+0{démarche}['de&#618;ma:&#643;]L{pr.}E{n}L{dipl.}demaršas
+0{demasculinize}[di:'m&aelig;skjul&#618;na&#618;z]E{v}feminizuotil{(vyrą)}; silpninti vyrų įtaką;F{to demasculinize society}stiprinti moterų įtaką visuomenėje
+0{demean}[d&#618;'mi:n]E{v}(pa)žeminti;E{refl}žemintis, negarbingai elgtis
+0{demeano(u)r}[d&#618;'mi:n&#601;]E{n}elgesys, maniera
+0{demented}[d&#618;'ment&#618;d]E{a}išprotėjęs;F{to be/become demented}išeiti iš proto
+0{démenti}[,de&#618;ma:&#331;'ti:]L{pr.}E{n}L{dipl.}l{(gandųL{ir pan.})}oficialus paneigimas
+0{dementia}[d&#618;'men&#643;&#601;]E{n}L{med.}demencija, silpnaprotystė;F{senile dementia}senatvinė silpnaprotystė/demencija
+0{demerara}[,dem&#601;'r&#604;&#601;r&#601;]E{n}rudasis nendrių cukrusl{(iš Vest Indijos;L{ppr.}X{demerara sugar})}
+0{demerge}[d&#618;'m&#601;:d&#658;]E{v}išskirtil{(įmonesL{ir pan.})}
+0{demerger}[d&#618;'m&#601;:d&#658;&#601;]E{n}L{ekon.}susijungusių įmonių išskyrimas
+0{demerit}[di:'mer&#618;t]E{n}I{1}trūkumas, defektas; smerktinas/blogas bruožas;F{the merits and demerits}privalumai ir trūkumaiI{2}L{amer.}drausminė nuobauda;F{demerit mark}L{mok.}prastas/blogas pažymys
+0{demeritorious}[d&#618;,mer&#618;'t&#596;:r&#618;&#601;s]E{a}L{ret.}smerktinas, peiktinasl{(apie elgesį)}
+0{demesne}[d&#618;'me&#618;n]E{n}L{psn.},L{teis.}I{1}nekilnojamojo turto valdymasI{2}l{(žemės)}valdos;F{Royal demesne}karališkosios šeimos žemės nuosavybė;F{State demesne}valstybinė žemėI{3}sklypas prie rūmųl{(sodas, parkas)}
+0{Demetrius}['l&#596;&#331;g&#601;'d&#618;st&#601;ns]E{n}Demetrijus
+0{demi-}['dem&#618;-]E{pref}I{1}pus-, pusiaul{(žymint pusę, dalį)};F{demi-circle}pusratis;F{demi-official}pusiau oficialusI{2}demi-, mažas, trumpas;F{demi-season}demisezoninis;F{demi-lance}trumpa ietis
+0{demigod}['dem&#618;g&#596;d]E{n}L{mit.}pusdievisl{(L{t. p.}L{prk.})}
+0{demijohn}['dem&#618;d&#658;&#596;n]E{n}didelis apipintas butelis, krežinė
+0{demilitarization}[di:,m&#618;l&#618;t&#601;ra&#618;'ze&#618;&#643;n]E{n}demilitarizavimas, demilitarizacija
+0{demilitarize}[,di:'m&#618;l&#618;t&#601;ra&#618;z]E{v}demilitarizuoti
+0{demimonde}[,dem&#618;'m&#596;nd]L{pr.}E{n}demimondas, kokočių aplinka
+0{demirep}['dem&#618;rep]E{n}L{psn.}abejotino elgesio moteris
+0{demisable}[d&#618;'ma&#618;z&#601;bl]E{a}L{teis.}nuomojamas, arenduojamas, paveldimasl{(apie turtą)}
+0{demise}[d&#618;'ma&#618;z]S{&rArr;}E{n}I{1}l{(ko)}baigtis, galas I{2}l{(ypačL{teis.})}mirtisI{3}L{teis.}turto perdavimas testamentuI{4}L{teis.}nekilnojamojo turto išnuomojimasI{5}L{polit.}sosto perėjimas paveldėtojuil{(ypačX{demise of the crown})}S{&rArr;}E{v}L{teis.}I{1}palikti, perduotil{(turtą testamentu)}; būti paveldėtamI{2}išnuomotil{(turtą)}I{3}perduotil{(valdžią, titulą)}
+0{demisemiquaver}[,dem&#618;'sem&#618;kwe&#618;v&#601;]E{n}L{muz.}trisdešimtantrinė gaida
+0{demist}[di:'m&#618;st]E{v}L{aut.}valyti aprasojusį priekinį stiklą, (pa)šalinti aprasojimą
+0{demit}[d&#618;'m&#618;t]E{v}L{ret.}atsisakytil{(pareigųL{ir pan.})}; atsistatydinti
+0{demitasse}['dem&#618;t&aelig;s]L{pr.}E{n}mažas puodelisl{(kavai)}
+0{demiurge}['di:m&#618;&#601;:d&#658;]E{n}I{1}pasaulio kūrėjas, demiurgasl{(Platono filosofijoje)}I{2}L{ist.}demiurgas
+0{demo}['dem&#601;u]E{n}(E{pl}demos[-z])L{šnek.}I{1}demonstracijaI{2}demonstravimas, rodymas;F{to give smb a demo}parodyti kam, kaip veikia, kaip daroma
+0{demob}[,di:'m&#596;b]L{šnek.}S{&rArr;}E{n}demobilizacijaS{&rArr;}E{v}demobilizuoti
+0{demobee}[,di:m&#601;'bi:]E{n}L{šnek.}demobilizuotasis
+0{demobilization}[di:,m&#601;ub&#618;la&#618;'ze&#618;&#643;n]E{n}demobilizacija
+0{demobilize}[di:'m&#601;ub&#618;la&#618;z]E{v}demobilizuoti
+0{democracy}[d&#618;'m&#596;kr&#601;s&#618;]E{n}I{1}demokratija;F{social democracy}socialdemokratijaI{2}demokratinė šalis/valstybėI{3}demokratizmas; demokratiškumas
+0{democrat}['dem&#601;kr&aelig;t]E{n}I{1}demokratas;F{social democrat}socialdemokratasI{2}X{Democrat}L{amer.}Demokratų partijos narys, demokratas
+0{democratic}[,dem&#601;'kr&aelig;t&#618;k]E{a}I{1}demokratinis; demokratiškasI{2}X{Democratic}L{amer.}Demokratų partijos, demokratų
+0{democratically}[,dem&#601;'kr&aelig;t&#618;k&#601;l&#618;]E{adv}demokratiškai
+0{democratization}[d&#618;,m&#596;kr&#601;ta&#618;'ze&#618;&#643;n]E{n}demokratizavimas; demokratinimas; demokratėjimas
+0{democratize}[d&#618;'m&#596;kr&#601;ta&#618;z]E{v}demokratizuoti(s); (su)demokratinti; (su)demokratėti
+0{Democritus}[d&#618;'m&#596;kr&#618;t&#601;s]E{n}Demokritasl{(L{gr.}filosofas)}S{&loz;}X{to dine with Democritus}pražiopsoti pietus; likti alkanam iš kvailumo
+0{démodé}[de&#618;'m&#601;ude&#618;]L{pr.}E{a}išėjęs iš mados, nebemadingas
+0{demoded}[d&#618;'m&#601;ud&#618;d]E{a}pasenęs, išėjęs iš mados
+0{demographic}[,dem&#601;'gr&aelig;f&#618;k]E{a}demografinis
+0{demographics}[,dem&#601;'gr&aelig;f&#618;ks]E{n}demografiniai duomenys; demografinė statistika
+0{demography}[di:'m&#596;gr&#601;f&#618;]E{n}demografija
+0{demolish}[d&#618;'m&#596;l&#618;&#643;]E{v}I{1}(su)griauti, išgriauti, nugriauti, nuverstil{(namą)}I{2}L{prk.}sugriauti, sukritikuotil{(argumentą, teoriją)}I{3}L{šnek.}sušveisti, sukirstil{(maistą)}I{4}L{sport.}L{šnek.}sutriuškinti
+0{demolition}[,dem&#601;'l&#618;&#643;n]E{n}I{1}(su)griovimas, išgriovimas, nugriovimas; išardymasI{2}L{kar.}sprogstamasis užtaisas;F{demolition bomb}fugasinė bomba;F{demolition work}sprogdinimo darbai
+0{demon}['di:m&#601;n]E{n}I{1}demonas, piktoji dvasia, velnias;F{a regular demon}L{šnek.}tikras velnias/velniūkštisI{2}energingas žmogus;F{he is a demon for work}jis dirba kaip arklys; F{demon card-player}azartiškas lošėjas
+0{demonetize}[,di:'m&#652;n&#601;ta&#618;z]E{v}L{spec.}I{1}demonetizuoti; atsisakyti naudotil{(auksą, sidabrą)}kaip piniginę prekęI{2}išimti iš apyvartos; nuvertintil{(monetas)}
+0{demoniac}[d&#618;'m&#601;un&#618;&aelig;k]S{&rArr;}E{a}I{1}velnio apsėstasI{2}velniškas; velniškai piktasS{&rArr;}E{n}apsėstasis
+0{demoniacal}[,di:m&#601;'na&#618;&#601;kl]A{=R{demoniac}}E{a}
+0{demonic}[di:'m&#596;n&#618;k]E{a}I{1}demoniškas, velniškasI{2}dvasinis; sudvasintas
+0{demonize}['di:m&#601;na&#618;z]E{v}laikytil{(ką)}blogio įsikūnijimu
+0{demonology}[,di:m&#601;'n&#596;l&#601;d&#658;&#618;]E{n}demonologija
+0{demonstrable}['dem&#601;nstr&#601;bl, d&#618;'m&#596;nstr&#601;bl]E{a}įrodomas
+0{demonstrably}[d&#618;'m&#596;nstr&#601;bl]E{adv}aiškiai, akivaizdžiai
+0{demonstrate}['dem&#601;nstre&#618;t]E{v}I{1}l{(akivaizdžiai)}(pa)rodyti; įrodyti;F{to demonstrate a theorem}įrodyti teoremą;F{as demonstrated by this experiment}kaip rodo šis bandymasI{2}demonstruoti, rodyti;F{to demonstrate how the machine works}demonstruoti, kaip mašina veikiaI{3}dalyvauti demonstracijoje;F{to demonstrate against smth}dalyvauti protesto demonstracijoje prieš ką
+0{demonstration}[,dem&#601;n'stre&#618;&#643;n]E{n}I{1}demonstracija; masinis mitingas;F{to hold/stage a demonstration}surengti demonstracijąI{2}demonstravimas;F{to dislike demonstration of feelings}nemėgti demonstruoti jausmųI{3}akivaizdus parodymas, įrodymasI{4}E{attr}parodomasis
+0{demonstrational}[,dem&#601;n'stre&#618;&#643;n&#601;l]E{a}demonstracinis, demonstravimo
+0{demonstrative}[d&#618;'m&#596;nstr&#601;t&#618;v]S{&rArr;}E{a}I{1}neslepiantisl{(jausmų)}; nesantūrus, nesivaldantis;F{demonstrative greetings}audringi sveikinimai; F{demonstrative nature}nuoširdus charakterisI{2}demonstratyvusI{3}akivaizdus, įtikinamasI{4}L{gram.}parodomasisS{&rArr;}E{n}L{gram.}parodomasis įvardis
+0{demonstrator}['dem&#601;nstre&#618;t&#601;]E{n}I{1}demonstrantas, demonstracijos dalyvisI{2}demonstratorius, demonstruotojasI{3}laborantas, asistentasl{(Demonstrator Britanijos universitetuose)}I{4}L{šnek.}demonstruojamasis/parodomasis automobilis
+0{demoralise}[d&#618;'m&#596;r&#601;la&#618;z]E{v}demoralizuoti, tvirkinti
+0{demoralization}[d&#618;,m&#596;r&#601;la&#618;'ze&#618;&#643;n]E{n}demoralizacija, demoralizavimas
+0{demoralize}[d&#618;'m&#596;r&#601;la&#618;z]E{v}demoralizuoti; ardyti/griauti drausmę, tvarką
+0{demos}['di:m&#596;s]L{gr.}L{ist.}E{n}liaudis, demas
+0{Demosthenes}[d&#618;'m&#596;s&theta;&#601;ni:z]E{n}Demostenasl{(AtėnųL{polit.}veikėjas, oratorius)}
+0{Demosthenic}[,dem&#596;s'&theta;en&#618;k]E{a}demosteniškas, iškalbingas
+0{demote}[d&#618;'m&#601;ut]E{v}pažemintil{(pareigas)}; nustumti į žemesnę vietą
+0{demotic}[d&#618;'m&#596;t&#618;k]E{a}liaudiškas, liaudies
+0{demotion}[d&#618;'m&#601;u&#643;X{&#601;}n]E{n}pažeminimas, pažeminimas pareigose
+0{demotivate}[,di:'m&#601;ut&#618;ve&#618;t]E{v}susilpninti motyvaciją
+0{demount}[d&#618;'maunt]E{v}išardyti, demontuoti
+0{demountable}[d&#618;'maunt&#601;bl]E{a}išardomas, išmontuojamas
+0{demulcent}[d&#618;'m&#652;ls&#601;nt]L{med.}S{&rArr;}E{n}minkštinamasis/raminamasis vaistasS{&rArr;}E{a}minkštinamasis, raminamasis, raminantis
+0{demur}[d&#618;'m&#601;:]S{&rArr;}E{n}prieštaravimas;F{without demur}be prieštaravimo, neatsikalbinėjantS{&rArr;}E{v}I{1}nesutikti, prieštarauti;F{to demur to a proposal}prieštarauti pasiūlymui;F{to demur at working on Sundays}nesutikti dirbti sekmadieniaisI{2}L{teis.}reikalauti nutraukti bylą
+0{demure}[d&#618;'mju&#601;]E{a}I{1}kuklus, santūrus; rimtasI{2}apsimestinai kuklusl{(apie šypsenąL{ir pan.})}
+0{demurely}['d&#618;'mju&#601;l&#618;]E{adv}droviai, nedrąsiai
+0{demureness}[d&#618;'mju&#601;n&#618;s]E{n}drovumas, kuklumas
+0{demurrage}[d&#618;'m&#652;r&#618;d&#658;]E{n}L{kom.}I{1}l{(laivo, vagonoL{ir pan.})}prastovaI{2}demeredžas, bauda/netesybos užl{(laivo, vagono)}prastovą
+0{demurrer}[d&#618;'m&#601;:r&#601;]E{n}I{1}prieštaravimasI{2}L{teis.}procesinis nušalinimasl{(vienos pusės reikalavimas nutraukti/sustabdyti bylą, remiantis tuo, kad antrosios pusės pareiškimai neturi nieko bendra su byla/teismu)};F{to put in, to enter, a demurrer}reikalauti nutraukti bylą
+0{demy}[d&#618;'ma&#618;]E{n}popieriaus formatasl{(maždaug 40x50 cm)}
+0{demystify}[di:'m&#618;st&#618;fa&#618;]E{v}I{1}demistifikuotil{(mitusL{ir pan.})}I{2}atskleisti, padaryti suprantamą
+0{den}[den]E{n}I{1}guolis, urvasI{2}narvasl{(zoologijos sode)}I{3}l{(vagiųL{ir pan.})}lindynė, landynė;F{den of iniquity}nepadorybių/blogio lizdasI{4}jaukus darbo kambarėlis;l{(ypačL{amer.})}poilsio kambarysI{5}vaikams žaisti slėpykla
+0{Den.}L{sutr.}X{Denmark}Danija
+0{denarius}[d&#618;'n&#604;&#601;r&#618;&#601;s]E{n}(E{pl}-rii[-r&#618;a&#618;])L{ist.}denarasl{(sidabrinė moneta)}
+0{denary}['di:n&#601;r&#618;]E{a}dešimtainis
+0{denationalization}[di:,n&aelig;&#643;n&#601;la&#618;'ze&#618;&#643;n]E{n}I{1}denacionalizacija, denacionalizavimasI{2}nutautinimas, nutautimas
+0{denationalize}[di:'n&aelig;&#643;n&#601;la&#618;z]E{v}I{1}denacionalizuotiI{2}atimti iš tautos teises, jai būdingus bruožus; nutautinti
+0{denaturalize}[di:'n&aelig;t&#643;r&#601;la&#618;z]E{v}I{1}denatūralizuoti, atimti pilietybęI{2}atimti įgimtus bruožus
+0{denature}[di:'ne&#618;t&#643;&#601;]E{v}I{1}keisti/atimti įgimtas/natūralias savybesI{2}denatūruotil{(spiritą)}
+0{dendriform}['dendr&#618;f&#596;:m]E{a}medžio pavidalo, mediškas
+0{dendrite}['dendra&#618;t]E{n}L{anat.},L{min.}dendritas
+0{dendritic}[den'dr&#618;t&#618;k]E{a}medžio pavidalo; išsišakojęs
+0{dendrology}[den'dr&#596;l&#601;d&#658;&#618;]E{n}dendrologija
+0{dene^{1}}[di:n]E{n}slėnis, klonis
+0{dene^{2}}E{n}pajūrio smėlis, kopos
+0{dene-hole}['di:nh&#601;ul]E{n}L{archeol.}dirbtinis urvas, dirbtinė olal{(kreidos kalnuose)}
+0{dengue}['de&#331;g&#618;]E{n}dengė karštligėl{(šiltųjų kraštų virusinė liga)}
+0{deniable}[d&#618;'na&#618;&#601;bl]E{a}paneigiamas; ginčytinas
+0{denial}[d&#618;'na&#618;&#601;l]E{n}I{1}(pa)neigimas, išsigynimas; atmetimas;F{a flat denial}kategoriškas paneigimasI{2}atsisakymas; atsižadėjimasl{(savo žodžioL{ir pan.})};F{to take no denial}nepriimti atsisakymo;F{denial of justice}L{teis.}atsisakymas vykdyti teisingumą
+0{denier^{1}}['den&#618;&#601;]E{n}denjėl{(siūlo linijinio tankio vienetas)}
+0{denier^{2}}[d&#618;'na&#618;&#601;]E{n}I{1}paneigėjasI{2}atsisakytojas
+0{denigrate}['den&#618;gre&#618;t]E{v}juodinti, žeminti, šmeižti
+0{denigration}[,den&#618;'gre&#618;&#643;n]E{n}juodinimas, šmeižimas
+0{denim}['den&#618;m]E{n}I{1}medvilninis audinysl{(džinsams, sijonams)}I{2}E{pl}džinsai (L{t. p.}X{denim jeans})
+0{denizen}['den&#618;zn]L{knyg.}S{&rArr;}E{n}I{1}natūralizavęsis svetimšalisI{2}aklimatizavęsis augalas/gyvūnasI{3}prigijęs skolinysl{(žodis)}I{4}l{(rajono, vietos)}gyventojasS{&rArr;}E{v}I{1}priimti piliečiu, natūralizuotiI{2}L{ret.}apgyvendintil{(gyvenvietę)}išeiviais iš kitos šalies
+0{Denmark}['denma:k]E{n}Danijal{(valstybė)}
+0{denominate}[d&#618;'n&#596;m&#618;ne&#618;t]E{v}I{1}duoti pavadinimą/vardą, (pa)vadinti, pažymėtil{(žodžiu)}I{2}L{fin.}išreikštil{(doleriaisL{ir pan.})}
+0{denomination}[d&#618;,n&#596;m&#618;'ne&#618;&#643;n]E{n}I{1}pavadinimas;F{to reduce to the same denomination}X{a)}išreikšti bendru pavadinimu;X{b)}L{mat.}subendravardiklintiI{2}klasė, kategorija, tipasI{3}L{fin.}(nominalioji) vertė; nominalas;F{coins of small denominations}mažos vertės monetosI{4}L{rel.}denominacija, sekta
+0{denominational}[d&#618;,n&#596;m&#618;'ne&#618;&#643;n&#601;l]E{a}I{1}pavadinimoI{2}denominacijos, sektos; sektantiškas;F{denominational school}mokykla, kurios mokiniai vieno tikėjimo
+0{denominative}[d&#618;'n&#596;m&#618;n&#601;t&#618;v]S{&rArr;}E{a}I{1}nominalinis, vardinis; pavadinimo, atliekantis pavadinimo funkcijąI{2}L{gram.}denominatyvinisl{(išvestas iš vardažodžio)}S{&rArr;}E{n}L{gram.}denominatyvasl{(vedinys iš vardažodžio)}
+0{denominator}[d&#618;'n&#596;m&#618;ne&#618;t&#601;]E{n}L{mat.}vardiklis; daliklis;F{common denominator}bendravardiklis;F{to reduce to a common denominator}subendravardiklinti
+0{denormalization}[,di:n&#596;:m&#601;la&#618;'ze&#618;&#643;n]E{n}l{(ligoninėsL{ir pan.})}režimo pažeidimas
+0{denotation}[,di:n&#601;X{u}'te&#618;&#643;n]E{n}I{1}(pa)žymėjimas; denotacijaI{2}ženklas; nurodymasI{3}L{kalb.}denotacija; denotatas;l{(daikto, reiškinio)}pavadinimas
+0{denotative}[d&#618;'n&#601;ut&#601;t&#618;v]E{a}I{1}(pa)žymintis, reiškiantisI{2}nurodantisI{3}L{kalb.}denotacinis
+0{denote}[d&#618;'n&#601;ut]E{v}I{1}(pa)žymėti, reikštiI{2}(nu)rodyti; būtil{(ko)}ženklu
+0{denotement}[d&#618;'n&#601;utm&#601;nt]E{n}L{ret.}I{1}pažymėjimas; nurodymasI{2}ženklas
+0{dénouement}[de&#618;'nu:m&#596;&#331;]L{pr.}E{n}I{1}l{(romanoL{ir pan.})}atomazgaI{2}baigiamasis epizodas
+0{denounce}[d&#618;'nauns]E{v}I{1}(pa)smerkti; demaskuoti;F{to denounce smb’s actions}pasmerkti kieno veiksmus;F{to denounce smb as an impostor}demaskuoti ką kaip apgaviką;F{to be denounced as a thief}būti apkaltintam vagysteI{2}L{teis.}įskųstil{(to)}I{3}L{dipl.}paskelbti nebegaliojančiu, denonsuotil{(sutartį)}
+0{denouncement}[d&#618;'naunsm&#601;nt]E{n}A{=R{denunciation}}
+0{denouncer}[d&#618;'nauns&#601;]E{n}įskundėjas
+0{dense}[dens]E{a}I{1}tankusl{(apie miškąL{ir pan.};L{t. p.}L{fiz.})}; sūdrusl{(apie medžiagą)};F{dense crowd}tiršta/didelė miniaI{2}tirštasl{(apie rūką, dūmus)}I{3}sunkiai suprantamas, sudėtingas, pilnas minčių, gilusl{(apie knygą, filmą)}I{4}L{šnek.}bukas, kvailas
+0{densely}['densl&#618;]E{adv}tankiai; tirštai;F{it’s a densely wooded district}tas rajonas – ištisi miškai
+0{densimeter}[den's&#618;m&#618;t&#601;]E{n}L{chem.},L{fiz.}tankiamatis, densimetras
+0{densitometer}[,dens&#618;'t&#596;m&#618;t&#601;]E{n}L{fot.}densitometras
+0{density}['dens&#601;t&#618;]E{n}I{1}tankumas; tirštumas; sūdrumas;F{density of a negative}L{fot.}negatyvo sūdrumasI{2}bukumas, kvailumasI{3}l{(knygos, filmo)}sudėtingumas, gilumasI{4}L{fiz.}tankis
+0{dent}[dent]S{&rArr;}E{n}I{1}įdubimas, įspaudimas; įlenkimas;F{there’s a dent on the wing}automobilio sparnas įlenktasI{2}apmažinimas;F{to make a dent}l{(in)}apmažintil{(ko kiekį)}, padaryti gerą pradžiąI{3}L{tech.}krumplys; įranta, įkartaS{&rArr;}E{v}I{1}įduobti, įspausti; įlenktil{(buferįL{ir pan.})}I{2}(ap)mažinti, sumažinti; (pri)versti pakeistil{(savo nuomonę)}I{3}L{tech.}įkirsti; įrantyti
+0{dental}['dentl]S{&rArr;}E{a}I{1}dantinis, danties;F{dental decay}dantų ėduonis, kariesasI{2}dantisto, dantų gydymo;F{dental nurse}dantų gydytojo seselėI{3}L{fon.}dantinis, dentalinisS{&rArr;}E{n}L{fon.}dantinis/dentalinis priebalsisl{(L{t. p.}X{dental consonant})}
+0{dentate}['dente&#618;t]E{a}L{bot.},L{zool.}dantytas
+0{dentation}[den'te&#618;&#643;n]E{n}L{bot.},L{zool.}dantytumas
+0{denticle}['dent&#618;kl]E{n}L{zool.}dantelis
+0{denticular}[den't&#618;kjul&#601;]E{a}A{=R{denticulate}}
+0{denticulate}[den't&#618;kjul&#601;t]E{a}L{bot.},L{zool.}smulkiai dantytas, turintis dantelius
+0{dentiform}['dent&#618;f&#596;:m]E{a}danties formos/pavidalo
+0{dentifrice}['dent&#618;fr&#618;s]E{n}dantų pasta/milteliai
+0{dentil}['dent&#618;l]E{n}L{archit.}dentikulasl{(danties pavidalo papuošimas)}
+0{dentilabial}[,dent&#618;'le&#618;b&#618;&#601;l]E{a}L{fon.}dantinis lūpinis
+0{dentilingual}[,dent&#618;'l&#618;&#331;gwX{&#601;}l]E{a}L{fon.}dantinis liežuvinis
+0{dentin}['dent&#618;n]E{n}L{amer.}A{=R{dentine}}
+0{dentine}['denti:n]E{n}L{anat.}dentinas
+0{dentist}['dent&#618;st]E{n}dantų gydytojas, dantistas, stomatologas
+0{dentistry}['dent&#618;str&#618;]E{n}dantų gydymas
+0{dentition}[den't&#618;&#643;n]E{n}I{1}dantų kalimasis/prasikalimasI{2}dantų iš(si)dėstymas
+0{dentures}['dent&#643;&#601;z]E{n}E{pl}dantų protezas
+0{denuclearize}[di:'nju:kl&#618;&#601;ra&#618;z]E{v}paversti nebranduoline zona
+0{denudation}[,di:nju:'de&#618;&#643;n]E{n}I{1}knyg. apnuoginimas, atidengimasI{2}L{geol.}denudacija
+0{denudative}[d&#618;'nju:d&#601;t&#618;v]E{a}L{knyg.}apnuoginantis
+0{denude}[d&#618;'nju:d]E{v}I{1}apnuoginti, atidengtiI{2}atimti;F{to denude of hope [money]atimti viltį [pinigus]
+0{denuded}[d&#618;'nju:d&#618;d]E{a}apnuogintas, atidengtas; plikas;F{trees denuded of leaves}pliki medžiai;F{rocks denuded of soil}plikos uolos
+0{denunciation}[d&#618;,n&#652;ns&#618;'e&#618;&#643;n]E{n}I{1}pasmerkimas; demaskavimasI{2}L{teis.}denunciacija, (į)skundimasI{3}L{dipl.}denonsacija, denonsavimas, paskelbimas negaliojančiu
+0{denunciative}[d&#618;'n&#652;ns&#618;&#601;t&#618;v]E{a}A{=R{denunciatory}}
+0{denunciator}[d&#618;'n&#652;ns&#618;e&#618;t&#601;]E{n}I{1}smerkėjasI{2}L{teis.}(į)skundėjas
+0{denunciatory}[d&#618;'n&#652;ns&#618;&#601;tX{&#601;}r&#618;]E{a}smerkiamasis, pasmerkimo; demaskuojamas(is)
+0{Denver}['denv&#601;]E{n}Denverisl{(Kolorado valstijos sostinė)}
+0{deny}[d&#618;'na&#618;]E{v}I{1}(pa)neigti, nuneigti; atmesti;F{to deny the charge}paneigti/atmesti kaltinimą;F{to deny a request}atmesti prašymą;F{to deny this to be the case}tvirtinti, kad reikalas ne tas;F{there’s no denying his popularity}niekas negali nuneigti jo populiarumoI{2}at(si)sakyti; neduoti;F{to deny smb help}atsisakyti suteikti pagalbą, atsisakyti padėti;F{permission was denied}leidimo nedavėI{3}neįleisti, nepriimti;F{to deny oneself to visitors}nepriimti lankytojų/svečių;F{to be denied admittance}būti neįleistam/nepriimtam;F{to deny possession}L{kar.}neleisti užimtiI{4}išsiginti, atsižadėti, neprisipažintil{(savo parašo/žodžiųL{ir pan.})}
+0{deodar}['di:&#601;X{u}da:]E{n}L{bot.}Himalajų kedras
+0{deodorant}[di:'&#601;udX{&#601;}r&#601;nt]S{&rArr;}E{n}dezodorantasS{&rArr;}E{a}(pa)šalinantisl{(blogą)}kvapą
+0{deodorize}[di:'&#601;ud&#601;ra&#618;z]E{v}(pa)šalintil{(blogą)}kvapą, dezodoruoti
+0{deoil}[,di:'&#596;&#618;l]E{v}pašalinti riebalus
+0{deontology}[,di:&#596;n't&#596;l&#601;d&#658;&#618;]E{n}deontologijal{(medicinos etika)}
+0{deorbit}[di:'&#596;:b&#618;t]E{v}išeiti/išvesti iš orbitos
+0{deoxidize}[di:'&#596;ks&#618;da&#618;z]E{v}L{chem.}pašalinti deguonį, dezoksiduoti
+0{deoxigenate}[di:'&#596;ks&#618;d&#658;&#601;ne&#618;t]E{v}L{chem.}(pa)šalinti deguonį, deoksigenuoti
+0{dep.}L{sutr.}X{departs}išvyksta;F{departure}išvykimasX{deposit}indėlisX{deputy}pavaduotojas
+0{depalatalization}[di:,p&aelig;l&#601;t&#601;la&#618;'ze&#618;&#643;n]E{n}L{fon.}depalatizacija
+0{depart}[d&#618;'pa:t]E{v}I{1}išvykti, išeiti, išskristi; išplaukti, išvažiuotil{(from)};F{the delegation is departing this morning}delegacija išvyksta šį rytąI{2}nukrypti, nesilaikytil{(from)};F{to depart from tradition}nesilaikyti tradicijų;F{to depart from one’s word [promise]nesilaikyti/netesėti duoto žodžio [pažado];F{to depart from one’s plans}keisti planus
+0{departed}[d&#618;'pa:t&#618;d]L{knyg.}S{&rArr;}E{a}I{1}L{euf.}miręsI{2}praėjęs, buvęs;F{departed joys}praeities džiaugsmaiS{&rArr;}E{n}X{(the departed)}L{euf.}velionis;L{kuop.}mirusieji
+0{department}[d&#618;'pa:tm&#601;nt]E{n}I{1}l{(banko, ligoninės, parduotuvėsL{ir pan.})}skyrius;F{account/accountant’s/accounting department}buhalterijaI{2}departamentas, skyrius, valdyba, žinyba; ministerija;F{the State Department}Valstybės departamentasl{(JAV užsienio reikalų ministerija)};F{the managing department}reikalų valdybaI{3}l{(mokėjimų, veiklos)}sritis;F{that’s not my department}tai ne mano sritis/reikalasI{4}cechas, skyriusI{5}fakultetas; katedra
+0{departmental}[,di:pa:t'mentl]E{a}I{1}žinybinis; skyriaus, departamento, ministerijosI{2}fakulteto; katedros
+0{departmentalism}[,di:pa:t'ment&#601;l&#618;zm]E{n}I{1}rūpinimasis žinybiniais interesaisI{2}biurokratizmas
+0{departmentalize}[,di:pa:t'mentla&#618;z]E{v}dalyti/skirstyti į skyrius
+0{departmentally}[,di:pa:t'ment&#601;l&#618;]E{adv}žinybiškai
+0{departure}[d&#618;'pa:t&#643;&#601;]E{n}I{1}išvykimas, išvažiavimas, išskridimas, išplaukimas, išėjimas;F{to take one’s departure}išvykti;F{departure platform}L{glžk.}l{(traukinio)}išvykimo platforma;F{there are several departures for Kaunas every day}kiekvieną dieną į Kauną išvyksta keletas autobusų/traukiniųI{2}pasitraukimas, išėjimasl{(iš organizacijosL{ir pan.})};F{departures board}l{(lėktuvų, traukinių)}išvykimo tvarkaraštisI{3}pradinis taškas; naujas dalykas;F{a new departure}nauja linijal{(politikojeL{ir pan.})};F{departure position}pradinė padėtisI{4}nukrypimas; nesilaikymas;F{departure from the rules [the subject]nukrypimas nuo taisyklių [temos];F{in a departure from standard practice...}priešingai negu įprasta
+0{depasture}[di:'pa:st&#643;&#601;]E{v}ganyti(s); (iš)varytil{(gyvulius)}į ganyklą
+0{depauperize}[,di:'p&#596;:p&#601;ra&#618;z]E{v}(iš)gelbėti nuo skurdo, kratytis/atsikratyti skurdo
+0{depend}[d&#618;'pend]E{v}I{1}pasitikėti, pasikliauti;F{I depend upon you}aš pasikliauju jumis;F{I depend on you to do it}aš tikiuosi, kad jūs tai padarysite;F{depend upon it, he’ll come}būkite tikras, kad jis ateis, tikriausiai jis ateisI{2}priklausyti, pareitil{(on, upon – nuo)};F{the length of the treatment depends on the severity of the illness}gydymo trukmė priklauso nuo ligos sunkumoI{3}būti priklausomam/išlaikomam;F{he depends on writing for his living}jis užsidirba pragyvenimą literatūriniu darbuI{4}būti svarstomaml{(teisme, parlamente)}; laukti sprendimoS{&loz;}X{it/that depends}S{&cong;}kaip (čia) pasakius, dar neaišku, pažiūrėsim
+0{dependability}[d&#618;,pend&#601;'b&#618;l&#601;t&#618;]E{n}patikimumas
+0{dependable}[d&#618;'pend&#601;bl]E{a}patikimasl{(apie žmogų, prekes)}; tikrasl{(apie žinias)}
+0{dependance}[d&#618;'pend&#601;ns]E{n}A{=R{dependence}}
+0{dependant}[d&#618;'pend&#601;nt]E{n}I{1}išlaikytinisI{2}L{psn.}pavaldinys
+0{dependence}[d&#618;'pend&#601;ns]E{n}I{1}priklausomybė, priklausomumas, priklausymasl{(on – nuo)};F{to live in dependence}būti priklausomam/išlaikomamI{2}(pasi)tikėjimas;F{to place/put dependence on smb’s abilities}(pasi)tikėti/pasikliauti kieno gabumaisI{3}poreikisl{(vartoti narkotikus, alkoholį)};F{alcohol dependence}alkoholizmasI{4}L{teis.}nagrinėjimas, svarstymas; nuosprendžio/sprendimo laukimas
+0{dependency}[d&#618;'pend&#601;ns&#618;]E{n}I{1}priklausoma teritorija, kolonijaI{2}A{=R{dependence}}1, 3
+0{dependent}[d&#618;'pend&#601;nt]S{&rArr;}E{a}I{1}priklausantisl{(on)}; priklausomas, pavaldus;F{dependent countries}priklausomosios šalysI{2}išlaikomas;F{she is dependent on her daughter}ją išlaiko duktė;F{he’s totally dependent on sleeping pills}jis negali užmigti be migdomųjųl{(vaistų)}S{&rArr;}E{n}L{amer.}A{=R{dependant}}
+0{depending}[d&#618;'pend&#618;&#331;]:X{depending on}E{prep}atsižvelgiant į, pagal;F{depending on the situation}atsižvelgiant į aplinkybes, žiūrint, kokios aplinkybės;F{the temperature varies depending on the season}temperatūra kinta pagal sezonus
+0{depersonalize}[,di:'p&#601;:s&#601;n&#601;la&#618;z]E{v}nuasmeninti, atimti asmeniškas/individualias savybes
+0{depict}[d&#618;'p&#618;kt]E{v}(nu)piešti, (pa)vaizduoti; aprašyti
+0{depiction}[d&#618;'p&#618;k&#643;n]E{n}I{1}vaizdavimas, aprašymasI{2}paveikslas
+0{depilate}['dep&#618;le&#618;t]E{v}(pa)šalinti plaukusl{(nuo kūno)}
+0{depilatory}[d&#618;'p&#618;l&#601;tX{&#601;}r&#618;]S{&rArr;}E{a}(pa)šalinantis plaukus; depiliacinisS{&rArr;}E{n}vaistai plaukams šalinti
+0{deplane}[,di:'ple&#618;n]E{v}l{(ypačL{amer.})}L{av.}išlipti iš lėktuvo; išlaipinti iš lėktuvo
+0{deplete}[d&#618;'pli:t]E{v}I{1}(iš)eikvoti, (iš)semtil{(jėgas, atsargas)};E{pass}išsektiI{2}L{med.}(iš)valyti žarnynąI{3}L{med.}nuleisti kraują
+0{depletion}[d&#618;'pli:&#643;n]E{n}I{1}l{(jėgų, atsargų)}išsėmimas, išeikvojimas;F{the depletion of the ozone layer}ozono sluoksnio suplonėjimasI{2}L{med.}žarnyno (iš)valymasI{3}L{med.}kraujo nuleidimas
+0{depletive}[d&#618;'pli:t&#618;v]L{med.}S{&rArr;}E{a}vidurius paleidžiantis, vidurių paleidžiamasisS{&rArr;}E{n}vidurių paleidžiamasis vaistas
+0{depletory}[d&#618;'pli:t&#601;r&#618;]A{=R{depletive}}E{a}
+0{deplorable}[d&#618;'pl&#596;:r&#601;bl]E{a}I{1}apgailėtinas, apverktinas, liūdnas;F{deplorable fact}apgailėtinas/liūdnas faktasI{2}bjaurus;F{deplorable behaviour}labai blogas elgesys
+0{deplore}[d&#618;'pl&#596;:]E{v}I{1}apgailėti, apgailestautiI{2}laikyti smerktinu, smerkti
+0{deploy}[d&#618;'pl&#596;&#618;]E{v}I{1}iš(si)dėstyti; dislokuotil{(raketasL{ir pan.})}I{2}L{kar.}iš(si)skleisti
+0{deployment}[d&#618;'pl&#596;&#618;m&#601;nt]E{n}I{1}iš(si)dėstymas; dislokavimasI{2}L{kar.}iš(si)skleidimas
+0{deplume}[d&#618;'plu:m]E{v}I{1}nupešti plunksnasI{2}nuplėštil{(garbę)}, atimtil{(turtus, valdžiąL{ir pan.})}
+0{depod}[di:'p&#596;d]E{v}(iš)gliaudytil{(žirniusL{ir pan.})}
+0{depolarization}[di:,p&#601;ul&#601;ra&#618;'ze&#618;&#643;n]E{n}I{1}L{fiz.},L{med.}depoliarizacijaI{2}L{polit.}kompromisas
+0{depolarize}[di:'p&#601;ul&#601;ra&#618;z]E{v}I{1}L{fiz.}depoliarizuotiI{2}sustabdyti susipriešinimą, suartintil{(pažiūras, partijas)}
+0{depolute}[,di:p&#601;'lu:t]E{v}(pa)šalinti gyvenamosios aplinkos užteršimą
+0{depone}[d&#618;'p&#601;un]E{v}L{teis.}duoti rašytinius parodymusl{(su priesaika)}
+0{deponent}[d&#618;'p&#601;un&#601;nt]E{n}L{teis.}prisiekusysis liudytojas; asmuo, duodantis rašytinius parodymus
+0{depopulate}[di:'p&#596;pjule&#618;t]E{v}(su)mažinti gyventojų skaičiųl{(gyvenvietėje)}, paliktil{(gyvenvietę)}be gyventojų; (su)mažėtil{(apie gyventojus)}
+0{depopulation}[di:,p&#596;pju'le&#618;&#643;n]E{n}gyventojų (su)mažinimas/(su)mažėjimas; depopuliacija
+0{deport^{1}}[d&#618;'p&#596;:t]E{v}išsiųsti, ištremti, deportuoti
+0{deport^{2}}E{v}E{refl}L{knyg.}elgtis
+0{deportation}[,di:p&#596;:'te&#618;&#643;n]E{n}išsiuntimas, (iš)trėmimas, deportacija, deportavimas
+0{deportee}[,di:p&#596;:'ti:]E{n}tremtinys, deportuotasis
+0{deportment}[d&#618;'p&#596;:tm&#601;nt]E{n}laikysena; elgsena, manieros
+0{depose}[d&#618;'p&#601;uz]E{v}I{1}(pa)šalinti, atleistil{(iš pareigų)}; nuverstil{(nuo sosto)};F{to depose a deputy}atšaukti deputatąI{2}L{teis.}(pa)liudytil{(su priesaika)}; apklausti prisiekusį liudytoją
+0{deposit}[d&#618;'p&#596;z&#618;t]S{&rArr;}E{n}I{1}l{(banko)}indėlis; depozitas;F{money on deposit}banke laikomi pinigaiI{2}įmokal{(kreditui dengti)};F{to put down a deposit on a house}mokėti įmoką už namąI{3}rankpinigiai; užstatas; pinigai, mokami už tarąl{(perkant pieną, vynąL{ir pan.})}I{4}l{(dumbloL{ir pan.})}nusėdimasI{5}l{(L{ppr.}E{pl})}nuosėdos, sąnašosI{6}L{geol.}telkinys, klodasI{7}L{polit.}kandidato užstatasl{(rinkimų kampanijos metu)};F{to lose one’s deposit}nesurinkti reikiamo balsų skaičiausS{&rArr;}E{v}I{1}dėti į bankąl{(pinigus)}; deponuotiI{2}atiduoti saugotil{(lagaminą, brangenybes)}I{3}duoti rankpinigių/užstatąI{4}(pa)dėti, paliktil{(kur)}; numestiI{5}nusėsti, leistis (į dugną)l{(apie nuosėdas)}, sunešti/palikti sluoksnįl{(upėjeL{ir pan.})}
+0{depositary}[d&#618;'p&#596;z&#618;tX{&#601;}r&#618;]E{n}I{1}L{teis.}patikėtinis; saugotojasI{2}L{kom.}asmuo, kuriam patikimi indėliai/įnašaiL{ir pan.}
+0{deposition}[,dep&#601;'z&#618;&#643;n]E{n}I{1}nuvertimasl{(nuo sosto)}; (pa)šalinimas, atleidimasl{(iš pareigų)}I{2}L{teis.}raštiškas parodymas, paliudijimasl{(su priesaika)}I{3}L{bibl.}nuėmimas nuo kryžiausI{4}L{geol.}nusėdimas; nuosėdos
+0{depositor}[d&#618;'p&#596;z&#618;t&#601;]E{n}L{fin.}indėlininkas, deponentas, depozitorius
+0{depository}[d&#618;'p&#596;z&#618;tX{&#601;}r&#618;]E{n}I{1}saugyklaI{2}L{prk.}lobynas;F{he is a depository of knowledge}jis – tikras mokslo/žinių lobynas
+0{depot}['dep&#601;u]E{n}I{1}sandėlis, saugyklaI{2}bazė;F{sales depot}realizavimo bazė;F{depot ship}plaukiojančioji bazė;F{depot aerodrome}bazinis aerodromasI{3}L{glžk.}depas;L{aut.}parkasI{4}L{amer.}['di:p&#601;u]geležinkelio/autobusų stotisI{5}L{kar.}l{(naujokų)}mokymo bazė;F{depot battery}atsarginėl{(mokomoji)}baterija
+0{depravation}[,depr&#601;'ve&#618;&#643;n]E{n}I{1}tvirkinimas, gadinimasI{2}(pa)blogėjimas, gedimas
+0{deprave}[d&#618;'pre&#618;v]E{v}tvirkinti; gadinti
+0{depraved}[d&#618;'pre&#618;vd]E{a}ištvirkęs, sugedęs, moraliai puolęs, nedoras
+0{depravity}[d&#618;'pr&aelig;v&#601;t&#618;]E{n}I{1}ištvirkimas, tvirkavimas; ydingumasI{2}L{bažn.}nuodėmingumas
+0{deprecate}['depr&#601;ke&#618;t]E{v}griežtai smerkti, protestuoti; prieštarauti; F{to deprecate war}griežtai smerkti karą;F{to deprecate hasty actions}pasmerkti skubotus veiksmus
+0{deprecating}['depr&#601;ke&#618;t&#618;&#331;]E{a}A{=R{deprecatory}}
+0{deprecation}[,depr&#601;'ke&#618;&#643;n]E{n}(pa)smerkimas; protestas, prieštaravimas, nepritarimas
+0{deprecative}['depr&#601;ke&#618;t&#618;v]E{a}nepritariamas; smerkiantis
+0{deprecatory}['depr&#601;ke&#618;tX{&#601;}r&#618;]E{a}I{1}nepritariamas, nepritarimoI{2}žadinantis gailestį, keliantis pasigailėjimą
+0{depreciate}[d&#618;'pri:&#643;&#618;e&#618;t]E{v}I{1}nuvertinti; nuvertėti, nustoti vertės;F{property has depreciated}nuosavybė neteko vertėsI{2}menkinti, mažinti vertę, nepakankamai vertinti
+0{depreciatingly}[d&#618;'pri:&#643;&#618;e&#618;t&#618;&#331;l&#618;]E{adv}nepagarbiai, atsainiai
+0{depreciation}[d&#618;,pri:&#643;&#618;'e&#618;&#643;n]E{n}I{1}nuvertinimas; nuvertėjimas, vertės (su)mažėjimas, devalvacijaI{2}nevertinimas;F{to speak in a tone of depreciation}kalbėti niekinamaiI{3}nuolaida dėl amortizacijosI{4}L{tech.}amortizacija, nusidėvėjimas;F{depreciation expenses}amortizacijos atskaitymai
+0{depreciatory}[d&#618;'pri:&#643;&#618;&#601;tX{&#601;}r&#618;]E{a}nuvertinantis, mažinantisl{(vertę)};F{depreciatory remarks}niekinamos pastabos
+0{depredate}['depr&#618;de&#618;t]E{v}L{knyg.}I{1}nusiaubti, suniokotiI{2}plėšti, grobti
+0{depredation}[,depr&#618;'de&#618;&#643;n]E{n}l{(L{džn.}E{pl})}L{knyg.}I{1}(su)niokojimas, (su)griovimasI{2}plėšimas, grobstymas
+0{depredator}['depr&#618;de&#618;t&#601;]E{n}L{knyg.}I{1}niokotojasI{2}plėšikas
+0{depress}[d&#618;'pres]E{v}I{1}(pri)slėgti, liūdintiI{2}slopinti, silpninti; mažintil{(kainą, uždarbįL{ir pan.})};F{to depress the voice}prislopinti/pažeminti balsą;F{to depress the action of the heart}silpninti širdies veikląI{3}nuspaustil{(mygtukąL{ir pan.})}; nuleistil{(svertą)}
+0{depressant}[d&#618;'presX{&#601;}nt]L{med.}E{n}raminamasis/slopinamasis vaistas
+0{depressed}[d&#618;'prest]E{a}I{1}prislėgtas, nusiminęsl{(about, at – dėl)}I{2}smunkantis, smukęs, sumažėjęsl{(apie ekonominį aktyvumąL{ir pan.})};F{depressed areas}rajonai, kuriuose didelis nedarbas;F{when the economy is depressed ...}kai ekonomika sustingusi...I{3}įlenktas; įdubęs
+0{depressing}[d&#618;'pres&#618;&#331;]E{a}slegiantis, liūdnas
+0{depression}[d&#618;'pre&#643;n]E{n}I{1}nusiminimas, prislėgta nuotaika, depresijaI{2}L{ekon.}depresija, nuosmukis, sąstingis;F{business depression}ekonominė krizėI{3}l{(paviršiaus)}įdubimas, žemuma;F{depression in the ground}įduba, lomaI{4}nuspaudimasI{5}(su)mažėjimas;l{(balso)}(pri)slopinimasI{5}L{meteor.}depresija, žemo atmosferos slėgio sritisI{6}L{fiz.}depresija, nuosmukisI{7}L{tech.}išretėjimas
+0{depressive}[d&#618;'pres&#618;v]E{a}I{1}slegiantis, liūdnasI{2}L{med.}depresinis;F{depressive illness}depresija
+0{depressurize}[,di:'pre&#643;&#601;ra&#618;z]E{v}I{1}(su)mažinti slėgįl{(inde, kamerojeL{ir pan.})}I{2}iš(si)hermetizuotil{(apie erdvėlaivio kabinąL{ir pan.})}
+0{deprivation}[,depr&#618;'ve&#618;&#643;n]E{n}I{1}netekimas, atėmimasl{(laisvės, teisių, laipsnioL{ir pan.})}I{2}nepriteklius, trūkumas; skurdas
+0{deprive}[d&#618;'pra&#618;v]E{v}I{1}atimtil{(laisvę, teisesL{ir pan.}; of)}; netektil{(of)};F{to deprive smb of life}atimti kam gyvybęI{2}ne(pri)leisti; atskirti
+0{deprived}[d&#618;'pra&#618;vd]S{&rArr;}E{a}gyvenantis skurde;F{deprived areas of the city}skurdžių/nuskurdę miesto kvartalaiS{&rArr;}E{n}X{(the deprived)}skurdžiai; vargšai
+0{dept}L{sutr.}X{department}skyrius; departamentas; valdyba; ministerija
+0{depth}[dep&theta;]E{n}I{1}gylis; giluma(s), gelmėsl{(L{t. p.}L{prk.})};F{at a depth of ten centimetres}dešimties centimetrų gyliu;F{in depth}giliai; nuodugniai;F{in the depth of one’s heart}širdies gilumoje; F{the depth of one’s feelings}jausmų gilumas;F{the depth of the crisis}krizės stiprumas;F{a man of great depth}eruditasI{2}vidurys;F{in the depth of night}vidurnaktį; nakties glūdumoje;F{in the depths of winter}žiemos viduryje, viduržiemį;F{in the depth of the country}užkampyje, gūdžioje provincijojeI{3}l{(spalvų)}tirštumas, sodrumas;l{(garso)}stiprumas, intensyvumas;L{fot.}l{(vaizdo)}ryškumas I{4}L{jūr.}l{(borto)}aukštisS{&loz;}X{to be out of}l{arba}X{beyond one’s depth}X{a)}nesiekti dugnol{(gilioje vietoje)};X{b)}būti neįkandamam, nesuprasti;F{to get/go out of one’s depth}nebesusigaudyti,S{&cong;}nebejausti žemės po kojų;F{to plumb the depths}l{(of)}nugrimztil{(į liūdesį, nusivylimą)};F{(down) in the depths of despair}visiškoje neviltyje
+0{depth-bomb}['dep&theta;b&#596;m]E{n}L{jūr.}giluminė bomba
+0{depth-charge}['dep&theta;t&#643;a:d&#658;]E{n}A{=R{depth-bomb}}
+0{depth-gauge}['dep&theta;ge&#618;d&#658;]E{n}vandens lygio matuoklė; gylmatis, gilumo matuoklė;l{(upės)}limnigrafas;l{(jūros, vandenyno)}mareografas
+0{depurate}['depjure&#618;t]E{v}gryninti, ap(si)valytil{(from – nuo)}
+0{depuration}[,depju're&#618;&#643;n]E{n}valymas, ap(si)valymas; gryninimas
+0{deputation}[,depju'te&#618;&#643;n]E{n}I{1}deputacija, delegacijaI{2}delegavimas
+0{depute}[d&#618;'pju:t]E{v}I{1}įgalioti; suteikti įgaliojimus; deleguotiI{2}skirti atstovu, paskirti pavaduotil{(ligos metu, išvykus)}
+0{deputise}['depjuta&#618;z]E{v}pavaduoti, paskirti deputatu, patikėti pavaduotojui
+0{deputize}['depjuta&#618;z]E{v}I{1}atstovautil{(for – kam)}, pavaduotil{(for – ką)}I{2}l{(ypačL{amer.})}skirti deputatuI{3}dubliuotil{(aktoriųL{ir pan.})}
+0{deputy}['depjut&#618;]E{n}I{1}deputatas; atstovas;F{by deputy}per atstovąI{2}pavaduotojas;F{deputy premier}vicepremjeras;F{the former Deputy Chairman of the Commission}buvusis komisijos pirmininko pavaduotojasI{3}L{amer.}šerifo pavaduotojasl{(L{t. p.}X{deputy sheriff})}
+0{deracinate}[d&#618;'r&aelig;s&#618;ne&#618;t]E{v}L{knyg.}(iš)rauti su šaknimis; (pa)šalinti, (iš)naikinti
+0{derail}[d&#618;'re&#618;l]E{v}l{(L{ppr.}E{pass})}nuversti/nuleisti nuo bėgių; nueiti nuo bėgiųl{(apie traukinį, tramvajų)}
+0{derailment}[d&#618;'re&#618;lm&#601;nt]E{n}l{(traukinio)}katastrofa, nuėjimas/nuleidimas nuo bėgių
+0{derange}[d&#618;'re&#618;nd&#658;]E{v}I{1}išvesti iš protoI{2}(su)ardyti, (su)trikdyti, (su)žlugdytil{(darbą, planus)}I{3}(su)gadintil{(automobilįL{ir pan.})}
+0{deranged}[d&#618;'re&#618;nd&#658;d]E{a}I{1}išprotėjęs, pamišęs;F{to be (mentally) deranged}būti pamišusiam/išprotėjusiamI{2}sutrikdytas, sugadintas
+0{derangement}[d&#618;'re&#618;nd&#658;m&#601;nt]E{n}I{1}l{(protinis)}nenormalumas, pamišimasI{2}sutrikimas, pairimas, tvarkos suardymas
+0{derate}[d&#618;'re&#618;t]E{v}(su)mažinti mokesčių normas; atleistil{(įmonęL{ir pan.})}nuo vietinių mokesčių
+0{deration}[di:'r&aelig;&#643;n]E{v}panaikintil{(produktų)}normavimąl{(kortelių sistemąL{ir pan.})}
+0{Derby}['da:b&#618;]E{n}I{1}Derbisl{(Anglijos miestas ir grafystė)}I{2}derbis, ristūnų lenktynės;F{Derby Day}metinės ristūnų lenktynės Epsomel{(prie Londono)}I{3}X{derby}['d&#601;:b&#618;]L{amer.}katiliukasl{(kieta vyriška skrybėlė)}
+0{Derby.}L{sutr.}X{Derbyshire}Derbišyrasl{(Anglijos grafystė)}
+0{derecognize}[,di:'rek&#601;gna&#618;z]E{v}atimti teisę atstovautil{(ypač apie profesines sąjungas)}
+0{deregulate}[,di:'regjule&#618;t]E{v}I{1}panaikinti valstybės reguliavimąl{(kainųL{ir pan.})}I{2}L{tech.}iš(si)reguliuoti
+0{deregulation}[d&#618;,regju'le&#618;&#643;X{&#601;}n]E{n}reglamentavimo panaikinimas
+0{Derek}['der&#618;k]E{n}Derekas
+0{derelict}['der&#601;l&#618;kt]S{&rArr;}E{a}I{1}apleistas, paliktas be priežiūros, pamestas; bešeimininkisl{(apie turtą)};F{derelict house}apleistas namasI{2}L{amer.}nusižengiantis, neatliekantisl{(pareigos)}S{&rArr;}E{n}I{1}visų apleistas žmogus; benamisI{2}L{amer.}žmogus, neatliekantis savo pareigosI{3}bešeimininkis turtasI{4}l{(įgulos)}paliktas laivasI{5}L{teis.}sausuma, susidariusi atsitraukus jūrai
+0{dereliction}[,der&#601;'l&#618;k&#643;n]E{n}I{1}apleidimas, apleistumas, neprižiūrėjimasI{2}pareigos nevykdymasl{(L{ppr.}X{dereliction of duty})}I{3}jūros atsitraukimas nuo kranto; kranto samplovos
+0{derequisition}[,di:rekw&#618;'z&#618;&#643;n]E{v}grąžintil{(savininkui)}rekvizuotą turtą
+0{derestrict}[,di:r&#618;'str&#618;kt]E{v}panaikinti apribojimusl{(ypač greičio)}
+0{deride}[d&#618;'ra&#618;d]E{v}išjuokti, pajuokti
+0{de rigueur}[d&#601;r&#618;'g&#601;:]L{pr.}būtinas pagal etiketą
+0{derision}[d&#618;'r&#618;&#658;n]E{n}I{1}išjuokimas, pajuoka, pašaipa;F{an object of derision}pajuokos objektas;F{to hold/have in derision}pajuokti;F{to be the derision}l{(of)},X{to be in derision}būti pajuokos/pašaipų objektu;F{to bring into derision}padaryti pajuokos objektu
+0{derisive}[d&#618;'ra&#618;s&#618;v]E{a}I{1}pajuokiamas, pašaipus;F{derisive tone}pajuokiamas tonasI{2}juokingas, nevykęsl{(apie pastangasL{ir pan.})}
+0{derisory}[d&#618;'ra&#618;sX{&#601;}r&#618;]E{a}I{1}juokingas, tik juoko vertas;F{the compensation offered to me was derisory}man pasiūlė juokingai mažą kompensacijąI{2}A{=R{derisive}}1
+0{derivable}[d&#618;'ra&#618;v&#601;bl]E{a}gaunamas, išvedamas
+0{derivation}[,der&#618;'ve&#618;&#643;n]E{n}I{1}kilmė; šaltinis; kilmės nustatymas;F{a word of Latin derivation}lotyniškos kilmės žodisI{2}L{kalb.}žodžių vedyba, derivacijaI{3}L{spec.}derivatas I{4}L{mat.}l{(teoremos)}išvedimas, sprendimasI{5}L{el.}atsišakojimas, šuntas
+0{derivative}[d&#618;'r&#618;v&#601;t&#618;v]S{&rArr;}E{n}I{1}L{gram.}išvestinis žodis, vedinys, derivatasI{2}L{chem.}darinys, derivatasS{&rArr;}E{a}išvestinis; nesavitas, nurašytas, neoriginalus
+0{derive}[d&#618;'ra&#618;v]E{v}I{1}gauti; įgyti;F{to derive benefit [pleasure]turėti naudą [malonumą]l{(from – iš)}I{2}kilti, būti kilusl{(apie žodžiusL{ir pan.})};F{French derives from Latin}prancūzų kalba kilusi iš lotynų kalbosI{3}nustatyti kilmę, kildinti; išvestiI{4}nuvestil{(vandenį)}I{5}L{el.}šuntuoti
+0{derm(a)}['d&#601;:m(&#601;)]E{n}L{anat.}oda
+0{dermal}['d&#601;:ml]E{a}L{med.}odos, odinis
+0{dermatitis}[,d&#601;:m&#601;'ta&#618;t&#618;s]E{n}L{med.}dermatitas
+0{dermatologist}[,d&#601;:m&#601;'t&#596;l&#601;d&#658;&#618;st]E{n}dermatologas
+0{dermatology}[,d&#601;:m&#601;'t&#596;l&#601;d&#658;&#618;]E{n}dermatologija
+0{dermatosis}[,d&#601;:m&#601;'t&#601;us&#618;s]E{n}L{med.}dermatozė, odos liga
+0{dermis}['d&#601;:m&#618;s]E{n}A{=R{derm(a)}}
+0{dernier}['d&#601;:nj&#601;&#618;]L{pr.}E{a}paskutinis;F{dernier cri}[kr&#618;]paskutinis mados žodis;F{dernier resort}paskutinė priemonė
+0{derogate}['der&#601;ge&#618;t]E{v}L{knyg.}I{1}menkinti, mažintil{(nuopelnus)};F{to derogate from smb’s rights}(su)varžyti kieno teises;F{to derogate from smb’s reputation}griauti/paliesti kieno reputacijąI{2}žeminti savo garbę/orumąI{3}vengti atlikti
+0{derogation}[,der&#601;'ge&#618;&#643;n]E{n}L{knyg.}I{1}l{(nuopelnų)}menkinimas;l{(teisių)}varžymas;l{(reputacijos)}griovimasI{2}žeminimasI{3}vengimas; nukrypimas
+0{derogatory}[d&#618;'r&#596;g&#601;tX{&#601;}r&#618;]E{a}I{1}menkinantis, menkinamasisI{2}žeminantis, užgaulus
+0{derrick}['der&#618;k]E{n}I{1}L{tech.}derikas, strėlinis kranasl{(L{t. p.}X{derrick crane})};F{creeper derrick}vikšrinis derikasI{2}gręžimo bokštas
+0{derriere}['der&#618;&#604;&#601;]L{pr.}E{n}L{juok.},L{euf.}užpakalis
+0{derring-do}[,der&#618;&#331;'du:]E{n}L{psn.},L{juok.}beprotiška drąsa, didvyriškas darbas
+0{derringer}['der&#618;nd&#658;&#601;]E{n}pistoletas
+0{derusting}[di:'rast&#618;&#331;]E{n}L{tech.}rūdžių šalinimas
+0{derv}[d&#601;:v]E{n}dyzelinis kuras
+0{dervish}['d&#601;:v&#618;&#643;]E{n}dervišas
+0{desalinate, desalinize}[di:'s&aelig;l&#618;ne&#618;t, di:'s&aelig;l&#601;na&#618;z]E{v}A{=R{desalt}}
+0{desalination}[di:,s&aelig;l&#618;'ne&#618;&#643;X{&#601;}n]E{n}gėlinimas
+0{desalt}[,di:'s&#596;:lt]E{v}gėlinti, daryti gėląl{(vandenį)}
+0{descale}[,di:'ske&#618;l]E{v}pašalinti/valyti nuoviras/nuodegas
+0{descant}S{&rArr;}E{n}['desk&aelig;nt]I{1}L{muz.}diskantas; sopranasI{2}L{poet.}daina, melodijaS{&rArr;}E{v}[d&#618;'sk&aelig;nt]I{1}dainuoti/griežti diskantuI{2}L{knyg.}daug kalbėti, smulkiai dėstytil{(on, upon)}
+0{descend}[d&#618;'send]E{v}I{1}nusileisti, leisti/eiti žemyn; nužengti;F{to descend in a field}nusileisti laukel{(apie balionąL{ir pan.})};F{to descend a hill}nusileisti nuo kalvosI{2}kilti, būti kilusl{(from)};F{he descends}l{arba}X{is descended from a French family}kilimo jis prancūzas I{3}persiduoti, pereitil{(iš kartos į kartą)};F{to descend from father to son}pereiti/persiduoti iš tėvo sūnuiI{4}užeiti, stotil{(apie tylą, tamsą; on, over)}I{5}užpulti; užklupti, užgriūtil{(upon, on)};F{the enemy descended on them by night}priešas užpuolė juos naktį;F{they descended on their friends for the night}jie užgriuvo pas draugus nakvynėsI{6}nusileisti, nusižemintil{(to – iki)}
+0{descendable}[d&#618;'send&#601;bl]E{a}A{=R{descendible}}
+0{descendant}[d&#618;'send&#601;nt]E{n}palikuonis, įpėdinis
+0{descendible}[d&#618;'send&#601;bl]E{a}perduodamas, pereinantisl{(paveldėjimo būdu)}
+0{descending}[d&#618;'send&#618;&#331;]E{a}I{1}nusileidžiantis, einantis žemyn, žemyneigis I{2}L{mat.}mažėjantisl{(apie skaičių eilę)}
+0{descent}[d&#618;'sent]E{n}I{1}nusileidimas, leidimasis;F{to make a parachute descent}nusileisti su parašiutuI{2}l{(kalno)}šlaitas, nuokalnėI{3}l{(balsoL{ir pan.})}(pa)žemėjimas;l{(temperatūros)}kritimasI{4}l{(moralinis)}smukimasl{(into)}I{5}staigus užpuolimas; išsikėlimas, desantas;F{to make a descent}l{(on, upon)}užpulti; užgriūtiI{6}kilmė, kilimas;F{she’s of Lithuanian descent}ji – lietuvių kilmėsI{7}L{teis.}perėjimas, paveldėjimasS{&loz;}X{Descent from the Cross}nuėmimas nuo kryžiaus
+0{descramble}[,di:'skr&aelig;mbl]E{v}iššifruoti; dekoduoti
+0{describe}[d&#618;'skra&#618;b]E{v}I{1}aprašyti, pavaizduoti; apibūdinti, charakterizuoti;F{I wouldn’t describe him as stupid}aš nepasakyčiau, kad jis kvailasI{2}L{geom.}apibrėžtil{(apskritimą)}
+0{description}[d&#618;'skr&#618;p&#643;n]E{n}I{1}aprašymas, apibūdinimas, pavaizdavimas;F{to answer/fit a description}atitikti aprašymą;F{to beggar/baffle/defy description}būti neaprašomam;F{beyond/past description}neapsakomas, neaprašomasI{2}rūšis, tipas;F{of every description}įvairiausias;F{of the worst description}blogiausios rūšiesI{3}L{geom.}apibrėžimasl{(apskritimo)}
+0{descriptive}[d&#618;'skr&#618;pt&#618;v]E{a}aprašomasis; vaizduojamasis;F{descriptive geometry}braižomoji geometrija;F{descriptive style}aprašomasis stilius;F{descriptive attribute}L{gram.}aprašomasis pažyminys
+0{descriptor}[d&#618;'skr&#618;pt&#601;]E{n}L{spec.}deskriptorius;F{descriptor language}deskripcinė kalba
+0{descry}[d&#618;'skra&#618;]E{v}L{knyg.},L{psn.}I{1}įžiūrėti, pastebėtiI{2}surasti, atskleisti
+0{Desdemona}[,dezd&#618;'m&#601;un&#601;]E{n}Dezdemonal{(vardas)}
+0{desecrate}['des&#618;kre&#618;t]E{v}I{1}išniekintil{(šventovę)}, profanuotiI{2}sudarkyti, subjaurintil{(peizažąL{ir pan.})}
+0{desecration}[,des&#618;'kre&#618;&#643;n]E{n}I{1}išniekinimas, profanacijaI{2}sudarkymas
+0{deseed}[,di:'si:d]E{v}išimti/pašalinti sėklasl{(iš daržoviųL{ir pan.})}
+0{desegregate}[di:'segr&#618;ge&#618;t]E{v}panaikinti segregaciją, desegreguoti
+0{deselect}[,di:s&#618;'lekt]E{v}L{polit.}nebekeltil{(parlamentaro)}kandidatu kitiems rinkimams
+0{desensitize}[di:'sens&#618;ta&#618;z]E{v}I{1}daryti ne taip jautrų, (su)mažinti jautrumą I{2}L{fot.},L{med.}desensibilizuoti
+0{desert^{1}}S{&rArr;}E{n}['dez&#601;t]I{1}dykuma, negyvenama vietaI{2}L{prk.}gūdi provincija, nuobodi temaL{ir pan.}S{&rArr;}E{a}['dez&#601;t]dykumos; negyvenamas;F{desert island}negyvenama salaS{&rArr;}E{v}[d&#618;'z&#601;:t]I{1}palikti, mestil{(šeimąL{ir pan.})}I{2}palikti;F{to desert a village}palikti kaimą;F{his courage [his appetite] deserted him}jis neteko drąsos [apetito]I{3}l{(ypačL{kar.})}dezertyruoti, pabėgtil{(from)};F{to desert to the enemy camp}perbėgti į priešo pusę
+0{desert^{2}}[d&#618;'z&#601;:t]E{n}l{(L{ppr.}E{pl})}nuopelnai; kas nors nusipelnyta/užtarnautal{(ypač bloga)};F{to treat people according to their deserts}elgtis su žmonėmis pagal jų nuopelnus;F{to get/obtain one’s (just) deserts, to meet with one’s deserts}gauti pagal nuopelnus
+0{deserted}[d&#618;'z&#601;:t&#618;d]E{a}tuščias, apleistas; negyvenamas
+0{deserter}[d&#618;'z&#601;:t&#601;]E{n}l{(ypačL{kar.})}dezertyras, pabėgėlis; perbėgėlis
+0{desertification}[d&#618;,z&#601;:t&#618;f&#618;'ke&#618;&#643;n]E{n}žemės virtimas dykuma
+0{desertion}[d&#618;'z&#601;:&#643;n]E{n}I{1}l{(šeimosL{ir pan.})}palikimas, pametimas; apleidimas;F{in utter desertion}visų apleistas;F{desertion of one’s duty}pareigos ne(į)vykdymasI{2}l{(ypačL{kar.})}dezertyravimas, pabėgimas
+0{deserve}[d&#618;'z&#601;:v]E{v}už(si)tarnauti, nusipelnyti;F{to deserve well [ill]būti vertam [nevertam], užsitarnauti pagyrimą [bausmę];F{to deserve well of one’s country}turėti nuopelnų tėvynei;F{this picture deserves special attention}tas paveikslas ypač vertas dėmesio;F{he deserves to be helped}jam verta padėti
+0{deserved}[d&#618;'z&#601;:vd]E{a}pelnytas;F{deserved punishment}pelnyta bausmė
+0{deservedly}[d&#618;'z&#601;:v&#618;dl&#618;]E{adv}pelnytai, pagal nuopelnus;F{deservedly so}visai pelnytai
+0{deserving}[d&#618;'z&#601;:v&#618;&#331;]E{a}nusipelnęs; vertas;F{to be deserving}l{(of)}būti vertaml{(pagarbosL{ir pan.})}
+0{desex}[di:'seks]E{v}I{1}kastruoti, sterilizuotiI{2}(pa)daryti mažiau seksualų
+0{desexualize}[,di:'sek&#643;u&#601;la&#618;z]E{v}atimtil{(ko)}seksualumą
+0{desiccant}['des&#618;k&#601;nt]E{n}L{chem.},L{med.}desikantas, sausiklis
+0{desiccate}['des&#618;ke&#618;t]E{v}L{spec.}(iš)džiovinti; (iš)džiūti
+0{desiccated}['des&#618;ke&#618;t&#618;d]E{a}L{spec.}(iš)džiovintas;F{desiccated milk}pieno milteliai;F{desiccated apples}džiovinti obuoliai
+0{desiccation}[,des&#618;'ke&#618;&#643;n]E{n}L{spec.}(iš)džiovinimas, (iš)džiūvimas; desikacija
+0{desiccator}['des&#618;ke&#618;t&#601;]E{n}I{1}L{spec.}džiovinimo krosnis/spinta; džiovintuvasI{2}L{chem.}eksikatorius
+0{desiderata}[d&#618;,z&#618;d&#601;'re&#618;t&#601;, -'ra:t&#601;]E{pl}A{L{žr.}R{desideratum}}
+0{desiderate}[d&#618;'z&#618;d&#601;re&#618;t]E{v}L{psn.}jausti trūkumą, pasigesti; trokšti, geisti
+0{desiderative}[d&#618;'z&#618;d&#601;rX{&#601;}t&#618;v]E{a}I{1}reiškiantis norąI{2}L{kalb.}dezideratyvinis
+0{desideratum}[d&#618;,z&#618;d&#601;'re&#618;t&#601;m]L{lot.}(E{pl}-ta)E{n}I{1}kas nors trūkstama/norimaI{2}E{pl}dezideratai
+0{design}[d&#618;'za&#618;n]S{&rArr;}E{n}I{1}projektas; dizainas; konstrukcijaI{2}kompozicija, piešinys, eskizas;F{the design of a painting}paveikslo eskizas/kompozicija;F{ornamental design}ornamentasI{3}modelis; dizainas;F{this season’s new designs}šio sezono naujieji modeliaiI{4}sumanymas, planas, ketinimas;F{by design}tyčia;F{to have designs on smth}domėtis kuol{(tikintis ką gauti)};F{he has designs on your daughter}jis turil{(rimtų)}ketinimų dėl jūsų duktersI{5}l{(L{džn.}E{pl})}kėslai, užmačios;F{to have/harbour designs on/against smb}kėsintis į kąI{6}projektavimas; konstravimasS{&rArr;}E{v}I{1}projektuoti; konstruotil{(mašinasL{ir pan.})}; būti projektuotoju/konstruktoriumiI{2}piešti/daryti eskizusI{3}(su)kurti, sudaryti; modeliuoti;F{design dresses}kurti naujus drabužių modelius I{4}E{pass}skirti, numatyti
+0{designate}S{&rArr;}E{a}['dez&#618;gn&#601;t]paskirtas, bet dar nepradėjęs eiti pareigųS{&rArr;}E{v}['dez&#618;gne&#618;t]I{1}pažymėti, nustatyti;F{to designate boundaries on the map}pažymėti ribas žemėlapyjeI{2}pavadinti, nurodytiI{3}skirti;F{the funds designated for this project}lėšos skirtos šiam projektui;F{he’s been designated ambassador to France}jį paskyrė ambasadoriumi į Prancūziją
+0{designation}[,dez&#618;g'ne&#618;&#643;n]E{n}I{1}pažymėjimas; pavadinimas; nurodymasI{2}(pa)skyrimasI{3}L{fiz.}žyminys
+0{designed}[d&#618;'zaind]E{a}I{1}projektinis; konstrukcinisI{2}skirtas, planuotas;F{this course is designeded for foreigners}šis kursas skirtas užsieniečiamsI{3}tyčinis
+0{designedly}[d&#618;'za&#618;n&#618;dl&#618;]E{adv}tyčia
+0{designer}[d&#618;'za&#618;n&#601;]E{n}I{1}konstruktorius, projektuotojasI{2}dailininkas modeliuotojas, modelininkas; dizaineris;F{costume designer}L{teatr.}kostiumininkasI{3}pinklininkas, intriguotojas
+0{designing}[d&#618;'za&#618;n&#618;&#331;]S{&rArr;}E{n}I{1}projektavimasI{2}l{(drabužių)}modeliavimasS{&rArr;}E{a}gudrus, klastingas
+0{desilting}[di:'s&#618;lt&#618;&#331;]E{n}dumblo šalinimas
+0{desirability}[d&#618;,za&#618;&#601;r&#601;'b&#618;l&#601;t&#618;]E{n}I{1}pageidaujamumasI{2}patrauklumas, žavumas
+0{desirable}[d&#618;'za&#618;&#601;r&#601;bl]E{a}I{1}pageidaujamas, norimas; geidžiamas;F{it is desirable that he should be present}pageidautina, kad jis dalyvautųI{2}patrauklus; gražus, tinkamasl{(L{džn.}reklamoje)}
+0{desire}[d&#618;'za&#618;&#601;]S{&rArr;}E{n}I{1}l{(stiprus)}noras, norėjimas, troškimasl{(for)};F{at the desire of the public}publikos pageidavimuI{2}geismas, aistra;F{sexual desire}lytinis potraukisI{3}troškimo objektas, svajonėS{&rArr;}E{v}I{1}trokšti, labai norėti;F{to obtain the desired effect}gauti trokštamą/norimą rezultatąI{2}prašyti, reikalauti;F{I desire that you (should) go at once}aš prašau/reikalauju, kad jūs nueitumėte tuojauS{&loz;}X{it leaves much}l{ar}X{a lot, a great deal to be desired}gali/galėtų būti geresnisl{(apie darbąL{ir pan.})}
+0{desirous}[d&#618;'za&#618;&#601;r&#601;s]E{a}trokštantis;F{to be desirous to succeed}l{ar}X{of success}trokšti pasisekimo
+0{desist}[d&#618;'z&#618;st]E{v}L{knyg.}liautis, nustoti;F{to desist from attempts}nebebandyti, liautis bandžius
+0{desk}[desk]E{n}I{1}rašomasis stalas;F{roll-top desk}rašomasis stalas su atlenkiamu viršumi;F{desk book}žinynas, vadovas;F{desk diary [set]stalinis kalendorius [telefonas]I{2}mokyklinis suolasl{(L{t. p.}X{school desk})}I{3}biuvarasl{(L{t. p.}X{desk pad})}I{4}L{tech.}pultas;F{control desk}valdymo pultasI{5}l{(viešbučioL{ir pan.})}informacijos stalas; registratūral{(L{t. p.}X{reception desk})};F{desk clerk}l{(ypačL{amer.})}registratoriusI{6}L{muz.}piupitrasI{7}l{(laikraščio)}redakcija;F{sports desk}l{(redakcijosL{ir pan.})}sporto skyrius
+0{desk-bound}['deskbaund]E{a}sėdimasl{(apie darbą)};F{we were desk-bound all week}mes neatsikėlėme nuo rašomojo stalo visą savaitę
+0{deskill}[,di:'sk&#618;l]E{v}I{1}(su)mažinti darbo įgūdžių svarbąl{(pasikeitus darbo sąlygoms)}I{2}paversti kvalifikuotą darbininką nekvalifikuotu
+0{desktop}['deskt&#596;p]E{n}L{komp.}darbalaukis;F{desktop computer}stalinis kompiuteris
+0{deskwork}['deskw&#601;:k]E{n}I{1}kanceliarinis darbasl{(kontoroje, valdybojeL{ir pan.})}; administracinė tarnybaI{2}darbas prie rašomojo stalo
+0{desman}['desm&#601;n]E{n}L{zool.}kurmėnas
+0{Des Moines}[d&#618;'m&#596;&#618;n]E{n}Di Moinasl{(JAV Ajovos valstijos sostinė)}
+0{Desmond}['dezm&#601;nd]E{n}Desmondas
+0{desolate}S{&rArr;}E{a}['des&#601;l&#601;t]I{1}negyvenamas, be žmonių, tuščiasI{2}vienišas, apleistas; nelaimingasS{&rArr;}E{v}['des&#601;le&#618;t]I{1}(su)niokoti, (nu)siaubtiI{2}palikti, apleistiI{3}l{(L{ppr.}E{pass})}kelti neviltį; (pa)daryti nelaimingą;F{she was desolated by the death of her husband}ji sunkiai išgyveno savo vyro mirtį
+0{desolation}[,des&#601;'le&#618;&#643;n]E{n}I{1}nusiaubimas, suniokojimasI{2}tuštumas, vienuma; vienišumasI{3}vargas, sielvartas;F{abomination of desolation}L{iron.}visiškas sunykimas
+0{despair}[d&#618;'sp&#604;&#601;]S{&rArr;}E{n}I{1}neviltis, nusivylimas; beviltiškumas; nusiminimas;F{to fall into despair}pulti į neviltį;F{out of despair}iš neviltiesI{2}sielvarto/širdgėlos priežastisS{&rArr;}E{v}I{1}neturėti vilties, būti neviltyje;F{I despair of ever succeeding}neturiu vilties, kad man kada nors pasiseksI{2}netekti vilties, nusimintil{(of)};F{his life is despaired of}jo sveikatos būklė yra beviltiška
+0{despairing}[d&#618;'sp&#604;&#601;r&#618;&#331;]E{a}kupinas nevilties, beviltiškas; netekęs vilties
+0{despairingly}[d&#618;'sp&#604;&#601;r&#618;&#331;l&#618;]E{adv}beviltiškai, neviltyje
+0{despatch}[d&#618;'sp&aelig;t&#643;]A{=R{dispatch}}E{n},E{v}
+0{desperado}[,desp&#601;'ra:d&#601;u]L{isp.}E{n}(E{pl}desperado(e)s[-z]) beatodairiškas banditas; desperatas
+0{desperate}['despX{&#601;}r&#601;t]E{a}I{1}beviltiškas, desperatiškas;F{the economy of the country is desperate}šalies ekonomika arti katastrofosI{2}žūtbūtinis; ignoruojantis pavojų;F{they were desperate}jie buvo pasiryžę viskamI{3}baisus, smarkus;F{desperate storm}baisiausia audra;F{desperate daring}pašėlusi drąsa;F{desperate fool}visiškas kvailys;F{desperate gambler}smarkus/pašėlęs lošėjas
+0{desperately}['despX{&#601;}r&#618;tl&#618;]E{adv}iš nevilties, desperatiškai
+0{desperation}[,desp&#601;'re&#618;&#643;n]E{n}neviltis, desperacija;F{in desperation}apimtas nevilties; desperatiškai;F{to drive smb into desperation}L{šnek.}įvaryti į neviltį, įsiutinti ką
+0{despicable}['desp&#618;k&#601;bl]E{a}nepakenčiamas; žemas, niekingas;F{it’s despicable!}kaip bjauru!
+0{despicably}[d&#618;'sp&#618;k&#601;bl&#618;]E{adv}niekingai, bjauriai
+0{despise}[d&#618;'spa&#618;z]E{v}neapkęsti, niekinti;F{he was despised by his classmates}klasės draugai jį niekino
+0{despite}[d&#618;'spa&#618;t]S{&rArr;}E{n}L{psn.}neapykanta, pyktis;F{in smb’s despite}tyčia, iš keršto kaml{(ką padaryti)}S{&rArr;}E{prep}nepaisant; F{despite our efforts}nepaisant mūsų pastangų, nors mes stengėmės;F{despite the fact that...}nors/kad ir...;F{despite oneself}prieš savo norą
+0{despiteful}[d&#618;'spa&#618;tfX{&#601;}l]E{a}L{psn.},L{poet.}piktas, žiaurus
+0{despoil}[d&#618;'sp&#596;&#618;l]E{v}L{knyg.}I{1}grobti, (api)plėštiI{2}atimtil{(of)}
+0{despoilment}[d&#618;'sp&#596;&#618;lm&#601;nt]E{n}L{knyg.}(api)plėšimas
+0{despoliation}[d&#618;,sp&#601;ul&#618;'e&#618;&#643;n]E{n}L{knyg.}grobimas, plėšimas
+0{despond}[d&#618;'sp&#596;nd]E{v}nusiminti, netekti vilties
+0{despondence}[d&#618;'sp&#596;nd&#601;ns]E{n}A{=R{despondency}}
+0{despondency}[d&#618;'sp&#596;nd&#601;ns&#618;]E{n}nusiminimas, liūdnumas
+0{despondent}[d&#618;'sp&#596;nd&#601;nt]E{a}nusiminęs, liūdnas, prislėgtas
+0{despondently}[d&#618;s'p&#596;nd&#601;ntl&#618;]E{adv}liūdnai, be nuotaikos
+0{despot}['desp&#596;t]E{n}despotas
+0{despotic}[de'sp&#596;t&#618;k]E{a}despotiškas
+0{despotically}[des'p&#596;t&#618;k&#601;l&#618;]E{adv}despotiškai
+0{despotism}['desp&#596;t&#618;zm]E{n}despotizmas
+0{desquamate}['deskw&#601;me&#618;t]E{v}L{med.}pleiskanoti, luptis
+0{des res}[,dez'rez]E{n}L{šnek.}žavus namasl{(dominantis pirkėjus)}
+0{dessert}[d&#618;'z&#601;:t]E{n}desertas;F{dessert wine}desertinis vynas
+0{dessertspoon}[d&#618;'z&#601;:tspu:n]E{n}desertinis šaukštas
+0{destabilization}[,di:ste&#618;b&#618;la&#618;'ze&#618;&#643;n]E{n}destabilizavimas
+0{destabilize}[di:'ste&#618;b&#618;la&#618;z]E{v}destabilizuoti
+0{destination}[,dest&#618;'ne&#618;&#643;n]E{n}I{1}paskyrimo vieta;l{(kelionėsL{ir pan.})}tikslas;F{what is your destination?}kur jūs vykstate?I{2}paskirtis, paskyrimas
+0{destine}['dest&#618;n]E{v}l{(L{ppr.}E{pass})}I{1}lemti;F{they were destined never to meet again}jiems nebebuvo lemta susitiktiI{2}(pa)skirti, numatyti;F{to destine smb for the navy}skirti ką į laivynąI{3}vykti;F{a vessel destined for Klaipėda}laivas, plaukiantis į Klaipėdą
+0{destiny}['dest&#618;n&#618;]E{n}likimas; lemtis
+0{destitute}['dest&#618;tju:t]S{&rArr;}E{a}I{1}skurstantis, esantis skurde;F{to be destitute}skursti;F{they were left destitute}jie liko be lėšųI{2}neturintisl{(of – ko)};F{destitute of feeling}bejausmisS{&rArr;}E{n}X{(the destitute)}beturčiai, skurdžiai
+0{destitution}[,dest&#618;'tju:&#643;n]E{n}I{1}skurdas, skursnaI{2}neturėjimasl{(of – ko)}
+0{destress}[di:'stres]E{v}I{1}L{fiziol.}(su)mažinti stresąI{2}L{glžk.}(su)mažinti krovinių gabenimo intensyvumą
+0{destroy}[d&#618;'str&#596;&#618;]E{v}I{1}(su)naikinti, (su)griautil{(L{t. p.}L{prk.})}; (su)ardyti;F{to destroy smb’s hopes}(su)griauti kieno viltisI{2}sunaikintil{(gyventojus, priešą)}; užmuštil{(gyvulį)}
+0{destroyer}[d&#618;'str&#596;&#618;&#601;]E{n}I{1}griovėjas; naikintojasI{2}L{jūr.}eskadrinis minininkas
+0{destruct}[d&#618;'str&#652;kt]S{&rArr;}E{v}I{1}likvidavimas/su(si)naikinimas skridimo metul{(raketos/sviedinio)}I{2}įrengimų/medžiagų (su)naikinimasl{(kad priešas neužgrobtų)}S{&rArr;}E{v}su(si)naikinti
+0{destructible}[d&#618;'str&#652;kt&#601;bl]E{a}sunaikinamas
+0{destruction}[d&#618;'str&#652;k&#643;n]E{n}I{1}griovimas; (su)naikinimas; (su)ardymasI{2}žlugimas; pražūtis;F{destruction of hopes}vilčių žlugimas;F{gambling was his destruction}jį pražudė azartiniai žaidimai
+0{destructive}[d&#618;'str&#652;kt&#618;v]S{&rArr;}E{a}I{1}griaunamasis, naikinamasis; ardomasis;F{destructive agency}griovimo priemonėI{2}žalingas, pragaištingas;F{destructive to health}žalingas sveikatai;F{destructive criticism}triuškinama kritikaS{&rArr;}E{n}griovėjas; griovimo priemonė, griaunamoji jėga
+0{destructively}[d&#618;s'tr&#652;kt&#618;vl&#618;]E{adv}destruktyviai
+0{destructiveness}[d&#618;s'tr&#652;kt&#618;vn&#618;s]E{n}destruktyvumas, pražūtingumas
+0{destructor}[d&#618;'str&#652;kt&#601;]E{n}I{1}L{ret.}griovėjasI{2}l{(šiukšlių, atliekų)}deginimo krosnis
+0{desuetude}[d&#618;'sju:&#618;tju:d, 'desw&#618;tju:d]E{n}l{(įstatymo, papročioL{ir pan.})}pasenimas; nebevartojimas, išėjimas iš mados;F{to fall into desuetude}pasenti, išeiti iš mados, būti nebevartojamam
+0{desulphurize}[di:'s&#652;lf&#601;ra&#618;z]E{v}L{chem.}pašalinti sierą, desulfuruoti
+0{desultory}['desX{&#601;}ltX{&#601;}r&#618;]E{a}padrikas, nesistemingas, be (są)ryšio;F{desultory conversation}padrikas/nerišlus pokalbis;F{desultory reading}nesistemingas skaitymas;F{desultory remarks}padrikos/nesusijusios pastabos;F{desultory fighting}L{kar.}pavieniai susidūrimai/susišaudymai;F{desultory fire}L{kar.}netvarkingas susišaudymas
+0{desurfacing}[di:'s&#601;:f&#618;s&#618;&#331;]E{n}viršutinio sluoksnio pašalinimas
+0{Det}L{sutr.}X{detective}seklys, detektyvas
+0{det.}L{sutr.}X{detached}atskirasl{(ypač apie parduodamą namą)};F{detachment}L{kar.}būrys
+0{detach}[d&#618;'t&aelig;t&#643;]E{v}I{1}at(si)skirti; at(si)segti; nuplėšti; atjungti, atkabintiI{2}L{kar.},L{jūr.}skirti dalinį tam tikram uždaviniui vykdyti
+0{detachable}[d&#618;'t&aelig;t&#643;&#601;bl]E{a}atskiriamas, nuplėšiamas, nuimamas
+0{detached}[d&#618;'t&aelig;t&#643;t]E{a}I{1}atskiras, pavienisl{(apie namąL{ir pan.})}I{2}nešališkas, savarankiškasl{(apie nuomonę, požiūrįL{ir pan.})};F{I’m trying to be detached about it}aš stengiuosi žiūrėti į tai objektyviaiI{3}L{kar.}komandiruotas;F{detached duty}komandiruotė;F{to place on detached service}komandiruotil{(dirbti, mokytisL{ir pan.})}
+0{detachment}[d&#618;'t&aelig;t&#643;m&#601;nt]E{n}I{1}atskyrimas, išskyrimas; atjungimas, atkabinimasI{2}objektyvumas, nešališkumas; atsiskyrimas, abejingumasl{(aplinkai, pasauliui)}I{3}L{kar.},L{jūr.}l{(specialios paskirties)}padalinys;l{(pabūklo)}tarnyba, komanda
+0{detail}['di:te&#618;l]S{&rArr;}E{n}I{1}detalė, smulkmena;F{in detail}smulkiai, detaliai;F{in more/greater detail}smulkiau, detaliau;F{to go/enter into detail(s)}leistis į detales/smulkmenas; smulkiai apibūdintiI{2}E{pl}l{(mašinos, pastatoL{ir pan.})}detalės, elementaiI{3}L{kar.},L{jūr.}būrys, komandaS{&rArr;}E{v}I{1}smulkiai aprašinėti/(nu)pasakoti/(iš)dėstyti, detalizuotiI{2}l{(ypačL{kar.})}(pa)skirti, pavestil{(atlikti uždavinį)};F{to detail for guard}skirti į sargybą
+0{detailed}['di:te&#618;ld]E{a}detalus, smulkus
+0{detailing}['di:te&#618;l&#618;&#331;]E{n}l{(drabužio, automobilioL{ir pan.})}puošmenos, papuošimai
+0{detain}[d&#618;'te&#618;n]E{v}I{1}sulaikytil{(nusikaltėlįL{ir pan.})}I{2}užlaikyti, (su)trukdyti, (su)gaišinti, užgaišinti;F{he was detained by business}jį sugaišino/užlaikė/sutrukdė reikalai
+0{detainee}[,di:te&#618;'ni:]E{n}sulaikytasis, areštuotasisl{(ypač dėl politinių priežasčių)}
+0{detainer}[d&#618;'te&#618;n&#601;]E{n}L{teis.}I{1}neteisėtasl{(turto)}užlaikymasI{2}nurodymas toliau laikyti suimtąjį
+0{detangle}[di:'t&aelig;&#331;gl]E{v}l{(ypačL{amer.})}atnarplioti, išraizgyti
+0{detank}[,di:'t&aelig;&#331;k]E{v}L{kar.}išlipti/išlaipinti iš tanko
+0{detect}[d&#618;'tekt]E{v}I{1}susekti, atskleisti, išaiškinti, aptiktiI{2}pajusti;F{to detect a flicker of irony in smb’s voice}pajusti ironišką gaidelę kieno balseI{3}L{rad.}lyginti, detektuoti
+0{detectable}[d&#618;'tekt&#601;bl]E{a}susekamas, atskleidžiamas; (pa)juntamas
+0{detection}[d&#618;'tek&#643;n]E{n}I{1}susekimas, atskleidimasL{ir pan.},A{L{žr.}R{detect}};F{crime detection}kova su nusikalstamumuI{2}L{rad.}detektavimas, detekcija
+0{detective}[d&#618;'tekt&#618;v]S{&rArr;}E{n}seklys, detektyvasS{&rArr;}E{a}I{1}seklio;F{detective force}kriminalinė policijaI{2}detektyvinis;F{detective novel}detektyvinis romanas
+0{detector}[d&#618;'tekt&#601;]E{n}I{1}L{spec.}detektorius; ieškiklisI{2}L{chem.}indikatorius
+0{detectorist}[d&#618;'tekt&#601;r&#618;st]E{n}l{(užkastų monetų, lobių)}ieškotojas detektoriumi
+0{detent}[d&#618;'tent]E{n}L{tech.}užkirtiklis, stabdiklis, strektė
+0{détente}[,de&#618;'ta:nt]L{pr.}E{n}L{polit.}detantas,l{(tarptautinių santykių)}įtampos mažinimas
+0{detention}[d&#618;'ten&#643;n]E{n}I{1}sulaikymas; areštas, areštavimas, įkalinimasl{(ypač dėl politinių priežasčių)};F{preventive detention}prevencinis sulaikymas;F{detention camp}internuotųjų stovykla;F{detention centre/home}l{(nepilnamečių)}kardomasis kalėjimasI{2}užlaikymas, užtrukimasI{3}l{(mokinio)}palikimas po pamokų
+0{deter}[d&#618;'t&#601;:]E{v}sulaikyti, atbaidyti, atgrasintil{(from)};F{I was deterred by the cost}mane atbaidė kaina
+0{deterge}[d&#618;'t&#601;:d&#658;]E{v}L{med.}valyti
+0{detergent}[d&#618;'t&#601;:d&#658;X{&#601;}nt]S{&rArr;}E{n}detergentas, valymo/dezinfekavimo priemonėS{&rArr;}E{a}valantis, dezinfekuojantis;F{detergent additive}L{tech.}plovimo priedas
+0{deteriorate}[d&#618;'t&#618;&#601;r&#618;&#601;re&#618;t]E{v}I{1}blogėti; gesti; gadinti;F{his deteriorating health}jo blogėjanti sveikata;F{fruit deteriorates quick-ly in hot weather}vaisiai greit genda per karščiusI{2}l{(into)}(pa)virsti;F{the meeting soon deteriorated into a fight}susirinkimas greit virto muštynėmis
+0{deterioration}[d&#618;,t&#618;&#601;r&#618;&#601;'re&#618;&#643;n]E{n}I{1}(pa)blogėjimas; gedimasI{2}l{(fizinis)}nusidėvėjimas
+0{deteriorative}[d&#618;'t&#618;&#601;r&#618;&#601;re&#618;t&#618;v]E{a}blogėjantis; bloginantis
+0{determinable}[d&#618;'t&#601;:m&#618;n&#601;bl]E{a}I{1}apibrėžiamas; nustatomasI{2}L{teis.}galimas nutraukti, pasibaigiantisl{(apie sutartį)}
+0{determinant}[d&#618;'t&#601;:m&#618;n&#601;nt]S{&rArr;}E{n}lemiamas veiksnys/faktorius; determinantasl{(L{t. p.}L{mat.})}S{&rArr;}E{a}sąlygojantis, lemiantis, lemiamas
+0{determinate}[d&#618;'t&#601;:m&#618;n&#601;t]E{a}I{1}apibrėžtas, nustatytas;F{determinate order}nustatyta tvarkaI{2}lemiamas; galutinis, nuspręstasI{3}ryžtingasl{(apie charakterį)}
+0{determination}[d&#618;,t&#601;:m&#618;'ne&#618;&#643;n]E{n}I{1}ryžtingumas; pasiryžimas;F{dogged determination}didžiulis ryžtas;F{he tackled the job with determination}jis ryžtingai ėmėsi darboI{2}nustatymas;l{(sąvokosL{ir pan.})}apibrėžimas; determinacija;F{determination of price}kainos apskaičiavimasI{3}L{teis.}nutarimas, sprendimas
+0{determinative}[d&#618;'t&#601;:m&#618;n&#601;t&#618;v]S{&rArr;}E{a}I{1}sąlygojantis, sprendžiamasisI{2}apibrėžiantis, apribojantisS{&rArr;}E{n}I{1}lemiamasis/sprendžiamasis veiksnysI{2}L{gram.}pažymimasis žodis
+0{determine}[d&#618;'t&#601;:m&#618;n]E{v}I{1}(nu)lemti, sąlygoti, lemti; determinuotiI{2}nustatyti; apibrėžtil{(sąvokąL{ir pan.})};F{to determine boundaries}nustatyti ribasI{3}nuspręsti;F{he determined to leave tomorrow}jis nusprendė išvykti rytojI{4}L{teis.}nutraukti, užbaigti
+0{determined}[d&#618;'t&#601;:m&#618;nd]E{a}I{1}pasiryžęsI{2}ryžtingas
+0{determiner}[d&#618;'t&#601;:m&#618;n&#601;]E{n}L{gram.}determinantas
+0{determinism}[d&#618;'t&#601;:m&#618;n&#618;zm]E{n}L{filos.}determinizmas
+0{deterrence}[d&#618;'ter&#601;ns]E{n}atgrasinimas, atbaidymas, sulaikymas
+0{deterrent}[d&#618;'ter&#601;nt]S{&rArr;}E{n}sulaikymo/atbaidymo/atgrasinimo priemonė;F{nuclear deterrent}branduolinis ginklasl{(kaip priešo atgrasinimo priemonė)};F{the long journey is a bit of a deterrent to me}ilga kelionė mane šiek tiek baidoS{&rArr;}E{a}sulaikantis, atbaidantis, atgrasantis, atgrasomasis
+0{detersive}[d&#618;'t&#601;:s&#618;v]A{=R{detergent}}E{n},E{a}
+0{detest}[d&#618;'test]E{v}neapkęsti; šlykštėtis, bjaurėtis;F{I detest sweet wines}aš labai nemėgstu saldžių vynų
+0{detestable}[d&#618;'test&#601;bl]E{a}neapkenčiamas; šlykštus, bjaurus
+0{detestation}[,di:te'ste&#618;&#643;n]E{n}I{1}neapkentimas, neapykantaI{2}neapykantos/pasibjaurėjimo objektas; šlykštybė
+0{dethrone}[d&#618;'&theta;r&#601;un]E{v}I{1}nuversti nuo sostoI{2}atleistil{(iš aukštų pareigų)};L{prk.}nuvainikuoti
+0{dethronement}[d&#618;'&theta;r&#601;unm&#601;nt]E{n}I{1}nuvertimas nuo sostoI{2}atleidimasl{(iš aukštų pareigų)};L{prk.}nuvainikavimas
+0{detinue}['det&#618;nju:]E{n}L{teis.}neteisėtas turto (už)valdymas;F{action in detinue}ieškinys dėl neteisėtai valdomo turto grąžinimo
+0{detonate}['det&#601;ne&#618;t]E{v}I{1}L{spec.}detonuoti, sprogti; sprogdintiI{2}sukeltil{(karą, prieštaravimusL{ir pan.})}
+0{detonation}[,det&#601;'ne&#618;&#643;n]E{n}L{spec.}detonacija, sprogimas; sprogdinimas
+0{detonator}['det&#601;ne&#618;t&#601;]E{n}detonatoriusl{(medžiaga; kapsulė)}; sprogdiklis
+0{detour}['di:tu&#601;]L{pr.}S{&rArr;}E{n}aplinkkelis, aplinkinis kelias, lankstas;F{to make a detour}daryti lankstąS{&rArr;}E{v}daryti lankstą, važiuoti aplink; pakreipti kita kryptimi
+0{detox}['di:t&#596;ks]l{(ypačL{amer.})}L{šnek.}E{n}A{=R{detoxi(fi)cation}}
+0{detoxi(fi)cation}[di:,t&#596;ks&#618;(f&#618;)'ke&#618;&#643;n]E{n}detoksikacija, intoksikacijos (pa)šalinimas
+0{detoxify}[di:'t&#596;ksifa&#618;]E{v}(pa)šalinti intoksikaciją, nuodingas savybes
+0{detract}[d&#618;'tr&aelig;kt]E{v}atimti, mažinti, menkintil{(from)};F{that does not detract from his merit}tai nemažina jo nuopelnų
+0{detraction}[d&#618;'tr&aelig;k&#643;n]E{n}atėmimas, mažinimas, menkinimasl{(from)}
+0{detractive}[d&#618;'tr&aelig;kt&#618;v]E{a}mažinantis, menkinantisl{(nuopelnus, vertę)}
+0{detractor}[d&#618;'tr&aelig;kt&#601;]E{n}pavyduolis, niekintojas, peikėjas
+0{detractory}[d&#618;'tr&aelig;kt&#601;r&#618;]E{a}A{=R{detractive}}
+0{detrain}[di:'tre&#618;n]E{v}I{1}išlipti, išlaipintil{(iš traukinio)}I{2}iškrautil{(vagonus)}
+0{detriment}['detr&#618;m&#601;nt]E{n}nuostolis, žala;F{to the detriment}l{(of)}pakenkiant, darant žalą/nuostolįl{(kam)};F{without detriment}l{(to)}nekenkiant, nedarant žalos/nuostoliol{(kam)};F{I know nothing to his detriment}aš nežinau apie jį nieko bloga
+0{detrimental}[,detr&#618;'mentl]S{&rArr;}E{a}žalingas; nuostolingas;F{detrimental to one’s health}kenksmingas sveikataiS{&rArr;}E{n}L{juok.}nepavydėtinas partnerisl{(apie jaunikį)}
+0{detrition}[d&#618;'tr&#618;&#643;n]E{n}išsidėvėjimas, susitrynimas
+0{detritus}[d&#618;'tra&#618;t&#601;s]E{n}I{1}griuvėsiai, nuolaužos, liekanosI{2}L{spec.}detritas
+0{Detroit}[d&#601;'tr&#596;&#618;t]Detroitas
+0{de trop}[d&#601;'tr&#601;u]pr.E{a}per daug; nereikalingasl{(tam tikroje situacijoje)}
+0{detruck}[di:'tr&#652;k]E{v}L{amer.}išlipti, išlaipintil{(iš sunkvežimio)}
+0{detruncate}[di:'tr&#652;&#331;ke&#618;t]E{v}L{ret.}nupjauti, (su)trumpinti
+0{detumescence}[,di:tju'mesns]E{n}L{med.}l{(patinimo, pabrinkimo)}atslūgimas
+0{detune}[di:'tju:n]E{v}L{muz.},L{rad.}iš(si)derinti
+0{deuce}[dju:s]E{n}I{1}l{(kortų, kauliukų)}dvi akys; dviakėl{(korta)}I{2}lygus rezultatas, lygiosiosl{(40:40 tenise)}I{3}L{šnek.}velniasl{(keiksmažodis)};F{deuce take it!}velniai griebtų!;F{what the deuce is that?}kas tai, po velnių?!; kas čia per velnias!;F{go to the deuce!}eik po velnių!S{&loz;}X{the deuce a bit!}nė kiek!;F{a/the deuce of}didžiulis, baisus, velniškas;F{to play the deuce}l{(with)}pridaryti velniavosl{(kam)}
+0{deuced}[dju:st]L{šnek.}S{&rArr;}E{a}velniškas, velnioniškas, baisus;F{in a deuced hurry}baisiai skubantisS{&rArr;}E{adv}velniškai, velnioniškai
+0{deuteride}['dju:t&#601;ra&#618;d]E{n}L{fiz.}deuteridas
+0{deuterium}[dju:'t&#618;&#601;r&#618;&#601;m]E{n}L{fiz.},L{chem.}deuteris, sunkusis vandenilis
+0{deuteron}['dju:t&#601;r&#596;n]E{n}L{fiz.},L{chem.}deuteronas, deutonas
+0{deutzia}['dju:ts&#618;&#601;]E{n}L{bot.}radastasl{(uolaskėlinių šeimos dekoratyvinis krūmas)}
+0{dev}L{sutr.}X{deviation}nukrypimas
+0{Deva}['de&#618;v&#601;]E{n}L{ind.}L{mit.}Deva, Devas
+0{devaluation}[di:,v&aelig;lju'e&#618;&#643;n]E{n}I{1}nuvertėjimas; nuvertinimasI{2}L{fin.}devalvacija, devalvavimas
+0{devalue}[di:'v&aelig;lju:]E{v}I{1}nuvertinti, sumenkintiI{2}L{fin.}devalvuoti, atlikti devalvaciją
+0{devastate}['dev&#601;ste&#618;t]E{v}l{(L{ppr.}E{pass})}I{1}(nu)siaubti, (nu)niokotiI{2}L{prk.}priblokšti;F{we were simply devastated by the news of the defeat}žinia apie pralaimėjimą mus tiesiog pribloškė
+0{devastating}['dev&#601;ste&#618;t&#618;&#331;]E{a}I{1}niokojamas(is); nusiaubiantisI{2}triuškinantisl{(apie argumentąL{ir pan.})}; sukrečiantis, pribloškiantisl{(apie žiniąL{ir pan.})}I{3}L{šnek.}nuostabus
+0{devastation}[,dev&#601;'ste&#618;&#643;n]E{n}nusiaubimas, (nu)niokojimas
+0{develop}[d&#618;'vel&#601;p]E{v}I{1}plėtoti(s), rutuliotis; vystyti(s), iš(si)vystyti;F{developed countries}ekonomiškai stiprios šalys;F{developing countries}ekonomiškai silpnos šalysI{2}formuotis; (iš)augti; lavėti;F{his talent was just starting to develop}jo talentas tik buvo pradėjęs formuotis;F{plants develop from seeds}augalai išauga iš sėklų;F{to develop a paunch}L{šnek.}užsiauginti pilvą;F{Tom has developed into a charming young man}Tomas užaugo ir tapo gražiu jaunuoliuI{3}klostytisl{(įvykiams)}; plėstis, stiprėtil{(apie epidemiją, krizę, ligąL{ir pan.})};F{to develop measles}susirgti tymaisI{4}įgytil{(savybę, įprotį)};F{to develop self-confidence}įgyti pasitikėjimo;F{to develop an awareness of smth}įsisąmoninti, suprasti kąI{5}apstatytil{(sklypą)}; panaudoti statybomsl{(žemės plotą)}I{6}ugdyti, (iš)prusinti, (iš)lavintil{(atmintį, protąL{ir pan.})}I{7}(pa)aiškėti; (iš)aiškinti;F{it developed that he had made a mistake}paaiškėjo, kad jis padarė klaidą;F{to develop the enemy}išžvalgyti priešąI{8}išrutulioti, išdėstytil{(mintį)}; atskleistil{(motyvusL{ir pan.})}I{9}sukurtil{(gaminį, metodikąL{ir pan.})}I{10}L{fot.}(iš)ryškintiI{11}L{amer.}L{kar.}iš(si)skleisti;F{to develop an attack}priversti priešą išsiskleisti
+0{developer}[d&#618;'vel&#601;p&#601;]E{n}I{1}l{(žemės, pastatų)}supirkėjasl{(naujoms statybomsL{ir pan.})};F{property developer}statybos vykdytojasI{2}L{fot.}ryškalas
+0{development}[d&#618;'vel&#601;pm&#601;nt]E{n}I{1}plėtojimas(is), plėtra, plėtotė, augimas, plėtimas(is); vystymas(is), iš(si)vystymas;F{strength development}stiprumo didėjimasI{2}raida, evoliucija;F{development of events}įvykių raida;F{development theory}evoliucijos teorija;F{recent developments in Europe}neseni/paskutiniai įvykiai EuropojeI{3}gerinimas, tobulinimas;l{(naujų medžiagųL{ir pan.})}(su)kūrimas;F{new development}naujovė, patobulinimas;F{development type}bandomasis pavyzdysI{4}parengimas eksploatuoti, panaudojimasl{(žemės ploto)}statybomsL{ir pan.}; apstatymas, apstatymo projektas; statybaI{5}gyvenamasis rajonas, gyvenamieji namail{(L{t. p.}X{housing development})}I{6}aplinkybė, įvykis;F{to meet unexpected developments}susidurti su nenumatytomis aplinkybėmis;F{what are the latest developments?}kokios paskutinės naujienos?I{7}L{fot.}ryškinimas I{8}L{kas.}l{(telkinio)}parengiamieji darbaiI{9}L{spec.}išklotinė
+0{developmental}[d&#618;,vel&#601;p'mentl]E{a}plėtros, raidos; vystymo(si);F{developmental teaching}lavinamasis mokymas;F{developmental diseases}augimo ligos
+0{developmentally}[d&#618;,vel&#601;p'mentll&#618;]E{adv}evoliuciškai, pagal išsivystymą
+0{deviance, deviancy}['di:v&#618;&#601;ns, 'di:v&#618;&#601;ns&#618;]E{n}nukrypimasl{(nuo normos)}
+0{deviant}['di:v&#618;&#601;nt]S{&rArr;}E{n}nukrypėlisl{(nuo normos)}; iškrypėlis;F{sexual deviants}lytiniai iškrypėliaiS{&rArr;}E{a}nukrypęsl{(nuo normos)};F{deviant social behaviour}antisocialinis elgesys
+0{deviate}S{&rArr;}E{v}['di:v&#618;e&#618;t]nukrypti; atsitraukti;F{to deviate from the truth}nutolti nuo tiesos; F{to deviate ships}priversti laivus keisti kursąS{&rArr;}E{a}['di:v&#618;&#601;t]L{amer.}A{=R{deviant}}E{a}
+0{deviation}[,di:v&#618;'e&#618;&#643;n]E{n}I{1}nukrypimas;F{deviation from the rules}nukrypimas nuo taisykliųI{2}L{spec.}nuokrypis, deviacijaI{3}L{polit.}nukrypimas, pakraipa;F{left-wing deviation}kairysis nukrypimas, kairioji pakraipaI{4}L{jūr.}L{kom.}nukrypimas nuo reiso/kurso
+0{deviationist}[,di:v&#618;'e&#618;&#643;&#601;n&#618;st]E{n}L{polit.}nukrypėlis
+0{device}[d&#618;'va&#618;s]E{n}I{1}įtaisas, prietaisas, įrenginys, mechanizmas, aparatas;F{closing device}uždariklis;F{stopping device}stabdysI{2}priemonė;F{stylistic devices}stilistinės/stiliaus priemonėsI{3}devizas; emblemaI{4}bomba, sprogmuol{(L{t. p.}X{explosive device})}I{5}planas, kėslas, užmačiaS{&loz;}X{to leave smb to his own devices}palikti ką likimo valiail{(nepadėti)}; palikti vieną, be priežiūros
+0{devil}['devl]S{&rArr;}E{n}I{1}velnias, nelabasis, šėtonasl{(L{šnek.}L{t. p.}apie blogą žmogų)}; piktoji dvasia;F{like the devil}L{šnek.}kaip velnias;F{do you know what those devils have done?}ar žinai, ką tie nelabieji/šėtonai padarė?I{2}L{šnek.}po velnių!, po galais!l{(reiškiant nepasitenkinimąL{ir pan.})};F{go to the devil!}eik(it) velniop!;F{how [what, where, why] the devil...?}kaip [ką, kur, kodėl], po velnių, po galais...?;F{what the devil do you mean?}ką, po šimts galų, tu nori tuo pasakyti?I{3}L{šnek.}žmogus, vyrukas;F{lucky devil}laimingasis;F{poor devil}vargšas;F{a devil of a fellow}drąsus vyrukas;F{little/young devil}L{juok.}velniūkštis, tikras velniasI{4}L{šnek.}velniškas/didžiulis darbas/kiekisL{ir pan.};F{we had the devil of the time}mums buvo velniškai sunku;F{he’s a devil for work}jis dirba kaip arklys;F{devil bit of money did he give!}nė velnio/cento jis nedavė!;F{there will the devil of a row}bus didžiulis skandalas;F{it’s the devil of a mess}čia baisi netvarka, palaida bala;F{that girl has the luck of the devil}tai mergaitei velniškai sekasi;F{a devil to eat}valgantis už duI{5}l{(keptos mėsos, žuvies)}aštrus patiekalasI{6}L{tech.}draskytuvasS{&loz;}X{the blue devils}niūri nuotaika, nusiminimas;F{between the devil and the deep blue sea}S{&cong;}tarp kūjo ir priekalo;F{to give the devil his due}reikia pripažintil{(norint būti teisingam kieno atžvilgiu)};F{(the) devil take the hindmost!}paskutiniam blogiausia!, kiekvienas už save;F{talk/speak of the devil and he is sure to appear}S{&cong;}vilką mini – vilkas čia;F{the devil is not so bad as he is painted}velnias ne toks baisus, kaip jį piešia;F{he that sups with the devil needs}l{ar}X{must have a long spoon}S{&cong;}neik su velniu obuoliauti – liksi be obuolių ir be maišo;F{to tell the truth and shame the devil}pasakyti visą/gryną tiesą;F{be a devil}būk žmogusl{(raginant ką daryti)};F{there will be the devil to pay when he finds out!}bus blogai, kai jis sužinos!,X{we won – the devil looks after his own}L{juok.}mes laimėjome – velnias savo vaikais rūpinasiS{&rArr;}E{v}X{(-ll-)}I{1}dirbtil{(for – kam)}; dirbti juodą darbąl{(for – už ką)}I{2}troškintil{(mėsąL{ir pan.})}I{3}draskyti į gabalusI{4}L{amer.}L{šnek.}įgristi, erzinti
+0{devildom}['devld&#601;m]E{n}I{1}velniavaI{2}L{kuop.}velniai
+0{devilfish}['devlf&#618;&#643;]E{n}L{zool.}I{1}raja; jūrų velniasI{2}aštuonkojis
+0{devilish}['devl&#618;&#643;]S{&rArr;}E{a}velniškas, šėtoniškasS{&rArr;}E{adv}L{šnek.}baisiai, velniškai
+0{devilkin}['devlk&#618;n]E{n}velniūkštis
+0{devilled}['dev&#618;ld]E{a}L{kul.}su specijomis, su aštriais prieskoniais
+0{devil-may-care}[,devlme&#618;'k&#604;&#601;]E{a}nerūpestingas, beatodairiškas, pramuštgalviškas;F{devil-may-care attitude}visiškas nerūpestingumas
+0{devilment}['devlm&#601;nt]E{n}A{=R{devilry}}
+0{devilry}['devlr&#618;]E{n}I{1}beatodairiškumas, pramuštgalviškumas; šėtoniškas linksmumas;F{he is up to some devilry again}jis vėl kažką rengiaI{2}blogybė; žiaurumasI{3}velnio burtai, juodoji magija
+0{devil’s-bit}['devlzb&#618;t]E{n}L{bot.}pievinė miegalė
+0{devil’s-milk}['devlzm&#618;lk]E{n}L{bot.}karpažolė
+0{devils-on-horseback}[,devilz&#596;n'h&#596;:sb&aelig;k]E{n}kumpis, įdarytas slyvomisl{(aštrus užkandis)}
+0{deviltry}['devltr&#618;]E{n}A{=R{devilry}}
+0{devil-worship}['devl,w&#601;:&#643;&#618;p]E{n}velnio/šėtono kultas/garbinimas
+0{devious}['di:v&#618;&#601;s]E{a}I{1}aplinkinis, netiesus, vingiuotasl{(apie kelią)}I{2}L{prk.}vingrus; suktas, nesąžiningas;F{he got rich by devious means}jis praturtėjo nesąžiningu būduI{3}nukrypęsl{(nuo tiesaus kelio)}, klaidžiojantis
+0{deviously}['di:vj&#601;sl&#618;]E{adv}suktai, aplinkiniu būdu
+0{deviousness}['di:vj&#601;sn&#618;s]E{n}suktumas
+0{devisable}[d&#618;'va&#618;z&#601;bl]E{a}I{1}sugalvojamas, sumanomasI{2}L{teis.}paliekamas/perduodamas testamentu
+0{devise}[d&#618;'va&#618;z]S{&rArr;}E{n}I{1}sugalvojimas, sumanymas, išradimasI{2}L{teis.}palikimas, pagal testamentą paliekamas turtasS{&rArr;}E{v}I{1}sugalvoti, išrasti, surastil{(būdą, planąL{ir pan.})};F{he devised a gadged for cleaning windows}jis sugalvojo/išrado įtaisą langams plautiI{2}L{teis.}palikti testamentul{(L{t. p.}X{devise and bequeath})}
+0{devisee}[,d&#618;va&#618;'zi:, ,dev&#618;'zi:]E{n}L{teis.}l{(nekilnojamojo turto)}paveldėtojas
+0{deviser}[d&#618;'va&#618;z&#601;]E{n}I{1}sugalvotojas, išradėjasI{2}L{teis.}l{(turto)}palikėjas
+0{devisor}[,dev&#618;'z&#596;:]E{n}L{teis.}l{(turto)}palikėjas, testatorius
+0{devitalize}[,di:'va&#618;tX{&#601;}la&#618;z]E{v}atimti gyvybiškumą, gyvybingumą
+0{devocalization}[di:,v&#601;uk&#601;la&#618;'ze&#618;&#643;n]E{n}L{fon.}devokalizacija
+0{devoice}[d&#618;'v&#596;&#618;s]E{v}L{fon.}duslinti
+0{devoid}[d&#618;'v&#596;&#618;d]E{a}neturintis, bel{(of)};F{devoid of sense}kvailasl{(apie žmogų)}; beprasmi(ška)s;F{devoid of fear}bebaimis;F{devoid of substance}be pagrindo;F{he’s totally devoid of humour}jis visai neturi humoro jausmo, jis visai nesupranta juokų
+0{devoir}[d&#601;'vwa:]L{pr.}E{n}l{(L{ppr.}E{pl})}L{psn.}mandagumo pareiškimas;F{to pay one’s devoirs}l{(to)}išreikšti pagarbą; padaryti vizitą
+0{devolution}[,di:v&#601;'lu:&#643;n]E{n}I{1}l{(valdžios, pareigųL{ir pan.})}perdavimasl{(žemesnei instancijai, vietinei valdžiai)}; decentralizavimasI{2}l{(turto, sosto)}perėjimasl{(tiesioginiam paveldėtojui)}; devoliucijaI{3}L{biol.}išsigimimas, regresas
+0{devolve}[d&#618;'v&#596;lv]E{v}I{1}perduoti, pavestil{(pareigas, įgaliojimusL{ir pan.})}I{2}pereiti, atitektil{(kitam asmeniui; upon, on)}I{3}L{teis.}pereiti pagal testamentąl{(apie turtą; to)}I{4}L{biol.}išsigimti
+0{Devon}['devn]E{n}Devonasl{(Anglijos grafystė)}
+0{Devonian}[de'v&#601;un&#618;&#601;n]S{&rArr;}E{a}I{1}Devono grafystėsI{2}L{geol.}devonoS{&rArr;}E{n}I{1}Devono grafystės gyventojasI{2}L{geol.}devonas, devono periodas
+0{Devonshire}['devX{&#601;}n&#643;&#618;&#601;]E{n}Devonšyras
+0{devote}[d&#618;'v&#601;ut]E{v}I{1}skirtil{(savo laiką/lėšasL{ir pan.}; to)}I{2}E{refl}atsidėti, atsiduoti, pasiaukotil{(to)};F{he devoted himself to his studies}jis atsidavė mokslui/studijoms
+0{devoted}[d&#618;'v&#601;ut&#618;d]E{a}I{1}ištikimas, mylintisI{2}atsidavęs, pasiaukojęsl{(to)};F{devoted angler}aistringas meškeriotojas
+0{devotee}[,dev&#601;'ti:]E{n}I{1}atsidavėlis; aistruolis, entuziastas;F{a devotee of Bach}Bachol{(muzikos)}gerbėjasI{2}pamaldus/dievobaimingas žmogus
+0{devotion}[d&#618;'v&#601;u&#643;n]E{n}I{1}atsidavimas; ištikimybėI{2}skyrimasl{(laiko, energijosL{ir pan.}; to)}I{3}dievobaimingumas, pamaldumasI{4}E{pl}religinės apeigos, maldos;F{he is at his devotions}jis meldžiasi
+0{devotional}[d&#618;'v&#601;u&#643;n&#601;l]E{a}pamaldus, religingas; religinis
+0{devour}[d&#618;'vau&#601;]E{v}I{1}(su)ryti, (su)ėstiI{2}L{prk.}(pra)ryti; F{to devour novel after novel}ryti romaną po romano;F{to devour every word}ryti/gaudyti kiekvieną žodįI{3}E{pass}užvaldytil{(apie jausmus)};F{to be devoured by curiosity [anxiety]mirti iš smalsumo [baisiai jaudintis]I{4}(su)naikinti, apimtil{(apie gaisrą, puvinį)}
+0{devourer}[d&#618;'vau&#601;r&#601;]E{n}rijikas
+0{devouring}[d&#618;'vau&#601;r&#618;&#331;]E{a}užvaldantis,l{(L{t. p.}L{prk.})}viešpataujantisl{(apie jausmus)}; naikinamasis
+0{devouringly}[d&#618;'vau&#601;r&#618;&#331;gl&#618;]E{adv}godžiai
+0{devout}[d&#618;'vaut]E{a}I{1}pamaldus, dievotas, dievobaimingasI{2}nuoširdus, širdingasl{(apie padėką, linkėjimusL{ir pan.})}
+0{dew}[dju:]S{&rArr;}E{n}I{1}rasaI{2}ašara;l{(prakaitoL{ir pan.})}lašasI{3}L{poet.}skaistumas, gaivumas;F{the dew of youth}jaunystės skaistumasS{&rArr;}E{v}I{1}drėkinti, (ap)šlakstytiI{2}L{poet.}rasoti;F{it is beginning to dew, it dews}dedasi rasa, ima rasoti
+0{DEW}L{sutr.}X{distant early warning}L{kar.}l{(JAV)}tolimasis išankstinis įspėjimas apie pavojų
+0{Dewar}['dju:&#601;]E{n}Diuaras
+0{dewater}[di:'w&#596;:t&#601;]E{v}pašalinti vandenįl{(iš)}
+0{dewberry}['dju:b&#601;r&#618;]E{n}gervuogė
+0{dew-claw}['dju:kl&#596;:]E{n}L{zool.}piršto pavidalo rudimentinė ataugal{(ant šuns, šernoL{ir pan.}letenos)}
+0{dewdrop}['dju:dr&#596;p]E{n}rasos lašas
+0{dewfall}['dju:f&#596;:l]E{n}L{knyg.}I{1}rasos kritimasI{2}vakaro rasa, vakaras
+0{dewiness}['dju:&#618;n&#618;s]E{n}rasotumas
+0{dewlap}['dju:l&aelig;p]E{n}pagurklis
+0{dewomb}[di:'wu:m]E{v}L{med.}pašalinti gimdą
+0{dewy}['dju:&#618;]E{a}I{1}rasotas, aprasojęs;F{dewy beads}rasos lašeliaiI{2}drėgnas, sudrėkęs;F{dewy eyes}sudrėkusiosl{(nuo ašarų)}akysI{3}L{poet.}skaistus, gaivus
+0{dewy-eyed}['dju:&#618;'a&#618;d]E{a}I{1}drėgnų akių, su drėgnomis akimisI{2}L{iron.}skaistus, naivus
+0{Dexedrine}['deks&#601;dri:n]E{n}L{farm.}deksedrinas
+0{dexter}['dekst&#601;]E{a}L{her.}dešinysis, esantis dešinėje pusėje
+0{dexterity}[dek'ster&#601;t&#618;]E{n}I{1}miklumas, vikrumasI{2}sumanumas, gabumas
+0{dexterous}['dekstX{&#601;}r&#601;s]E{a}I{1}vikrus, miklus, nagingas;F{dexterous hands}mitrios/vikrios rankosI{2}sumanus;F{to be dexterous in business}sumaniai tvarkyti reikalus
+0{dextrin(e)}['dekstr&#618;n]E{n}L{chem.}dekstrinas
+0{dextrorse}['dekstr&#596;:s]E{a}L{bot.}kuris vejasi iš kairės į dešinęl{(apie stiebą)}
+0{dextrose}['dekstr&#601;us]E{n}L{chem.}dekstrozė; gliukozė
+0{dextrous}['dekstr&#601;s]E{a}A{=R{dexterous}}
+0{DF}L{sutr.}X{direction finder}L{rad.}pelengatorius
+0{D. F.}L{sutr.}X{dean of the faculty}fakulteto dekanas
+0{DFC}L{sutr.}X{Distinguished Flying Cross}L{kar.}„Už nuopelnus aviacijai“l{(ordinas)}
+0{DFE}L{sutr.}X{Department for Education}l{(D. Britanijos)}Švietimo ministerija
+0{DFM}L{sutr.}X{Distinguished Flying Medal}L{kar.}„Už nuopelnus aviacijai“l{(medalis)}
+0{dft}L{sutr.}X{defendant}atsakovas; kaltinamasisX{draft}eskizas, brėžinys; planas;l{(dokumento)}projektas; vekselis, sąskaita
+0{DG}L{sutr.}X{director general}generalinis direktorius
+0{dg}L{sutr.}X{decigram(me)}decigramas
+0{dharma}['da:m&#601;]E{n}L{ind.}L{mit.}darma, dharma
+0{dhoti}['d&#601;ut&#618;]L{ind.}E{n}dotisl{(indų vyriškas drabužis)}
+0{dhow}[dau]L{arab.}E{n}vienstiebis kabotažinis laivas
+0{di-}[d&#618;-, da&#618;-]E{pref}dvi-, di-;F{diatomic}dviatomis;F{dioxide}dioksidas, dvideginis
+0{di., dia.}L{sutr.}X{diameter}skersmuo, diametras
+0{dia-}[da&#618;&#601;-]E{pref}dia-l{(reiškiant prasiskverbimą, pasiskirstymąL{ir pan.})};F{diamagnetism}diamagnetizmas;F{diathermic}diaterminis
+0{diabase}['da&#618;&#601;be&#618;s]E{n}L{min.}diabazas
+0{diabetes}[,da&#618;&#601;'bi:ti:z]E{n}L{med.}diabetas, cukraligė
+0{diabetic}[,da&#618;&#601;'bet&#618;k]S{&rArr;}E{n}diabetikasS{&rArr;}E{a}diabetinis
+0{diabolic}[,da&#618;&#601;'b&#596;l&#618;k]E{a}A{=R{diabolical}}1, 2
+0{diabolical}[,da&#618;&#601;'b&#596;l&#618;kl]E{a}I{1}velnio, velniškas, šėtoniškasI{2}žiaurus, piktasI{3}L{šnek.}baisusl{(L{vart.}norint pabrėžti)}
+0{diabolism}[da&#618;'&aelig;b&#601;l&#618;zm]E{n}I{1}velnio garbinimas/kultasI{2}tarnavimas velniui; raganavimasI{3}žiaurumas
+0{diachronic}[,da&#618;&#601;'kr&#596;n&#618;k]E{a}L{spec.}diachroniškas
+0{diacritic}[,da&#618;&#601;'kr&#618;t&#618;k]L{kalb.}S{&rArr;}E{n}diakritinis ženklasS{&rArr;}E{a}diakritinis, atskirtinis
+0{diacritical}[,da&#618;&#601;'kr&#618;t&#618;kl]A{=R{diacritic}}E{a}
+0{diadem}['da&#618;&#601;dem]S{&rArr;}E{n}I{1}diadema, karūna; vainikasI{2}karaliaus valdžiaS{&rArr;}E{v}karūnuoti, vainikuoti diadema/karūna
+0{diaeresis}[da&#618;'&#618;&#601;r&#618;s&#618;s]E{n}(E{pl}diaereses[-si:z])L{kalb.}I{1}trema (du taškeliai, rašomi virš raidės,L{pvz.}, naïve)I{2}dierezė
+0{diag}L{sutr.}X{diagram}diagrama
+0{diagnose}['da&#618;&#601;gn&#601;uz]E{v}I{1}L{med.}nustatyti diagnozę, diagnozuotiI{2}nustatyti, kontaktuoti
+0{diagnosis}[,da&#618;&#601;g'n&#601;us&#618;s]E{n}(E{pl}diagnoses[-si:z])I{1}L{med.}diagnozė, ligos nustatymas;F{to make a diagnosis}nustatyti diagnozęI{2}tikslus apibūdinimas, įvertinimas;F{my diagnosis of the situation is as follows...}štai kaip aš aiškinu susiklosčiusią padėtį...
+0{diagnostic}[,da&#618;&#601;g'n&#596;st&#618;k]S{&rArr;}E{a}diagnostinis, diagnozės; diagnozavimo;F{diagnostic skill}mokėjimas diagnozuotiS{&rArr;}E{n}I{1}l{(ligos)}simptomasI{2}diagnozė
+0{diagnostician}[,da&#618;&#601;gn&#596;'st&#618;&#643;n]E{n}diagnozuotojas
+0{diagnostics}[,da&#618;&#601;g'n&#596;st&#618;ks]E{n}diagnostika
+0{diagonal}[da&#618;'&aelig;g&#601;nl]S{&rArr;}E{a}įstrižas, įstrižinis;F{a diagonal path across a field}keliukas, einantis įstrižai laukoS{&rArr;}E{n}L{geom.}įstrižainė
+0{diagonally}[da&#618;'&aelig;g&#601;nll&#618;]E{adv}įstrižai
+0{diagram}['da&#618;&#601;gr&aelig;m]S{&rArr;}E{n}diagrama; grafikas; schema;F{assembled diagram}suvestinė diagrama;F{diagram of blood circulation}kraujo apytakos schema;F{in diagram form}grafiškai, schemiškaiS{&rArr;}E{v}(pa)vaizduoti/pateikti schemos/diagramos pavidalu; sudaryti diagramą/schemą
+0{diagrammatic(al)}[,da&#618;&#601;gr&#601;'m&aelig;t&#618;k(l)]E{a}schem(at)inis, schem(at)iškas; grafinis, grafiškas
+0{diagrammatize}[,da&#618;&#601;'gr&aelig;m&#601;ta&#618;z]A{=R{diagram}}E{v}
+0{dial}[da&#618;:X{&#601;}l]S{&rArr;}E{n}I{1}l{(matavimo prietaiso, laikrodžio)}ciferblatas; apskritoji skalėI{2}l{(telefono aparato)}diskasI{3}L{rad.}stoties nustatymo įtaisasI{4}saulės laikrodisS{&rArr;}E{v}X{(-ll-)}I{1}(su)rinkti telefono numerį;F{dial the police station}(pa)skambinkite į policijos skyriųI{2}matuoti/nustatyti pagal skalę/ciferblatąL{ir pan.}
+0{dialect}['da&#618;&#601;lekt]E{n}L{kalb.}tarmė, dialektas;F{dialect story}anekdotas, paremtas tarmybėmis; F{to speak dialect}kalbėti tarmiškai
+0{dialectal}[,da&#618;&#601;'lektl]E{a}L{kalb.}tarminis, dialektinis
+0{dialectic}[,da&#618;&#601;'lekt&#618;k]S{&rArr;}E{n}I{1}dialektikaI{2}mokėjimas polemizuotiS{&rArr;}E{a}A{=R{dialectical}}
+0{dialectical}[,da&#618;&#601;'lekt&#618;kl]E{a}L{filos.}dialektinis; dialektiškas;F{dialectical method}dialektinis metodas
+0{dialectician}[,da&#618;&#601;lek't&#618;&#643;n]E{n}L{filos.}dialektikas
+0{dialectics}[,da&#618;&#601;'lekt&#618;ks]E{n}dialektika
+0{dialectologist}[,da&#618;&#601;lek't&#596;l&#601;d&#658;&#618;st]E{n}dialektologas
+0{dialectology}[,da&#618;&#601;lek't&#596;l&#601;d&#658;&#618;]E{n}dialektologija, tarmių mokslas
+0{dialling}['da&#618;&#601;l&#618;&#331;]E{n}telefono numerio (su)rinkimas;F{dialling tone}signalas „linija neužimta“
+0{dialog}['da&#618;&#601;l&#596;g]L{amer.}A{=R{dialogue}}E{n},E{v}
+0{dialogic(al)}[,da&#618;&#601;'l&#596;d&#658;&#618;k(l)]E{a}dialoginis, dialogiškas
+0{dialogue}['da&#618;&#601;l&#596;g]S{&rArr;}E{n}dialogasl{(L{t. p.}L{polit.})}; pokalbisS{&rArr;}E{v}I{1}kalbėtisI{2}(iš)reikšti mintis dialogo forma
+0{dialyser}[,da&#618;&#601;'la&#618;z&#601;]E{n}L{chem.}dializatorius
+0{dialysis}[da&#618;'&aelig;l&#618;s&#618;s]E{n}(E{pl}-ses[-si:z])L{chem.}dializė
+0{diamagnetism}[,da&#618;&#601;'m&aelig;gn&#601;t&#618;zm]E{n}L{fiz.}diamagnetizmas
+0{diamanté}[,da&#618;&#601;'m&aelig;nt&#618;, d&#618;&#601;'m&#596;nte&#618;]L{pr.}E{a}papuoštas dirbtiniais deimantais
+0{diameter}[da&#618;'&aelig;m&#618;t&#601;]E{n}skersmuo, diametras;F{two feet in diameter}dviejų pėdų skersmens
+0{diametric(al)}[,da&#618;&#601;'metr&#618;k(l)]E{a}I{1}diametrinis, skersmeninis;F{diametric(al) clearance}L{tech.}radialinis tarpasI{2}diametralus, visiškasl{(apie priešingumą)}
+0{diametrically}[,da&#618;&#601;'metr&#618;kX{&#601;}l&#618;]E{adv}diametraliai;F{diametrically opposed views}diametraliai/visiškai priešingos nuomonės
+0{diamond}['da&#618;&#601;m&#601;nd]S{&rArr;}E{n}I{1}deimantas, briliantas;F{black diamond}juodasis briliantas;F{black diamonds}akmens anglys;F{rough diamond}X{a)}nešlifuotas deimantas;X{b)}L{prk.}šiurkščių manierų, bet geros širdies žmogusl{(L{amer.}X{diamond in the rough})}I{2}rėžtukas, deimantasl{(stiklui rėžti)}I{3}L{geom.}rombasI{4}E{pl}l{(kortų)}būgnaiI{5}beisbolo aikštelėS{&rArr;}E{a}deimantinis, briliantinis;F{diamond necklace}deimantų vėrinys;F{diamond anniversary/jubilee}deimantinis jubiliejusl{(šešiasdešimties metų sukaktis;L{amer.}L{t. p.}septyniasdešimt penkerių metų sukaktis)};F{a diamond ring}žiedas su briliantu;F{the Diamond State}L{amer.}Delavero valstijaS{&rArr;}E{v}puošti deimantais
+0{diamond-field}['da&#618;&#601;m&#601;ndfi:ld]E{n}deimantų kasykla
+0{diamond-point}['da&#618;&#601;m&#601;ndp&#596;&#618;nt]E{n}I{1}graviravimo adata su deimantiniu antgaliuI{2}L{glžk.}bėgių sankirtal{(smailiu kampu)}
+0{diamond-shaped}['da&#618;&#601;m&#601;nd'&#643;e&#618;pt]E{a}rombinis, rombiškas, rombo pavidalo
+0{Diana}[da&#618;'&aelig;n&#601;]E{n}I{1}Dianal{(vardas;L{t. p.}L{mit.})}I{2}L{poet.}mėnulis
+0{dianthus}[da&#618;'&aelig;n&theta;&#601;s]E{n}L{bot.}gvazdikas
+0{diapason}[,da&#618;&#601;'pe&#618;sn]E{n}I{1}diapazonasl{(L{t. p.}L{muz.})}I{2}L{muz.}vargonų pagrindinis registrasI{3}L{muz.}kamertonas
+0{diapause}['da&#618;&#601;p&#596;:z]E{n}L{zool.}l{(vabzdžių)}diapauzė
+0{diaper}['da&#618;&#601;p&#601;]S{&rArr;}E{n}I{1}raštuota drobėl{(staltiesėms, rankšluosčiams, vystyklams)}I{2}rombinis raštasl{(L{t. p.}X{diaper pattern})}I{3}L{amer.}vystyklas S{&rArr;}E{v}I{1}puošti rombiniu raštuI{2}L{amer.}keisti vystyklus, vystytil{(į vystyklus)}
+0{diaphanous}[da&#618;'&aelig;f&#601;n&#601;s]E{a}permatomas, persišviečiantisl{(apie audinį)}
+0{diaphoretic}[,da&#618;&#601;f&#601;'ret&#618;k]L{farm.}S{&rArr;}E{a}prakaito varomasisS{&rArr;}E{n}prakaito varomasis vaistas
+0{diaphragm}['da&#618;&#601;fr&aelig;m]E{n}I{1}L{anat.}diafragma, perdangaI{2}L{fiz.},L{tech.}diafragma, pertvara; membranaI{3}L{bot.},L{zool.}plėnelė, plėvelėI{4}L{med.}gaubtukas, padedantis išvengti nėštumo
+0{diaphragmatic}[,da&#618;&#601;fr&aelig;g'm&aelig;t&#618;k]E{a}diafragminis
+0{diarchy}['da&#618;a:k&#618;]E{n}dvivaldystė
+0{diarist}['da&#618;&#601;r&#618;st]E{n}žmogus, rašantis dienoraštį
+0{diarize}['da&#618;&#601;ra&#618;z]E{v}rašyti dienoraštį
+0{diarrhea}[,da&#618;&#601;'r&#618;&#601;]E{n}L{amer.}A{=R{diarrhoea}}
+0{diarrhoea}[,da&#618;&#601;'r&#618;&#601;]E{n}L{med.}viduriavimas, diarėja;F{to have diarrhoea}viduriuoti
+0{diary}['da&#618;&#601;r&#618;]E{n}I{1}dienoraštis;F{to keep a diary}rašyti dienoraštįI{2}užrašų knygutė su kalendoriumi
+0{diaspora}[da&#618;'&aelig;sp&#601;r&#601;]E{n}I{1}diaspora; žmonės, išsisklaidę po kitas šalis, imigrantaiI{2}l{(kultūrosL{ir pan.})}plitimas;F{the diaspora of English speech}anglų kalbos paplitimas kitose šalyseI{3}X{(the Diaspora)}L{ist.}l{(žydų)}išsisklaidymasl{(užgrobus Babiloniją)}
+0{diastase}['da&#618;&#601;ste&#618;z]E{n}L{chem.}diastazė
+0{diastole}[da&#618;'&aelig;st&#601;l&#618;]E{n}L{fiziol.}diastolė
+0{diathesis}[da&#618;'&aelig;&theta;&#618;s&#618;s]E{n}(E{pl}-ses[-si:z])L{med.}diatezė
+0{diatom}['da&#618;&#601;t&#601;m]E{n}L{bot.}titnagdumblis, diatominis dumblis
+0{diatomic}[,da&#618;&#601;'t&#596;m&#618;k]E{a}L{chem.}dviatomis
+0{diatomite}[da&#618;'&aelig;t&#601;ma&#618;t]E{n}L{min.}diatomitas
+0{diatonic}[,da&#618;&#601;'t&#596;n&#618;k]E{a}L{muz.}diatoninis
+0{diatribe}['da&#618;&#601;tra&#618;b]E{n}L{knyg.}diatribė; griežta kritika, tulžinga/priekabi kalba
+0{diazepam}[da&#618;'&aelig;z&#618;p&aelig;m]E{n}L{farm.}diazepamas
+0{dib}[d&#618;b]A{=R{dap}}E{v}
+0{dibasic}[da&#618;'be&#618;s&#618;k]E{a}L{chem.}dvibazis
+0{dibber}['d&#618;b&#601;]A{=R{dibble}}E{n}
+0{dibble}['d&#618;bl]L{ž. ū.}S{&rArr;}E{n}kuoliukasl{(augalams sodinti)}S{&rArr;}E{v}sodinti, kuoliuku padarant duobutes
+0{dice}[da&#618;s]S{&rArr;}E{n}I{1}(E{pl}dice)l{(žaidžiamasis)}kauliukas, kauliukaiI{2}žaidimas kauliukaisS{&loz;}X{no dice}l{(ypačL{amer.})}L{šnek.}nieko neišeis/neišeinaS{&rArr;}E{v}I{1}žaisti/lošti kauliukaisI{2}mesti kauliukąl{(buriant; for)};F{he diced me for which of us should marry the girl}jis metė burtus, kuriam iš mūsų vesti tą mergaitęI{3}L{kul.}pjaustyti kubeliaisl{(L{t. p.}X{dice up})}I{4}(iš)braižyti/siuvinėti langeliais/kvadratėliaisS{o}1{dice away}X{a)}pralošti;X{b)}pražaistil{(kurį laiką)}S{&loz;}X{to dice with death}žaisti su mirtimi
+0{dicer}['da&#618;s&#601;]E{n}žaidėjas kauliukais
+0{dicey}['da&#618;s&#618;]E{a}L{šnek.}l{(truputį)}rizikingas, pavojingas;F{their future is dicey}nežinia, kaip susiklostys jų ateitis
+0{dichogamy}[da&#618;'k&#596;g&#601;m&#618;]E{n}L{bot.}dichogamija
+0{dichotomy}[da&#618;'k&#596;t&#601;m&#618;]E{n}L{spec.}dichotomija; dalijimas(is)/skirstymas(is) į dvi dalis
+0{dichromatic}[,da&#618;kr&#601;'m&aelig;t&#618;k]E{a}L{spec.}dichromatinis, dvispalvis
+0{dichromic}[da&#618;'kr&#601;um&#618;k]E{a}skiriantis tik dvi pagrindines spalvas
+0{dick^{1}}[d&#618;k]E{n}I{1}X{Dick}(RichardL{sutr.}) Dikasl{(vardas)}I{2}L{sl.}mulkis, žmogėnasI{3}L{amer.}L{sl.}seklysI{4}L{vulg.}vyro varpa
+0{dick^{2}}E{n}L{sl.}:X{to take one’s dick (that)...}prisiekti, tvirtinti (kad)...
+0{dickens}['d&#618;k&#601;nz]E{n}L{šnek.}I{1}kipšas, velnias;F{as pretty as the dickens}L{amer.}velniškai gražusI{2}po galais! (po what, who, where, why);F{what the dickens do you want?}ko, po galais, tau čia reikia?
+0{Dickens}['d&#618;k&#601;nz]E{n}:X{Charles Dickens}Čarlsas Dikensasl{(anglų rašytojas)}
+0{Dickensian}[d&#618;'kenz&#618;&#601;n]E{a}Dikenso; dikensiškas
+0{dicker}['d&#618;k&#601;]L{šnek.}S{&rArr;}E{n}smulkus sandėris; daiktai/prekės kaip mainų/mokėjimo priemonė; mainaiS{&rArr;}E{v}derėtis dėl smulkmenų
+0{dickey}['d&#618;k&#618;]A{=R{dicky^{1}}}
+0{dickhead}['d&#618;khed]E{n}L{sl.}mulkis, idiotas
+0{dicky^{1}}['d&#618;k&#618;]E{n}I{1}antkrūtinis, krūtinėlėI{2}prijuostė; seilinukasI{3}vežiko/liokajaus sėdynė karietos užpakalyje;l{(senovinio dviviečio automobilio)}sudedamoji užpakalinė sėdynėI{4}A{=R{dickybird}}
+0{dicky^{2}}['d&#618;k&#618;]E{a}L{šnek.}silpnas; netvirtasl{(ant kojų)};F{dicky heart/ticker}silpna širdis;F{I feel a bit dicky after the flight}po skridimo aš jaučiuosi nekaip
+0{dickybird}['d&#618;k&#618;b&#601;:d]E{n}L{vaik.}paukščiukasS{&loz;}X{not to say a dickybird}nė žodelio, nieko nesakyti, tylėti
+0{dicotyledon}[da&#618;k&#596;t&#618;'li:dX{&#601;}n]E{n}L{bot.}dviskiltis augalas
+0{dict.}L{sutr.}X{dictionary}žodynas
+0{dicta}['d&#618;kt&#601;]E{pl}A{L{žr.}R{dictum}}
+0{dictaphone}['d&#618;kt&#601;f&#601;un]E{n}diktofonas
+0{dictate}S{&rArr;}E{n}['d&#618;kte&#618;t]I{1}įsakymas, (pa)liepimas;F{the dictate of conscience [of reason]sąžinės [proto] balsasI{2}L{polit.}diktatas S{&rArr;}E{v}[d&#618;k'te&#618;t]I{1}diktuotil{(laiškąL{ir pan.})}I{2}(į)sakyti, lieptil{(to)};F{to dictate terms to the enemy}diktuoti sąlygas priešui;F{common sense dictates that...}sveikas protas sako/nurodo, kad...
+0{dictation}[d&#618;k'te&#618;&#643;n]E{n}I{1}diktavimas; tai, kas diktuojama;F{to write at smb’s dictation}rašyti kam diktuojant;F{to take dictation}X{a)}rašyti diktuojant;X{b)}paklusti įsakymuiI{2}liepimas, įsakymasI{3}L{mok.}diktantasI{4}L{polit.}diktatas
+0{dictator}[d&#618;k'te&#618;t&#601;]E{n}diktatoriusl{(L{t. p.}L{prk.})}
+0{dictatorial}[,d&#618;kt&#601;'t&#596;:r&#618;&#601;l]E{a}I{1}diktatorinis, diktatoriausI{2}diktatoriškas; valdingas
+0{dictatorship}[d&#618;k'te&#618;t&#601;&#643;&#618;p]E{n}l{(L{įv. reikšm.})}diktatūra
+0{diction}['d&#618;k&#643;n]E{n}I{1}dikcija, tarsena; minčių reiškimo maniera/stiliusI{2}žodžių/frazių parinkimas;F{poetic diction}poezijos kalba
+0{dictionary}['d&#618;k&#643;&#601;nX{&#601;}r&#618;]E{n}I{1}žodynasl{(knyga)};F{dictionary of place-names}vietovardžių žodynasI{2}žinynasl{(sudarytas abėcėlės tvarka)}
+0{dictum}['d&#618;kt&#601;m]E{n}(E{pl}dictums[-z], dicta)I{1}posakis, aforizmasI{2}L{ofic.}autoritetingas pareiškimasI{3}L{teis.}teisėjo nuomonė/pareiškimasl{(neturintis nuosprendžio galios)}
+0{did}[d&#618;d]E{past}A{L{žr.}R{do^{1}}}
+0{didactic}[d&#618;'d&aelig;kt&#618;k, da&#618;'d&aelig;kt&#618;k]E{a}I{1}didaktinis, pamokomasI{2}didaktiškas, mėgstantis (pa)mokyti
+0{didacticism}[d&#618;'d&aelig;kt&#618;s&#618;zm]E{n}didaktizmas
+0{didactics}[d&#618;'d&aelig;kt&#618;ks]E{n}didaktika
+0{didapper}['da&#618;d&aelig;p&#601;]E{n}L{amer.}L{dial.}A{=R{dabchick}}
+0{diddle}['d&#618;dl]E{v}L{šnek.}I{1}apgau(dinė)ti, sukčiauti;F{to diddle smb out of his money}išvilioti iš ko pinigusI{2}L{amer.}tuščiai (pra)leistil{(laiką;L{t. p.}X{diddle away})}
+0{diddle-dee}[,d&#618;dl'di:]E{n}L{bot.}raudonoji varnauogė
+0{diddly (-squat)}['d&#618;dl&#618;(,skw&#596;t)]E{n}L{amer.}L{šnek.}nė kiek, ničnieko;F{not to know diddly (-squat)}ničnieko nežinoti
+0{didicoi}['d&#618;d&#618;k&#596;&#618;]E{n}L{sl.}čigonas
+0{didn’t}['d&#618;dnt]A{=R{did not}}
+0{dido}['da&#618;d&#601;u]E{n}(E{pl}dido(e)s[-z])L{amer.}L{šnek.}išdaiga, pokštas;F{to cut didoes}kvailioti
+0{Dido}['da&#618;d&#601;u]E{n}L{mit.}Didonė
+0{didst}[d&#618;dst]L{psn.}L{vksm.}dol{būtojoL{l.}L{vns.}2 asmuo}
+0{didy}['d&#618;d&#618;]E{n}L{vaik.}vystyklėlis
+0{die^{1}}[da&#618;]E{n}I{1}L{tech.}štampas;l{(preso)}antgalisI{2}L{tech.}sriegiamoji galvutė; sriegpjovėI{3}(E{pl}dice)L{psn.},L{amer.}žaidimo kauliukasS{&loz;}X{straight as a die}doras, sąžiningas;F{to set smth upon the die}S{&cong;}statyti ką ant kortos;F{the die is cast/thrown}burtai mesti
+0{die^{2}}E{v}(E{pI}dying)I{1}mirtil{(L{t. p.}L{prk.}; of, from – nuo; for – už, dėl)}X{to die in action/battle}žūti kovoje;F{to die in one’s bed}mirti savo mirtimi;F{to die laughing}mirti iš juoko;F{true love never dies}tikroji meilė niekada nemirštaI{2}išnykti, būti užmirštam;F{colonial traditions die hard}kolonijinės tradicijos (iš)nyksta iš lėto, sunkiaiI{3}(nu)dvėsti, (nu)stiptiI{4}nuvystil{(apie augalus)}I{5}silpnėtil{(apie šviesąL{ir pan.})}; nyktil{(apie spalvas)}I{6}(už)gestil{(apie variklį, cigaretęL{ir pan.})}I{7}(iš)garuotil{(apie skystį)}I{8}L{šnek.}mirti, trokšti, baisiai norėti;F{to be dying to do smth}labai norėti/trokšti ką padaryti;F{I was dying of boredom [of thirst, for a drink]aš miriau iš nuobodulio [iš troškulio]S{o}1{die away}X{a)}silpnėti, (iš)nykti, (nu)tilti;X{b)}(ap)alpti;1{die back}(nu)vysti;1{die down}nurimti, silpnėtil{(apie audrą, vėją, gaisrą, jausmus, juoką, revoliucijąL{ir pan.})};1{die off}išmirtil{(vienam po kito)};1{die out}X{a)}išmirti;X{b)}išnyktil{(apie papročiusL{ir pan.})}
+0{die-casting}['da&#618;,ka:st&#618;&#331;]E{n}L{metal.}liejimas slėgimu/slegiant
+0{diehard}['da&#618;ha:d]E{n}I{1}žmogus, neatsisakantis pasenusių idėjų/papročiųI{2}L{polit.}kietakaktis, (ultra)konservatorius
+0{dielectric}[da&#618;&#618;'lektr&#618;k]L{fiz.}S{&rArr;}E{n}dielektrikas, nelaidininkasS{&rArr;}E{a}dielektrinis
+0{dieresis}[,da&#618;'&#618;&#601;r&#618;s&#618;s]E{n}L{amer.}A{=R{diaeresis}}
+0{diesel}['di:zl]E{n}dyzelis, dyzelinis variklisl{(L{t. p.}X{diesel engine/motor})};F{diesel fuel}dyzelinis kuras
+0{dieses}['da&#618;&#618;si:z]E{pl}A{L{žr.}R{diesis}}
+0{die-sinker}['da&#618;s&#618;&#331;k&#601;]E{n}antspaudų/štampų raižytojas
+0{diesis}['da&#618;&#618;s&#618;s]E{n}(E{pl}dieses)L{muz.}diezas
+0{diestock}['da&#618;st&#596;k]E{a}L{tech.}sriegtuvas
+0{diet^{1}}['da&#618;&#601;t]S{&rArr;}E{n}I{1}maistasI{2}dieta;F{to be on a diet}laikytis dietos;F{diet pills}tabletės nuo nutukimo, liesinamosios tabletėsS{&rArr;}E{a}dietinisS{&rArr;}E{v}paskirti dietą; laikytis dietos
+0{diet^{2}}E{n}I{1}L{ist.}suvažiavimas, kongresas; tarptautinė konferencijaI{2}l{(ne Diet Britanijos)}parlamentas
+0{dietary}['da&#618;&#601;tX{&#601;}r&#618;]S{&rArr;}E{n}I{1}maisto davinysI{2}dietaS{&rArr;}E{a}I{1}dietinis;F{dietary foods}dietiniai produktaiI{2}mitybos
+0{dieter}['da&#618;&#601;t&#601;]E{n}dietininkas
+0{dietetic}[,da&#618;&#601;'tet&#618;k]E{a}dietinis; dietetikos, dietologijos
+0{dietetics}[,da&#618;&#601;'tet&#618;ks]E{n}dietetika, dietologija
+0{dietician, dietitian}[,da&#618;&#601;'t&#618;&#643;n]E{n}dietetikas, dietologas, dietologijos specialistas
+0{diff}[d&#618;f]E{n}(differenceL{sutr.})L{šnek.}skirtumas;F{what’s the diff?}koks skirtumas?
+0{diff}L{sutr.}X{difference}skirtumas
+0{diff., dift}L{sutr.}X{different}skirtingas
+0{differ}['d&#618;f&#601;]E{v}I{1}skirtisl{(from – nuo, in – kuo)};F{to differ in opinion}skirtis nuomonėmsI{2}nesutikti, nesutarti;F{he differed with his brother about/on/over a political question}jis nesutarė su broliu politiniu klausimu;F{I differ from you there}čia aš nesutinku su jumisS{&loz;}X{tastes differ}S{&cong;}dėl skonio nesiginčijama
+0{difference}['d&#618;fr&#601;ns]S{&rArr;}E{n}I{1}skirtumasl{(L{t. p.}L{mat.})}; skirtingumas; skirtis;F{difference in age [in price]amžiaus [kainų] skirtumas;F{to make a difference}l{(between)}daryti/įžiūrėti skirtumąl{(tarp)};F{it makes no difference}nėra jokio skirtumo; visai nesvarbu;F{a world of difference}didžiulis skirtumasI{2}nesutarimas, nuomonių skirtingumasl{(L{t. p.}X{difference of opinion})};F{to have differences}ginčytis, nesutarti;F{to settle the differences}išspręsti nesutarimus, susitaikytiI{3}skiriamasis požymisS{&loz;}X{with a difference}kitoks ir geresnis, nepaprastas ir įdomusl{(pritariant)};F{to split the difference}X{a)}padalyti pusiaul{(lygstamos kainos skirtumą)};X{b)}susitarti kompromiso būdu;F{to make all the difference}smarkiail{(viską)}pakeistiS{&rArr;}E{v}I{1}skirti(s)I{2}L{mat.}apskaičiuoti skirtumąI{3}L{her.}modifikuoti herbąl{(giminės atšakoms skirti)}
+0{different}['d&#618;fr&#601;nt]E{a}I{1}skirtingas; nepanašus; įvairus;F{to be different from other people}skirtis nuo kitų žmonių;F{I rang at three different times}skambinau triskart įvairiu laikuI{2}kitoks, kitoniškas, kitas;F{I feel a different person now}dabar aš jaučiuosi visai kitas/kitoks žmogusI{3}L{šnek.}nepaprastas;F{it’s certainly different!}tai tikrai originalu!
+0{differentia}[,d&#618;f&#601;'ren&#643;&#618;&#601;]E{n}(E{pl}-tiae[-&#643;&#618;i:]) skiriamasisl{(klasės, rūšies)}požymis
+0{differential}[,d&#618;f&#601;'ren&#643;l]S{&rArr;}E{n}I{1}L{mat.},L{tech.}diferencialasI{2}L{kom.}diferencinis tarifasI{3}L{glžk.}skirtinga bilieto kaina važiuojant į tą pačią vietą įvairiais maršrutaisS{&rArr;}E{a}I{1}skiriamasis, diferencinis; skirtuminis; atskirtinisI{2}L{mat.},L{tech.}diferencialinis;F{differential calculation}diferencialinis skaičiavimas
+0{differentiate}[,d&#618;f&#601;'ren&#643;&#618;e&#618;t]E{v}I{1}skirti(s), at(si)skirti;F{to differentiate one from another}skirti vieną nuo kitoI{2}diferencijuotil{(L{t. p.}L{mat.})}; diferencijuotis
+0{differentiation}[,d&#618;f&#601;ren&#643;&#618;'e&#618;&#643;n]E{n}I{1}atskyrimasI{2}diferenciacija; diferenciavimas(is);F{price [wage] differentiation}kainų [atlyginimų] diferenciacija
+0{differently}['d&#618;fr&#601;ntl&#618;]E{adv}I{1}kitaip, kitoniškai;F{I’d have done it differently}aš būčiau tai padaręs kitaipI{2}skirtingai
+0{different-sized}['d&#618;fX{&#601;}r&#601;ntsa&#618;zd]E{a}skirtingo dydžio
+0{difficile}['d&#618;f&#618;si:l]L{pr.}E{a}L{knyg.}sunkus, nesukalbamas, įnoringas
+0{difficult}['d&#618;f&#618;kX{&#601;}lt]E{a}I{1}sunkus; keblus; varginantis;F{she finds it difficult to climb the stairs}jai sunku lipti laiptais;F{it is difficult to imagine}sunku įsivaizduoti;F{to make life difficult for smb}apsunkinti kam gyvenimąI{2}sunkiai sukalbamas, (vis) nepatenkintas;F{difficult child}sunkusl{(sunkiai auklėjamas)}vaikas
+0{difficulty}['d&#618;f&#618;kX{&#601;}lt&#618;]E{n}I{1}sunkumas;F{to find difficulty in understanding smb/smth}sunkiai ką suprasti;F{without difficulty}nesunkiai, be vargo;F{with much difficulty}vargais negalais;F{the tests vary in difficulty}testai yra įvairaus sunkumoI{2}kliūtis, apsunkinimas;F{to make/raise difficulties}kliudyti, daryti kliūtisI{3}l{(L{džn.}E{pl})}kebli padėtis;l{(materialiniai)}sunkumai;F{to be in difficulties}turėti materialinių sunkumų; būti keblioje padėtyje;F{to get/run into difficulty}patekti į keblią padėtį;F{to get out of difficulty}išsipainioti iš keblios padėties
+0{diffidence}['d&#618;f&#618;dX{&#601;}ns]E{n}drovumas; drovėjimasis, drova; nepasitikėjimas savimi
+0{diffident}['d&#618;f&#618;dX{&#601;}nt]E{a}drovus; nepasitikintis savimi;F{to be diffident}l{(about)}drovėtis
+0{diffidently}['d&#618;f&#618;dX{&#601;}ntl&#618;]E{adv}droviai, nedrąsiai, netvirtai
+0{diffract}[d&#618;'fr&aelig;kt]E{n}L{fiz.}išsklaidytil{(spindulį)}; difraguoti
+0{diffraction}[d&#618;'fr&aelig;k&#643;n]E{n}L{fiz.}difrakcija
+0{diffractive}[d&#618;'fr&aelig;kt&#618;v]E{a}L{fiz.}difrakcinis
+0{diffuse}S{&rArr;}E{a}[d&#618;'fju:s]I{1}difuzinis; išsisklaidęs, išsklaidytas;F{diffuse light}L{fiz.}išsklaidytoji šviesaI{2}ištęstas, daugiažodisS{&rArr;}E{v}[d&#618;'fju:z]I{1}iš(si)sklaidytil{(apie šviesą, šilumą)}; (iš)sklistil{(apie rašaląL{ir pan.})}I{2}skleistil{(informaciją, mokslą, džiaugsmąL{ir pan.})}; (pa)sklisti
+0{diffuseness}[d&#618;'fju:sn&#618;s]E{n}I{1}ištęstumas, daugiažodiškumasI{2}l{(organizacijos)}padrikumas, išsisklaidymas
+0{diffuser}[d&#618;'fju:z&#601;]E{n}L{tech.}difuzorius; sklaidytuvas
+0{diffusible}[d&#618;'fju:z&#601;bl]E{a}pasklindantis, išsisklaidantis; galintis difunduoti
+0{diffusion}[d&#618;'fju:&#658;n]E{n}I{1}iš(si)sklaidymasI{2}l{(moksloL{ir pan.})}skleidimasI{3}L{fiz.}difuzija
+0{diffusive}[d&#618;'fju:s&#618;v]E{a}I{1}sklindantisI{2}daugiažodisI{3}L{fiz.}išsklaidytas, difuzinis
+0{dig}[d&#618;g]S{&rArr;}E{v}(dug)I{1}kasti, kasioti;F{to dig a well}(iš)kasti šulinį;F{to dig a vegetable garden}sukasti daržą;F{to dig a pit for smb}L{prk.}kasti kam duobęI{2}knaisiotis, ieškotil{(knygosL{ir pan.}; for)};F{to dig for information}ieškoti informacijos;F{to dig into the bag}raustis krepšyjeI{3}kastil{(bulvesL{ir pan.})}I{4}kasinėtil{(archeologiniais tikslais)}I{5}bakstelėti, (į)besti, badytil{(into)}I{6}įgelti, užgauti, užgauliotil{(at)}I{7}L{amer.}L{šnek.}uoliai darbuotis, kaltil{(pamokąL{ir pan.}; into)}I{8}L{sl.}išmanyti, suprastiI{9}L{sl.}mėgti, vertintiS{o}1{dig in}X{a)}įkasti, apkastil{(ypačL{kar.})};E{refl}apsikastil{(apkasuose)};X{b)}E{refl}L{šnek.}įsitaisyti, įsitvirtintil{(tarnyboje, gyventi kur)};X{c)}L{šnek.}pultil{(prie valgio)};X{d):}X{to dig in manure}(pa)tręšti žemę mėšlu;1{dig out}X{a)}atkasti; iškasti;X{b)}surasti;X{c)}L{amer.}L{šnek.}išbėgti, iškurti, išnykti;1{dig over}l{(iš naujo)}pergalvoti;1{dig up}X{a)}iškasti, atkasti;X{b)}sukasti, suartil{(lauką, ganykląL{ir pan.})};X{c)}suieškoti, atskleisti;X{d)}L{šnek.}sukrapštytil{(pinigų)}S{&rArr;}E{n}I{1}kasimas; kasinėjimas;F{to give the garden a dig}sukasti daržąI{2}bakstelėjimasl{(pašonėn)};F{to give smb a dig}bakstelėti kamI{3}L{šnek.}įgėlimasl{(kandžia pastaba; at)}I{4}E{pl}L{šnek.}išsinuomotas kambarysI{5}L{archeol.}kasinėjimai
+0{digamist}['d&#618;g&#601;m&#618;st]E{n}digamistas
+0{digamy}['d&#618;g&#601;m&#618;]E{n}digamija, dvipatystė, dvivyrystė
+0{digest}S{&rArr;}E{n}['da&#618;d&#658;est]I{1}santrauka, reziumė; kompendiumas, rinkinys; periodikos apžvalgaI{2}L{teis.}sisteminis įstatymas, teismo nutarimasL{ir pan.}; sąvadas, rinkinysS{&rArr;}E{v}[da&#618;'d&#658;est, d&#618;-]I{1}(su)virškintil{(maistą;L{t. p.}L{prk.})};F{chicken is easily digested}vištiena lengvai virškinama;F{I need time to digest what I have read}man reikia laiko suvirškinti tai, ką perskaičiauI{2}asimiliuoti, pasisavinti, suprasti;F{to digest the events}susiorientuoti įvykiuose I{3}pakęsti, iškęstiI{4}sisteminti, klasifikuoti, sudaryti rodyklęI{5}L{ž. ū.}ruošti kompostą, kompostuoti
+0{digester}[da&#618;'d&#658;est&#601;, d&#618;-]E{n}I{1}virškinimo skatinamasis vaistasI{2}greitpuodis, hermetiškai užsidarantis verdamasis indasI{3}L{tech.}autoklavas
+0{digestibility}[da&#618;,d&#658;est&#601;'b&#618;l&#601;t&#618;, d&#618;-]E{n}suvirškinamumas
+0{digestible}[da&#618;'d&#658;est&#601;bl, d&#618;-]E{a}l{(lengvai)}virškinamas, pasisavinamas, asimiliuojamas
+0{digestion}[da&#618;'d&#658;est&#643;n, d&#618;-]E{n}I{1}maisto virškinimasI{2}l{(žiniųL{ir pan.})}įgijimas, suvokimas
+0{digestive}[da&#618;'d&#658;est&#618;v, d&#618;-]S{&rArr;}E{n}I{1}A{=R{digester}}1I{2}L{kul.}trupininis pyragaitisl{(L{t. p.}X{digestive biscuit})}S{&rArr;}E{a}I{1}virškinimo;F{digestive trouble}virškinimo sutrikimasI{2}padedantis virškinti
+0{digger}['d&#618;g&#601;]E{n}I{1}kasamoji, kasimo mašina; ekskavatorius;F{potato digger}bulvių kasamoji mašinaI{2}žemkasys, kasėjasI{3}angliakasys, šachtininkasI{4}L{austral.}L{šnek.}l{(Australijos)}kareivis; australietisI{5}E{pl}L{ist.}digeriai
+0{digging}['d&#618;g&#618;&#331;]E{n}I{1}kasimas, žemės darbaiI{2}kasykla;l{(iškasenų)}gavybaI{3}iškasenosI{4}E{pl}A{=R{dig}}4I{5}E{pl}L{amer.}L{šnek.}rajonas, gyvenvietė
+0{dight}[da&#618;t]E{a}L{psn.},L{poet.}pasipuošęs, apsirengęs
+0{digit}['d&#618;d&#658;&#618;t]E{n}I{1}L{anat.}pirštasI{2}piršto plotisl{(kaip matas = 0,75 colioS{»}1,9 cm)}I{3}L{mat.}vienaženklis skaičius, skaitmuol{(nuo 0 iki 9)}
+0{digital}['d&#618;d&#658;&#618;tl]E{a}I{1}skaitmeninis;F{digital computer}skaitmeninis kompiuteris;F{digital code [recording]skaitmeninis kodas [įrašas]I{2}L{anat.}pirštų; piršto pavidalo
+0{digitalin}[,d&#618;d&#658;&#618;'te&#618;l&#618;n]E{n}L{chem.}digitalinas
+0{digitalis}[,d&#618;d&#658;&#618;'te&#618;l&#618;s]E{n}I{1}L{bot.}digitalisI{2}A{=R{digitalin}}
+0{digitate(d)}['d&#618;d&#658;&#618;te&#618;t(&#618;d)]E{a}L{zool.}turintis išsirutuliojusius pirštusI{2}L{bot.}pirštiškas, pirštuotas
+0{digitize}['d&#618;d&#658;&#618;ta&#618;z]E{v}L{komp.}pervestil{(informaciją)}į skaitmeninę formą
+0{dignified}['d&#618;gn&#618;fa&#618;d]E{a}orus, kilnus; vertas pagarbos;F{to behave in a dignified way}elgtis oriai
+0{dignify}['d&#618;gn&#618;fa&#618;]E{v}I{1}teikti orumo/kilnumoI{2}vadinti garbingu vardu, suteikti tituląL{ir pan.}
+0{dignitary}['d&#618;gn&#618;tX{&#601;}r&#618;]E{n}aukštą/garbingą postą užimantis žmogusl{(ypač dvasininkas)}
+0{dignity}['d&#618;gn&#601;t&#618;]E{n}I{1}orumas, kilnumas; garbingumas;F{to stand (up) on one’s dignity}oriai laikytis; reikalauti sau pagarbos;F{beneath one’s dignity}nesilaikantis deramo orumo, neprideramas kamI{2}titulas, garbingas vardasI{3}L{kuop.}l{(tituluotoji)}aukštuomenė
+0{digraph}['da&#618;gra:f]E{n}digrafasl{(dvi raidės vienam garsui žymėti)}
+0{digress}[da&#618;'gres]E{v}nukrypti, nutoltil{(nuo temosL{ir pan.})}
+0{digression}[da&#618;'gre&#643;n]E{n}nutolimas, nukrypimas; digresija;F{lyrical digression}L{lit.}lyrinis nukrypimas
+0{digressive}[da&#618;'gres&#618;v]E{a}nutolstantis, nukrypstantisl{(nuo temos)}
+0{dihedral}[da&#618;'hi:drX{&#601;}l]E{a}L{geom.}sudaromas dviejų susikertančių plokštumųl{(apie kampą)}
+0{dike^{1}}[da&#618;k]S{&rArr;}E{n}I{1}pylimas, užtvanka, dambaI{2}L{prk.}užtvara, kliūtisI{3}nutekamasis griovysS{&rArr;}E{v}I{1}apsaugoti/atitverti pylimu/užtvanka; daryti pylimą/užtvankąI{2}iškasti griovį aplink; nusausinti vietąl{(grioviais)}I{3}mirkytil{(linus, kanapes)}
+0{dike^{2}}E{n}L{sl.}lesbietė
+0{diktat}['d&#618;kt&aelig;t]L{vok.}E{n}diktatas
+0{dilapidated}[d&#618;'l&aelig;p&#618;de&#618;t&#618;d]E{a}apgriuvęs, aplūžęs, apšiuręs, nutriušęs;F{dilapidated car}iškleręs automobilis, kledaras
+0{dilapidation}[d&#618;,l&aelig;p&#618;'de&#618;&#643;n]E{n}I{1}apgriuvimas, aplūžimas, aptriušimasI{2}E{pl}kompensacija už žalą, padarytą nuomojamam namui, už bažnytinio turto valdymą
+0{dilatable}[da&#618;'le&#618;t&#601;bl]E{a}L{spec.}išplečiamas; platėjantis
+0{dilatation}[,da&#618;le&#618;'te&#618;&#643;n]E{n}L{spec.}iš(si)plėtimas, plėtimas(is);F{linear dilatation}tiesinis ilgėjimas
+0{dilatator}['da&#618;l&#601;,te&#618;t&#601;]E{n}A{=R{dilator}}
+0{dilate}[da&#618;'le&#618;t]E{v}I{1}iš(si)plėstil{(apie akies vyzdįL{ir pan.})}I{2}L{fiz.}plėstisI{3}L{knyg.}plačiai kalbėtil{(on, upon – apie)}

@@ -1,0 +1,1000 @@
+0{echoing}['ek&#601;u&#618;&#331;]E{a}skardus
+0{echolocation}[,ek&#601;ul&#601;'ke&#618;&#643;n]E{n}L{spec.}echolokacija
+0{echo-sounder}['ek&#601;u,saund&#601;]E{n}L{jūr.}echolotas
+0{éclair}[e&#618;'kl&#604;&#601;, &#618;'kl&#604;&#601;]L{pr.}E{n}eklerasl{(pyragaitis)}
+0{eclampsia}[&#618;'kl&aelig;mps&#618;&#601;]E{n}L{med.}eklampsijal{(traukulių priepuoliai)}
+0{éclat}['e&#618;kla:]L{pr.}E{n}I{1}l{(didžiulis)}pasisekimasI{2}išgarsėjimas, garsas; garbė
+0{eclectic}[&#618;'klekt&#618;k]S{&rArr;}E{a}eklektinisS{&rArr;}E{n}eklektikas
+0{eclecticism}[&#618;'klekt&#618;s&#618;zm]E{n}eklektizmas
+0{eclipse}[&#618;'kl&#618;ps]S{&rArr;}E{n}I{1}L{astr.}užtemimas;F{total [partial] eclipse}visiškas [dalinis] užtemimasI{2}L{prk.}saulėlydis, smukimas;l{(garbėsL{ir pan.})}netekimas, išblėsimasS{&rArr;}E{v}I{1}užtemtiI{2}L{prk.}užtemdyti; F{to eclipse smb’s fame}(už)temdyti kieno garbę
+0{ecliptic}[&#618;'kl&#618;pt&#618;k]L{astr.}S{&rArr;}E{n}ekliptikaS{&rArr;}E{a}ekliptinis
+0{eclogue}['ekl&#596;g]E{n}L{lit.}eklogė
+0{eco}['i:k&#601;u]E{n}L{sutr.}A{=R{ecology}}
+0{eco-}['i:k&#601;X{u}-]l{(L{sudurt.}žodžiuose)}eko-; gamtosaugos;F{ecosphere}ekosfera;F{eco-warriors}gamtosaugininkai
+0{ecocatastrophy}[,i:k&#601;k&#601;'t&aelig;str&#601;f&#618;]E{n}ekologinė katastrofa
+0{ecocide}['i:k&#601;usa&#618;d]E{n}natūralios aplinkos naikinimas
+0{eco-friendly}[,i:k&#601;u'frendl&#618;]E{a}nežalingas aplinkai, ekologiškai švarus
+0{ecol}L{sutr.}X{ecological}ekologinis;F{ecology}ekologija
+0{eco-label}['i:k&#601;ule&#618;bl]E{n}ekologiškai švarių produktų žyma
+0{ecological}[,i:k&#601;'l&#596;d&#658;&#618;kl]E{a}ekologinis
+0{ecologist}[&#618;'k&#596;l&#601;d&#658;&#618;st]E{n}ekologas
+0{ecology}[&#618;'k&#596;l&#601;d&#658;&#618;]E{n}ekologija; gamtosauga
+0{econ}L{sutr.}X{economical}ekonominis;F{economics}ekonomika
+0{econometric}[&#618;'k&#596;n&#601;'metr&#618;k]E{a}ekonometrinis
+0{econometrics}[&#618;'k&#596;n&#601;'metr&#618;ks]E{n}ekonometrija
+0{economic}[,i:k&#601;'n&#596;m&#618;k]E{a}I{1}ekonominis, ūkinis;F{economic policy}ekonominė politikaI{2}rentabilus;F{railways are no longer economic}geležinkeliai nebėra rentabilūs/pelningi;F{to make economic sense}būti ekonomiškai naudingam; būti pelningam
+0{economical}[,i:k&#601;'n&#596;m&#618;kl]E{a}I{1}ekonomiškas, taupus; ūkiškas;F{economical car}ekonomiškas automobilis;F{economical housekeeper}taupi šeimininkė;F{to be economical on petrol}mažai eikvoti benzinoI{2}ekonominis, ekonomikos, ūkinis;F{economical system}ekonominė/ūkinė sistemaI{3}glaustasl{(apie stilių, kalbą)};F{to be economical with words}glaustai pasakyti
+0{economically}[,i:k&#601;'n&#596;m&#618;k&#601;l&#618;]E{adv}I{1}ekonomiškai; taupiaiI{2}ekonomikos požiūriu
+0{economics}[,i:k&#601;'n&#596;m&#618;ks]E{n}I{1}ekonomikal{(mokslas)}I{2}l{(šalies, tautosL{ir pan.})}ūkis
+0{economise}[&#618;'k&#596;n&#601;ma&#618;z]E{v}taupiai naudoti, taupyti
+0{economist}[&#618;'k&#596;n&#601;m&#618;st]E{n}I{1}ekomonistasI{2}taupus/ekonomiškas žmogus/savininkas
+0{economize}[&#618;'k&#596;n&#601;ma&#618;z]E{v}taupyti; taupiai/ekonomiškai leisti/vartotil{(on)};F{to economize one’s strength}taupyti jėgas
+0{economy}[&#618;'k&#596;n&#601;m&#618;]S{&rArr;}E{n}I{1}ūkis; ekonomika;F{national economy}tautos ūkis, krašto ekonomika;F{market economy}rinkos ekonomika;F{agricultural/rural economy}žemės ūkis;F{water economy}vandens ūkis;F{black/grey economy}šešėlinė ekonomikaI{2}ekonomija, taupymas; taupumas, ekonomiškumas;F{to make economies}taupyti;F{economies of scale}L{kom.}masinės gamybos ekonominiai privalumaiI{3}E{pl}santaupos, sankauposS{&rArr;}E{a}I{1}pigus;F{economy class}pigiausia/turistinė klasėl{(L{džn.}lėktuve)}I{2}ekonomiškasl{(apie automobilįL{ir pan.})}
+0{ECOSOCX{Economic and Social Council (of the United Nations)}L{sutr.}}(JT) Ekonomikos ir socialinių reikalų taryba
+0{ecosystem}['i:k&#601;u,s&#618;st&#601;m]E{n}L{biol.}ekosistema, ekologinė sistema
+0{ecotype}['i:k&#601;ta&#618;p]E{n}L{biol.}ekotipas
+0{ecru}['e&#618;kru:]L{pr.}E{n}nebalintos drobės spalva
+0{ECSC}L{sutr.}X{European Coal and Steel Community}Europos anglių ir plieno bendrija
+0{ecstasy}['ekst&#601;s&#618;]E{n}I{1}ekstazė;F{to go into ecstasies}pulti į ekstazęI{2}l{(L{t. p.}X{Ecstasy})}ekstazisl{(narkotikas)}
+0{ecstatic}[&#618;k'st&aelig;t&#618;k, ek'st&aelig;t&#618;k]E{a}I{1}ekstaziškas, ekstazės pagautasI{2}transo būklėje
+0{ectopia}[ek't&#601;up&#618;&#601;]E{n}L{med.}I{1}ektopijal{(organo buvimas neįprastoje vietoje)}I{2}negimdinis nėštumas
+0{ectoplasm}['ekt&#601;pl&aelig;zm]E{n}L{biol.}ektoplazma
+0{ecu}['ekju:]E{n}ekiul{(Europos Sąjungos piniginis vienetas)}
+0{Ecuador}['ekw&#601;d&#596;:]E{n}Ekvadorasl{(valstybė)}
+0{Ecuador(i)an}[,ekw&#601;'d&#596;:r(&#618;)&#601;n]S{&rArr;}E{a}EkvadoroS{&rArr;}E{n}ekvadorietis, Ekvadoro gyventojas
+0{ecumenic(al)}[,i:kju'men&#618;k(l)]E{a}L{bažn.}I{1}pasaulinis, visuotinisl{(ypač apie susirinkimą)}I{2}remiantis ekumenizmą;F{ecumenic(al) movement}ekumeninis sąjūdis
+0{ecumenism}[,i:kju:'men&#618;zm]E{n}L{bažn.}ekumenizmas
+0{eczema}['eks&#618;m&#601;]E{n}L{med.}egzema
+0{-ed}[-d, -t, -&#618;d]E{suff}I{1}-ėtas, -(u)otas, -ingas, -usl{(žymint savybę)};F{gloved}pirštinėtas;F{haired}plaukuotas;F{wooded}miškingas;F{hurried}skubusI{2}l{(L{sudurt.}būdvardžiuose)L{ppr.}verčiamasL{sudurt.}L{bdv.}su galūne -is, žodžių junginiais su prielinksniu}su;F{thick-walled}storasienis;F{yellow-gloved}su geltonomis pirštinėmis
+0{E.D.}L{sutr.}X{election district}rinkimų apygarda
+0{ed.}L{sutr.}X{edited}l{(by)}l{(kieno)}redaguotas; redagavo; išleidol{(nurodant kas)};F{edition}leidimas; leidinys;F{editor}redaktoriusX{education}švietimas, mokymas
+0{edacious}[&#618;'de&#618;&#643;&#601;s]E{a}L{knyg.}ėdrus; godus
+0{edacity}[&#618;'d&aelig;s&#601;t&#618;]E{n}L{knyg.},L{juok.}ėdrumas; godumas
+0{Edam}['i:d&aelig;m]E{n}olandiškas geltonas sūris
+0{edaphology}[,ed&#601;'f&#596;l&#601;d&#658;&#618;]E{n}dirvotyra
+0{Ed.B.}L{sutr.}X{Bachelor of Education}l{(JAV)}edukologijos bakalauras
+0{EDD}L{sutr.}X{estimated date of delivery}L{kom.}laukiama pristatymo data;L{med.}numatoma gimdymo data
+0{E.D.D.}L{sutr.}X{English Dialect Dictionary}anglų kalbos tarmių žodynas
+0{Eddie}['ed&#618;]E{n}Edis
+0{eddy}['ed&#618;]S{&rArr;}E{n}I{1}verpetas, sūkurys;F{eddy current}L{el.}sūkurinė srovėI{2}l{(dūmųL{ir pan.})}kamuolysS{&rArr;}E{v}I{1}suktis verpetais, sūkuriuoti; (su)kelti sūkuriusI{2}virsti/verstis kamuoliais
+0{edelweiss}['e&#618;dlva&#618;s]L{vok.}E{n}L{bot.}edelveisas, liūtpėdė
+0{edema}[i:'di:m&#601;]E{n}L{amer.}A{=R{oedema}}
+0{Eden}['i:dn]E{n}L{bibl.}rojusl{(L{t. p.}L{prk.})}
+0{edentate}[&#618;'dente&#618;t]E{a}I{1}L{zool.}nepilnadantisI{2}bedantis
+0{E.D.F.}L{sutr.}X{European Development Fund}Europos plėtros fondas
+0{Edgar}['edg&#601;]E{n}I{1}Edgarasl{(vardas)}I{2}„Edgaras“l{(metinė premija už detektyvinį romaną)}
+0{edge}[ed&#658;]S{&rArr;}E{n}I{1}kraštas, pakraštys; briauna;F{edge of a wood}miško pakraštys;F{on the edge of the city}miesto pakraštyje;F{edge iron}L{tech.}kampuotisl{(geležis)};F{to flow/run over the edge}lietis per kraštusI{2}ašmenys; aštruma;F{to put an edge on a knife}(iš)galąsti peilįI{3}l{(kalno)}keteraI{4}l{(rakto)}liežuvėlisI{5}kritiškas momentas; kritiška padėtisI{6}l{(ypačL{amer.})}pranašumas;F{to have the edge}l{(on, over)}turėti pranašumąl{(palyginti su kuo)};F{to win an edge in the elections}laimėti per rinkimus nedidele persvaraS{&loz;}X{(all) on edge}susierzinęs, susirūpinęs;F{to give an edge to one’s appetite}(su)žadinti/(su)kelti apetitą;F{to take/dull the edge off one’s appetite/hunger}(nu)malšinti alkį;F{to take the edge off smth}(su)silpninti, (su)švelninti;F{to give smb the (rough) edge of one’s tongue}aštriai su kuo kalbėti;F{not to put too fine an edge on it}stačiai kalbant;F{to go over/off the edge}L{šnek.}išprotėti;F{to be on the edge}L{šnek.}vos neišprotėti;F{to be on the edge of doing smth}apsispręsti, ką darytiS{&rArr;}E{v}I{1}kraštuoti, daryti kraštus; apvedžioti; apsiuvinėtiI{2}l{(L{ppr.}E{pass})}(ap)suptil{(with)}I{3}galąsti, aštrintil{(L{t. p.}L{prk.})}I{4}apipjaustyti/(nu)lyginti kraštusI{5}pamažu/atsargiai traukti/slinkti; sprausti(s), į(si)terptil{(into)}S{o}1{edge away/off}atsargiai atsitrauktil{(einant šonu)};1{edge out}X{a)}laimėti nedidele persvaral{(sporteL{ir pan.})};X{b)}išstumtil{(iš sosto, tarnybos)};1{edge up}pamažu kiltil{(apie kainasL{ir pan.})}
+0{edge-bone}['ed&#658;b&#601;un]E{n}A{=R{aitchbone}}
+0{edgestone}['ed&#658;st&#601;un]E{n}I{1}girnosI{2}bordiūro akmuo
+0{edge-tool}['ed&#658;tu:l]E{n}aštrus pjaustymo įrankis
+0{edgeways}['ed&#658;we&#618;z]E{adv}kraštu, šonu, smaigaliul{(į priekį)}S{&loz;}X{to get a word in edgeways}įterpti žodelį
+0{edgewise}['ed&#658;wa&#618;z]E{adv}A{=R{edgeways}}
+0{edgily}['ed&#658;&#618;l&#618;]E{adv}nerimastingai, nervingai, irzliai
+0{edginess}['ed&#658;&#618;n&#618;s]E{n}irzlumas, nervingumas
+0{edging}['ed&#658;&#618;&#331;]E{n}kraštas, kraštelis, apvadas, bordiūras;F{edging saw}kraštų apipjaustymo pjūklas
+0{edgy}['ed&#658;&#618;]E{a}I{1}aštrus; pjaunantisI{2}L{šnek.}sudirgęs, susierzinęs, susirūpinęs
+0{edibility}[,ed&#618;'b&#618;l&#601;t&#618;]E{n}valgomumas
+0{edible}['ed&#618;bl]S{&rArr;}E{a}valgomasS{&rArr;}E{n}l{(L{ppr.}E{pl})}valgomi dalykai
+0{edict}['i:d&#618;kt]E{n}I{1}ediktas, įsakasI{2}l{(ypačL{juok.})}įsakymas
+0{edification}[,ed&#618;f&#618;'ke&#618;&#643;n]E{n}L{knyg.}(pa)mokymas;l{(charakterio, proto)}tobulinimas
+0{edifice}['ed&#618;f&#618;s]E{n}I{1}didingas pastatas, rūmaiI{2}L{knyg.}l{(pažiūrų)}sistema
+0{edify}['ed&#618;fa&#618;]E{v}(pa)mokytil{(L{džn.}L{iron.})}; tobulinti, tvirtintil{(tikėjimą, moralę)}
+0{edifying}['ed&#618;fa&#618;&#618;&#331;]E{a}pamokomas
+0{Edinburgh}['ed&#618;nbX{&#601;}r&#601;]E{n}Edinburgasl{(Škotijos sostinė)}
+0{edit}['ed&#618;t]S{&rArr;}E{n}redagavimas, redakcijaS{&rArr;}E{v}I{1}redaguoti, rengti spaudaiI{2}redaguoti, leistil{(laikraštį, žurnalą; antologiją)}I{3}L{kin.},L{tel.},L{rad.}montuotiS{o}1{edit out}(pa)šalintil{(iš knygos, filmoL{ir pan.})}
+0{Edith}['i:d&#618;&theta;]E{n}Edital{(vardas)}
+0{edition}[&#618;'d&#618;&#643;n]E{n}I{1}leidinys; leidimas; laida;F{first [new] edition}pirmasis [naujas] leidimas;F{evening edition}vakarinė laidaI{2}tiražas;F{the edition of the book is sold out}visas knygos tiražas parduotas
+0{editor}['ed&#618;t&#601;]E{n}I{1}redaktorius;F{City editor}laikraščio finansų skyriaus redaktorius;F{city editor}L{amer.}miesto žinių skyriaus redaktorius;F{make-up editor}techninis redaktoriusI{2}L{kin.},L{tel.},L{rad.}redaktorius; montuotojasI{3}L{komp.}redagavimo programa
+0{editorial}[,ed&#618;'t&#596;:r&#618;&#601;l]S{&rArr;}E{a}redakcijos, redakcinis; redaktoriaus;F{editorial comment}redakcijos pastaba;F{editorial board}redaktorių kolegija;F{an editorial slip}redaktoriaus klaidaS{&rArr;}E{n}vedamasis (straipsnis); redakcijos straipsnis
+0{editorialize}[,ed&#618;'t&#596;:r&#618;&#601;la&#618;z]E{v}I{1}komentuotil{(o ne tik pateikti informaciją/faktus laikraštyje)}I{2}pareikšti nuomonęl{(aktualiu klausimu)}
+0{editor-in-chief}['ed&#618;t&#601;r&#618;n't&#643;i:f]E{n}(E{pl}editors-in-chief['ed&#618;t&#601;z-]) vyriausiasis redaktorius
+0{editorship}['ed&#618;t&#601;&#643;&#618;p]E{n}redaktoriaus pareigos/postas; redaktorystė;F{under the editorship}l{(of)}l{(kieno)}redaguojamas
+0{editress}['ed&#618;tr&#618;s]E{n}L{ret.}redaktorė
+0{Edmund}['edm&#601;nd]E{n}Edmundasl{(vardas)}
+0{Edna}['edn&#601;]E{n}Ednal{(vardas)}
+0{EDP}L{sutr.}X{electronic data processing}elektroninis duomenų apdorojimas
+0{EDT}L{sutr.}X{Eastern daylight time}L{amer.}rytų juostinis vasaros laikas
+0{educ.}L{sutr.}X{education}švietimas, mokymas
+0{educable}['edjuk&#601;bl]E{a}lavinamasis
+0{educate}['edjuke&#618;t]E{v}I{1}auklėti, ugdytiI{2}mokyti, šviesti, lavinti;F{to be educated to the law}turėti teisės išsilavinimąI{3}treniruoti, pratinti;F{to educate children to wash their hands before meals}pratinti vaikus plauti rankas prieš valgį
+0{educated}['edjuke&#618;t&#618;d]S{&rArr;}E{a}I{1}apsišvietęs, išsilavinęsI{2}išlavintasl{(apie skonįL{ir pan.})}S{&rArr;}E{n}X{(the educated)}L{kuop.}apsišvietusieji, išsilavinusieji
+0{education}[,ed&#658;u'ke&#618;&#643;n]E{n}I{1}auklėjimas; ugdymas;F{education of will}valios ugdymas;F{general education}bendrasis lavinimasI{2}mokymas, išsimokslinimas; mokslas; švietimas;F{primary/elementary education}pradžios mokslas;F{further education}aukštesnysis mokslasl{(po vidurinio mokslo)};F{free education}nemokamas mokymas;F{man of education}išsimokslinęs/apsišvietęs žmogus;F{education standards}švietimo lygis
+0{educational}[,ed&#658;u'ke&#618;&#643;n&#601;l]E{a}I{1}mokomasis, mokymo;F{educational book}mokymo priemonė;F{educational qualification}išsilavinimo/mokslo cenzasI{2}pedagoginis; auklėjamasis;F{from the educational point of view}pedagoginiu požiūriuI{3}informatyvusl{(apie programasL{ir pan.})}
+0{education(al)ist}[,ed&#658;u'ke&#618;&#643;n(&#601;l)&#618;st]E{n}pedagogas; švietimo veikėjas; pedagogikos specialistas/teoretikas
+0{educationally}[,edju'ke&#618;&#643;X{&#601;}n&#601;l&#618;]E{adv}švietimo požiūriu
+0{educative}['ed&#658;uk&#601;t&#618;v]E{a}auklėjamasis, šviečiamasis; švietėjiškas
+0{educator}['ed&#658;uke&#618;t&#601;]E{n}auklėtojas, pedagogas, ugdytojas
+0{educe}[&#618;'dju:s]E{v}I{1}išaiškinti, atskleistiI{2}išvesti, darytil{(išvadą)}I{3}L{chem.}išskirti
+0{eduction}[&#618;'d&#652;k&#643;n]E{n}I{1}išaiškinimas, atskleidimasl{(gabumų, galimybių)}I{2}išvadaI{3}L{chem.}išskyrimas
+0{eduction-pipe}[&#618;'d&#652;k&#643;n,pa&#618;p]E{n}išmetamasis/išleidžiamasis vamzdis
+0{eductor}[&#618;'d&#652;kt&#601;]E{n}L{tech.}čiurkšlinis siurblys
+0{edulcorate}[&#618;'d&#652;lk&#601;re&#618;t]E{v}L{chem.}plaunant pašalinti rūgštis, druskasL{ir pan.}
+0{edutainment}[,ed&#658;u'te&#618;nm&#601;nt]E{n}L{kin.}l{,}L{tel.}l{,}L{komp.}mokomoji (ir kartu) pramoginė laida/programal{ir}L{pan.}
+0{Edward}['edw&#601;d]E{n}Edvardas, Eduardasl{(vardas)}
+0{Edwardian}[ed'w&#596;:d&#618;&#601;n]E{a}D. Britanijos karaliaus Eduardo VII (laikų)
+0{Edwina}[ed'wi:n&#601;]E{n}Edvina
+0{-ee^{1}}[-i:]E{suff}I{1}-inisl{(žymint asmenį, į kurį nukreiptas veiksmas); verčiamas ir iš neveikiamosios rūšies dalyvių sudarytais daiktavardžiais};F{adoptee}augintinis;F{detainee}sulaikytasis, areštuotasis
+0{-ee^{2}}E{suff}l{atitinka mažybines priesagas:}X{bootee}batelis, batukas
+0{EE}L{sutr.}X{Envoy Extraordinary}nepaprastasis pasiuntinys
+0{ee}L{sutr.}X{errors excepted}išskyrus klaidas
+0{EEC}L{sutr.}X{European Economic Community}L{ist.}Europos Ekonominė Bendrijal{(ankstesnis Europos Sąjungos pavadinimas)}
+0{EEG}L{sutr.}X{electroencephalogram}elektroencefalograma
+0{eek}[i:k]E{int}ai!, oi!l{(reiškiant nusistebėjimą, baimę)}
+0{eel}[i:l]E{n}L{zool.}ungurys;F{electric eel}elektrinis ungurys
+0{eelgrass}['i:lgra:s]E{n}L{bot.}jūrinis andras
+0{e’en}[i:n]L{poet.}A{=R{even^{1}}}, even^{2}E{adv}
+0{e’er}[&#604;&#601;]E{adv}L{poet.}A{=R{ever}}
+0{-eer}[-&#618;&#601;](L{t. p.}-ier) -istas, -ininkasl{L{ir kt.}priesagos, žyminčios asmenis pagal jų veiklą};F{pamphleteer}pamfletistas; rašeiva;F{financier}finansininkas
+0{eerie, eery}['&#618;&#601;r&#618;]E{a}I{1}nykus, klaikusI{2}L{dial.}prietaringai bailus
+0{EET}L{sutr.}X{Eastern European Time}Rytų Europos laikas
+0{E.EX.}L{sutr.}X{emergency exit}atsarginis išėjimas
+0{eff}[ef]E{v}L{šnek.}L{euf.}keiktis; vartoti vulgarius žodžiusS{o}1{eff off}E{imp}atstok!;F{to eff and blind}S{&cong;}keiktis kaip vežikui
+0{eff.}L{sutr.}X{effect}veiksmas; padarinys;F{effective}efektyvusX{efficiency}našumas; naudingumo koeficientas
+0{efface}[&#618;'fe&#618;s]E{v}I{1}ištrinti, išbraukti, panaikinti;F{the inscription was effaced}užrašas išsitrynė I{2}E{refl}nuošaliai laikytis, likti nepastebimam
+0{effect}[&#618;'fekt]S{&rArr;}E{n}I{1}padarinys, rezultatas;F{the effects of an illness}ligos padariniaiI{2}poveikis, veikimas;F{side effect}šalutinis poveikis;F{our arguments had no effect on him}mūsų argumentai jo nepaveikė;F{has the medicine taken effect?}ar vaistai padėjo?I{3}(įsi)galiojimas;F{in effect}X{a)}galiojantis;X{b)}tiesą sakant;F{to go/come into effect, to take effect}įsigaliotil{(apie įstatymąL{ir pan.})};F{with effect from today}įsigaliojantis nuo šios dienos;F{to give effect}l{(to)},X{to bring/carry/put into effect}įgyvendinti, įvykdytiI{4}efektas, įspūdisl{(on)};F{the overall effect}bendras įspūdis;F{to do smth for effect}daryti ką dėl akių/efektoI{5}tikslas;F{to the effect that...}tuo tikslu, kad...I{6}turinys;F{I also wrote a letter to the same effect}aš irgi parašiau panašaus turinio laišką;F{he called me a fool or words to that effect}jis pavadino mane kvailiu ar panašiais žodžiaisI{7}E{pl}turtas, daiktai;F{to leave no effects}nepalikti turto po mirtiesI{8}L{fiz.},L{kin.}efektas;F{special effects}L{kin.}specialūs efektail{(gaisras, lietus, sniegasL{ir pan.})}I{9}L{tech.}naudingas veikimas, našumasS{&rArr;}E{v}įvykdyti, atlikti; pasiekti
+0{effective}[&#618;'fekt&#618;v]S{&rArr;}E{a}I{1}veiksmingas, efektyvusI{2}įsigaliojantis, pradedantis veiktil{(apie įstatymąL{ir pan.})};F{to become effective}įsigaliotiI{3}įspūdingasI{4}faktinis, tikrasis;F{they have lost effective power}jie neteko realios galios/valdžiosI{5}L{tech.}naudingas;L{spec.}efektinis;F{effective pressure}L{fiz.}efektinis slėgisI{6}L{kar.}tinkamasl{(karo tarnybai)}S{&rArr;}E{n}L{kar.}I{1}kareivisl{(tinkamas rikiuotei/tarnybai)}I{2}E{pl}karių skaičius
+0{effectively}[&#618;'fekt&#618;vl&#618;]E{adv}I{1}veiksmingai, efektyviaiI{2}E{mod}iš tikrųjų, iš esmėsI{3}įspūdingai
+0{effectiveness}[&#618;'fekt&#618;vn&#618;s]E{n}I{1}veiksmingumas, efektyvumasI{2}įspūdingumas
+0{effectless}[&#618;'fektl&#601;s]E{a}neveiksmingas, neefektyvus, be rezultatų
+0{effector}[&#618;'fekt&#601;]E{n}vykdytojas, efektorius, nervų galūnė
+0{effectual}[&#618;'fekt&#643;u&#601;l]E{a}I{1}veiksmingas, efektyvusI{2}L{teis.}galiojantis
+0{effectually}[&#618;'fekt&#643;u&#601;l&#618;]E{adv}veiksmingai, efektyviai, visiškai
+0{effectuate}[&#618;'fekt&#643;ue&#618;t]E{v}L{knyg.}(į)vykdyti
+0{effectuation}[&#618;,fekt&#643;u'e&#618;&#643;n]E{n}L{knyg.}(į)vykdymas
+0{effeminacy}[&#618;'fem&#618;n&#601;s&#618;]E{n}išlepimas, moteriškumasl{(apie vyrą)}
+0{effeminate}[&#618;'fem&#618;n&#601;t]E{a}moteriškas, sumoterėjęs, išlepęsl{(apie vyrą)}
+0{effendi}[e'fend&#618;]E{n}efendi, ponasl{(mandagus turkų kreipimasis į vyrą)}
+0{efferent}['ef&#601;r&#601;nt]E{a}L{fiziol.}išcentrinis, eferentinis;F{efferent nerve}motorinis nervas
+0{effervesce}[,ef&#601;'ves]E{v}I{1}išsiskirti burbuliukų pavidalul{(apie dujas)}; burbuliuoti, kunkuliuoti, šnypštiI{2}L{prk.}kunkuliuoti, bruzdėti, būti gerai nusiteikusiam;F{to effervesce with joy}spindėti džiaugsmu
+0{effervescence, -cy}[,ef&#601;'vesns, -s&#618;]E{n}I{1}l{(dujų)}burbuliukų išsiskyrimas, burbuliavimas, šnypštimasI{2}L{prk.}kunkuliavimas, bruzdėjimas
+0{effervescent}[,ef&#601;'vesnt]E{a}I{1}burbuliuojantis, putojantis, šnypščiantisI{2}L{prk.}kunkuliuojantis/spindintis džiaugsmu, trykštantis energija
+0{effete}[&#618;'fi:t]E{a}I{1}nualintas, bejėgisI{2}išlepintas, išlepęsI{3}smunkantis, išsigimstantisl{(apie civilizaciją, poeziją)}
+0{efficacious}[,ef&#618;'ke&#618;&#643;&#601;s]E{a}veiksmingas, efektyvusl{(ypač apie vaistus, gydymą)}
+0{efficacy}['ef&#618;k&#601;s&#618;]E{n}veiksmingumas, efektyvumas; veikmė
+0{efficiency}[&#618;'f&#618;&#643;X{&#601;}ns&#618;]E{n}I{1}veiksmingumas, efektyvumas;F{the efficiency of computers depends on their programmers}kompiuterių efektyvumas priklauso nuo programuotojųI{2}l{(darbo)}produktyvumas, našumas; darbingumas; dalykiškumasI{3}L{tech.}naudingumo koeficientas
+0{efficient}[&#618;'f&#618;&#643;X{&#601;}nt]S{&rArr;}E{a}I{1}veiksmingas, efektyvus;F{an efficient business}efektyviai dirbanti įmonėI{2}produktyvus, našusl{(apie darbą)}I{3}darbus, stropus; dalykiškas; (su)gebantis, kvalifikuotasS{&rArr;}E{n}L{mat.}faktorius; daugiklis
+0{efficiently}[&#618;'f&#618;&#643;X{&#601;}ntl&#618;]E{adv}efektyviai, veiksmingai, našiai
+0{effigy}['ef&#618;d&#658;&#618;]E{n}l{(nekenčiamo/niekinamo žmogaus)}paveikslas, atvaizdas;F{to burn [to hang] smb in effigy}(su)deginti[(pa)karti]kieno paveikslą
+0{effing}['ef&#618;&#331;]L{sl.}S{&rArr;}E{a}prakeiktasS{&rArr;}E{adv}po velnių
+0{effloresce}[,efl&#601;'res]E{v}L{knyg.}I{1}pražystiI{2}suklestėtiI{3}L{spec.}išsikristalinti
+0{efflorescence}[,efl&#601;'resns]E{n}L{knyg.}I{1}pražydimas, išsiskleidimasI{2}suklestėjimasI{3}L{spec.}išsikristalinimasI{4}L{med.}išbėrimas
+0{efflorescent}[,efl&#601;'resnt]E{a}I{1}L{bot.}pražystantis, išsiskleidžiantisI{2}L{chem.}dūlintis; išsikristalinęs
+0{effluence}['eflu&#601;ns]E{n}L{knyg.}ištekėjimas, emanacija
+0{effluent}['eflu&#601;nt]S{&rArr;}E{n}I{1}iš ežero ištekanti upė, ištakisI{2}nutekamieji vandenysl{(iš gamyklos)}S{&rArr;}E{a}I{1}ištekantis, prasidedantisI{2}nutekamasis;F{effluent drain}nutekamasis vamzdis
+0{effluvium}[&#618;'flu:v&#618;&#601;m]E{n}(E{pl}-via[-v&#618;&#601;])I{1}tvaikas, garai, miazmaI{2}emanacija
+0{efflux}['efl&#652;ks]E{n}A{=R{effluence}}
+0{effort}['ef&#601;t]E{n}I{1}pastanga, stengimasis;F{to make every effort}dėti pastangas, daug pastangų;F{to spare no efforts}negailėti pastangų;F{to waste one’s efforts}veltui stengtis;F{without effort}lengvai, be įtampos;F{an effort of will}valios pastangaI{2}bandymas, mėginimas;F{not bad for a first effort}pirmam kartui – neblogai;F{further efforts at negotiation have broken down}tolesni mėginimai susitarti žlugoI{3}L{tech.}įrąža; įtempimas
+0{effortless}['ef&#601;tl&#601;s]E{a}I{1}nereikalaujantis pastangų, lengvas; be pastangųI{2}nededantis pastangų
+0{effortlessly}['ef&#601;tl&#618;sl&#618;]E{adv}be pastangų, lengvai
+0{effrontery}[&#618;'fr&#652;nt&#601;r&#618;]E{n}įžūlumas; įžūlybė
+0{effulgence}[&#618;'f&#652;ld&#658;X{&#601;}ns]E{n}L{knyg.}blizgesys, spindėjimas; spindulingumas
+0{effulgent}[&#618;'f&#652;ld&#658;X{&#601;}nt]E{a}L{knyg.}spindintis, spinduliuojantis, spindulingas
+0{effuse}S{&rArr;}E{a}[&#618;'fju:s]I{1}L{knyg.}išsiliejęsI{2}L{bot.}iš(si)kerojęsS{&rArr;}E{v}[&#618;'fju:z]I{1}(iš)tekėti, pratekėtil{(apie dujasL{ir pan.})}I{2}iš(si)lieti; pralietil{(apie kraująL{ir pan.})}
+0{effusion}[&#618;'fju:&#658;n]E{n}I{1}iš(si)liejimas;F{effusion of blood}X{a)}kraujo išsiliejimas;X{b)}kraujo netekimasI{2}l{(dujų, skysčių)}pratekėjimas, prasiveržimas;l{(lavos)}išsiveržimasI{3}l{(jausmų)}iš(si)liejimas;l{(žodžiųL{ir pan.})}srautas
+0{effusive}[&#618;'fju:s&#618;v]E{a}nesantūrus, ne(su)sivaldantis; perdėtas;F{her effusive nature}jos ekspansyvus būdas;F{to bestow effusive praise on smb}perdėtai išgirti, išliaupsinti
+0{effusively}[&#618;'fju:s&#618;vl&#618;]E{adv}jausmingai, nesantūriai, ekspansyviai
+0{EFL}L{sutr.}X{English as a Foreign Language}anglų kalba kaip svetimoji kalba
+0{E-free}['i:'fri:]E{a}be konservantų, be priedųl{(apie maistą)}
+0{eft}[eft]E{n}L{zool.}tritonas
+0{EFT}L{sutr.}X{electronic funds transfer}elektroninis mokėjimų/lėšų pervedimas
+0{EFTA}L{sutr.}X{European Free Trade Association}Europos laisvosios prekybos asociacija
+0{EFTPOS}L{sutr.}X{electronic funds transfer at point of sale}elektroninis mokėjimų/lėšų pervedimas sandėrio vietoje
+0{eg.}L{sutr.}X{exempli gratia}L{lot.}pavyzdžiui
+0{egad}[&#618;'g&aelig;d]E{int}L{psn.}dievaži!
+0{egalitarian}[&#618;,g&aelig;l&#618;'t&#604;&#601;r&#618;&#601;n]S{&rArr;}E{n}visuotinės lygybės šalininkasS{&rArr;}E{a}egalitarinis; lygiavinis
+0{egalitarianism}[&#618;,g&aelig;l&#618;'t&#604;&#601;r&#618;&#601;n&#618;zm]E{n}egalitarizmas
+0{egest}[i:'d&#658;est]E{v}L{med.}pašalintil{(iš organizmo)}
+0{egg^{1}}[eg]E{n}I{1}kiaušinis;F{fried eggs}neplakta kiaušinienė;F{egg rolling}margučių ridenimas;F{with egg on one’s face}X{a)}kiaušiniuotu veidu;X{b)}L{prk.}l{(esantis)}kvailoje padėtyje, likęs kvailiuI{2}į kiaušinį panašus daiktasI{3}L{biol.}kiaušinėlisl{(L{t. p.}X{egg cell})}I{4}užuomazga;F{in the egg}užuomazgoje;F{to crush/kill smth in the egg}sunaikinti/užgniaužti pačioje užuomazgoje/pradžiojeI{5}L{kar.}L{sl.}bomba, minaS{&loz;}X{bad egg}X{a)}netikėlis, blogas žmogus;X{b)}nevykusi užmačia;F{good egg}L{šnek.}puikus/doras žmogus;F{to lay an egg}L{šnek.}X{a)}supykti, nustebti;X{b)}(su)žlugtil{(apie spektaklį, pokštąL{ir pan.})};F{to put all one’s eggs in one basket}S{&cong;}statyti viską ant kortos;F{to tread on eggs}X{a)}veikti apdairiai;X{b)}liesti keblų klausimą;F{as full as an egg}kimšte prikimštas;F{as sure as eggs is eggs}S{&cong;}aišku kaip dieną, kaip dukart du – keturi
+0{egg^{2}}E{v}L{amer.}L{šnek.}apmėtyti kiaušiniaisS{o}1{egg on}(su)kurstyti, siundyti, (su)gundyti
+0{eggbeater}['eg,bi:t&#601;]E{n}l{(kiaušinienėsL{ir pan.})}plaktuvas
+0{eggcup}['egk&#652;p]E{n}indelis kiaušiniui įstatytil{(valgant)}
+0{egg-dance}['egda:ns]E{n}I{1}šokis užrištomis akimis tarp kiaušiniųl{(žaidimas)}I{2}sunkiai išsprendžiamas uždavinys
+0{egg-flip}['egfl&#618;p]E{n}A{=R{eggnog}}
+0{egghead}['eghed]E{n}I{1}l{(L{ppr.}L{menk.})}inteligentas, teoretikasI{2}L{amer.}L{šnek.}plikis
+0{eggnog}['egn&#596;g]E{n}alkoholinis gėrimas su kiaušinio tryniu ir cukrumi
+0{eggplant}['egpla:nt]E{n}L{bot.}l{(ypačL{amer.})}baklažanas
+0{egg-shaped}['eg,&#643;e&#618;pt]E{a}kiaušinio pavidalo, kiaušiniškas
+0{eggshell}['eg&#643;el]S{&rArr;}E{n}kiaušinio lukštas/kevalasS{&rArr;}E{a}I{1}trapus;F{eggshell china}plonas porcelianasI{2}matinisl{(apie dažus)}
+0{egg-timer}['eg,ta&#618;m&#601;]E{n}3-5 minučių smėlio laikrodis
+0{eggy}['eg&#618;]E{a}L{šnek.}suirzęs
+0{egis}['ed&#658;&#618;s]E{n}L{amer.}A{=R{aegis}}
+0{eglantine}['egl&#601;nta&#618;n]E{n}L{bot.}erškėtis
+0{ego}['eg&#601;u]E{n}I{1}L{filos.}ego, aš (pats), mąstantis subjektasI{2}savimeilė, egoizmas;F{to have a big ego}būti dideliam egoistui;F{ego trip}savęs aukštinimas
+0{egocentric}[,i:g&#601;u'sentr&#618;k, ,eg&#601;u'sentr&#618;k]E{a}egocentrinis
+0{egocentricity}[,eg&#601;usen'tr&#618;s&#601;t&#618;]E{n}egocentrizmas
+0{egoism}['eg&#601;u&#618;zm]E{n}egoizmas, savanaudiškumas
+0{egoist}['eg&#601;u&#618;st]E{n}egoistas, savanaudis, savimeilis
+0{egoistic(al)}[,eg&#601;u'&#618;st&#618;k(l)]E{a}egoistinis, egoistiškas, savanaudiškas
+0{egomania}[,i:g&#601;X{u}'me&#618;n&#618;&#601;, ,eg&#601;_{ CL]_{E{n}kraštutinis egotizmas/individualizmas}}
+0{egotism}[,i:g&#601;t&#618;zm, 'eg&#601;t&#618;zm]E{n}egotizmas, savimana
+0{egotist}['eg&#601;t&#618;st]E{n}egotistas, savimana
+0{egotistical}[,eg&#601;'t&#618;st&#618;kl]E{a}egotistinis
+0{ego-trip}['eg&#601;utr&#618;p]E{v}elgtis egoistiškai
+0{ego-tripper}['eg&#601;u,tr&#618;p&#601;]E{n}savimeilis, egoistas
+0{egregious}[&#618;'gri:d&#658;&#601;s]E{a}didžiausias, nepaprastas, baisusl{(apie klaidą, meląL{ir pan.})}
+0{egress}['i:gres]E{n}I{1}L{knyg.}išėjimas, pasitraukimas; išvažiavimas, išplaukimasI{2}L{teis.}išėjimo/pasitraukimo teisė
+0{egression}[i:'gre&#643;n]E{n}L{knyg.}išėjimas
+0{egret}['i:gr&#618;t]E{n}I{1}L{zool.}didysis baltasis garnysl{(L{ppr.}X{great white egret})};F{cattle egret}ibiškasis garnysI{2}garnio plunksnų puokštė
+0{Egypt}['i:d&#658;&#618;pt]E{n}Egiptasl{(valstybė)}
+0{Egyptian}[&#618;'d&#658;&#618;p&#643;n]S{&rArr;}E{a}egiptietiškas, egiptiečių; EgiptoS{&rArr;}E{n}I{1}egiptietisI{2}Egipto medvilnėl{(L{t. p.}X{Egyptian cotton})}
+0{Egyptology}[,i:d&#658;&#618;p't&#596;l&#601;d&#658;&#618;]E{n}egiptologija
+0{eh}[e&#618;]E{int}I{1}a?, ar ne?l{(reiškiant nustebimą, abejojimą, norint pritarimo)}I{2}ką?l{(neužgirdus)}
+0{EHF}L{sutr.}X{extremely high frequency}nepaprastai aukštas dažnumas
+0{EHP}L{sutr.}X{effective horsepower}naudingoji galia arklio jėgomis
+0{EIB}L{sutr.}X{European Investment Bank}Europos investicijų bankas
+0{eider}['a&#618;d&#601;]E{n}I{1}L{zool.}gagal{(L{t. p.}X{eider duck})}I{2}A{=R{eiderdown}}
+0{eiderdown}['a&#618;d&#601;daun]E{n}I{1}gagos pūkaiI{2}dygsniuota pūkinė antklodė
+0{eidolon}[a&#618;'d&#601;ul&#596;n]L{gr.}E{n}(E{pl}eidolons, -la[-l&#601;])I{1}atvaizdasI{2}vaiduoklis
+0{eigenvalue}['a&#618;g&#601;n,v&aelig;lju:]E{n}L{mat.}tikrinė vertė
+0{eigenvector}['a&#618;g&#601;n,vekt&#601;]E{n}L{mat.}tikrinis vektorius
+0{eight}[e&#618;t]S{&rArr;}E{num}E{card}aštuoniS{&rArr;}E{n}I{1}aštuonetas, aštuoniukė;F{figure of eight}X{a)}aštuoniukėl{(figūra)};X{b)}kas nors aštuoniukės pavidaloI{2}E{pl}L{sport.}aštuonvietėS{&loz;}X{to have had one over the eight}L{šnek.}per daug paimti, nusigerti
+0{eighteen}['e&#618;'ti:n]E{num}E{card}aštuoniolika
+0{eighteenth}['e&#618;'ti:n&theta;]S{&rArr;}E{num}E{ord}aštuonioliktasS{&rArr;}E{n}aštuonioliktoji dalis
+0{eighteenth-century}[e&#618;'ti:n&theta;'sent&#643;&#601;r&#618;]E{a}aštuoniolikto amžiaus
+0{eight-fifteen}[e&#618;tf&#618;f'ti:n]E{num}E{card}penkiolika po aštuonių
+0{eightfold}['e&#618;tf&#601;uld]S{&rArr;}E{a}aštuonlinkas; aštuon(ia)lypis; aštuoneriopasS{&rArr;}E{adv}aštuonlinkai; aštuoneriopai
+0{eighth}[e&#618;t&theta;]S{&rArr;}E{num}E{ord}aštuntas;F{eighth final}L{sport.}aštuntfinalis;F{eighth note}L{muz.}aštuntinė gaidaS{&rArr;}E{n}aštuntoji dalis
+0{eighties}['e&#618;t&#618;z]E{n}E{pl}I{1}X{(the eighties)}l{(šimtmečio)}devintasis dešimtmetisl{(ypač XIX a.)}I{2}devinta dešimtisl{(amžius tarp 80 ir 89 metų)}
+0{eightieth}['e&#618;t&#618;&#618;&theta;]S{&rArr;}E{num}E{ord}aštuoniasdešimtasS{&rArr;}E{n}aštuoniasdešimtoji dalis
+0{eight-thirty}[e&#618;t'&theta;&#601;:t&#618;]E{num}E{card}pusė devynių
+0{eighty}['e&#618;t&#618;]E{num}E{card}aštuoniasdešimt
+0{eighty-six}['e&#618;t&#618;,s&#618;ks]E{v}L{sl.}neaptarnautil{(girtoL{ir pan.})}; išvarytil{(iš baroL{ir pan.})}
+0{Einstein}['a&#618;nsta&#618;n]E{n}Einšteinas
+0{einsteinium}[a&#618;n'sta&#618;n&#618;&#601;m]E{n}L{chem.}einšteinis
+0{Eire}['&#604;&#601;r&#601;]E{n}A{=R{Ireland}}
+0{eirenicon}[a&#618;'ri:n&#618;k&#596;n]L{gr.}E{n}taikingas pasiūlymas
+0{eisteddfod}[a&#618;'stedv&#601;d]E{n}Velso poezijos, dainų ir muzikos festivalis
+0{either}['a&#618;&#601;]S{&rArr;}E{pron}I{1}bet kurisl{(iš dviejų)}; tas ar kitas;F{either will do}bet kuris tiks;F{either way}bet kuriuo atveju; ir taip, ir kitaip;F{I don’t like either (of them)}man nepatinka nė vienas, nė kitasI{2}abu; kiekvienas;F{on either side of the street}abiejose gatvės pusėseS{&rArr;}E{adv}taip pat, irgil{(L{neig.}sakiniuose)};F{if you do not go I shall not either}jeigu jūs neisite, aš irgi neisiuS{&rArr;}E{conj}arba;F{either ... or}arba... arba;F{come either today or tomorow}ateik(ite) arba šiandien, arba rytoj;F{I wouldn’t revard either John or Irene}aš neapdovanočiau nei Džono, nei Irenos
+0{either-or}['a&#618;&#601;'&#596;:]E{n}neišvengiamas apsisprendimas/pasirinkimasl{(iš dviejų galimybių)}
+0{ejaculate}[&#618;'d&#658;&aelig;kjule&#618;t]E{v}I{1}L{knyg.}sušuktiI{2}L{fiziol.}išmestil{(sėklą)}
+0{ejaculation}[&#618;,d&#658;&aelig;kju'le&#618;&#643;n]E{n}I{1}L{knyg.}sušukimas, šauksmasI{2}L{fiziol.}l{(sėklos)}išmetimas, ejakuliacija
+0{eject}[&#618;'d&#658;ekt]E{v}I{1}išmesti, išleistil{(lavą, skystįL{ir pan.})}I{2}išmestil{(from – iš)}; iškeldintil{(iš buto)}I{3}L{av.}katapultuoti
+0{ejection}[&#618;'d&#658;ek&#643;n]E{n}I{1}išmetimas; išmesta masė/lavaI{2}išvarymas; atleidimasl{(iš darbo)}; iškeldinimas
+0{ejector}[&#618;'d&#658;ekt&#601;]E{n}išmetiklis; išmetimo aparatas/mechanizmas; ežektorius, čiurkšlinis siurblys;F{garbage/trash ejector}šiukšlių ežektorius
+0{ejector-seat}[&#618;'d&#658;ekt&#601;si:t]E{n}L{av.}katapulto krėslas
+0{eke^{1}}[i:k]E{v}:X{eke out}vos verstis, taupiai naudoti;F{to eke out a living}vos pragyventi
+0{eke^{2}}E{adv}L{psn.}taip pat, irgi
+0{EKG}L{sutr.}L{amer.}X{electrocardiogram}elektrokardiograma;F{electrocardiograph}elektrokardiografas
+0{EL}L{sutr.}X{east longitude}L{geogr.}rytų ilguma
+0{el}L{sutr.}X{elevated railroad}L{amer.}estakadinis geležinkelis
+0{el., elect.}L{sutr.}X{electric}elektrinis;F{electricity}elektra
+0{elaborate}S{&rArr;}E{a}[&#618;'l&aelig;b&#601;r&#601;t]I{1}įmantrus, sudėtingas; prašmatnusl{(apie pietusL{ir pan.})}I{2}detaliai/nuodugniai parengtas; detalizuotas S{&rArr;}E{v}[&#618;'l&aelig;b&#601;re&#618;t]I{1}detalizuoti, detaliau išdėstyti, smulkiau paaiškintiI{2}rutulioti, plėtotil{(mintįL{ir pan.}; on)}; (iš)tobulinti
+0{elaborately}[&#618;'l&aelig;bX{&#601;}r&#601;tl&#618;]E{adv}nuodugniai, įmantriai
+0{elaboration}[&#618;,l&aelig;b&#601;'re&#618;&#643;n]E{n}I{1}detalizavimas, detalus (iš)dėstymasI{2}l{(mintiesL{ir pan.})}rutuliojimas, plėtojimas
+0{Elaine}[e'le&#618;n]E{n}Elena
+0{élan}['e&#618;l&#596;n]L{pr.}E{n}L{knyg.}veržlumas, pakilimas, šaunumas
+0{elapse}[&#618;'l&aelig;ps]E{v}praeiti, praslinkti, prabėgtil{(apie laiką)}
+0{elastic}[&#618;'l&aelig;st&#618;k]S{&rArr;}E{a}I{1}tamprus, elastiškas, elastingas, lankstus;F{elastic coupling}L{tech.}tamprusis sujungimas;F{elastic tyre}elastinė padanga;F{elastic limit}L{tech.}tamprumo/elastiškumo ribaI{2}L{prk.}lankstus, greitai pasikeičiantis/prisitaikantisl{(apie charakterį)}; F{elastic conscience}lengvai nurimstanti sąžinė S{&rArr;}E{n}gumelė, guminė juostelė, elastingas dirželis; elastikas
+0{elasticity}[,el&aelig;s't&#618;s&#601;t&#618;]E{n}elastingumas, elastiškumas, tamprumas, tampra, lankstumas
+0{Elastoplast}[&#618;'l&aelig;st&#601;pl‚:st]E{n}lipnusis pleistrasl{(firminis pavadinimas)}
+0{elate}[&#618;'le&#618;t]E{v}l{(L{ppr.}E{pass})}(pa)kelti nuotaiką, (pra)džiuginti
+0{elated}[&#618;'le&#618;t&#618;d]E{a}pradžiugintasl{(by)}; pakilus, pakilios nuotaikos
+0{elation}[&#618;'le&#618;&#643;n]E{n}pakili nuotaika, pakilimas
+0{Elba}['elb&#601;]E{n}Elbal{(sala)}
+0{Elbe}[elb]E{n}Elbėl{(upė)}
+0{elbow}['elb&#601;u]S{&rArr;}E{n}I{1}alkūnė;F{my jersey is out at the elbows}mano džersio alkūnės prasitrynėI{2}l{(krėslo)}ranktūrisI{3}L{tech.}kampainis; alkūnė;F{elbow bend}vamzdžio alkūnė;F{elbow joint}alkūninis sujungimasS{&loz;}X{at one’s elbow}(sau) po ranka, prie savęs, greta;F{at smb’s elbow}greta, šalial{(ko)}, čia pat;F{out at elbow(s)}apiplyšęs, apskuręs, netvarkingas;F{up to take elbows (in work)}paskendęs darbe;F{to bend/lift/tip the elbow}L{šnek.}girtuokliauti, išgerti;F{to give smb the elbow}L{šnek.}atstumtil{(vyrąL{ir pan.})}; atleistil{(iš darbo)};F{to rub elbows with smb}L{amer.}L{šnek.}artimai bendrauti su kuoS{&rArr;}E{v}atstumti/stumdyti alkūnėmis; suduoti alkūne;F{to elbow one’s way through the crowd}alkūnėmis prasimušti pro žmones
+0{elbow-chair}['elb&#601;ut&#643;&#604;&#601;]E{n}kėdė su ranktūriais
+0{elbow-grease}['elb&#601;ugri:s]E{n}L{šnek.}sunkus darbasl{(ypač šveitimas, valymas)}
+0{elbow-rest}['elb&#601;urest]E{n}l{(krėslo)}ranktūris, alkūnramstis
+0{elbow-room}['elb&#601;urum]E{n}erdvė, laisvėl{(judėti)};F{there is no elbow-room in my flat}mano bute nėra kur apsisukti;F{they gave us no elbow-room}jie mums neleido laisvai veikti
+0{Elbrus}['elbrus]E{n}Elbrusasl{(kalnas)}
+0{elder^{1}}['eld&#601;]S{&rArr;}E{a}vyresnisl{(ypač šeimoje)}S{&rArr;}E{n}I{1}vyresnysis;F{one’s elders}vyresniejiI{2}L{bažn.}seniūnas, vadovas
+0{elder^{2}}E{n}L{bot.}šeivamedis
+0{elderberry}['eld&#601;b&#601;r&#618;]E{n}šeivamedžio uoga
+0{elderly}['eld&#601;l&#618;]S{&rArr;}E{a}I{1}pagyvenęs, pagyvenusio amžiaus, senyvasI{2}senas, pasenęsS{&rArr;}E{n}X{(the elderly)}pagyvenusieji, senyvi žmonės
+0{eldest}['eld&#618;st]E{a}vyriausiasl{(ypač šeimoje)}
+0{El Dorado}[,eld&#601;'ra:d&#601;u]E{n}Eldoradas; pasakiškų turtų šalis
+0{Eleanor}['el&#618;n&#601;]E{n}Eleonora, Elinoral{(vardas)}
+0{elect}[&#618;'lekt]S{&rArr;}E{a}išrinktas;F{bride elect}išrinktoji, sužadėtinė;F{the President elect}išrinktasis prezidentasl{(bet dar nepradėjęs eiti pareigų)}S{&rArr;}E{n}X{(the elect)}L{kuop.}išrinktiejiS{&rArr;}E{v}I{1}išrinkti;F{to elect smb chairman}išrinkti ką pirmininkuI{2}pasirinkti, apsispręsti, nutarti
+0{electable}[&#618;'lekt&#601;bl]E{a}išrenkamas; galintis laimėti rinkimusl{(apie partiją)}
+0{election}[&#618;'lek&#643;n]E{n}I{1}rinkimai;F{general election}visuotiniai rinkimai;F{election committee}rinkimų komisijaI{2}išrinkimas
+0{electioneer}[&#618;,lek&#643;&#618;'n&#618;&#601;]E{v}rengti rinkimų kampaniją, agituoti už kandidatą
+0{electioneerer}[&#618;,lek&#643;&#618;'n&#618;&#601;r&#601;]E{n}rinkimų kampanijos organizatorius, agitatorius
+0{electioneering}[&#618;,lek&#643;&#618;'n&#618;&#601;r&#618;&#331;]E{n}rinkimų kampanija
+0{elective}[&#618;'lekt&#618;v]S{&rArr;}E{a}I{1}renkamas, užimamas rinkimų tvarkal{(apie postąL{ir pan.})}I{2}rinkimų, rinkiminis;F{the elective constitution}rinkimų nuostatai;F{elective body}rinkėjaiI{3}nebūtinas, nebūtinai reikalingasl{(apie operacijąL{ir pan.})}I{4}L{amer.}fakultatyvus, pasirenkamasl{(apie studijuojamą dalyką)}S{&rArr;}E{n}L{amer.}L{mok.}fakultatyvus dalykas
+0{elector}[&#618;'lekt&#601;]E{n}I{1}rinkėjasI{2}L{amer.}rinkėjų kolegijos narys
+0{electoral}[&#618;'lektX{&#601;}r&#601;l]E{a}E{attr}rinkimų, rinkiminis; rinkėjų;F{electoral reform}rinkimų reforma;F{electoral register/roll}rinkėjų sąrašas;F{electoral vote}L{amer.}rinkėjų kolegijos narių balsail{(per prezidento rinkimus)}
+0{electorate}[&#618;'lektX{&#601;}r&#601;t]E{n}l{(šalies)}elektoratas, rinkėjai, rinkėjų kontingentas
+0{Electra}[&#618;'lektr&#601;]E{n}L{gr.}L{mit.}Elektra
+0{electress}[&#618;'lektr&#618;s]E{n}rinkėja
+0{electret}[&#618;'lektr&#618;t]E{n}L{el.}elektretas
+0{electric}[&#618;'lektr&#618;k]E{a}I{1}elektrinis, elektros;F{electric arc}elektros lankas;F{electric chair}elektros kėdėl{(mirties bausmei vykdyti)}I{2}L{prk.}įelektrintas, įaudrintasl{(apie atmosferą)}; jaudinantis
+0{electrical}[&#618;'lektr&#618;kl]E{a}I{1}elektrinis, elektros;F{electrical engineer}inžinierius elektrikasI{2}pritrenkiantis, stebinantis
+0{electrically}[&#618;'lektr&#618;kX{&#601;}ll&#618;]E{adv}elektriškai, jaudinančiai
+0{electric-blue}[&#618;'lektr&#618;k,blu:]E{a}žydras, žalsvai melsvas
+0{electrician}[&#618;,lek'tr&#618;&#643;n]E{n}I{1}elektrikas, elektrotechnikasI{2}elektromonteris
+0{electricity}[&#618;,lek'tr&#618;s&#601;t&#618;]E{n}I{1}elektra;F{electricity supply}elektros energijos tiekimasI{2}jaudulys, susijaudinimas
+0{electrics}[&#618;'lektr&#618;ks]E{n}E{pl}I{1}L{aut.}elektros įrangaI{2}elektrinės transporto priemonės
+0{electrification}[&#618;,lektr&#618;f&#618;'ke&#618;&#643;n]E{n}I{1}elektrifikacija, elektrifikavimasI{2}L{fiz.}elektrizacija, (į)elektrinimas
+0{electrify}[&#618;'lektr&#618;fa&#618;]E{v}I{1}elektrifikuotiI{2}L{fiz.}elektrizuoti, (į)elektrintiI{3}L{prk.}įelektrinti, įaudrinti
+0{electro-}[&#618;,lektr&#601;u-]l{(L{sudurt.}žodžiuose)}elektro-;F{electrocardiagraph}elektrokardiografas;F{electrochemical}elektrocheminis
+0{electrocardiogram}[&#618;,lektr&#601;u'ka:d&#618;&#601;gr&aelig;m]E{n}elektrokardiograma
+0{electrocardiography}[&#618;,lektr&#601;u,ka:d&#618;'&#596;gr&#601;f&#618;]E{n}elektrokardiografija
+0{electrochemical}[&#618;,lektr&#601;X{u}'kem&#618;kX{&#601;}l]E{a}elektrocheminis
+0{electrochemistry}[&#618;,lektr&#601;u'kem&#618;str&#618;]E{n}elektrochemija
+0{electrocute}[&#618;'lektr&#601;kju:t]E{v}I{1}l{(L{ppr.}E{pass})}būti užmuštam elektros sroveI{2}įvykdyti mirties bausmę elektros kėdėje
+0{electrocution}[&#618;,lektr&#601;'kju:&#643;n]E{n}I{1}žuvimas nuo elektros srovėsI{2}mirties bausmė elektros kėdėje
+0{electrode}[&#618;'lektr&#601;ud]E{n}elektrodas;F{earth/ground electrode}masės elektrodas
+0{electrodynamic(al)}[&#618;,lektr&#601;uda&#618;'n&aelig;m&#618;k(l)]E{a}elektrodinaminis
+0{electroencephalogram}[&#618;,lektr&#601;u&#618;n'sef&#601;l&#601;gr&aelig;m]E{n}L{med.}elektroencefalograma
+0{electrofishing}[&#618;,lektr&#601;X{u}'f&#618;&#643;&#618;&#331;]E{n}elektrinė žūklė
+0{electroluminescense}[&#618;,lektr&#601;ulu:m&#618;'nesX{&#601;}ns]E{n}L{chem.}elektroliuminescencija
+0{electrolysis}[&#618;,lek'tr&#596;l&#618;s&#618;s]E{n}elektrolizė
+0{electrolyte}[&#618;'lektr&#601;la&#618;t]E{n}elektrolitas
+0{electromagnet}[&#618;,lektr&#601;X{u}'m&aelig;gn&#618;t]E{n}elektromagnetas
+0{electromagnetic}[&#618;,lektr&#601;X{u}m&aelig;g'net&#618;k]E{a}elektromagnetinis
+0{electromagnetism}[&#618;,lektr&#601;X{u}'m&aelig;gn&#618;t&#618;zm]E{a}elektromagnetizmas
+0{electromechanics}[&#618;,lektr&#601;X{u}m&#618;'k&aelig;n&#618;ks]E{n}elektromechanika
+0{electrometer}[&#618;,lek'tr&#596;m&#618;t&#601;]E{n}elektrometras
+0{electromotor}[&#618;,lektr&#601;X{u}'m&#601;ut&#601;]E{n}elektros variklis, elektromotoras
+0{electron}[&#618;'lektr&#596;n]E{n}L{fiz.}elektronas;F{lone electron}pavienis elektronas;F{electron flux/flow/stream}elektronų srautas;F{electron microscope}elektroninis mikroskopas
+0{electronegative}[&#618;,lektr&#601;X{u}'neg&#601;t&#618;v]E{a}elektriškai neigiamas
+0{electronic}[&#618;,lek'tr&#596;n&#618;k]E{a}L{fiz.},L{tech.}elektroninis;F{electronic media}elektroninės informacijos priemonėsl{(radijas, televizija)}
+0{electronics}[&#618;,lek'tr&#596;n&#618;ks]E{n}I{1}elektronikaI{2}elektronikos pramonė
+0{electrooptics}[&#618;,lektr&#601;X{u}'&#596;pt&#618;ks]E{n}L{fiz.}elektrooptika
+0{electropathy}[&#618;,lek'tr&#596;p&#601;&theta;&#618;]E{n}L{med.}elektroterapija
+0{electrophone}[&#618;'lektr&#601;f&#601;un]E{n}I{1}radijo laidų transliavimas telefono laidais I{2}klausos aparatas neprigirdintiems
+0{electrophoresis}[&#618;'lektr&#601;X{u}f&#601;'ri:s&#618;s]E{n}L{spec.}elektroforezė
+0{electroplate}[&#618;'lektr&#601;X{u}ple&#618;t]S{&rArr;}E{n}galvanizuoti daiktaiS{&rArr;}E{v}galvanizuotil{(L{ppr.}sidabru)}, aptraukti metalu elektrolizės būdu
+0{electropositive}[&#618;,lektr&#601;X{u}'p&#596;z&#618;t&#618;v]E{a}elektriškai teigiamas
+0{electroscope}[&#618;'lektr&#601;X{u}sk&#601;up]E{n}L{fiz.}elektroskopas
+0{electrostatic(al)}[&#618;,lektr&#601;X{u}'st&aelig;t&#618;k(l)]E{a}elektrostatinis
+0{electrostatics}[&#618;,lektr&#601;X{u}'st&aelig;t&#618;ks]E{n}elektrostatika
+0{electrotechnics}[&#618;,lektr&#601;X{u}'tekn&#618;ks]E{n}elektrotechnika
+0{electrotherapy}[&#618;,lektr&#601;X{u}'&theta;er&#601;p&#618;]E{n}elektroterapija, gydymas elektra
+0{electrotype}[&#618;'lektr&#601;X{u}ta&#618;p]E{n}elektrotipija, galvanoplastika
+0{eleemosynary}[,el&#618;i:'m&#596;s&#618;n&#601;r&#618;]E{a}I{1}labdaringasI{2}gyvenantis iš išmaldos
+0{elegance, -cy}['el&#618;g&#601;ns, -s&#618;]E{n}elegancija, elegantiškumas
+0{elegant}['el&#618;g&#601;nt]E{a}I{1}elegantiškas, gerų manierųI{2}grakštus, dailusI{3}aiškus, paprastasl{(apie formuluotę, sprendimąL{ir pan.})}
+0{elegiac}[,el&#618;'d&#658;a&#618;&#601;k]S{&rArr;}E{a}I{1}elegiškas, liūdnasI{2}eleginisS{&rArr;}E{n}E{pl}elegiškos eilės
+0{elegize}['el&#618;d&#658;a&#618;z]E{v}I{1}rašyti elegiją, elegiškas eilesI{2}skųstis, dejuoti
+0{elegy}['el&#618;d&#658;&#618;]E{n}elegija
+0{elem.}L{sutr.}X{element}elementasX{elementary}elementarus
+0{element}['el&#618;m&#601;nt]E{n}I{1}elementasl{(L{t. p.}L{chem.},L{fiz.})}I{2}l{(sudedamoji)}dalis; dalelytė; bruožas;F{an element of truth}dalelė tiesos;F{honesty is a basic element in his character}sąžiningumas – svarbiausias jo būdo bruožasI{3}veiksnys, faktorius;F{the time element}laiko veiksnysI{4}E{pl}l{(mokslo)}pradmenys, pagrindaiI{5}stichija; gaivalas;F{the devouring element}ugnis;F{the four elements}keturios stichijosl{(ugnis, vanduo, oras, žemė)};F{the criminal elements}tamsūs gaivalaiI{6}E{pl}L{bažn.}l{(komunijos)}duona ir vynasI{7}L{tech.}detalė;l{(katiloL{ir pan.})}sekcijaI{8}L{kar.}padalinysS{&loz;}X{to brave the elements}išeiti prastu oru;F{to be in one’s element}S{&cong;}jaustis kaip žuviai vandenyje;F{to be out of one’s element}S{&cong;}jaustis ne savo kailyje, jaustis nejaukiai
+0{elemental}[,el&#618;'mentl]E{a}I{1}stichinis; stichiškas, gaivališkas;F{elemental worship}gamtos jėgų garbinimas;F{elemental force}gaivalinga jėgaI{2}L{chem.}pagrindinis, pradinis
+0{elementary}[,el&#618;'mentX{&#601;}r&#618;]E{a}I{1}elementarus;F{that’s elementary}tai elementaruI{2}pradinis, pirminis;F{elementary school}L{amer.}pradžios mokyklaI{3}L{chem.}neskaidomas, neskaidus
+0{elephant}['el&#618;f&#601;nt]E{n}I{1}L{zool.}dramblysI{2}l{(rašomojo, braižomojo)}popieriaus formatasl{(23×28 coliųS{»}58×71 cm)}S{&loz;}X{white elephant}nereikalingas turtas/daiktasl{(kurio nėra kur dėti)};F{to see the elephant, to get a look at the elephant}pamatyti pasaulį, būti daug mačiusiam;F{to see pink elephants}turėti haliucinacijų, haliucinuoti
+0{elephantiasis}[,el&#618;f&#601;n'ta&#618;&#601;s&#618;s]E{n}L{med.}dramblialigė, elefantiazė
+0{elephantine}[,el&#618;'f&aelig;nta&#618;n]E{a}I{1}dramblioI{2}drambliškas; sunkus, nerangus
+0{elevate}['el&#618;ve&#618;t]E{v}I{1}(iš)kelti; pakeltil{(balsąL{ir pan.})};F{to elevate smb’s spirits}(pa)kelti kieno nuotaiką;F{to elevate hopes}(su)kelti viltisI{2}paaukštintil{(tarnyboje; to)}I{3}ugdyti, tobulinti, kilninti
+0{elevated}['el&#618;ve&#618;t&#618;d]E{a}I{1}iškilus, pakilus;F{elevated style}aukštas stiliusI{2}iškeltas; aukštesnis,X{elevated railway},L{amer.}X{elevated railroad}estakadinis geležinkelisI{3}L{šnek.}truputį išgėręs/įtraukęs/išmetęs
+0{elevating}['el&#618;ve&#618;t&#618;&#331;]E{a}I{1}kilninantis;F{elevating passion}kilninantis jausmasI{2}keliamasis, kėlimo;F{elevating gear}kėlimo mechanizmas
+0{elevation}[,el&#618;'ve&#618;&#643;n]E{n}I{1}(pa)kėlimas, iškėlimas;F{elevation to the peerage}pakėlimas į perusI{2}l{(minties, stiliaus)}pakilumas, kilnumasI{3}pakiluma, aukštumaI{4}aukštisl{(virš jūros lygio)}I{5}L{archit.}profilis, fasadas; vertikalioji projekcija;F{front elevation}priekinis fasadas; vaizdas iš priekio;F{side elevation}šoninis fasadas/vaizdasI{6}X{(the Elevation)}L{bažn.}pakylėjimas
+0{elevator}['el&#618;ve&#618;t&#601;]E{n}I{1}l{(L{įv. reikšm.})}elevatoriusI{2}L{amer.}liftasI{3}L{av.}aukščio vairas
+0{eleven}[&#618;'levn]S{&rArr;}E{num}E{card}vienuolikaS{&rArr;}E{n}L{sport.}vienuolikė, vienuolikos žmonių komanda
+0{eleven-fifteen}[&#618;'levX{&#601;}nf&#618;f'ti:n]E{num}E{card}penkiolika po vienuolikos
+0{eleven-plus}[&#618;,levX{&#601;}n'pl&#652;s]E{n}egzaminai vienuolikmečiams
+0{elevenses}[&#618;'levnz&#618;z]E{n}L{šnek.}lengvi priešpiečiail{(apie 11 val.)}
+0{eleventh}[&#618;'levn&theta;]S{&rArr;}E{num}E{ord}vienuoliktasS{&rArr;}E{n}vienuoliktoji dalis
+0{eleven-thirty}[&#618;'levX{&#601;}n'&theta;&#601;:t&#618;]E{num}E{card}pusė dvyliktos
+0{elf}[elf]E{n}(E{pl}elves)I{1}L{flk.}nykštukas, elfasI{2}išdykėlis
+0{elfin}['elf&#618;n]S{&rArr;}E{a}I{1}nykštukų, elfųI{2}pasakiškas, stebuklingasI{3}smulkus, miniatiūriškasS{&rArr;}E{n}L{psn.}A{=R{elf}}1
+0{elfish}['elf&#618;&#643;]E{a}I{1}nykštukiškasI{2}išdykęs
+0{elf-lock}['elfl&#596;k]E{n}sutaršyti plaukai
+0{Elias}[&#618;'la&#618;&#601;s]E{n}Elijas
+0{elicit}[&#618;'l&#618;s&#618;t]E{v}I{1}sukeltil{(reakciją, plojimusL{ir pan.})}I{2}išaiškintil{(tiesą)}, išgautil{(atsakymą; informaciją; from)}
+0{elide}[&#618;'la&#618;d]E{v}I{1}išleisti, praleistil{(garsą, skiemenį)}I{2}praleisti, nutylėti
+0{eligibility}[,el&#618;d&#658;&#601;'b&#618;l&#601;t&#618;]E{n}I{1}teisė (būti renkamam)I{2}tinkamumas
+0{eligible}['el&#618;d&#658;&#601;bl]E{a}I{1}galintis būti renkamas/išrinktas;F{is he eligible for membership of the club?}ar jis turi teisę tapti klubo nariu?I{2}tinkamas, pageidaujamas;F{he is an eligible young man}jis tinkamas jaunikis
+0{Elijah}[&#618;'la&#618;d&#658;&#601;]E{n}L{bibl.}Elijas
+0{eliminate}[&#618;'l&#618;m&#618;ne&#618;t]E{v}I{1}(pa)šalinti, (iš)mesti, atmesti;F{to eliminate defects}(pa)šalinti trūkumus;F{we’ve eliminated that candidate}mes atmetėme tą kandidatūrąI{2}(pa)naikinti, likviduotiI{3}L{šnek.}nudėti, nugalabytiI{4}l{(L{ppr.}E{pass})}L{sport.}iškristil{(iš varžybųL{ir pan.})}I{5}L{spec.}eliminuoti
+0{elimination}[&#618;,l&#618;m&#618;'ne&#618;&#643;n]E{n}(pa)šalinimasL{ir pan.},A{L{žr.}R{eliminate}}
+0{eliminator}[&#618;'l&#618;m&#618;ne&#618;t&#601;]E{n}(pa)šalinimo/išmetimo įtaisas/aparatas; separatorius, skirtuvas
+0{Elint}['el&#618;nt]E{n}(electronic intelligenceL{sutr.}) elektroninė žvalgyba
+0{Eliot}['el&#618;&#601;t]E{n}:X{George Eliot}Džordžas Eliotasl{(anglų rašytoja)};F{Thomas Stearns Eliot}Tomas Sternsas Eliotasl{(anglų rašytojas)}
+0{elision}[&#618;'l&#618;&#658;n]E{n}L{kalb.}elizijal{(balsio išleidimas)}
+0{elite}[&#618;'li:t, e&#618;'li:t]L{pr.}S{&rArr;}E{n}elitas;F{the elite of society}visuomenės žiedas;F{corps d’ elite}rinktinė kariuomenėS{&rArr;}E{a}elitinis, rinktinis, geriausias
+0{elitism}[e&#618;'li:t&#618;zm]E{n}elitarizmas
+0{elitist}[e&#618;'li:t&#618;st]E{a}elitinis
+0{elixir}[&#618;'l&#618;ks&#601;]E{n}I{1}eliksyrasl{(L{t. p.}L{farm.})}I{2}panacėja
+0{Eliza}[&#618;'la&#618;z&#601;]E{n}Eliza
+0{Elizabeth}[&#618;'l&#618;z&#601;b&#601;&theta;]E{n}Elžbieta, Elizabetal{(vardas)}
+0{Elizabethan}[&#618;,l&#618;z&#601;'bi:&theta;n]E{a}karalienės Elžbietos I laikų
+0{elk}[elk]E{n}L{zool.}I{1}briedisI{2}elnias vapitisl{(Š. Amerikoje)}
+0{ell^{1}}[el]E{n}L{ist.}elisl{(ilgio vienetas = 114 cm)}
+0{ell^{2}}E{n}namo sparnas, priestatas
+0{Ella}['el&#601;]E{n}Ela
+0{Ellen}['el&#601;n]E{n}Elena
+0{ellipse}[&#618;'l&#618;ps]E{n}L{geom.}elipsė
+0{ellipsis}[&#618;'l&#618;ps&#618;s]E{n}(E{pl}-ses[-si:z])L{kalb.}elipsė
+0{ellipsoid}[&#618;'l&#618;ps&#596;&#618;d]E{n}L{geom.}elipsoidas
+0{elliptic(al)}[&#618;'l&#618;pt&#618;k(l)]E{a}L{geom.},L{kalb.}elipsinis
+0{Elly}[ell&#618;]E{n}Elė, Eli
+0{elm}[elm]E{n}L{bot.}guoba, vinkšna, skirpstas
+0{elocution}[,el&#601;'kju:&#643;n]E{n}I{1}iškalbos/oratoriaus menas, retorikaI{2}dikcija; raiškusis skaitymas
+0{elocutionary}[,el&#601;'kju:&#643;n&#601;r&#618;]E{a}oratoriškas; deklamatoriaus, deklamavimo
+0{elocutionist}[,el&#601;'kju:&#643;n&#618;st]E{n}I{1}retorikos mokytojasI{2}skaitovas, deklamatorius
+0{elongate}['i:l&#596;&#331;ge&#618;t]E{v}(pa)ilginti, (iš)tęsti; pailgėti; pratęstil{(laiką)}
+0{elongated}['i:l&#596;&#331;ge&#618;t&#618;d]E{a}I{1}ištįsęs, ilgasI{2}L{bot.},L{zool.}ištęstas, pailgėjęs
+0{elongation}[,i:l&#596;&#331;'ge&#618;&#643;n]E{n}I{1}(pa)ilginimas, (pa)ilgėjimasl{(L{t. p.}L{tech.})}; (pra)tęsimas, tęsinysI{2}L{astr.}elongacija
+0{elope}[&#618;'l&#601;up]E{v}pabėgti iš namųl{(įsimylėjus, norint slapta susituokti)}
+0{elopement}[&#618;'l&#601;upm&#601;nt]E{n}pabėgimasl{(su mylimuoju; pas meilužį)}
+0{eloquence}['el&#601;kw&#601;ns]E{n}iškalba, iškalbingumas; elokvencija
+0{eloquent}['el&#601;kw&#601;nt]E{a}I{1}iškalbus, iškalbingasI{2}išraiškingas;F{eloquent silence}iškalbinga tyla
+0{eloquently}['el&#601;kw&#601;ntl&#618;]E{adv}iškalbingai, išraiškingai
+0{Elsa}['els&#601;]E{n}Elzė
+0{El Salvador}[,el's&aelig;lv&#601;d&#596;:]E{n}Salvadorasl{(Centrinės Amerikos valstybė)}
+0{else}[els]S{&rArr;}E{part}I{1}l{(suL{klaus.}/nežymimaisiais įvardžiais/prieveiksmiais)}dar, be to;F{anybody else}dar kas nors;F{where else}kur dar;F{somewhere}/L{amer.}X{someplace else}dar kur nors;F{what else can you say?}ką dar galite pasakyti?;F{nobody else wanted to go}niekas daugiau nenorėjo eiti;F{in the end she married somebody else}galų gale ji ištekėjo už kažko kitoI{2}priešingu atveju, kitaipl{(L{ppr.}X{or else})}S{&rArr;}E{pron}kitas;F{somebody else’s hat}kieno kito skrybėlė;F{everyone else had gone}visi kiti jau buvo išėję
+0{elsewhere}[,els'w&#604;&#601;]E{adv}l{(kur nors)}kitur
+0{ELT}L{sutr.}X{English Language Teaching}anglų kalbos mokymas
+0{elucidate}[&#618;'lu:s&#618;de&#618;t]E{v}(iš)aiškinti, nušviesti
+0{elucidation}[&#618;,lu:s&#618;'de&#618;&#643;n]E{n}(iš)aiškinimas, nušvietimas
+0{elucidative}[&#618;'lu:s&#618;de&#618;t&#618;v]E{a}aiškinamasis; išaiškinantis
+0{elucidatory}[&#618;'lu:s&#618;de&#618;tX{&#601;}r&#618;]E{a}A{=R{elucidative}}
+0{elude}[&#618;'lu:d]E{v}I{1}(iš)vengti, išsisukti;F{to elude one’s pursuers}pasprukti nuo persekiotojųI{2}neprisiminti; likti nepastebėtam;F{his name eludes me}aš negaliu prisiminti jo vardoI{3}nepasiektil{(ko geidžiamo)};F{success had so far eluded him}sėkmė kol kas jį aplenkė
+0{elusion}[&#618;'lu:&#658;n]E{n}vengimas, išsisukinėjimas
+0{elusive}[&#618;'lu:s&#618;v]E{a}I{1}nepagaunamas; išsisukinėjamasl{(apie atsakymą)}I{2}silpnasl{(apie atmintį)}; sunkiai įsimenamas/suprantamas;F{happiness is elusive}laimė apgaulinga
+0{elusory}[&#618;'lu:s&#601;r&#618;]E{a}lengvai išsisukantis/išnykstantis
+0{elution}[&#618;'lju:&#643;n]E{n}L{chem.}išplovimas
+0{eluvium}[&#618;'lju:v&#618;&#601;m]E{n}L{geol.}eliuvis
+0{elver}['elv&#601;]E{n}ungurio jauniklis, unguriukas
+0{elves}[elvz]E{pl}A{L{žr.}R{elf}}
+0{Elvira}[el'va&#618;&#601;r&#601;]E{n}Elvyra, Elvairal{(vardas)}
+0{elvish}['elv&#618;&#643;]E{a}A{=R{elfish}}
+0{Elysian}[&#618;'l&#618;z&#618;&#601;n]E{a}I{1}L{mit.}Eliziejaus;F{the Elysian Fields}Eliziejaus laukaiI{2}rojaus; palaimingas
+0{Elysium}[&#618;'l&#618;z&#618;&#601;m]E{n}I{1}L{mit.}EliziejusI{2}rojus, palaimintųjų kraštas
+0{’em}[&#601;m]L{šnek.}L{sutr.}A{=R{them}}
+0{em-}[em-]A{=R{en-}}l{(prieš priebalsius b, p, m)}
+0{EM}L{sutr.}X{electromagnetic}elektromagnetinisX{enlisted man}l{(JAV kariuomenės)}eilinisX{expanded memory}L{komp.}išplėstinė atmintis
+0{emaciate}[&#618;'me&#618;&#643;&#618;e&#618;t]E{v}(iš)sekinti, (iš)varginti; (nu)alinti
+0{emaciated}[&#618;'me&#618;&#643;&#618;e&#618;t&#618;d]E{a}išsekęs, išsekintas; nualintas
+0{emaciation}[&#618;,me&#618;&#643;&#618;'e&#618;&#643;n]E{n}(iš)sekinimas, (nu)alinimas
+0{e-mail}['i:me&#618;l]S{&rArr;}E{n}elektroninis paštasS{&rArr;}E{v}siųsti elektroniniu paštu
+0{emanate}['em&#601;ne&#618;t]E{v}I{1}kilti, sklisti, išeitil{(from – iš)}I{2}skleisti
+0{emanation}[,em&#601;'ne&#618;&#643;n]E{n}I{1}kilimas, sklidimasI{2}L{spec.}emanacija
+0{emancipate}[&#618;'m&aelig;ns&#618;pe&#618;t]E{v}I{1}(iš)laisvinti, (iš)vaduotil{(from)}I{2}emancipuotil{(moteris)}
+0{emancipation}[&#618;,m&aelig;ns&#618;'pe&#618;&#643;n]E{n}I{1}(iš)laisvinimasI{2}L{spec.}emancipacija
+0{emancipationist}[&#618;,m&aelig;ns&#618;'pe&#618;&#643;&#601;n&#618;st]E{n}emancipacijos šalininkas
+0{emasculate}S{&rArr;}E{v}[&#618;'m&aelig;skjule&#618;t]I{1}(iš)kastruotiI{2}(su)silpninti, nusilpninti; nuskurdintil{(idėją)}I{3}atimti vyriškumąS{&rArr;}E{a}[&#618;'m&aelig;skjul&#618;t]I{1}iškastruotasI{2}nusilpnintas; nuskurdintasI{3}sumoteriškėjęs
+0{emasculation}[&#618;,m&aelig;skju'le&#618;&#643;n]E{n}I{1}kastravimasI{2}(nu)skurdinimasI{3}bejėgiškumas
+0{emb.}L{sutr.}X{embargo}embargas
+0{embalm}[&#618;m'ba:m]E{v}I{1}balzamuotiI{2}įamžinti, apsaugoti nuo užmiršimoI{3}skleisti aromatą
+0{embalmment}[&#618;m'ba:m&#601;nt]E{n}balzamavimas
+0{embank}[&#618;m'b&aelig;&#331;k]E{v}(su)stiprinti/apsaugoti pylimu/užtvanka; užtvenkti
+0{embankment}[&#618;m'b&aelig;&#331;km&#601;nt]E{n}I{1}l{(kelio, geležinkelio)}pylimasI{2}krantinė, damba, užtvanka; kranto sutvirtinimas
+0{embargo}[em'ba:g&#601;u]S{&rArr;}E{n}(E{pl}embargoes[-z])L{ekon.},L{polit.}(už)draudimas, embargas;F{under an embargo}uždraustas;F{to lay smth under an embargo}konfiskuoti, rekvizuoti;F{to lay/place an embargo}l{(on)}įvesti embargą;F{to lift the embargo, to take off the embargo}panaikinti embargąS{&rArr;}E{v}I{1}įvesti embargą, uždrausti;F{to embargo a ship}sulaikyti laivą uosteI{2}konfiskuoti, rekvizuoti
+0{embark}[&#618;m'ba:k]E{v}I{1}pakrauti laivą; lipti/laipinti į laivąI{2}pradėti, imtis, griebtisl{(on)};F{to embark on hostilities}pradėti karo veiksmus
+0{embarkation}[,emba:'ke&#618;&#643;n]E{n}I{1}laivo pakrovimas; įlaipinimas/įlipimas į laivą;F{embarkation card}įsėdimo/įlipimo talonasI{2}laivo krovinysI{3}pradėjimasl{(naujo gyvenimoL{ir pan.}; on)}
+0{embarrass}[&#618;m'b&aelig;r&#601;s]E{v}I{1}varžyti, trikdyti, konfūzyti;E{pass}sumišti, susidrovėtiI{2}sudaryti keblumųl{(ypač vyriausybei, partijai)}
+0{embarrassed}[&#618;m'b&aelig;r&#601;st]E{a}I{1}sutrikęs, sumišęs; drovus;F{to feel embarrassed}drovėtis, jaustis nesmagiai/nejaukiaiI{2}įsiskolinęsl{(L{t. p.}X{financially embarrassed})}
+0{embarrassing}[&#618;m'b&aelig;r&#601;s&#618;&#331;]E{a}nesmagus, nepatogus;F{embarassing silence}nesmagi tyla;F{embarassing situation}kebli padėtis
+0{embarrassment}[&#618;m'b&aelig;r&#601;sm&#601;nt]E{n}I{1}varžymasis, sumišimas, drovėjimasis, sutrikimasI{2}sunkumas, keblumas;F{financial embarrassment}finansiniai sunkumaiI{3}žmogus, darantis nepatogumų
+0{embassy}['emb&#601;s&#618;]E{n}ambasada, pasiuntinybė
+0{embattle}[&#618;m'b&aelig;tl]E{v}iš(si)rikiuoti mūšiui
+0{embattled}[&#618;m'b&aelig;tld]E{a}I{1}įtrauktas į karą; apsuptas priešųI{2}varginamas/kamuojamas sunkumų
+0{embayment}[&#618;m'be&#618;m&#601;nt]E{n}įlankos susidarymas; įlanka
+0{embed}[&#618;m'bed]E{v}l{(L{ppr.}E{pass})}I{1}įstatyti, įtvirtinti, įmontuotiI{2}įsmigti, įstrigtil{(L{t. p.}L{prk.}atmintyjeL{ir pan.})}I{3}L{kalb.}įdėti, įterptil{(šalutinį sakinį; in)}
+0{embellish}[&#618;m'bel&#618;&#643;]E{v}I{1}puoštiI{2}(pa)gražinti, (pa)dailintil{(pasakojant)}
+0{embellishment}[&#618;m'bel&#618;&#643;m&#601;nt]E{n}I{1}(pa)puošimasI{2}l{(pasakojimo)}(pa)gražinimas
+0{ember}['emb&#601;]E{n}l{(L{ppr.}E{pl})}žarijos; karšti pelenai
+0{Ember}['emb&#601;]E{a}:X{Ember days}L{bažn.}pasninko dienos
+0{embezzle}[&#618;m'bezl]E{v}pasisavinti, savintis, grobstyti, (iš)eikvotil{(svetimus pinigus)}
+0{embezzlement}[&#618;m'bezlm&#601;nt]E{n}pasisavinimas, savinimasisl{(svetimo turto, svetimų pinigų)}; (iš)eikvojimas, grobstymas
+0{embezzler}[&#618;m'bezl&#601;]E{n}išeikvotojas
+0{embitter}[&#618;m'b&#618;t&#601;]E{v}l{(L{ppr.}E{pass})}I{1}apkartinti; jausti kartėlįI{2}(su)irzti, (su)erzinti;F{he is very embittered about his daughter’s marriage}jis labai susierzinęs dėl dukters vedybų
+0{emblazon}[&#618;m'ble&#618;zn]E{v}I{1}l{(L{ppr.}E{pass})}išpiešti, išrašytil{(herbe, vėliavoje)}; puoštil{(with)}I{2}(iš)garbinti, liaupsinti
+0{emblem}['embl&#601;m]S{&rArr;}E{n}emblema; simbolis;F{National Emblem}valstybės herbasS{&rArr;}E{v}simbolizuoti, būti emblema
+0{emblematic(al)}[,embl&#601;'m&aelig;t&#618;k(l)]E{a}embleminis, emblemos; simbolinis;F{the crown is emblematic(al) of the power of a king}karūna simbolizuoja karaliaus valdžią
+0{embodiment}[&#618;m'b&#596;d&#618;m&#601;nt]E{n}I{1}įkūnijimasI{2}L{kar.}dalinių sudarymas/formavimas
+0{embody}[&#618;m'b&#596;d&#618;]E{v}l{(L{ppr.}E{pass})}I{1}įkūnyti; įgyvendintil{(idėją)}I{2}(iš)reikštiI{3}apimti, jungtiI{4}turėti;F{the new car embodies many improvements}naujasis automobilis turi daug patobulinimųI{5}L{kar.}sudaryti, formuoti
+0{embolden}[&#618;m'b&#601;uldX{&#601;}n]E{v}(pa)drąsinti; (pa)skatinti
+0{embolism}['emb&#601;l&#618;zm]E{n}L{med.}embolija
+0{embonpoint}['&#596;mb&#596;n'pw&#596;embonpoint]L{pr.}E{n}apkūnumas, pilnumas
+0{embosom}[&#618;m'buzX{&#601;}m]E{v}L{poet.}I{1}puoselėti, slėptil{(širdyje)}I{2}l{(L{ppr.}E{pass})}apsupti
+0{emboss}[&#618;m'b&#596;s]E{v}l{(L{ppr.}E{pass})}įspausti, iškalti; puošti reljefiniu ornamentu
+0{embossed}[&#618;m'b&#596;st]E{a}I{1}reljefiškas, iškilusI{2}kalinėtas, raižytas, lipdytinis
+0{embouchure}['&#596;mbu&#643;u&#601;]L{pr.}E{n}l{(L{muz.}instrumento)}pūstukas
+0{embowel}[&#618;m'bau&#601;l]E{v}L{psn.}(iš)darinėti, (iš)mėsinėti
+0{embower}[&#618;m'bau&#601;]E{v}L{poet.}apsupti, slėpti
+0{embrace}[&#618;m'bre&#618;s]S{&rArr;}E{n}ap(si)kabinimas, glėbysS{&rArr;}E{v}I{1}ap(si)kabintiI{2}apimti, įtraukti, turėti savyjeI{3}naudotis, pasinaudotil{(pasiūlymu, proga)}I{4}priimtil{(teoriją, tikėjimąL{ir pan.})}; taptil{(teorijosL{ir pan.})}šalininkuI{5}rinktis, pasirinktil{(profesiją)}
+0{embranchment}[&#618;m'bra:nt&#643;m&#601;nt]E{n}atsišakojimas; šakojimasis, išsišakojimas
+0{embrasure}[&#618;m'bre&#618;&#658;&#601;]E{n}I{1}L{archit.}l{(durų, langų)}angaI{2}L{kar.}ambrazūra
+0{embrittle}[&#618;m'br&#618;tl]E{v}L{metal.}daryti trapų
+0{embrocate}['embr&#601;ke&#618;t]E{v}įtrinti/ištepti skysčiu, skystu tepalul{(skaudamą vietą)}
+0{embrocation}[,embr&#601;'ke&#618;&#643;n]E{n}I{1}įtrynimas, ištepimasI{2}skystas tepalas
+0{embroider}[&#618;m'br&#596;&#618;d&#601;]E{v}I{1}(iš)siuvinėtiI{2}(pa)gražinti, (pa)dailintil{(pasakojant)}
+0{embroidery}[&#618;m'br&#596;&#618;dX{&#601;}r&#618;]E{n}I{1}siuvinėjimasI{2}išsiuvinėtas darbelis, siuvinys
+0{embroil}[&#618;m'br&#596;&#618;l]E{v}I{1}(su)painiotil{(dalyką, fabulą)}I{2}l{(L{ppr.}E{pass})}į(si)velti, į(si)painiotil{(į nemalonumusL{ir pan.})}
+0{embrown}[&#618;m'braun]E{v}L{ret.}(nu)rudinti
+0{embryo}['embr&#618;&#601;u]S{&rArr;}E{n}(E{pl}embryos[-z])I{1}L{biol.}embrionas, gemalasI{2}L{prk.}užuomazga; F{in embryo}užuomazgoje, neišsirutuliojęsS{&rArr;}E{a}embrioninis; užuomazginis
+0{embryogenesis}[,embr&#618;&#601;u'd&#658;en&#618;s&#618;s]E{n}L{biol.}embriogenezė
+0{embryological}[,embr&#618;&#601;'l&#596;d&#658;&#618;kl]E{a}embriologinis
+0{embryologist}[,embr&#618;'&#596;l&#601;d&#658;&#618;st]E{n}embriologas
+0{embryology}[,embr&#618;'&#596;l&#601;d&#658;&#618;]E{n}embriologija
+0{embryonic}[,embr&#618;'&#596;n&#618;k]E{a}I{1}L{biol.}embrioninis, gemalinisI{2}L{prk.}užuomazginis
+0{embus}[&#618;m'b&#652;s]E{v}L{kar.}lipti/sėsti/sodinti/krauti į automobilius
+0{emcee}[,em'si:]E{n}L{amer.}l{(radijo programosL{ir pan.})}vadovas; konferansjė
+0{emend}[&#618;'mend]E{v}(pa)keisti, (iš)taisytil{(tekstą)}
+0{emendate}['i:mende&#618;t]E{v}A{=R{emend}}
+0{emendation}[,i:men'de&#618;&#643;n]E{n}I{1}l{(teksto)}taisymas, keitimasI{2}l{(L{džn.}E{pl})}ištaisymas, pataisymas
+0{emerald}['emX{&#601;}r&#601;ld]S{&rArr;}E{n}I{1}L{min.}smaragdasI{2}sodri žalia spalvaS{&rArr;}E{a}smaragdinis; skaisčiai žaliasl{(L{t. p.}X{emerald green})};F{the Emerald Isle}L{poet.}Airija
+0{emerge}[&#618;'m&#601;:d&#658;]E{v}I{1}išeiti, pasirodyti;F{the sun emerged from behind the clouds}saulė pasirodė iš už debesų;F{to emerge victorious}išeiti nugalėtojuI{2}paaiškėti;F{it emerged that...}paaiškėjo, kad...I{3}kilti;F{here emerges the question as to...}čia kyla klausimas dėl...I{4}atsirasti, susidarytil{(apie ekonominę/politinę sistemąL{ir pan.})}I{5}L{jūr.}išplaukti, iškiltil{(į paviršių)}
+0{emergence}[&#618;'m&#601;:d&#658;X{&#601;}ns]E{n}pasirodymas; (iš)kilimas
+0{emergency}[&#618;'m&#601;:d&#658;X{&#601;}ns&#618;]S{&rArr;}E{n}nenumatytas blogiausias atvejis; kritiška padėtis; avarija;F{in case of emergency, in an emergency}blogiausiu/būtiniausiu atveju;F{to rise to the emergency}netikėtai gerai pasirodytiS{&rArr;}E{a}nepaprastas; avarinis; priverstinis;F{emergency door/exit}atsarginis išėjimas;F{emergency meeting}nepaprastasis susirinkimas; F{emergency powers}nepaprastieji įgaliojimai;F{emergency store/ration}neliečiamoji atsarga;F{emergency repair}avarinis remontas
+0{emergent}[&#618;'m&#601;:d&#658;X{&#601;}nt]E{a}E{attr}I{1}(staiga) pasirodantis, (iš)kylantis, atsirandantisI{2}L{polit.}neseniai tapęs savarankiškasl{(apie šalį)}
+0{emergicenter}[&#618;'m&#601;:d&#658;&#618;sent&#601;]E{n}L{amer.}pirmosios pagalbos poliklinikal{(komerciniame miesto rajone)}
+0{emeritus}[&#618;'mer&#618;t&#601;s]E{a}garbės, nusipelnęsl{(L{vart.}prieš titulą)};F{emeritus professor}atsistatydinęs nusipelnęs profesorius
+0{emersion}[&#618;'m&#601;:&#643;n]E{n}I{1}pasirodymas; iškilimasI{2}L{astr.}emersija
+0{emery}['emX{&#601;}r&#618;]E{n}švitras, korundas
+0{emery-paper}['em&#601;r&#618;,pe&#618;p&#601;]E{n}švitrinis popierius
+0{emery-wheel}['em&#601;r&#618;wi:l]E{n}švitrinis šlifavimo diskas
+0{emetic}[&#618;'met&#618;k]L{farm.}S{&rArr;}E{a}vėmimo, vimdomasisl{(apie vaistus)}S{&rArr;}E{n}vimdomasis vaistas
+0{emeu}['i:mju:]E{n}A{=R{emu}}
+0{EMF}L{sutr.}X{European Monetary Fund}Europos valiutos fondas
+0{emf}L{sutr.}X{electromotive force}elektrovaros jėga
+0{emigrant}['em&#618;gr&#601;nt]S{&rArr;}E{n}emigrantas, išeivisS{&rArr;}E{a}emigruojantis, klajojantis
+0{emigrate}['em&#618;gre&#618;t]E{v}emigruoti, persikelti
+0{emigration}[,em&#618;'gre&#618;&#643;n]E{n}I{1}išeivystė, emigracija, emigravimasI{2}L{kuop.}išeivija, emigracija
+0{emigratory}['em&#618;gre&#618;tX{&#601;}r&#618;]E{a}emigracinis, emigracijos
+0{émigré}['em&#618;gre&#618;]L{pr.}E{n}politinis emigrantas
+0{Emile}[e&#618;'mi:l]E{n}Emilis, Emilijus
+0{Emilia}[&#618;'m&#618;l&#618;&#601;]E{n}Emilijal{(vardas)}
+0{Emily}['em&#618;l&#618;]E{n}Emilija, Emilėl{(vardas)}
+0{eminence}['em&#618;n&#601;ns]E{n}I{1}žymumas, aukšta padėtis;F{a man of eminence}žymus/garsus žmogusI{2}X{Eminence}eminencija, šventenybėl{(kardinolo titulas)}I{3}aukštuma, kalva
+0{eminent}['em&#618;n&#601;nt]E{a}I{1}(į)žymus, garsusl{(apie žmogų)}I{2}iškilus, didelis
+0{eminently}['em&#618;n&#601;ntl&#618;]E{adv}didžiai, itin
+0{emir}[e'm&#618;&#601;]L{arab.}E{n}emyras
+0{emirate}['em&#618;&#601;r&#601;t]L{arab.}E{n}emyratas;F{United Arab Emirates}Jungtiniai Arabų Emyratail{(Azijos valstybė)}
+0{emissary}['em&#618;sX{&#601;}r&#618;]E{n}emisaras, pasiuntinys
+0{emission}[&#618;'m&#618;&#643;n]E{n}I{1}l{(šviesos, šilumos, dujųL{ir pan.})}iš(si)skyrimas, atsipalaidavimas; skleidimasI{2}L{fiz.}emisija, spinduliavimas;F{emission spectrum}emisijos spektrasI{3}L{fin.}emisija,l{(pinigųL{ir pan.})}(iš)leidimas
+0{emissive}[&#618;'m&#618;s&#618;v]E{a}išskiriantis; išleidžiantis
+0{emit}[&#618;'m&#618;t]E{v}I{1}išskirti, atpalaiduotil{(šilumąL{ir pan.})}; spinduliuotiI{2}(iš)leistil{(garsus, pinigus)}I{3}skleistil{(kvapą)}I{4}išmesti, leistil{(dūmusL{ir pan.})}I{5}L{fiz.},L{fin.}emituoti
+0{emitter}[&#618;'m&#618;t&#601;]E{n}L{fiz.}spinduolis
+0{Emma}['em&#601;]E{n}Emal{(vardas)}
+0{Emmanuel}[&#618;'m&aelig;nju&#601;l]E{n}Emanuelis
+0{Emmeline}['em&#618;li:n]E{n}Emelina
+0{emmer}['em&#601;]E{n}L{bot.}emeris, dvigrūdis kvietys
+0{Emmy}['em&#618;]E{n}I{1}Ema, Emėl{(vardas)}I{2}L{amer.}L{tel.}„Emi“l{(prizas už geriausią televizijos laidą/filmąL{ir pan.})}
+0{emollient}[&#618;'m&#596;l&#618;&#601;nt]E{a}I{1}L{farm.}minkštinamas(is), minkštinantisl{(apie tepalą, vaistą)}I{2}L{prk.}raminamasl{(apie žodžiusL{ir pan.})}
+0{emolument}[&#618;'m&#596;ljum&#601;nt]E{n}l{(L{ppr.}E{pl})}L{knyg.}pajamos, uždarbis; atsiteisimas
+0{emote}[&#618;'m&#601;ut]E{v}demonstruoti jausmusl{(prieš kino kamerąL{ir pan.})}; įsijaustil{(į vaidmenį)}
+0{emotion}[&#618;'m&#601;u&#643;n]E{n}I{1}jausmas, emocijaI{2}jaudinimasis; jaudulys
+0{emotional}[&#618;,m&#601;u&#643;n&#601;l]E{a}I{1}emocinisI{2}emocionalus, emocingas; jausmingas;F{emotional man}emocingas žmogusI{3}jaudinantis;F{emotional speech}jaudinanti kalba
+0{emotionalism}[&#618;'m&#601;u&#643;n&#601;l&#618;zm]E{n}(perdėtas) emocingumas; sentimentalumas
+0{emotionality}[&#618;,m&#601;u&#643;&#601;'n&aelig;l&#601;t&#618;]E{n}emocionalumas
+0{emotionally}[&#618;'m&#601;u&#643;X{&#601;}n&#601;l&#618;]E{adv}jausmingai, emocionaliai
+0{emotionless}[&#618;'m&#601;u&#643;nl&#601;s]E{n}neemocionalus
+0{emotive}[&#618;'m&#601;ut&#618;v]E{a}I{1}emocionalusI{2}jaudinantis; keliantis/reiškiantis emocijas
+0{empanel}[&#618;m'p&aelig;nl]E{v}X{(-ll-)}įtraukti į prisiekusiųjų sąrašą; išrinkti prisiekusiuosius
+0{empathic}[em'p&aelig;&theta;&#618;k]E{a}įsijaučiantisl{(į kitų žmonių jausmus, problemasL{ir pan.})}
+0{empathize}['emp&#601;&theta;a&#618;z]E{v}išgyventi, jaudintisl{(kartu; with)}; įsijaustil{(į kito asmens būseną)}
+0{empathy}['emp&#601;&theta;&#618;]E{n}I{1}jaudinimasis, išgyvenimasl{(dėl kitų skausmoL{ir pan.})}I{2}įsijautimas, empatija
+0{emperor}['empX{&#601;}r&#601;]E{n}imperatorius
+0{emphasis}['emf&#601;s&#618;s]E{n}(E{pl}-ses[-si:z])I{1}pabrėžimas, išryškinimas;F{to lay/place/put special emphasis}l{(on)}ypač pabrėžtiI{2}L{kalb.}emfazė; kirtis;F{the emphasis is on the pronoun}loginiu kirčiu pabrėžiamas įvardisI{3}L{poligr.}išskyrimo šriftasl{(kursyvas, retinimas)};F{emphasis added}retinimas/kursyvas mūsų
+0{emphasise}['emf&#601;sa&#618;z]E{v}pabrėžti, akcentuoti, žymėti loginį kirtį
+0{emphasize}['emf&#601;sa&#618;z]E{v}I{1}pabrėžti, akcentuotiI{2}L{kalb.}žymėti loginį kirtį
+0{emphatic}[,&#618;m'f&aelig;t&#618;k]E{a}I{1}pabrėžtas; pabrėžiantis; ryškus, emfatiškas;F{emphatic victory}aiški pergalė;F{with an emphatic gesture}išraiškingu mostuI{2}tvirtas, kategoriškas;F{emphatic denial}kategoriškas paneigimas;F{he expressed his emphatic opinion that...}jis pasakė savo tvirtą nuomonę, kad...I{3}L{kalb.}emfatinis
+0{emphatically}[&#618;m'f&aelig;t&#618;kl&#618;]E{adv}I{1}kategoriškai, pabrėžtinai; emfatiškaiI{2}neabejotinai, aiškiai
+0{emphysema}[,emfi'si:m&#601;]E{n}L{med.}emfizema, išsipūtimas
+0{Empire}['empa&#618;&#601;]E{n}ampyrasl{(stilius)}
+0{empire}['empa&#618;&#601;]E{n}I{1}imperija;F{Empire Day}L{ist.}Britanijos imperijos dienal{(gegužės 24)};F{Empire City}Niujorkas;F{Empire State}Niujorko valstijaI{2}viešpatavimas, aukščiausioji valdžia
+0{empiric}[&#618;m'p&#618;r&#618;k]S{&rArr;}E{n}I{1}empirikasI{2}L{psn.}šundaktarisS{&rArr;}E{a}A{=R{empirical}}
+0{empirical}[&#618;m'p&#618;r&#618;kl]E{a}empirinis, patirtinis
+0{empirically}[&#618;m'p&#618;r&#618;kl&#618;]E{adv}empiriškai, patirties būdu
+0{empiricism}[&#618;m'p&#618;r&#618;s&#618;zm]E{n}L{filos.}empirizmas
+0{empiricist}[&#618;m'p&#618;r&#618;s&#618;st]E{n}empirikas
+0{emplacement}[&#618;m'ple&#618;sm&#601;nt]E{n}I{1}L{kar.}pabūklo platforma; ugniavietė, ugnies taškasI{2}L{stat.}vietos nustatymas, planavimas
+0{emplane}[&#618;m'ple&#618;n]E{v}lipti/sodinti/krauti į lėktuvą
+0{employ}[&#618;m'pl&#596;&#618;]S{&rArr;}E{v}I{1}samdyti, suteikti/duoti darbą;E{pass}įsidarbinti, dirbti, tarnauti;F{we employ him as an adviser}mes samdome jį kaip konsultantąI{2}(pra)leistil{(laiką)}, užsiimtil{(kuo)}I{3}(pa)vartoti, (pa)naudoti, taikyti;F{to employ a new method}(pri)taikyti naują metodąS{&rArr;}E{n}tarnyba, užsiėmimas;F{to be in smb’s employ}dirbti, tarnauti kur
+0{employable}[&#618;m'pl&#596;&#618;&#601;bl]E{a}darbus, darbingas
+0{employé}[&#596;m'pl&#596;&#618;e&#618;]L{pr.}E{n}A{=R{employee}}
+0{employed}[&#618;m'pl&#596;&#618;d]E{a}pradėjęs dirbti, įsidarbinęs; samdomasl{(apie darbuotoją)}
+0{employee}[,empl&#596;&#618;'i:]E{n}tarnautojas, darbuotojas
+0{employee-owned}[,empl&#596;&#618;'i:&#601;und]E{a}darbuotojams priklausantis
+0{employer}[&#618;m'pl&#596;&#618;&#601;]E{n}darbdavys, samdytojas; įmonininkas
+0{employment}[&#618;m'pl&#596;&#618;m&#601;nt]E{n}I{1}tarnyba, darbas; užsiėmimasI{2}užimtumas;F{full employment}visiškas užimtumas;F{employment agency}darbo agentūraI{3}(pri)taikymas, panaudojimas
+0{empoison}[&#618;m'p&#596;&#618;zn]E{v}L{poet.}apkartinti, (už)nuodyti, (su)gadintil{(gyvenimą)}
+0{emporium}[em'p&#596;:r&#618;&#601;m]E{n}(E{pl}emporiums, -ria[-r&#618;&#601;])I{1}didelė/universalinė parduotuvėI{2}prekybos centras; prekyvietė, turgus
+0{empower}[&#618;m'pau&#601;]E{v}I{1}įgalioti, suteikti teisęI{2}įgalinti, suteikti galią
+0{empress}['empr&#618;s]E{n}I{1}imperatorėI{2}imperatorienė
+0{empties}['empt&#618;z]E{n}plI{1}tuščia tara; tušti buteliai/indai;F{empties to be returned}grąžintina taraI{2}L{glžk.}tušti vagonai
+0{emptiness}['empt&#618;n&#618;s]E{n}I{1}l{(vietos)}tuštumasI{2}L{prk.}tuštuma
+0{empty}['empt&#618;]S{&rArr;}E{a}I{1}tuščiasl{(L{t. p.}L{prk.})};F{empty streets [hands]tuščios gatvės [rankos];F{empty promises}tušti pažadaiI{2}negyvenamasI{3}alkanas;F{to feel empty}X{a)}jausti alkį;X{b)}būti nusiminusiamI{4}L{tech.}neapkrautas, tuščiaeigisS{&rArr;}E{v}I{1}(iš)tuštinti, (iš)dykinti; išpilti, išlieti;F{to empty a bottle}ištuštinti/išgerti butelįI{2}(iš)tuštėtiI{3}įtekėtil{(apie upę; into;L{t. p.}X{empty out})}
+0{empty-handed}['empt&#618;'h&aelig;nd&#618;d]E{a}tuščiomis rankomis
+0{empty-headed}['empt&#618;'hed&#618;d]E{a}tuščiagalvis, kvailas
+0{empurple}[&#618;m'p&#601;:pl]E{v}L{poet.}paraudoninti, parausvinti
+0{empyema}[,empa&#618;'i:m&#601;]E{n}L{med.}pūlių susitelkimas ertmėje, empiema
+0{empyreal}[,emp&#618;'ri:&#601;l]E{a}L{poet.}dangaus, dangiškas, nežemiškas
+0{empyrean}[,emp&#618;'ri:&#601;n]S{&rArr;}E{n}L{poet.}empirėjus; aukštybėsS{&rArr;}E{a}A{=R{empyreal}}
+0{EMS}L{sutr.}X{emergency medical service}greitoji medicinos pagalbaX{European Monetary System}Europos piniginė sistema
+0{EMT}L{sutr.}X{European Mean Time}Vidurio Europos laikas
+0{emu}['i:mju:]E{n}L{zool.}emul{(Australijos paukštis)}
+0{EMU}L{sutr.}X{Economic and Monetary Union}l{(Europos Sąjungos)}Ekonominė ir valiutų sąjungaX{European Monetary Union}Europos valiutų sąjunga
+0{emu}L{sutr.}X{electromagnetic unit}elektromagnetinis vienetas
+0{emulate}['emjule&#618;t]E{v}I{1}(pa)mėgdžioti, kopijuoti, sekti pavyzdžiuI{2}lenktyniauti, rungtyniauti
+0{emulation}[,emju'le&#618;&#643;n]E{n}I{1}(pa)mėgdžiojimas, sekimas pavyzdžiuI{2}lenktyniavimas, rungtyniavimasI{3}L{spec.}emuliacija
+0{emulative}['emjul&#601;t&#618;v]E{a}I{1}(pa)mėgdžiojamasis; imituojamasisI{2}lenktyniavimo, varžymosi
+0{emulous}['emjul&#601;s]E{a}I{1}lenktyniaujantis, lenktyniavimoI{2}trokštantisl{(susilyginti, pralenkti; of)}
+0{emulsifier}[&#618;'m&#652;ls&#618;fa&#618;&#601;]E{n}L{spec.}I{1}emulsiklisl{(medžiaga)}I{2}emulsintuvasl{(aparatas)}
+0{emulsify}[&#618;'m&#652;ls&#618;fa&#618;]E{v}daryti emulsiją, emulsuoti(s)
+0{emulsion}[&#618;'m&#652;l&#643;n]S{&rArr;}E{n}emulsijal{(L{t. p.}L{fot.})}; emulsiniai dažail{(L{t. p.}X{emulsion paint})}S{&rArr;}E{v}dažyti emulsiniais dažais
+0{emulsive}[&#618;'m&#652;ls&#618;v]E{a}emulsinis
+0{en-}[&#618;n-](L{t. p.}em-)E{pref}I{1}ap-, į-, už-l{(žymint padėjimą/uždarymą kur)};F{enclose}apsupti; įdėti;F{encage}uždaryti į narvą;F{embed}įstatytiI{2}-intil{(žymint savybės/būsenos suteikimą)};F{enfeeble}(nu)silpninti;F{embitter}(ap)kartinti
+0{-en^{1}}[-X{&#601;}n]E{suff}-inisl{(žymint medžiagą)};F{woollen}vilnonis
+0{-en^{2}}E{suff}-inti, -ėtil{(žymint perėjimą į būseną, išreikštąL{dktv.}/L{bdv.}kamienu)};F{deepen}gilinti, gilėti;F{strengthen}stiprinti, stiprėti
+0{enable}[&#618;'ne&#618;bl]E{v}įgalinti, leisti; suteikti/duoti galimybę/teisę;F{Congress cannot enable a state to legislate}Kongresas negali suteikti valstijai teisės leisti įstatymus;F{the money from his uncle enabled him to go to university}dėdės pinigai sudarė sąlygas jam mokytis universitete
+0{enact}[&#618;'n&aelig;kt]E{v}I{1}priimtil{(įstatymą, nutarimą)}, nutarti;F{it was enacted that...}teismas nusprendė, kad...I{2}statyti scenoje; vaidintil{(vaidmenį)}I{3}l{(L{ppr.}E{pass})}vykti, (į)vykdyti;F{the place where the murder was enacted}vieta, kur buvo įvykdyta žmogžudystė
+0{enactment}[&#618;'n&aelig;ktm&#601;nt]E{n}I{1}l{(įstatymo)}priėmimas, patvirtinimasI{2}įstatymas, potvarkisI{3}(su)vaidinimas
+0{enamel}[&#618;'n&aelig;ml]S{&rArr;}E{n}I{1}emalis; emalio dažail{(L{t. p.}X{enamel paint})};F{collection of enamels}emalių kolekcijaI{2}glazūraI{3}nagų lakasI{4}L{anat.}l{(dantų)}emalisS{&rArr;}E{v}X{(-ll-)}I{1}emaliuotiI{2}L{poet.}(iš)margintil{(gėlėmisL{ir pan.})}
+0{enamelware}[&#618;'n&aelig;mlw&#604;&#601;]E{n}emaliuoti dirbiniai
+0{enamour}[&#618;'n&aelig;m&#601;]E{v}l{(L{ppr.}E{pass})}žadinti meilę; (su)žavėti, (už)kerėti;F{to be/become enamoured}l{(of)}įsimylėti, susižavėti
+0{en block}[&#596;n'bl&#596;k]L{pr.}visi kartu
+0{enc., encl.}L{sutr.}X{enclosed}įdėtas, pridėtas;F{enclosure}l{(siuntos)}įdėtis
+0{Enc., Ency, Encyc.}L{sutr.}X{Encyclopaedia}enciklopedija
+0{encaenia}[en'si:n&#618;&#601;]E{n}l{(įkūrimo, pašventinimo)}metinių minėjimas
+0{encage}[&#618;n'ke&#618;d&#658;]E{v}uždaryti į narvą/narvelį
+0{encamp}[&#618;n'k&aelig;mp]E{v}I{1}(į)rengti stovykląI{2}l{(L{ppr.}E{pass})}įkurdinti/įsikurti/kurtis stovykloje
+0{encampment}[&#618;n'k&aelig;mpm&#601;nt]E{n}I{1}stovykla, stovyklavietėI{2}stovyklos įrengimas
+0{encapsulate}[&#618;n'k&aelig;psjule&#618;t]E{v}I{1}įdėti į kapsulęI{2}sutraukti, sutrumpinti; apimtil{(tik svarbiausius faktus/mintisL{ir pan.})}
+0{encase}[&#618;n'ke&#618;s]E{v}I{1}pakuoti, dėtil{(į dėžę)}I{2}padengti; aptaisytil{(marmuruL{ir pan.})}
+0{encasement}[&#618;n'ke&#618;sm&#601;nt]E{n}I{1}įpakavimasI{2}dėžė, dėklas, futliarasI{3}apdaras
+0{encash}[&#618;n'k&aelig;&#643;]E{v}L{kom.}I{1}gauti grynais pinigais; inkasuotiI{2}realizuoti, (pa)versti pinigaisl{(prekes)}
+0{encaustic}[en'k&#596;:st&#618;k]S{&rArr;}E{a}I{1}enkaustinisI{2}(ap)degtas, išdegtasl{(apie keramiką, emalįL{ir pan.})}S{&rArr;}E{n}tapyba vaško dažais, enkaustika
+0{-ence}[-X{&#601;}ns]E{suff}-imas, -ymasl{(žymint veiksmą)}; -ybė, -umasl{(žymint būseną, savybę)};F{existence}egzistavimas;F{independence}nepriklausomybė, nepriklausomumas
+0{enceinte^{1}}[õ's&aelig;nt]L{pr.}E{a}L{psn.}nėščia
+0{enceinte^{2}}L{pr.}E{n}L{kar.}įtvirtinimo siena, tvirtovės aptvara
+0{encephalic}[,ens&#618;'f&aelig;l&#618;k, ,enk&#618;'f&aelig;l&#618;k]E{a}L{anat.}smegenų, encefalinis
+0{encephalitis}[en,sef&#601;'la&#618;t&#618;s, en,kef&#601;'la&#618;t&#618;s]E{n}L{med.}encefalitas
+0{encephalon}[en'kef&#601;l&#596;n]E{n}L{med.}galvos smegenys
+0{encephalopathy}[en,sef&#601;'l&#596;p&#601;&theta;&#618;]E{n}encefalopatijal{(smegenų veiklos sutrikimas)}l{;}F{spongiform encephalopathy}porencefalija, akytosios smegenys
+0{enchain}[&#618;n't&#643;e&#618;n]E{v}I{1}(su)kaustyti, surakintil{(grandinėmis)}I{2}prikaustytil{(dėmesįL{ir pan.})}
+0{enchant}[&#618;n't&#643;a:nt]E{v}I{1}(su)žavėtiI{2}(už)kerėti, užburti
+0{enchanter}[&#618;n't&#643;a:nt&#601;]E{n}(už)kerėtojas, burtininkas
+0{enchanting}[&#618;n't&#643;a:nt&#618;&#331;]E{a}kerintis, žavus, žavingas
+0{enchantment}[&#618;n't&#643;a:ntm&#601;nt]E{n}I{1}žavėjimas, žavesysI{2}kerai, burtai
+0{enchantress}[&#618;n't&#643;a:ntr&#618;s]E{n}I{1}žavi moterisI{2}žavėtoja, kerėtoja
+0{enchiridion}[,enka&#618;'r&#618;d&#618;&#601;n]E{n}L{knyg.}vadovas, vadovėlis
+0{encipher}[en'sa&#618;f&#601;]S{&rArr;}E{n}šifruotas pranešimasS{&rArr;}E{v}(už)šifruoti
+0{encircle}[&#618;n's&#601;:kl]E{v}(ap)suptil{(L{t. p.}L{kar.})};F{we are encircled by the sea}mus supa jūra
+0{encirclement}[&#618;n's&#601;:klm&#601;nt]E{n}apsupimas, apsuptis;F{encirclement of the enemy}priešo apsupimas/apsuptis
+0{enclasp}[&#618;n'kla:sp]E{v}apimti, apkabinti, apglėbti
+0{enclave}['enkle&#618;v]E{n}anklavas; svetimų valdų apsupta teritorija;l{(žmonių)}uždara grupė
+0{enclitic}[&#618;n'kl&#618;t&#618;k]L{kalb.}S{&rArr;}E{n}enklitikasS{&rArr;}E{a}enklitinis
+0{enclose}[&#618;n'kl&#601;uz]E{v}I{1}apsupti, atitverti, aptvertiI{2}(į)dėtil{(į voką)}; pridėtil{(kaip priedą)};F{I enclose a cheque for your birthday}siunčiu tau čekį gimtadienio proga
+0{enclosed}[&#618;n'kl&#601;uzd]E{a}I{1}atitvertas, apsuptas; uždaras;F{enclosed body}uždaras kėbulasI{2}pridėtas;F{please find enclosed the documents in question}L{ofic.}pridedame, kartu siunčiame reikalingus dokumentus
+0{enclosure}[&#618;n'kl&#601;u&#658;&#601;]E{n}I{1}aptvėrimas; aptvaras; aptvaraI{2}l{(laiško, pašto siuntos)}įdėtis, indėlis, priedas
+0{encode}[&#618;n'k&#601;ud]E{v}(už)koduoti, (už)šifruoti
+0{encoder}[&#618;n'k&#601;ud&#601;]E{n}I{1}koduotojas, šifruotojasI{2}kodavimo įrenginys
+0{encomiast}[en'k&#601;um&#618;&aelig;st]E{n}L{knyg.}panegirikas
+0{encomiastic}[en,k&#601;um&#618;'&aelig;st&#618;k]E{a}L{knyg.}panegiriškas, liaupsinamas
+0{encomium}[en'k&#601;um&#618;&#601;m]L{lot.}E{n}L{knyg.}(E{pl}encomiums, -ia[-&#618;&#601;]) panegirika
+0{encompass}[&#618;n'k&#652;mp&#601;s]E{v}I{1}apimti;F{the report encompasses a number of problems}pranešimas apima/liečia daug klausimųI{2}apsuptil{(L{t. p.}L{prk.}; rūpesčiuL{ir pan.})}I{3}pasiektil{(tikslą)}
+0{encore}['&#596;&#331;k&#596;:]L{pr.}S{&rArr;}E{int},E{n}bis, darS{&rArr;}E{v}šaukti „bis“, reikalauti pakartoti
+0{encounter}[&#618;n'kaunt&#601;]S{&rArr;}E{n}I{1}netikėtas susitikimasI{2}susidūrimas; susirėmimasI{3}L{sport.}susitikimas; varžybosI{4}E{attr}:X{encounter group}L{psich.}grupinis susitikimasl{(atvirai pasikeisti nuomonėmis, atverti jausmus)}; grupinė psichoterapijaS{&rArr;}E{v}I{1}netikėtai su(si)tiktiI{2}susidurtil{(su pasipriešinimu, sunkumaisL{ir pan.})}; susiremti
+0{encourage}[&#618;n'k&#652;r&#618;d&#658;]E{v}I{1}(pa)drąsintiI{2}(pa)skatinti, (pa)raginti; remti;F{don’t encourage her by doing things for her}nepataikauk jos tinginiui, dirbdamas už ją
+0{encouragement}[&#618;n'k&#652;r&#618;d&#658;m&#601;nt]E{n}I{1}(pa)drąsinimasI{2}(pa)skatinimas, (pa)raginimas;F{to give encouragement to smth}skatinti ką
+0{encouraging}[&#618;n'k&#652;r&#618;d&#658;&#618;&#331;]E{a}(pa)drąsinantis, (pa)drąsinamas; (pa)skatinamas; teikiantis vilčių/pasitikėjimo
+0{encouragingly}[&#618;n'k&#652;r&#618;d&#658;&#618;&#331;l&#618;]E{adv}padrąsinančiai, padrąsindamas, su padrąsinimu
+0{encroach}[&#618;n'kr&#601;ut&#643;]E{v}I{1}kėsintis, pasikėsinti;F{to encroach on smb’s rights}kėsintis į kieno teises;F{to encroach on smb’s time}atimti kieno laikąI{2}brautis, įsibrauti, įsiveržtil{(apie jūrąL{ir pan.})}
+0{encroachment}[&#618;n'kr&#601;ut&#643;m&#601;nt]E{n}I{1}kėsinimasisI{2}brovimasis, įsibrovimas
+0{encrust}[&#618;n'kr&#652;st]E{v}I{1}inkrustuotiI{2}ap(si)trauktil{(plėvele, rūdimisL{ir pan.})}; uždengti, pa(si)dengtil{(ledu, snieguL{ir pan.})}
+0{encrustation}[,&#618;nkr&#652;s'te&#618;&#643;n]E{n}I{1}inkrustacijaI{2}apsitraukimas; apsidengimasl{(ledu, samanomisL{ir pan.})}
+0{encumber}[&#618;n'k&#652;mb&#601;]E{v}I{1}apsunkinti, varžyti, trukdyti;F{he could not walk fast as he was encumbered with a heavy suitcase}sunkus lagaminas trukdė jam greitai eitiI{2}užgriozdintil{(kambarįL{ir pan.})}I{3}vargintil{(apie skolas, abejonesL{ir pan.})}
+0{encumbrance}[&#618;n'k&#652;mbr&#601;ns]E{n}I{1}apsunkinimas, trukdymas; naštaI{2}išlaikytinisl{(L{ppr.}vaikas)}I{3}L{teis.}įkaitinis raštas;l{(nuosavybės teisės)}apribojimas įkeitimu
+0{encumbrancer}[&#618;n'k&#652;mbr&#601;ns&#601;]E{n}L{teis.}įkaito turėtojas
+0{-ency}[-X{&#601;}ns&#618;]E{suff}-umas, -ybėl{(žymint savybę, būseną)}; exigency būtinumas, būtinybė
+0{encyclical}[&#618;n's&#618;kl&#618;k(l), en's&#618;kl&#618;k(l)]S{&rArr;}E{n}L{bažn.}enciklikal{(L{t. p.}X{encyclical letter})}S{&rArr;}E{a}plačiai platinamasl{(apie aplinkraštį)}
+0{encyclop(a)edia}[&#618;n,sa&#618;kl&#601;X{u}'pi:d&#618;&#601;]E{n}enciklopedija, enciklopedinis žodynas
+0{encyclop(a)edic}[&#618;n,sa&#618;kl&#601;X{u}'pi:d&#618;k]E{a}enciklopedinis
+0{encyclop(a)edist}[&#618;n,sa&#618;kl&#601;X{u}'pi:d&#618;st]E{n}I{1}enciklopedininkasI{2}L{ist.}enciklopedistas
+0{encyst}[en's&#618;st]E{v}L{biol.}už(si)daryti į cistą/sėklinę
+0{end}[end]S{&rArr;}E{n}I{1}galas, pabaiga;F{to come to an end}baigtis, pasibaigti;F{to make an end of smth}užbaigti ką;F{to put an end to smth}padaryti kam galą;F{the end of a sentence [the street]sakinio [gatvės] pabaiga;F{at the end of August}rugpjūčio pabaigoje;F{at the end of the garden}sodo gale;F{end to end}galas prie galol{(sudedant viena eile)};F{from end to end}nuo vieno galo ligi kito;F{business end}l{(ginklo, įrankio)}pavojingoji/veikiančioji dalis,l{(šautuvo)}vamzdžio žiotysI{2}liekana, gal(iuk)as;F{loose ends}neužbaigti darbai/reikalai;F{the unburnt ends of branches}nesudegę šakų galaiI{3}galas, mirtis;F{to meet one’s end}galą gautiI{4}tikslas;F{to this/that end}tuo tikslu;F{to gain one’s ends}pasiekti (savo) tikslą;F{any means to an end}bet kokios priemonės tikslui pasiektiI{5}pusė;F{to approach the subject from the wrong end}prieiti prie klausimo ne iš tos pusės;F{to change ends}L{sport.}keistis aikštės pusėmisI{6}dugnas, apačia;F{egg end}sferinis dugnas;F{stand the box on its end}statykite dėžę stačiąI{7}E{attr}galinis, paskutinis; galutinis;F{the end link}paskutinė grandis;F{the end carriage [house]paskutinis vagonas [namas]S{&loz;}X{at a loose end}be užsiėmimo, be (rimto) darbo;F{at the end of the day}viską apsvarsčius;F{in the end}pagaliau, galų gale;F{on end}ištisai, iš eilėsl{(apie dienas, valandasL{ir pan.})};F{it’s the end of the line/road}viskas baigta, galas;F{to go to the ends of the earth}eiti į pasaulio kraštą, eiti kur akys mato;F{laid end to end}kartu paėmus;F{no end}L{šnek.}X{a)}be galo, smarkiai;X{b)}daugybėl{(of – ko)};F{he thinks no end of himself}jis labai geros nuomonės apie save;F{to make (both/two) ends meet}S{&cong;}sudurti galą su galu, sudurti galus;F{to go off the deep end}L{šnek.}supykti; pasikarščiuoti;F{to get hold of the wrong end of the stick}blogai suprasti; nesuprastil{(padėties)};F{to keep/hold one’s end up}L{šnek.}nepalūžti, nenusileisti; nepasiduotil{(sunkumams, ligai)}; F{to get one’s end away}L{vulg.}pasidulkintil{(apie vyrą)};F{you’ll never hear the end of this}tam nebus galo, tai nesibaigsl{(kažin kol)};F{it’s not the end of the world}S{&cong;}tai dar ne pasaulio galas, dar ne viskas prarastaS{&rArr;}E{v}I{1}(už)baigti; nutraukti;F{he ended the programme with a folk song}jis baigė programą liaudies dainaI{2}baigtis;F{to end in a draw}baigtis lygiosiomisI{3}atsidurtil{(with;L{t. p.}X{end up})}S{o}1{end off/up}(už)baigti;F{they ended up by quarelling}jie galų gale susibarėS{&loz;}X{to end it all}nusižudyti
+0{endanger}[&#618;n'de&#618;nd&#658;&#601;]E{v}statyti į pavojų, kelti grėsmę
+0{endangered}[&#618;n'de&#618;nd&#658;&#601;d]E{a}esantis pavojuje; (iš)nykstantisl{(apie gyvūnus)}
+0{endear}[&#618;n'd&#618;&#601;]E{v}padaryti mylimą; tapti mylimam/brangiaml{(to)};F{what endears her to me is her simplicity}mane žavi jos paprastumas
+0{endearing}[&#618;n'd&#618;&#601;r&#618;&#331;]E{a}mielas, žavintis;F{endearing smile}žavi/viliojanti šypsena
+0{endearment}[&#618;n'd&#618;&#601;m&#601;nt]E{n}švelnumas, meilumas;F{terms of endearment}meilūs žodeliai
+0{endeavor}[&#618;n'dev&#601;]L{amer.}A{=R{endeavour}}E{n},E{v}
+0{endeavour}[&#618;n'dev&#601;]S{&rArr;}E{n}stengimasis, pastangos; siekimas;F{I’ll make every endeavour to come}aš būtinai pasistengsiu ateitiS{&rArr;}E{v}stengtis, siekti;F{to endeavour to win}stengtis laimėti;F{to endeavour at perfection}siekti tobulumo
+0{endemic}[en'dem&#618;k]S{&rArr;}E{a}endeminis, būdingasl{(tai vietai; apie ligą, nusikaltimąL{ir pan.})}S{&rArr;}E{n}endemijal{(vietinė liga)}
+0{endgame}['endge&#618;m]E{n}I{1}l{(kovos, karoL{ir pan.})}baigiamoji fazėI{2}L{šach.}endšpilis
+0{ending}['end&#618;&#331;]S{&rArr;}E{n}I{1}užbaigimas, pabaigaI{2}L{gram.}galūnėS{&rArr;}E{a}baigiamasis
+0{endive}['end&#618;v]E{n}L{bot.}garbanotoji trūkažolė/cikorija
+0{endless}['endl&#601;s]E{a}I{1}begalinis, nepabaigiamas, nesibaigiantis;F{endless arguments}begaliniai/amžini ginčai;F{endless belt}L{tech.}begalinis diržasI{2}nesuskaičiuojamas
+0{endlessly}['endl&#601;sl&#618;]E{adv}be galo;F{endlessly patient}be galo kantrus
+0{endlong}['endl&#596;&#331;]E{adv}L{psn.}I{1}išilgaiI{2}stačiomis, stačiai
+0{endmost}['endm&#601;ust]E{a}galiausias, paskutinis
+0{endocardia}[,end&#601;X{u}'ka:d&#618;&#601;]E{pl}A{L{žr.}R{endocardium}}
+0{endocarditis}[,end&#601;X{u}ka:'da&#618;t&#618;s]E{n}L{med.}endokarditas
+0{endocardium}[,end&#601;X{u}'ka:d&#618;&#601;m]E{n}(E{pl}-dia)L{anat.}endokardas, vidinis širdies dangalas
+0{endocrine}['end&#601;X{u}kra&#618;n]E{a}L{fiziol.}endokrininis, vidaus sekrecijos
+0{endocrinology}[,end&#601;X{u}kr&#618;'n&#596;l&#601;d&#658;&#618;]E{n}endokrinologija
+0{endogamy}[en'd&#596;g&#601;m&#618;]E{n}endogamija
+0{endorse}[&#618;n'd&#596;:s]E{v}I{1}patvirtinti; paremti, pritarti;F{I endorse all you say}aš patvirtinu visa, ką jūs sakoteI{2}pasirašytil{(dokumentą, čekį; ypač kitoje pusėje)};L{fin.}indosuotiI{3}l{(L{ppr.}E{pass})}(pa)žymėti pražangąl{(vairuotojo teisių pažymėjime)}
+0{endorsee}[,end&#596;:'si:]E{n}L{fin.}indosatas, žiratas
+0{endorsement}[&#618;n'd&#596;:sm&#601;nt]E{n}I{1}patvirtinimas; pritarimasI{2}L{aut.}pražangos pažymal{(vairuotojo teisių pažymėjime)}I{3}L{fin.}indosamentas, žiras
+0{endosperm}['end&#601;sp&#601;:m]E{n}L{bot.}endospermas
+0{endothermic}[end&#601;X{u}'&theta;&#601;:m&#618;k]E{a}L{spec.}endoterminis, sugeriantis šilumą
+0{endow}[&#618;n'dau]E{v}I{1}duoti, suteiktil{(privilegijasL{ir pan.})};l{(L{ppr.}E{pass})}apdovanotil{(gabumaisL{ir pan.}; with)}I{2}materialiai remti, šelpti, aukoti kapitaląl{(mokyklai, ligonineiL{ir pan.})}
+0{endowment}[&#618;n'daum&#601;nt]E{n}I{1}šelpimas, indėlio/fondo skyrimasl{(koledžuiL{ir pan.})}; pastovus įnašas; labdaros fondasI{2}auka, dovanaI{3}l{(L{ppr.}E{pl})}talentas, gabumai
+0{endpaper}['end,pe&#618;p&#601;]E{n}L{poligr.}priešlapisl{(tuščias lapas knygos pradžioje ir pabaigoje)}
+0{end-pressure}['end,pre&#643;&#601;]E{n}L{tech.}atraminis slėgis
+0{end-product}['end,pr&#596;d&#601;kt]E{n}galutinis produktas
+0{end-September}[endsep'temb&#601;]E{n}rugsėjo pabaiga, rugsėjo pabaigos
+0{endue}[&#618;n'dju:]E{v}L{knyg.}suteiktil{(savybesL{ir pan.}; with)}
+0{endurable}[&#618;n'dju&#601;r&#601;bl]E{a}pakenčiamas
+0{endurance}[&#618;n'dju&#601;r&#601;ns]E{n}ištvermingumas, ištvermė; patvara, patvarumasl{(L{t. p.}L{tech.})};F{beyond/past endurance}nepakenčiamas
+0{endure}[&#618;n'dju&#601;]E{v}I{1}iškęsti, pakęsti, ištverti, pakelti, išlaikyti;F{I can’t endure rudeness}aš negaliu pakęsti šiurkštumoI{2}išlikti, trukti;F{as long as life endures}per visą gyvenimą
+0{enduring}[&#618;n'dju&#601;r&#618;&#331;]E{a}I{1}ilgalaikis; ilgai išsilaikęs/išlikęsI{2}patvarus, tvirtas;F{enduring friendship}tvirta/ilga draugystė
+0{enduro}[&#618;n'dju&#601;r&#601;u]E{n}L{amer.}L{sport.}ištvermės lenktynės/bėgimas
+0{end-user}[end,ju:z&#601;]E{n}L{kom.},L{komp.}tiesioginis vartotojas
+0{end-view}['endvju:]E{n}vaizdas iš galo/šono
+0{endways, endwise}['endwe&#618;z, -wa&#618;z]E{adv}I{1}galul{(į žiūrintį)}, galu į priekį, iš galol{(L{t. p.}X{endways on})}I{2}galaisl{(sudedant viena eile)}
+0{ENE}L{sutr.}X{east-north-east}rytų-šiaurės rytų
+0{enema}['en&#618;m&#601;]E{n}L{med.}klizma
+0{enemy}['en&#601;m&#618;]S{&rArr;}E{n}I{1}priešas; priešininkas;F{the worst/bitterest enemy}pikčiausias priešas;F{to go over to the enemy}L{kar.}pereiti į priešo pusę;F{he’s an enemy to reform}jis reformų priešininkas;F{public enemy number one}pirmutinis/didžiausias visuomenės priešasI{2}L{juok.}laikas;F{how goes the enemy?}kiek laiko?;F{to kill the enemy}leisti/stumti laikąS{&rArr;}E{a}priešo, priešiškas;F{enemy troops}priešo kariuomenė;F{under enemy occupation}priešo užimtas
+0{energetic}[,en&#601;'d&#658;et&#618;k]E{a}energingas, veiklus, aktyvus;F{energetic particle}L{fiz.}didelės energijos dalelė
+0{energetically}[,en&#601;'d&#658;et&#618;kX{&#601;}ll&#618;]E{adv}energingai, aktyviai, veiksmingai
+0{energetics}[,en&#601;'d&#658;et&#618;ks]E{n}energetika
+0{energise}['en&#601;d&#658;a&#618;z]E{v}aktyvinti, suaktyvinti, stimuliuoti, skatinti, teikti energiją, tiekti energiją, prijungti įtampą
+0{energiser}['en&#601;d&#658;a&#618;z&#601;]E{n}antidepresantas, įkvėpėjas, maitinimo šaltinis
+0{energising}['en&#601;d&#658;a&#618;z&#618;&#331;]E{a}aktyvinantis, atgaivinantis, teikiantis energiją
+0{energize}['en&#601;d&#658;a&#618;z]E{v}I{1}sukelti/teikti energiją;F{to energize needlessly}be reikalo eikvoti energiją/jėgasI{2}L{el.}tiekti energiją
+0{energumen}[,en&#601;'gju:men]E{n}velnio apsėstasis; fanatikas
+0{energy}['en&#601;d&#658;&#618;]E{n}I{1}energijal{(L{t. p.}L{fiz.})};F{electrical [nuclear] energy}elektros [branduolinė] energijaI{2}energingumas, jėga;F{he devotes all his energies to work}jis atiduoda visas jėgas darbui
+0{energy-efficient}[,en&#601;d&#658;&#618;&#618;'f&#618;&#643;X{&#601;}nt]E{a}energiją taupantis
+0{energy-saving}['en&#601;d&#658;&#618;'se&#618;v&#618;&#331;]E{a}energijos taupymol{(apie priemonesL{ir pan.})}
+0{enervate}['en&#601;ve&#618;t]E{v}(nu)silpninti, (iš)varginti
+0{enervated}['en&#601;ve&#618;t&#618;d]E{a}nusilpęs, suglebęs, nualintas
+0{enervating}['en&#601;ve&#618;t&#618;&#331;]E{a}silpninantis, alinantis;F{enervating day}alpi/tvanki diena
+0{enervation}[,en&#601;'ve&#618;&#643;n]E{n}silpnumas; (nu)varginimas
+0{enfant terrible}[,&#596;nf&#596;nte'ri:bl]L{pr.}I{1}žmogus, statantis kitus į keblią padėtįI{2}nenuoramal{(apie vaiką)}
+0{enfeeble}[&#618;n'fi:bl]E{v}(su)silpninti;F{enfeebled by illness}ligos nualintas, nusilpęs po ligos
+0{enfetter}[&#618;n'fet&#601;]E{v}L{knyg.}I{1}sukaustyti, supančiotiI{2}pavergtil{(to)}
+0{enfold}[&#618;n'f&#601;uld]E{v}I{1}apkabinti, apglėbtiI{2}supti; ap(si)supti; apsisiaustil{(in, with)};F{to enfold the shivering child in a blanket}susupti drebantį vaiką į antklodę
+0{enforce}[&#618;n'f&#596;:s]E{v}I{1}versti, spausti; primesti;F{to enforce obedience}versti paklusti;F{he enforced silence on the class}jis privertė klasę nutiltiI{2}(pri)versti vykdytil{(įstatymą)}
+0{enforceable}[in'f&#596;:s&#601;bl]E{a}įvykdomasl{(apie įstatymą, planą)}
+0{enforcement}[&#618;n'f&#596;:sm&#601;nt]E{n}spaudimas, vertimas, reikalavimasl{(ką vykdyti)}; (priverstinis) vykdymas
+0{enframe}[&#618;n'fre&#618;m]E{v}įrėminti
+0{enfranchise}[&#618;n'fr&aelig;nt&#643;a&#618;z]E{v}I{1}duoti/suteikti rinkimų teisęI{2}duotil{(miestui)}teisę siųsti atstovus į parlamentąI{3}L{ist.}išlaisvinti, paleistil{(iš vergijosL{ir pan.})}
+0{enfranchisement}[&#618;n'fr&aelig;nt&#643;&#618;zm&#601;nt]E{n}I{1}L{polit.}rinkimų teisės suteikimasI{2}L{ist.}paleidimas, išlaisvinimas
+0{Eng.}L{sutr.}X{England}Anglija;F{English}Anglijos, anglų
+0{eng.}L{sutr.}X{engineer}inžinierius;F{engineering}technika
+0{engage}[&#618;n'ge&#618;d&#658;]E{v}I{1}patrauktil{(dėmesį)}; sudominti;F{to engage smb in conversation}įtraukti ką į pokalbįI{2}užsiimtil{(in, on – kuo)}I{3}įdarbinti, (pa)samdyti; angažuoti;F{to engage a guide}pasamdyti vadovąI{4}iš(si)nuomoti, už(si)sakyti;F{to engage rooms in a hotel}užsakyti kambarius viešbutyjeI{5}įsipareigoti; laiduoti, garantuotil{(for)};F{to engage to do smth}pasižadėti ką padarytiI{6}l{(L{ppr.}E{pass})}susižieduoti, susižadėtil{(to)}I{7}L{tech.}(su)jungti, sukabinti; sukibtil{(with)};F{to engage first gear}L{aut.}įjungti pirmąją pavarąI{8}L{kar.}įvestil{(kariuomenę)}į mūšį; atidengti ugnį;F{to be engaged in hostilities}būti įtrauktam į karo veiksmus
+0{engagé}[,&#596;&#331;g&aelig;'&#658;e&#618;]L{pr.}E{a}užimantis tam tikrą visuomeninę politinę poziciją; įsipareigojęs; idėjiškas
+0{engaged}[&#618;n'ge&#618;d&#658;d]E{a}I{1}užimtasl{(apie vietą, telefoną)};F{engaged signal/tone}l{(telefono)}signalas „užimta“I{2}užsiėmęs; susidomėjęs;F{to be otherwise engaged}būti jau užsiangažavusiaml{(kitur)}I{3}susižiedavęs;F{engaged couple}sužieduotiniai, sužadėtiniai
+0{engagement}[&#618;n'ge&#618;d&#658;m&#601;nt]E{n}I{1}įsipareigojimas; pasižadėjimas; susitarimas I{2}angažementasI{3}susižadėjimas;F{engagement ring}sužieduotuvių žiedasI{4}L{kar.}mūšis, kovaI{5}L{tech.}sukibimas; su(si)kabinimas
+0{engaging}[&#618;n'ge&#618;d&#658;&#618;&#331;]E{a}patrauklus, žavus
+0{engarland}[&#618;n'ga:l&#601;nd]E{v}puošti girliandomis/vainikais
+0{engender}[&#618;n'd&#658;end&#601;]E{v}sukelti, (pa)gimdyti, būti priežastimi
+0{engine}['end&#658;&#618;n]E{n}I{1}variklisl{(L{t. p.}L{prk.})}, motoras; mašina;F{engine oil}mašininė alyvaI{2}garvežys, lokomotyvas
+0{engine-crew}['end&#658;&#618;nkru:]E{n}lokomotyvo brigada
+0{engine-driver}['end&#658;&#618;n,dra&#618;v&#601;]E{n}L{glžk.}mašinistas
+0{engineer}[,end&#658;&#618;'n&#618;&#601;]S{&rArr;}E{n}I{1}inžinierius;F{civil engineer}inžinierius statybininkas;F{designing engineer}inžinierius konstruktorius I{2}technikas, mechanikas;F{chief engineer}L{jūr.}vyriausiasis mechanikasI{3}L{amer.}mašinistasI{4}L{kar.}pionierius;F{Royal Engineers,}L{amer.}X{Corps of Engineers}inžinerijosl{(pionierių)}daliniaiS{&rArr;}E{v}I{1}konstruoti, projektuotiI{2}dirbti inžinieriumi/technikuI{3}l{(gudriai, slaptai)}rengti, organizuoti,X{he engineered it all}jis visa tai surengė/padarė
+0{engineering}[,end&#658;&#618;'n&#618;&#601;r&#618;&#331;]S{&rArr;}E{n}I{1}inžinieriaus profesija;F{engineering degree}inžinieriaus diplomasI{2}inžinerija; technika;F{electrical engineering}elektrotechnika;F{radio engineering}radiotechnika;F{engineering data}techniniai duomenysI{3}l{(mašinų)}gamyba;F{an engineering works}mašinų gamykla;F{civil engineering}kelių, tiltų, kanalų, dokųL{ir pan.}statybaS{&rArr;}E{a}taikomasisl{(apie mokslą)}
+0{engine-house}['end&#658;&#618;nhaus]E{n}garvežių depas
+0{engine-room}['end&#658;&#618;nrum]E{n}mašinų skyriusl{(ypač laivo)}
+0{enginery}['end&#658;&#618;n&#601;r&#618;]E{n}L{kuop.}mašinos, technika
+0{engird(le)}[&#618;n'g&#601;:d(l)]E{v}apjuosti
+0{England}['&#618;ngl&#601;nd]E{n}Anglijal{(šalis)}
+0{English}['&#618;&#331;gl&#618;&#643;]S{&rArr;}E{a}angliškas, anglų; Anglijos, Didžiosios Britanijos;F{English teacher}anglų kalbos mokytojasS{&rArr;}E{n}I{1}anglų kalba;F{black English}L{amer.}juodaodžių anglų kalba;F{Basic English}suprastinta anglų kalbal{(850 žodžių)};F{what’s the English for vokas?}kaip angliškai vokas?I{2}X{(theEnglish)}L{kuop.}anglaiS{&loz;}X{in plain English}aiškiai, tiesiaiS{&rArr;}E{v}versti į anglų kalbą
+0{English-based}['&#618;&#331;gl&#618;&#643;be&#618;st]E{a}anglų kalba grįstas
+0{English Channel}['&#618;&#331;gl&#618;&#643; 't&#643;&aelig;nl]Lamanšas
+0{Englishism}['&#618;&#331;gl&#618;&#643;&#618;zm]E{n}I{1}anglicizmasI{2}anglomanija
+0{Englishman}['&#618;&#331;gl&#618;&#643;m&#601;n]E{n}(E{pl}-men[-m&#601;n])X{(tik v.)}anglas
+0{Englishness}['&#618;&#331;gl&#618;&#643;n&#618;s]E{n}tipiškai angliškas būdas/charakteris
+0{Englishry}['&#618;&#331;gl&#618;&#643;r&#618;]E{n}I{1}L{ret.}Anglijos pilietybė; angliška kilmėI{2}L{ist.}anglail{(L{džn.}gyvenantys Airijoje)}
+0{English-speaking}['&#618;&#331;gl&#618;&#643;'spi:k&#618;&#331;]E{a}angliškai kalbantis
+0{english-style}['&#618;&#331;gl&#618;&#643;sta&#618;l]E{a}angliško stiliaus
+0{Englishwoman}['&#618;&#331;gl&#618;&#643;,wum&#601;n]E{n}(E{pl}-women[-,w&#618;m&#618;n]) anglė
+0{Eng Lit}L{sutr.}X{English Literature}anglų literatūra
+0{engorge}[&#618;n'g&#596;:d&#658;]E{v}I{1}daug ir godžiai valgyti; (pra)rytiI{2}E{pass}L{med.}pritvinkti kraujo
+0{engraft}[&#618;n'gra:ft]E{v}I{1}skiepytil{(augalus; into, (up)}on)I{2}L{prk.}įskiepyti, įdiegtil{(in)}
+0{engrail}[&#618;n'gre&#618;l]E{v}l{(L{ppr.}E{pass}; ypač.L{her.})}išdantyti, išpjaustyti dantimis
+0{engrain}[&#618;n'gre&#618;n]E{v}I{1}(nu)dažytil{(imituojant marmurą, medįL{ir pan.})}I{2}(į)diegti, (į)skiepyti
+0{engrave}[&#618;n'gre&#618;v]E{v}I{1}graviruoti, raižytiI{2}daryti graviūros klišęI{3}l{(L{ppr.}E{pass})}įsmigti, įsirėžtil{(atmintyje; on, in)}
+0{engraver}[&#618;'gre&#618;v&#601;]E{n}graveris; raižytojas
+0{engraving}[&#618;n'gre&#618;v&#618;&#331;]E{n}I{1}graviravimas; raižybaI{2}graviūra; estampas
+0{engross}[&#618;n'gr&#601;us]E{v}I{1}labai sudominti;E{refl},E{pass}būti įnikusiam/susidomėjusiam/įsigilinusiaml{(in, with)}I{2}(per)rašytil{(ypač dokumentą)}stambiomis raidėmisI{3}l{(ypačL{ist.})}supirkti, koncentruotil{(prekes)}; monopolizuoti
+0{engrossing}[&#618;n'gr&#601;us&#618;&#331;]E{a}įdomus, patrauklusl{(apie knygąL{ir pan.})}
+0{engulf}[&#618;n'g&#652;lf]E{v}I{1}prarytil{(L{ppr.}L{prk.})};F{the stormy sea engulfed the small boat}audringa jūra prarijo laivelįI{2}apimtil{(apie jausmusL{ir pan.})};F{engulf ed in flames}apimtas ugnies, liepsnose
+0{enhance}[&#618;n'ha:ns]E{v}(pa)didinti, (su)stiprinti, (pa)keltil{(vertę, prestižąL{ir pan.})};F{the dim light only enhances her beauty}blausi šviesa tik pabrėžia jos grožį
+0{enhancer}[&#618;n'h‚:ns&#601;]E{n}sustiprinantis/pagerinantis veiksnys
+0{enharmonic}[,enha:'m&#596;n&#618;k]E{a}L{muz.}enharmoninis
+0{enigma}[&#618;'n&#618;gm&#601;]E{n}mįslėl{(L{t. p.}apie žmogų)};F{it remained an enigma}tai ir liko mįslė
+0{enigmatic(al)}[,en&#618;g'm&aelig;t&#618;k(l)]E{a}mįslingas, paslaptingas
+0{enigmatically}[,en&#618;g'm&aelig;t&#618;kX{&#601;}ll&#618;]E{adv}mįslingai
+0{enjambement}[&#618;n'd&#658;&aelig;mm&#601;nt]E{n}L{lit.}anžambemanas
+0{enjoin}[&#618;n'd&#658;&#596;&#618;n]E{v}I{1}įsakyti, reikalauti;F{he enjoined obedience on the soldiers}jis reikalavo paklusnumo iš kareiviųI{2}L{amer.}L{teis.}(už)draustil{(from)}
+0{enjoy}[&#618;n'd&#658;&#596;&#618;]E{v}I{1}gėrėtis, patirti malonumą;F{to enjoy life}mėgautis gyvenimu;F{how did you enjoy yourself?}kaip praleidote laiką?;F{enjoy!}L{amer.},X{enjoy yourselves!}linksminkitės!I{2}patikti;F{he enjoys going there}jam patinka ten vaikščiotiI{3}turėtil{(teisę, pajamų, pasitikėjimąL{ir pan.})};F{to enjoy good health}turėti gerą sveikatą
+0{enjoyable}[&#618;n'd&#658;&#596;&#618;&#601;bl]E{a}malonus
+0{enjoyment}[&#618;n'd&#658;&#596;&#618;m&#601;nt]E{n}I{1}malonumas, pomėgis, gėrėjimasis, pasigėrėjimas;F{he found great enjoyment in his work}darbas jam teikė didelį pasitenkinimąI{2}turėjimasl{(sveikatosL{ir pan.})}; naudojimasisl{(teisėmisL{ir pan.})}
+0{enkindle}[&#618;n'k&#618;ndl]E{v}L{poet.}kurstytil{(aistras)}
+0{enlace}[&#618;n'le&#618;s]E{v}apvynioti, apraizgyti; apsupti
+0{enlarge}[&#618;n'la:d&#658;]E{v}I{1}(pa)didinti; (pa)didėti; plėstis, iš(si)plėsti;F{to enlarge a photo}padidinti nuotrauką;F{to enlarge one’s knowledge}papildyti savo žiniasI{2}plačiau kalbėti/dėstytil{(on, upon)}
+0{enlarged}[&#618;n'la:d&#658;d]E{a}padidintas, padidėjęs; išplėstas;F{enlarged heart}padidėjusi širdis;F{enlarged meeting}išplėstinis posėdis
+0{enlargement}[&#618;n'la:d&#658;m&#601;nt]E{n}I{1}didinimas; didėjimas; iš(si)plėtimas;F{enlargement of the heart}širdies išsiplėtimas I{2}L{fot.}didinimas; padidinta nuotraukaI{3}pristatymas, priestatas
+0{enlarger}[&#618;n'la:d&#658;&#601;]E{n}L{fot.}didintuvas
+0{enlighten}[&#618;n'la&#618;tn]E{v}(ap)šviesti, informuoti;F{can you enlighten me on/about these rumours?}ar galite painformuoti mane apie šiuos gandus?
+0{enlightened}[&#618;n'la&#618;tnd]E{a}apsišvietęs, šviesus;F{enlightened person}šviesuolis, apsišvietęs žmogus
+0{enlightenment}[&#618;n'la&#618;tnm&#601;nt]E{n}I{1}švietimas; apsišvietimasI{2}X{Enlightenment}L{ist.}Šviečiamasis amžiusl{(L{t. p.}X{the Age of Enlightenment})}
+0{enlist}[&#618;n'l&#618;st]E{v}I{1}imti/verbuoti/stoti į karo tarnybąI{2}pritrauktil{(darbui)}; gauti, turėtil{(paramąL{ir pan.})}I{3}patrauktil{(savo pusėn, į savo organizacijąL{ir pan.}; in, into)}
+0{enlisted}[&#618;n'l&#618;st&#618;d]E{a}:L{amer.}X{enlisted grade}puskarininkiai;F{enlisted men/personnel}puskarininkiai ir eiliniai
+0{enliven}[&#618;n'la&#618;vn]E{v}pagyvinti, išjudinti;F{he much enlivened the party}jis labai pagyvino draugiją
+0{en masse}[,&#596;n'm&aelig;s]L{pr.}ištisai, masiškai; kartu
+0{enmesh}[&#618;n'me&#643;]E{v}l{(L{ppr.}E{pass})}į(si)painioti, susipainiotil{(in)}
+0{enmity}['enm&#601;t&#618;]E{n}priešiškumas; nesantaika;F{to be at enmity}l{(with)}būti nesantaikojel{(su)}
+0{ennead}['en&#618;&aelig;d]E{n}devynetas
+0{ennoble}[&#618;'n&#601;ubl]E{v}I{1}kilnintiI{2}suteikti pero titulą
+0{ennui}[&#596;n'wi:]L{pr.}E{n}nuobodulys, nuobodumas, nuobodis
+0{enormity}[&#618;'n&#596;:m&#601;t&#618;]E{n}I{1}l{(problemosL{ir pan.})}didumas, rimtumasI{2}l{(nusikaltimo)}baisingumas, siaubingumasI{2}l{(L{ppr.}E{pl})}baisus nusikaltimas
+0{enormous}[&#618;'n&#596;:m&#601;s]E{a}I{1}didžiulis, milžiniškasI{2}siaubingas, baisingas
+0{enormously}[&#618;'n&#596;:m&#601;sl&#618;]E{adv}nepaprastai, ypač
+0{enormousness}[&#618;'n&#596;:m&#601;sn&#618;s]E{n}didumas, didybė, neaprėpiamumas
+0{enough}[&#618;'n&#652;f]S{&rArr;}E{a}pakankamas;F{we have enough seat for everyone}mes turime pakankamai vietų visiems;F{that’s enough for me}man užtenka;F{enough work to last the whole day}darbo užteks visai dienaiS{&rArr;}E{n}pakankamas kiekis;F{to have enough and to spare}turėti daugiau negu reikia;F{I’ve had enough of him}jis man labai įgriso;F{enough (of that)!}pakaks!, užtenka!, gana!S{&rArr;}E{adv}pakankamai, užtektinai, ganėtinai; gana;F{hot enough}pakankamai/užtektinai/gana karštas;F{he worked enough}jis užtektinai dirbo;F{you are old enough to know that}tu jau suaugęs ir turėtum tai žinotiS{&loz;}X{fair enough}(gana) teisinga; gerai;F{strangely/oddly enough...}kad ir keista...
+0{enounce}[&#618;'nauns]E{v}I{1}pareikšti, paskelbtiI{2}(iš)tarti
+0{en passant}[,&#596;n'p&aelig;sa:nt, ,&#596;n'p&aelig;s&#596;n]L{pr.}tarp kitko
+0{enplane}[&#618;n'ple&#618;n]E{v}l{(ypačL{amer.})}A{=R{emplane}}
+0{enquire}[&#618;n'kwa&#618;&#601;]E{v}A{=R{inquire}}
+0{enquiry}[&#618;n'kwa&#618;&#601;r&#618;]E{n}A{=R{inquiry}}
+0{enrage}[&#618;n're&#618;d&#658;]E{v}(į)siutinti, (į)niršti, (į)nirtinti
+0{enraged}[&#618;n're&#618;d&#658;d]E{a}įsiutęs, įniršęs, įtūžęs
+0{enrapture}[&#618;n'r&aelig;pt&#643;&#601;]E{v}su(si)žavėti, nepaprastai džiuginti
+0{enravish}[&#618;n'r&aelig;v&#618;&#643;]E{v}A{=R{enrapture}}
+0{enrich}[&#618;n'r&#618;t&#643;]E{v}I{1}(pra)turtinti;F{to enrich oneself at smb’s expense}praturtėti iš kieno lėšųI{2}pagerinti; tręšti;F{to enrich one’s diet by adding vitamins}pagerinti maistą vitaminais
+0{enrichment}[&#618;n'r&#618;t&#643;m&#601;nt]E{n}I{1}praturtinimas; praturtėjimasI{2}pagerinimasI{3}dekoratyvusis elementas
+0{enrobe}[&#618;n'r&#601;ub]E{v}aprengti
+0{enrol}[&#618;n'r&#601;ul]E{v}X{(-ll-)}I{1}įtraukti į sąrašą, į(si)rašyti, už(si)registruoti;F{I’ve enrolled in a ballet class}aš užsirašiau į baleto būrelįI{2}imti/verbuoti/stoti į kariuomenę
+0{enrolment}[&#618;n'r&#601;ulm&#601;nt]E{n}I{1}įtraukimas į sąrašus, už(si)rašymas, registracija;F{university enrolments had risen by 50 per cent}priėmimas į universitetą padidėjo 50%I{2}verbavimas/ėmimas į kariuomenę
+0{en route}[,&#596;n'ru:t]L{pr.}kelyje, pakeliui
+0{ensanguined}[&#618;n's&aelig;&#331;gw&#618;nd]E{a}L{poet.}kraujuotas, sukruvintas, kruvinas
+0{ensconce}[&#618;n'sk&#596;ns]E{v}E{refl},E{pass}patogiai/jaukiai įsitaisyti
+0{ensemble}[&#596;n's&#596;mbl]L{pr.}E{n}I{1}bendras/visumos įspūdisI{2}L{muz.},L{teatr.},L{archit.}ansamblisI{3}l{(drabužių)}ansamblis
+0{enshrine}[&#618;n'&#643;ra&#618;n]E{v}I{1}saugoti, puoselėtil{(atminimąL{ir pan.})};F{to enshrine the nation’s ideals}puoselėti tautos idealusI{2}L{bažn.}įdėti į relikvijų skrynią
+0{enshroud}[&#618;n'&#643;raud]E{v}L{knyg.}(ap)dengti, (ap)gaubti
+0{ensign}['ensa&#618;n],L{jūr.}['ensn]E{n}I{1}l{(laivo)}vėliava;F{ensign ship}flagmano laivas;F{red ensign}D. Britanijos prekybos laivyno vėliava;F{white ensign}D. Britanijos karo laivyno vėliavaI{2}L{amer.}ženklas, ženklelis, emblema, kokardaI{3}L{amer.}L{jūr.}jaunesnysis leitenantas
+0{ensilage}['ens&#618;l&#618;d&#658;]L{ž. ū.}S{&rArr;}E{n}I{1}silosavimasI{2}silosasS{&rArr;}E{v}silosuoti
+0{ensile}[en'sa&#618;l]E{v}L{ž. ū.}silosuoti
+0{enslave}[&#618;n'sle&#618;v]E{v}pavergti; paversti/(pa)daryti vergu;F{to be enslaved by one’s passions}būti savo aistrų vergu
+0{enslavement}[&#618;n'sle&#618;vment]E{n}pavergimas
+0{enslaver}[&#618;n'sle&#618;v&#601;]E{n}pavergėjas
+0{ensnare}[&#618;n'sn&#604;&#601;]E{v}I{1}pagauti spąstaisI{2}L{prk.}įvilioti į spąstus/pinkles
+0{ensue}[&#618;n'sju:]E{v}eiti paskui/vėliau, būti pasekme, įvyktil{(tuoj po ko)};F{silence ensued}paskui prasidėjo tyla
+0{ensuing}[&#618;n'sju:&#618;&#331;]E{a}kitas, po to einantis/vykęs;F{ensuing consequences}išplaukiantys padariniai
+0{ensure}[&#618;n'&#643;u&#601;]E{v}I{1}laiduoti, garantuoti;F{to ensure independence}garantuoti nepriklausomybę, rūpintis nepriklausomybeI{2}suteikti, duotil{(to, for)}
+0{-ent}[-X{&#601;}nt]E{suff}-entas, -ininkasl{L{ir kt.}asmenį/veikėją žyminčios priesagos;L{plg.}}A{R{-ant}};F{opponent}oponentas, priešininkas
+0{ENT}L{sutr.}X{ear, nose, and throat}ausis, nosis ir gerklė
+0{entablature}[en't&aelig;bl&#601;t&#643;&#601;]E{n}L{archit.}antablementas, perdanga
+0{entablement}[&#618;n'te&#618;blm&#601;nt]E{n}A{=R{entablature}}
+0{entail}[&#618;n'te&#618;l]S{&rArr;}E{n}L{teis.}I{1}žemės paveldėjimo aktasI{2}L{ist.}majoratasS{&rArr;}E{v}I{1}sukelti, būti priežastimi;F{that will entail great expense}tai pareikalaus didelių išlaidų;F{that will entail an early start}tai reiškia, kad teks išvažiuoti ankstiI{2}L{teis.}nustatytil{(turto)}paveldėjimo tvarkąl{(paliekant jį šeimos nariui)}
+0{entangle}[&#618;n't&aelig;&#331;gl]E{v}įpainioti, įvelti;E{pass},E{refl}įsinarplioti, įsivelti, įsipainioti;F{to get/become entangled}l{(with)}susinarplioti, susipainioti, susipinti;F{to get entangled in debt}įsipainioti skolose
+0{entanglement}[&#618;n't&aelig;&#331;glm&#601;nt]E{n}I{1}įsipainiojimas; įsivėlimasI{2}kliuvinys, keblumasI{3}l{(L{džn.}E{pl})}L{kar.}l{(vielų)}užtvara
+0{entasis}['ent&#601;s&#618;s]E{n}(E{pl}-ses[-si:z])L{archit.}entazis, kolonos liemens pastorėjimas/išgaubtumas
+0{entente}[&#596;n't&#596;nt]L{pr.}E{n}I{1}L{dipl.}valstybių susitarimasI{2}X{(the Entente)}L{ist.}Antantė
+0{enter}['ent&#601;]E{v}I{1}įeiti; įžengti; įplaukti;F{enter Hamlet}įeina Hamletasl{(remarka)}I{2}įstoti, tapti nariuI{3}imtis, įsitraukti;F{to enter politics}įsitraukti į politinę veikląI{4}dalyvautil{(varžyboseL{ir pan.})}; įregistruoti, už(si)rašytil{(dalyvauti kur nors)};F{to enter oneself for an examination}pateikti paraišką egzaminui laikytiI{5}įrašyti, užrašytil{(L{t. p.}X{enter up})}; įvestil{(informaciją)}į kompiuterį;F{to enter a sum in a ledger}L{buh.}įrašyti sumą į didžiąją knygą;F{to enter a word in a dictionary}įtraukti žodį į žodynąI{6}pradėtil{(into, on, upon)};F{to enter into negotiations}pradėti derybas;F{to enter into particulars/details}leistis į smulkmenas;F{I entered my second year at university}aš pradėjau antruosius metus universitete;F{the new teacher entered upon his duties in the autumn}naujasis mokytojas pradėjo eiti pareigas rudenįI{7}būti sudedamąja dalimi, įeitil{(į kieno planusL{ir pan.}; into)}I{8}paveldėtil{(on, upon)};F{to enter upon one’s inheritance}pradėti valdyti palikimąI{9}deklaruotil{(prekes)}I{10}L{teis.}pradėti procesą;F{to enter a suit against smb}iškelti bylą kam; F{to enter a complaint}pateikti skundą;F{to enter a protest}pareikšti protestą
+0{enteric}[en'ter&#618;k]S{&rArr;}E{a}L{anat.}žarninis, vidurių;F{enteric fevel}L{med.}vidurių šiltinėS{&rArr;}E{n}L{med.}vidurių šiltinė
+0{enteritis}[,ent&#601;'ra&#618;t&#618;s]E{n}L{med.}plonosios žarnos uždegimas
+0{enterovirus}[,ent&#601;r&#601;X{u}'va&#618;&#601;r&#601;s]E{n}L{med.}enterovirusas
+0{enterprise}['ent&#601;pra&#618;z]E{n}I{1}įmonė, verslamonė; verslas;F{free [private] enterprise}laisvoji [privati] verslininkystė;F{state-owned/governmental [business] enterprise}valstybinė [komercinė] įmonė;F{industrial enterprise}pramonės įmonė, verslovėI{2}verslumas; sumanumasI{3}iniciatyva, sumanymas
+0{enterpriser}['ent&#601;pra&#618;z&#601;]E{n}įmonininkas, verslininkas
+0{enterprising}['ent&#601;pra&#618;z&#618;&#331;]E{a}verslus; sumanus; iniciatyvus
+0{entertain}[,ent&#601;'te&#618;n]E{v}I{1}vaišinti;F{to entertain smb to/at dinner}vaišinti ką pietumis;F{they entertained us very well}jie mus labai gražiai priėmėI{2}smaginti, linksminti, užimtil{(with)}I{3}atsižvelgti; laikytisl{(nuomonės)}; puoselėtil{(mintį)};F{to entertain a suggestion}reaguoti į pasiūlymą;F{to entertain a proposal}atsižvelgti į pasiūlymą, svarstyti pasiūlymą;F{to entertain a request}patenkinti prašymą;F{to entertain doubts about smth}suabejoti kuo
+0{entertainer}[,ent&#601;'te&#618;n&#601;]E{n}l{(publikos)}linksmintojas, komikas, konferansjė, pramogininkasl{(profesija)}
+0{entertaining}[,ent&#601;'te&#618;n&#618;&#331;]E{a}linksminantis, linksmas, įdomus; pramoginis
+0{entertainment}[,ent&#601;'te&#618;nm&#601;nt]E{n}I{1}l{(svečių)}priėmimas, vaišinimas; pobūvis;F{entertainment allowance}pinigai reprezentacijaiI{2}(pasi)linksminimas, pramoga; divertismentas;F{entertainment unit}artistų brigada
+0{enthral}[&#618;n'&theta;r&#596;:l]E{v}X{(-ll-)}l{(L{ppr.}E{pass})}pavergti, sužavėtil{(apie knygą, pasakojimąL{ir pan.})}
+0{enthralment}[&#618;n'&theta;r&#596;:lm&#601;nt]E{n}pakerėjimas, sužavėjimas
+0{enthrone}[&#618;n'&theta;r&#601;un]E{v}I{1}pasodinti į sostąI{2}iškelti, išaukštintil{(idėjąL{ir pan.})};F{enthroned in the hearts}užvaldęs širdis
+0{enthronement}[&#618;n'&theta;r&#601;unm&#601;nt]E{n}I{1}pasodinimas į sostąI{2}L{bažn.}intronizacija
+0{enthuse}[&#618;n'&theta;ju:z]E{v}I{1}entuziastingai/susižavėjus kalbėtil{(about, over)}I{2}sužadinti entuziazmą, uždegti, pradžiuginti, sudominti
+0{enthusiasm}[&#618;n'&theta;ju:z&#618;&aelig;zm]E{n}entuziazmas; pakilimas, užsidegimas; didelis susidomėjimas/susižavėjimasl{(for, about)};F{to arouse smb to enthusiasm}sukelti kieno entuziazmą
+0{enthusiast}[&#618;n'&theta;ju:z&#618;&aelig;st]E{n}entuziastas; užsidegėlis
+0{enthusiastic}[&#618;n,&theta;ju:z&#618;'&aelig;st&#618;k]E{a}pilnas entuziazmo/energijos, entuziastingas; entuziastiškas;F{I have become enthusiastic about fishing}aš labai pamėgau žvejybą
+0{enthusiastically}[&#618;n,&theta;ju:z&#618;'&aelig;st&#618;kX{&#601;}l&#618;]E{adv}entuziastingai, su užsidegimu
+0{enthymeme}['enf&#618;mi:m]E{n}L{log.}entimema, sutrumpintas silogizmas
+0{entice}[&#618;n'ta&#618;s]E{v}(su)gundyti, (su)vilioti, priviliotiS{o}1{entice away}patraukti, nuvilioti;F{she enticed my cook away}ji paviliojo mano virėją
+0{enticement}[&#618;n'ta&#618;sm&#601;nt]E{n}I{1}gundymas, viliojimasI{2}pagunda, vilionė
+0{enticing}[&#618;n'ta&#618;s&#618;&#331;]E{a}gundantis, viliojantis, magus
+0{entire}[&#618;n'ta&#618;&#601;]S{&rArr;}E{a}I{1}visas, ištisas; visiškas;F{the entire country [day]visa šalis [diena];F{he has our entire confidence}jis turi mūsų visišką pasitikėjimąI{2}nekastruotasl{(apie gyvulį)}S{&rArr;}E{n}I{1}L{ret.}visumaI{2}L{ž. ū.}nekastruotas gyvulys
+0{entirely}[&#618;n'ta&#618;&#601;l&#618;]E{adv}I{1}vien tik, tiktai; išimtinai;F{it’s entirely my fault}tai tiktai mano klaida I{2}visiškai, visai;F{he is entirely convinced}jis visiškai įsitikinęs;F{he is entirely ruined}jis visai nusigyveno
+0{entirety}[&#618;n'ta&#618;&#601;t&#618;]E{n}I{1}visuma, visybė; bendra suma;F{in its entirety}visa apimtimi, pilnutinaiI{2}L{teis.}bendras nepadalinto turto valdymas
+0{entitle}[&#618;n'ta&#618;tl]E{v}l{(L{džn.}E{pass})}I{1}duoti teisę;F{to be entitled to do smth}turėti teisę daryti ką;F{to be entitled to a leave}turėti teisę gauti atostogųI{2}(pa)vadinti, duoti pavadinimąI{3}L{psn.}suteikti titulą/vardą
+0{entitlement}[&#618;n'ta&#618;tlm&#601;nt]E{n}I{1}teisėl{(pašalpaiL{ir pan.}gauti; to)}I{2}pavadinimas
+0{entity}['ent&#601;t&#618;]E{n}I{1}būtis, objektyvioji realybė; esybėI{2}l{(valstybėsL{ir pan.})}vientisumas; organizmas;F{international entity}L{teis.}tarptautinių santykių subjektas
+0{entomb}[&#618;n'tu:m]E{v}I{1}palaidotiI{2}būti kapais
+0{entombment}[&#618;n'tu:mm&#601;nt]E{n}palaidojimas
+0{entomological}[,ent&#601;m&#601;'l&#596;d&#658;&#618;kl]E{a}entomologinis
+0{entomologist}[,ent&#601;'m&#596;l&#601;d&#658;&#618;st]E{n}entomologas
+0{entomologize}[,ent&#601;'m&#596;l&#601;d&#658;a&#618;z]E{v}I{1}studijuoti entomologijąI{2}rinkti ir tirti vabzdžius
+0{entomology}[,ent&#601;'m&#596;l&#601;d&#658;&#618;]E{n}entomologija, vabzdžių mokslas
+0{entomophagus}[,ent&#601;'m&#596;f&#601;g&#601;s]E{a}L{zool.}vabzdžiaėdis
+0{entourage}[,&#596;ntu'ra:&#658;]L{pr.}E{n}I{1}palyda, lydintieji asmenysI{2}aplinka
+0{entr’acte}['&#596;ntr&aelig;kt]L{pr.}E{n}L{teatr.}pertrauka, antraktas
+0{entrails}['entre&#618;lz]E{n}E{pl}I{1}l{(gyvulių, žmonių)}viduriai, žarnosI{2}l{(žemės)}gelmės
+0{entrain^{1}}[&#618;n'tre&#618;n]E{v}sėsti/sodinti/krauti į traukinį
+0{entrain^{2}}E{v}L{ret.}I{1}neštil{(su srove)}I{2}tempti, trauktil{(su savimi)}
+0{entrance^{1}}['entr&#601;ns]E{n}I{1}įėjimas, įvažiavimasl{(vieta)}; įplaukimas;F{back [front] entrance}užpakalinės [paradinės] durysI{2}įėjimas, įžengimas, įvažiavimasl{(veiksmas)};F{„Entrance free“}„įėjimas nemokamas“I{3}įstojimas;F{entrance fee/money}stojamasis mokestisX{entrance examinations}stojamieji egzaminai;F{to gain entrance}l{(to)}būti priimtaml{(į klubą, universitetąL{ir pan.})}I{4}L{teatr.}l{(artisto)}įeiga, įėjimasl{(į sceną)}
+0{entrance^{2}}[&#618;n'tra:ns]E{v}I{1}sukelti ekstazęI{2}sukelti džiaugsmą/nuostabą/baimę; pakerėti, užkerėti;F{they listened entranced}jie klausėsi kaip užburti/pakerėti
+0{entrancing}[&#618;n'tra:ns&#618;&#331;]E{a}kerintis, žavingas
+0{entrant}['entr&#601;nt]E{n}I{1}įeinantysis, įvažiuojantysisI{2}stojantysisl{(į universitetą, tarnybąL{ir pan.})}I{3}l{(varžybų)}dalyvis
+0{entrap}[&#618;n'tr&aelig;p]E{v}I{1}pagauti spąstaisI{2}apgauti, įpainioti į pinkles
+0{entrapment}[&#618;n'tr&aelig;pm&#601;nt]E{n}I{1}pagavimas spąstais; sumedžiojimasI{2}L{teis.}baudžiamos veikos provokavimas;F{police entrapment}S{&cong;}policijos spąstai
+0{entreat}[&#618;n'tri:t]E{v}maldauti, melsti
+0{entreaty}[&#618;n'tri:t&#618;]E{n}maldavimas, meldimas
+0{entrecôte}['&#596;ntr&#601;k&#601;ut]L{pr.}E{n}L{kul.}antrekotas
+0{entrée}['&#596;ntre&#618;]L{pr.}E{n}I{1}įėjimo teisė/privilegija;F{he has the entrée to all the best houses}jis lankosi, yra (gerai) priimamas geriausiuose namuoseI{2}pirmasis patiekalasl{(paduodamas tarp užkandžio ir kepsnio)}
+0{entrench}[&#618;n'trent&#643;]E{v}I{1}L{kar.}iškasti apkasą, apsupti apkasais, apsikastiI{2}l{(L{ppr.}E{pass}/E{refl})}į(si)tvirtinti, įsigalėti; užsiimti gerą pozicijąl{(behind, against)}I{3}pasikėsintil{(upon – į)}
+0{entrenched}[&#618;n'trent&#643;t]E{a}I{1}L{kar.}įsitvirtinęs; apsikasęsI{2}L{prk.}įsigalėjęs, tvirtas;F{deeply entrenched prejudices}giliai įsišakniję prietarai
+0{entrenchment}[&#618;n'trent&#643;m&#601;nt]E{n}I{1}L{kar.}tranšėja, įtvirtinimaiI{2}įsitvirtinimas
+0{entre nous}[,&#596;ntr&#601;'nu:]L{pr.}tarp mūsų (kalbant)
+0{entrepôt}['&#596;ntr&#601;p&#601;u]L{pr.}E{n}tranzitinių krovinių sandėlisl{(prie muitinių, uostųL{ir pan.})}
+0{entrepreneur}[,&#596;ntr&#601;pr&#601;'n&#601;:]L{pr.}E{n}I{1}įmonininkas, verslininkasI{2}antrepreneris
+0{entresol}['&#596;ntr&#601;s&#596;l]L{pr.}E{n}L{archit.}antresolė
+0{entropy}['entr&#601;p&#618;]E{n}L{spec.}entropija
+0{entruck}[&#618;n'tr&#652;k]E{v}L{amer.}sodinti/sėsti/lipti į sunkvežimįl{(ypač apie kareivius)}
+0{entrust}[&#618;n'tr&#652;st]E{v}patikėtil{(with)}; pavestil{(to)};F{I entrusted the money to him, I entrusted him with the money}aš patikėjau jam pinigus
+0{entry}['entr&#618;]E{n}I{1}durys, vartai; perėjimasl{(tarp namų)}; vestibiulis;F{the thieves forced an entry into the building}vagys įsibrovė į pastatą išlaužę durisI{2}įėjimas, įžengimas; įvažiavimas;F{entry permit/visa}įvažiavimo viza;F{no entry}įeiti/įvažiuoti draudžiamal{(užrašas)}I{3}įstojimasl{(į mokyklą, organizaciją, karąL{ir pan.})};F{he was refused entry}jo nepriėmėl{(to – į)}I{4}įtraukimas į sąrašą;l{(varžybųL{ir pan.})}dalyvių sąrašas;l{(varžybų)}dalyvis;F{a large entry}didelis konkursasI{5}įrašymas; įrašasl{(L{t. p.}L{buh.})};I{6}L{komp.}l{(duomenų)}įvestis; įeities vieta; elementasI{7}l{(žodyno, enciklopedijosL{ir pan.})}straipsnis, vokabula;F{bibliographical entry}bibliografijos aprašasI{8}l{(muitinės)}deklaracijaI{9}l{(upės)}žiotysI{10}L{amer.}l{(mėnesioL{ir pan.})}pradžia
+0{entry-level}['entri, levl]E{a}tinkamas pradedantiesiemsl{(ypač mokantis dirbti su kompiuteriais)}
+0{entryway}['entr&#618;we&#618;]E{n}L{amer.}prieangis, prieškambaris
+0{ents}[ents]E{n}E{pl}(entertainmentsL{sutr.})L{šnek.}kultūros renginiai, pramogosl{(universitete)}
+0{entwine}[&#618;n'twa&#618;n]E{v}supinti, suvyti; įpinti;E{pass}susipintiS{o}1{entwine around}E{pass},E{refl}apsivyniotil{(apie stiebą, medįL{ir pan.})}
+0{E-number}['i:,n&#652;mb&#601;]E{n}cheminių priedų kodinis numerisl{(ant maisto produktų pakuotės)}
+0{enumerate}[&#618;'nju:m&#601;re&#618;t]E{v}išskaičiuoti, išvardyti
+0{enumeration}[&#618;,nju:m&#601;'re&#618;&#643;n]E{n}I{1}išskaičiavimas, išvardijimasI{2}sąrašas
+0{enunciate}[&#618;'n&#652;ns&#618;e&#618;t]E{v}I{1}l{(aiškiai)}tartil{(žodžius)}I{2}formuluoti, dėstytil{(mintis, teorijąL{ir pan.})}
+0{enunciation}[&#618;,n&#652;ns&#618;'e&#618;&#643;n]E{n}I{1}geras tarimas, dikcijaI{2}l{(minčiųL{ir pan.})}formulavimas, dėstymas
+0{enure}[&#618;'nju&#601;]E{v}A{=R{inure}}
+0{enuresis}[,enju&#601;'ri:s&#618;s]E{n}L{med.}enurezė, šlapimo nelaikymas
+0{envelop}[&#618;n'vel&#601;p]E{v}I{1}(ap)vynioti, apgaubti, apsiausti;F{the hills were enveloped in mist}kalnus gaubė miglaI{2}L{kar.}apsupti, apeiti
+0{envelope}['env&#601;l&#601;up]E{n}I{1}vokasI{2}apvalkalas, apgaubas, apdangal{(of)}I{3}L{komp.}kadraženklis
+0{envelopment}[&#618;n'vel&#601;pm&#601;nt]E{n}I{1}apvyniojimas, apsiautimas; apdangaI{2}L{kar.}apsupimas, apsuptis
+0{envenom}[&#618;n'ven&#601;m]E{v}I{1}L{poet.}užnuodyti I{2}L{prk.}apkartinti
+0{enviable}['env&#618;&#601;bl]E{a}pavydėtinas, keliantis pavydą;F{he is an enviable young man}tam jaunuoliui galima pavydėti
+0{envious}['env&#618;&#601;s]E{a}pavydus;F{she was envious of her sister’s beauty}ji pavydėjo seseriai grožio
+0{environed}[&#618;n'va&#618;X{&#601;}r&#601;nd]E{a}apsuptasl{(by, with)}
+0{environment}[&#618;n'va&#618;X{&#601;}r&#601;nm&#601;nt]E{n}I{1}aplinka, aplinkuma;F{geographical [social] environment}geografinė [socialinė] aplinka;F{environment control/protection}aplinkosaugaI{2}L{komp.}terpė;F{integrated environment}integruotoji terpė
+0{environmental}[&#618;n,va&#618;X{&#601;}r&#601;n'mentl]E{a}aplinkos;F{environmental science}mokslas apie aplinką;F{environmental damage}žala aplinkai
+0{environmentalist}[&#618;n,va&#618;X{&#601;}r&#601;n'mentl&#618;st]E{n}gamtosaugininkas, gamtosaugos šalininkas/darbuotojas
+0{environmentally}[&#618;n,va&#618;X{&#601;}r&#601;n'mentll&#618;]E{adv}gamtosaugos prasme, ekologiškai
+0{environmentally-friendly}[&#618;n,va&#618;X{&#601;}r&#601;n'mentll&#618;'frendl&#618;]E{a}nežalingas aplinkai, ekologiškas
+0{environment-friendly}[&#618;n,va&#618;X{&#601;}r&#601;nm&#601;nt' frendl&#618;]E{a}nežalingas aplinkai
+0{environs}[&#618;n'va&#618;X{&#601;}r&#601;nz, 'envir&#601;nz]E{n}E{pl}apylinkės, kaimynystė
+0{envisage}[&#618;n'v&#618;z&#618;d&#658;]E{v}numatyti, įžvelgti, įsivaizduoti
+0{envision}[&#618;n'v&#618;&#658;n]E{v}L{amer.}A{=R{envisage}}
+0{envoy^{1}}['env&#596;&#618;]E{n}I{1}pasiuntinys;F{envoy extraordinary and minister plenipotentiary}nepaprastasis pasiuntinys ir įgaliotasis ministrasI{2}agentas, atstovas
+0{envoy^{2}}E{n}L{lit.}baigiamasis poemos posmas
+0{envy}['env&#618;]S{&rArr;}E{n}I{1}pavydas;F{out of envy}iš pavydo;F{to burn with envy}netverti pavydu, sprogti iš pavydoI{2}pavydo objektas;F{his garden was the envy of all}jo sodo visi pavydėjoS{&rArr;}E{v}pavydėti;F{I envy him his good fortune}aš pavydžiu jam sėkmės
+0{enwind}[&#618;n'wa&#618;nd]E{v}L{knyg.}ap(si)vynioti
+0{enwrap}[&#618;n'r&aelig;p]E{v}L{knyg.}suvynioti, apsupti, apsiausti
+0{enzootic}[,enz&#601;u'&#596;t&#618;k]E{n}L{vet.}enzootija
+0{enzyme}['enza&#618;m]E{n}L{biol.}fermentas, enzimas
+0{e.o.}L{sutr.}X{ex officio}L{lot.}pagal pareigas
+0{EOC}L{sutr.}X{Equal Opportunities Commission}l{(D. Britanijos)}Lygių galimybių komisija
+0{e.o.d.}L{sutr.}X{every other day}kas antrą dieną, kartą per dvi dienas
+0{EOM, e.o.m.}L{sutr.}X{end of the month}l{(mokestis)}mėnesio galeX{every other month}kas antrą mėnesį
+0{eon}['i:&#601;n]E{n}L{amer.}A{=R{aeon}}
+0{eosin}['i:&#601;s&#618;n]E{n}eozinasl{(raudoni dažai)}
+0{EP}L{sutr.}X{explosionproof}nesprogstantisX{extended-play}ilgai griežianti plokštelė
+0{EPA}L{sutr.}X{Environment Protection Agency}l{(JAV)}Aplinkos apsaugos valdyba
+0{eparchy}['epa:k&#618;]E{n}eparchijal{(L{t. p.}L{bažn.})}
+0{epaulet(te)}['ep&#601;let, ,ep&#601;'let]E{n}epoletai,l{(paradiniai)}antpečiai
+0{épée}['epe&#618;]L{pr.}E{n}L{sport.}kardas, espadronas
+0{epenthesis}[e'pen&theta;&#618;s&#618;s]E{n}L{kalb.}epentezė
+0{epenthetic}[,epen'&theta;et&#618;k]E{a}L{kalb.}epentetinis, įterptinis
+0{ephedrine}[,ef&#601;dr&#618;n]E{n}L{farm.}efedrinas
+0{ephemera}[&#618;'femX{&#601;}r&#601;]E{pl}A{L{žr.}R{ephemeron}}
+0{ephemeral}[&#618;'femX{&#601;}r&#601;l]E{a}I{1}efemerinis, efemeriškas, trumpalaikis, greit praeinantisI{2}L{biol.}vienadienisl{(apie vabzdžius, gėles)}
+0{ephemeris}[&#618;'fem&#601;r&#618;s]E{n}(E{pl}ephemerides[,ef&#618;'mer&#618;di:z])L{astr.}efemeridės
+0{ephemeron}[&#618;'fem&#601;r&#596;n]E{n}I{1}(E{pl}ephemerons)L{zool.}efemeridėI{2}(E{pl}-ra) kas nors trumpalaikis, greitai praeinantis;F{records, pictures of pop-stars, and other such ephemera}įrašai, popžvaigždžių nuotraukos ir panašūs dalykai
+0{Ephraim}['i:fre&#618;&#618;m]E{n}Efraimas
+0{epic}['ep&#618;k]S{&rArr;}E{n}I{1}epinė poema; epasI{2}epopėja; kino epopėjaS{&rArr;}E{a}I{1}epinis, epiškasI{2}didingas, įspūdingas
+0{epical}['ep&#618;kl]A{=R{epic}}E{a}
+0{epicenter}['ep&#618;,sent&#601;]E{n}L{amer.}A{=R{epicentre}}
+0{epicentre}['ep&#618;,sent&#601;]E{n}l{(žemės drebėjimo)}epicentras
+0{epicure}['ep&#618;kju&#601;]E{n}epikūrininkas
+0{epicurean}[,ep&#618;kju'ri:&#601;n]S{&rArr;}E{n}epikūrininkas S{&rArr;}E{a}epikūriškas, epikūrininko; Epikūro
+0{epicureanism}[,ep&#618;kjuX{&#601;}'ri:&#601;n&#618;zm]E{n}epikūrizmas
+0{epicurism}['ep&#618;kjuX{&#601;}r&#618;zm]A{=R{epicureanism}}
+0{Epicurus}[,ep&#618;'kju&#601;r&#601;s]E{n}Epikūrasl{(graikų filosofas)}
+0{epidemic}[,ep&#618;'dem&#618;k]S{&rArr;}E{n}epidemijal{(L{t. p.}L{prk.})};F{flu epidemic}gripo epidemijaS{&rArr;}E{a}epideminis
+0{epidemical}[,ep&#618;'dem&#618;kl]A{=R{epidemic}}E{a}
+0{epidemiologic(al)}[,ep&#618;,di:m&#618;&#601;'l&#596;d&#658;&#618;k(l)]E{a}epidemiologinis, epidemiologijos
+0{epidemiology}[,ep&#618;d&#618;:m&#618;'&#596;l&#601;d&#658;&#618;]E{n}epidemiologija
+0{epidermal}[,ep&#618;'d&#601;:ml]E{a}L{anat.}epiderminis
+0{epidermic}[,ep&#618;'d&#601;:m&#618;k]E{a}A{=R{epidermal}}
+0{epidermis}[,ep&#618;'d&#601;:m&#618;s]E{n}L{anat.},L{bot.}epidermis
+0{epidiascope}[,ep&#618;'da&#618;&#601;sk&#601;up]E{n}L{spec.}epidiaskopas
+0{epidural}[,ep&#618;'dju&#601;r&#601;l]E{a}L{anat.}epiduralinis, nugaros smegenų dangalo
+0{epifauna}['ep&#618;f&#596;:n&#601;]E{n}L{zool.}epifauna, dugniniai gyvūnai
+0{epiglottis}[,ep&#618;'gl&#596;t&#618;s]E{n}L{anat.}antgerklis
+0{epigone}['ep&#618;g&#601;un]E{n}epigonas, nekūrybiškas sekėjas, mėgdžiotojas

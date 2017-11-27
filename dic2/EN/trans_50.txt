@@ -1,0 +1,1000 @@
+0{stealthy}['stel&theta;&#618;]E{a}slaptas; tylus;F{stealthy glance}žvilgsnis paslapčiomis/vogčiomis;F{stealthy whisper}tylus/atsargus šnabždesys;F{stealthy footsteps/tread}tylūs žingsniai
+0{steam}[sti:m]S{&rArr;}E{n}I{1}garas;F{live steam}šviežiasis garas;F{saturated [wet] steam}sotusis [drėgnasis] garas;F{to get up steam}X{a)}L{tech.}(pa)didinti garo slėgį;X{b)}didinti greitį;X{c)}stiprėti, plisti; sukaupti jėgas/energiją;F{to let/blow/work off steam}X{a)}išleisti garą;X{b)}L{prk.}iš(si)krauti, duoti valią jausmams;F{to put on steam}X{a)}paduoti daugiau garo;X{b)}paskubėtiI{2}garai, šutas;F{windows covered with steam}aprasoję langaiS{&loz;}X{to run out of steam}išsikvėpti; pavargti;F{under one’s own steam}vien savo pastangomis;F{full steam ahead!}visu greičiu pirmyn!S{&rArr;}E{a}garinis, garo;F{steam engine}garo variklis/mašina;F{steam bath/room}garinė, vanotuvė;F{steam table}maisto šildytuvas, marmitasl{(valgyklose, restoranuose)}S{&rArr;}E{v}I{1}(pa)leisti/išleisti garą; garintiI{2}garuotil{(L{t. p.}X{steam hot})};F{steaming coffee}garuojanti kavaI{3}būti varomam garu; plaukti, plaukiotil{(apie garlaivį)};F{the train steamed into the station}traukinys įpūškėjo/įvažiavo į stotįI{4}virti garuose, troškinti, šutinti;F{steamed carrots}troškintos morkosI{5}šutintisl{(pirtyje)}I{6}(ap)rasotil{(L{t. p.}X{steam up})}; (su)drėktil{(apie sieną)}I{7}veikti garu;F{to steam open}atgarinti, atklijuoti garu/garaisI{8}lėkti/dumti visu greičiu;F{he steamed out of the room}jis išlėkė/išrūko iš kambarioI{9}L{šnek.}išplėtoti veiklą, energingai veiktiI{10}E{pass}L{amer.}L{šnek.}pykti, (į)širstil{(L{t. p.}X{steam up})}S{o}1{steam ahead}X{a)}energingai judėti į priekį;X{b)}L{prk.}pilti, smarkiai darbuotis;1{steam away}X{a)}išgaruoti;X{b)}nuplaukti;1{steam in}L{sl.}įsitraukti į peštynes/muštynes;1{steam off}atklijuoti garais, atgarinti
+0{steamboat}['sti:mb&#601;ut]E{n}garlaivis
+0{steam-boiler}['sti:m,b&#596;&#618;l&#601;]E{n}garo katilas
+0{steam-coal}['sti:mk&#601;ul]E{n}L{spec.}kūryklų anglys
+0{steam-dome}['sti:md&#601;um]E{n}L{tech.}garo rezervuaras, dundulė
+0{steam-driven}['sti:m,dr&#618;vn]E{a}varomas garu
+0{steamed-up}[,sti:md'&#652;p]E{a}E{predic}L{šnek.}įširdęs, supykęs; susijaudinęs
+0{steamer}['sti:m&#601;]E{n}I{1}garlaivisI{2}šutintuvas
+0{steam-gauge}['sti:mge&#618;d&#658;]E{n}garomatis
+0{steam-hammer}['sti:m,h&aelig;m&#601;]E{n}garo kūjisS{&loz;}X{to use a steam-hammer to crack nuts}S{&cong;}šaudyti žvirblius iš patrankų
+0{steam-heat}['sti:mhi:t]S{&rArr;}E{n}I{1}šildymas garaisI{2}L{fiz.}kondensacijos šilumaS{&rArr;}E{v}šildyti garais
+0{steaminess}['sti:m&#618;n&#618;s]E{n}prisisotinimas garais
+0{steaming}['sti:m&#618;&#331;]E{n}I{1}L{fiz.}garavimas, garų susidarymasI{2}L{tech.}(iš)garinimasI{3}grupinis apiplėšimas
+0{steaming-plant}['sti:m&#618;&#331;pla:nt]E{n}L{ž. ū.}pašarų šutintuvas
+0{steam-iron}['sti:ma&#618;&#601;n]E{n}garinė laidynė
+0{steam-jacket}['sti:m,d&#658;&aelig;k&#618;t]E{n}L{tech.}garo ertmė
+0{steam-launch}['sti:ml&#596;:nt&#643;]E{n}garinis kateris
+0{steam-power}['sti:m,pau&#601;]E{n}garo varomoji jėga
+0{steamroll}['sti:mr&#601;ul]L{amer.}A{=R{steamroller}}E{v}
+0{steamroller}['sti:m,r&#601;ul&#601;]S{&rArr;}E{n}I{1}(garinis) volasI{2}L{prk.}viską triuškinanti, nenugalima jėgaS{&rArr;}E{v}I{1}sutriuškinti, sunaikintiI{2}daryti spaudimąl{(kam)}, paspaustiI{3}prastumti, pratemptil{(įstatymo projektą; through)}
+0{steamship}['sti:m&#643;&#618;p]E{n}l{(jūrų)}garlaivis
+0{steamshop}['sti:m&#643;&#596;p]E{n}katilinė
+0{steam-shovel}['sti:m,&#643;&#652;vl]E{n}L{amer.}garinė žemsemė
+0{steamtight}['sti:mta&#618;t]E{a}nelaidus garui
+0{steam-turbine}['sti:m,t&#601;:b&#618;n]E{n}garo turbina
+0{steamy}['sti:m&#618;]E{a}I{1}garo, garinis; garų pavidaloI{2}prigaravęs, pilnas garųI{3}garuojantis; garingas, garusI{4}aprasojęsI{5}L{šnek.}erotinis, meilės
+0{stearic}[st&#618;'&aelig;r&#618;k]E{a}stearino, stearininis;F{stearic acid}L{chem.}stearino rūgštis
+0{stearin}['st&#618;&#601;r&#618;n]E{n}stearinas
+0{steatite}['st&#618;&#601;ta&#618;t]E{n}L{min.}steatitasl{(talko atmaina)}
+0{steed}[sti:d]E{n}L{poet.},L{psn.}eiklus/ristas žirgasl{(L{t. p.}X{gallant steed})}
+0{steel}[sti:l]S{&rArr;}E{n}I{1}plienas;F{mild [structural] steel}L{metal.}mažaanglis[konstrukcinis/statybinis]plienasI{2}X{(of steel)}L{prk.}geležinis;F{grip of steel}geležinis gniaužtas/kumštis;F{nerves of steel}geležiniai nervaiI{3}plieno pramonė; plieno gamybaI{4}plieno plokštelėI{5}galąstuvasI{6}L{kas.}plieninis grąžtasS{&loz;}X{cold steel}šaltasis ginklas;F{an enemy worthy of one’s steel}lygus priešininkas;F{true as steel}visiškai atsidavęs, ištikimasS{&rArr;}E{a}I{1}plieninis, plieno;F{steel wool}plieno drožlėsl{(indams/grindimsL{ir pan.}šveisti)};F{steel furnace}plieno lydymo krosnisI{2}kietaširdis, nuožmusS{&rArr;}E{v}I{1}padengti/apkalti plienu; uždėti plieninius antgaliusI{2}(už)grūdinti; padaryti nejautrųI{3}E{refl}pasiryžti, ryžtis;F{to steel oneself against pity}įveikti gailestį, nepažinti gailesčio
+0{steel-blue}['sti:l'blu:]S{&rArr;}E{n}plieno spalval{(melsvai pilka)}S{&rArr;}E{a}plieno spalvos
+0{steel-clad}['sti:lkl&aelig;d]E{a}šarvuotas, su šarvais
+0{steel-engraving}['sti:l&#618;n'gre&#618;v&#618;&#331;]E{n}plieno graviūra
+0{steel-facing}['sti:l'fe&#618;s&#618;&#331;]E{n}L{tech.}aplydymas plienu
+0{steel-grey}['sti:l'gre&#618;]S{&rArr;}E{n}pilkai melsva spalvaS{&rArr;}E{a}pilkai melsvas
+0{steeliness}['sti:l&#618;n&#618;s]E{n}kietumas, tvirtumas
+0{steelmaker}['sti:lme&#618;k&#601;]E{n}plieno gamybos kompanija
+0{steel-plated}['sti:l'ple&#618;t&#618;d]E{a}šarvuotas; apkaltas plienu
+0{steelwork}['sti:lw&#601;:k]E{n}I{1}L{kuop.}plieno dirbiniaiI{2}plieninė konstrukcija
+0{steelworker}['sti:lw&#601;:k&#601;]E{n}plieno liejyklos darbininkas
+0{steelworks}['sti:lw&#601;:ks]E{n}plieno liejykla
+0{steely}['sti:l&#618;]E{a}I{1}plieninis, plienoI{2}kietas/tvirtas kaip plienas; nepalenkiamas, nuožmus
+0{steelyard}['sti:lja:d]E{n}l{(sveriamoji)}buožė,l{(rankinis)}svertuvas
+0{steen}[sti:n]E{n}L{šnek.}kuris nors skaičius;F{to hear smth steen thousand times}girdėti ką tūkstančius/daugybę kartų
+0{steep^{1}}[sti:p]S{&rArr;}E{n}status šlaitas, kriaušis, statumaS{&rArr;}E{a}I{1}status, staigus;F{steep descent}staigus nusileidimas, stati nuokalnėI{2}per aukštas/didelisl{(apie kainasL{ir pan.})}I{3}L{šnek.}perdėtas; F{steep story}neįtikėtinas/perdėtas pasakojimas;F{it is/seems a bit steep}tai jau per daug
+0{steep^{2}}S{&rArr;}E{n}I{1}įmerkimas, panardinimasl{(į skystį)}; (į)mirkymas; išmirkymasI{2}skystisl{(į kurį įmerkiamas daiktas)}S{&rArr;}E{v}l{(L{ppr.}E{pass})}I{1}(į)merkti, panardintil{(į skystį)}; (pa)mirkyti, išmirkyti, įmirkyti; (į)mirkti, permirktiI{2}L{prk.}nugrimzti, paskęsti; pasinerti;F{to steep in prejudice}paskęsti prietaruose;F{to steep in slumber}nugrimzti į miegą
+0{steepen}['sti:p&#601;n]E{v}statėti; daryti statesnįl{(šlaitą, kriaušįL{ir pan.})}
+0{steeple}['sti:pl]E{n}I{1}l{(bokšto)}smailė, špilis; smailiaviršūnis bokštasI{2}varpinė
+0{steeplechase}['sti:plt&#643;e&#618;s]E{n}L{sport.}kliūtinis bėgimas/jojimas
+0{steeplechaser}['sti:pl,t&#643;e&#618;s&#601;]E{n}I{1}kliūtinio bėgimo/jojimo dalyvisI{2}žirgas, dalyvaujantis kliūtiniame jojime
+0{steeplejack}['sti:pld&#658;&aelig;k]E{n}aukštybininkas, aukštalipis darbininkasl{(statantis/taisantis bokštus/kaminus)}
+0{steeply}[sti:pl&#618;]E{adv}stačiai, staigiai
+0{steepness}['sti:pn&#618;s]E{n}statumas
+0{steer^{1}}[st&#618;&#601;]S{&rArr;}E{v}I{1}vairuoti, valdytil{(laivą, automobilįL{ir pan.})};F{this car steers easily}šią mašiną lengva valdytiI{2}vykti; pasukti;F{to steer one’s way}eiti savo keliu;F{we steered (our course) for the railway station}mes pasukome į stotįI{3}nukreipti, vesti; vadovauti;F{to steer a conversation into a favourite subject}pakreipti kalbą mėgstama tema;F{to steer a country to peace and prosperity}vesti šalį į taiką ir gerovę;F{he steered me to a table}jis nuvedė mane prie staloI{4}laikytisl{(tam tikro kurso)};F{to steer a middle course}laikytis aukso vidurio, vengti kraštutinumų;F{to steer a steady course}nenukrypstamai laikytis pasirinkto kelioS{&loz;}X{to steer clear}l{(of)}(iš)vengtil{(ko)};F{to steer smb clear}padėti kam išvengti nemalonumų/komplikacijosS{&rArr;}E{n}L{amer.}L{šnek.}patarimas;F{bum steer}blogas/klaidinantis patarimas
+0{steer^{2}}E{n}l{(kastruotas)}jautukas, veršis
+0{steerage}['st&#618;&#601;r&#618;d&#658;]E{n}L{jūr.}I{1}l{(laivo)}vairavimas; vairinis valdymasI{2}ketvirtosios klasės patalpal{(garlaivyje)}
+0{steering}['st&#618;&#601;r&#618;&#331;]E{n}I{1}vairavimas; valdymasI{2}vairumas, valdumas
+0{steering-column}['st&#618;&#601;r&#618;&#331;,k&#596;l&#601;m]E{n}L{spec.}vairo kolonėlė
+0{steering-gear}['st&#618;&#601;r&#618;&#331;g&#618;&#601;]E{n}I{1}vairo mechanizmas/pavaraI{2}L{jūr.}vairavimo įtaisas
+0{steering-lever}['st&#618;&#601;r&#618;&#331;,lev&#601;]E{n}vairo svirtis
+0{steering-shaft}['st&#618;&#601;r&#618;&#331;&#643;a:ft]E{n}vairo velenas
+0{steering-wheel}['st&#618;&#601;r&#618;&#331;wi:l]E{n}L{av.},L{jūr.}vairaratis, šturvalas
+0{steersman}['st&#618;&#601;zm&#601;n]E{n}(E{pl}-men[-m&#601;n])I{1}vairininkas, šturmanasI{2}vairuotojas
+0{steeve}[sti:v]L{jūr.}S{&rArr;}E{n}l{(bušprito)}įstrižumo kampasS{&rArr;}E{v}būti per daug įstrižaml{(apie bušpritą)}
+0{stein}[sta&#618;n]L{vok.}E{n}bokalas
+0{Steinbeck}['sta&#618;nbek]E{n}:X{John Steinbeck}Džonas Stainbekas (Steinbekas)l{(amerikiečių rašytojas)}
+0{stela}['sti:l&#601;]L{gr.}E{n}(E{pl}-lae[-li:])L{archeol.}stelal{(paminklo rūšis)}; antkapis
+0{stele}[sti:l]E{n}L{bot.}stelė
+0{Stella}['stel&#601;]E{n}Stelal{(vardas)}
+0{stellar}['stel&#601;]E{a}E{attr}I{1}L{spec.}žvaigždinis, žvaigždžių; žvaigždiškasI{2}puikusI{3}L{amer.}pagrindinis, svarbiausiasl{(apie aktorių, vaidmenįL{ir pan.})}
+0{stellate, stellated}['stel&#601;t, ste'le&#618;t&#618;d]E{a}I{1}L{spec.}panašus į žvaigždę, žvaigždiškas; einantis iš centro spinduliaisI{2}L{bot.}menturinisl{(apie lapą)}
+0{stellular}['steljul&#601;]E{a}I{1}žvaigždiškas; žvaigždutės pavidaloI{2}nusėtas/išmargintas žvaigždutėmis
+0{stem^{1}}[stem]S{&rArr;}E{n}I{1}L{bot.}stiebas, liemuo, kamienasI{2}L{bot.}kotas, kotelis; sudėtinis vaisius;F{a stem of bananas}bananų kekėI{3}l{(įrankio)}kotas, rankenaI{4}l{(taurelėsL{ir pan.})}kojelė;l{(pypkės)}kandiklisI{5}l{(ypačL{bibl.})}l{(žmonių)}kelmas, kiltis, giminėI{6}L{spec.}galvutė;F{the stem of a watch}laikrodžio galvutėI{7}L{kalb.}kamienasI{8}L{jūr.}forštevenis;F{from stem to stern}X{a)}per visą laivo ilgį;X{b)}nuodugniai, kruopščiaiI{9}L{muz.}l{(natos)}kojelėI{10}L{poligr.}l{(raidės)}vertikalus brūkšnysS{&rArr;}E{v}I{1}kiltil{(from, out of)}I{2}nuskabytil{(vaisių, tabako, uogų)}koteliusI{3}pritaisyti koteliusl{(dirbtinėms gėlėms)}
+0{stem^{2}}S{&rArr;}E{v}I{1}užtvenkti; sulaikyti, (su)stabdytil{(tekėjimą, plitimą)}; užtaisytil{(skylęL{ir pan.})};F{to stem the flow of illegal drugs}sustabdyti narkotikų srautąI{2}L{jūr.}plaukti prieš srovęI{3}L{prk.}priešintis, eiti prieš vėją, plaukti prieš srovęL{ir pan.};F{to stem the tide of public opinion}eiti prieš viešąją nuomonę;F{to stem difficulties}kovoti su sunkumaisI{3}L{sport.}stabdyti slidėmisS{&rArr;}E{n}A{=R{stem-turn}}
+0{stemmer}['stem&#601;]E{n}I{1}darbininkas, nuskabantisl{(tabako lapų)}koteliusI{2}įtaisasl{(vaisių)}koteliams nuskabyti
+0{stem-plough}['stemplau]E{n}L{sport.}posūkisl{(slidėmis)}plūgu
+0{stem-turn}['stemt&#601;:n]E{n}L{sport.}posūkisl{(slidėmis)}remiantis lazdomis
+0{stemware}['stemw&#604;&#601;]E{n}L{kuop.}L{amer.}taurės, taurelės
+0{stench}[stent&#643;]S{&rArr;}E{n}dvokimas, dvokas, tvaikas, smarvė;F{the stench of corruption hangs over this whole affair}L{prk.}šis visas reikalas dvokia korupcijaS{&rArr;}E{v}dvokti
+0{stencil}['stensl]S{&rArr;}E{n}I{1}šablonas, trafaretasI{2}šabloninis/trafaretinis piešinys/užrašasI{3}vaškuotėl{(rašomajai mašinėlei)}S{&rArr;}E{v}X{(-ll-)}I{1}piešti/rašyti pagal šabloną, trafaretuI{2}spausdinti ant vaškuotės
+0{stencil-plate}['stenslple&#618;t]A{=R{stencil}}E{n}1
+0{steno}['sten&#601;u]E{n}(E{pl}stenos[-z])L{šnek.}I{1}(stenographerL{sutr.}) stenografistas, stenografininkasI{2}(stenographyL{sutr.}) stenografija
+0{stenograph}['sten&#601;gra:f]S{&rArr;}E{n}I{1}stenografijos ženklasI{2}stenogramaS{&rArr;}E{v}stenografuoti
+0{stenographer}[st&#601;'n&#596;gr&#601;f&#601;]E{n}L{amer.}stenografistas, stenografininkas
+0{stenographic}[,sten&#601;'gr&aelig;f&#618;k]E{a}stenografinis; stenografuotas
+0{stenography}[st&#601;'n&#596;gr&#601;f&#618;]E{n}stenografija
+0{stenosis}[st&#618;'n&#601;us&#618;s]E{n}(E{pl}-ses[-si:z])L{med.}susiaurėjimas, stenozė
+0{stentor}['stent&#596;:]E{n}I{1}stentorasl{(labai stipraus balso žmogus)}I{2}X{Stentor}L{zool.}stentorius
+0{stentorian}[sten't&#596;:r&#618;&#601;n]E{a}L{knyg.}labai garsus, griausmingasl{(apie balsąL{ir pan.})}
+0{step}[step]S{&rArr;}E{n}I{1}l{(L{įv. reikšm.})}žingsnis;F{smb’s steps were heard outside}lauke pasigirdo kažkieno žingsniai;F{it’s only a step to my house}iki mano namo tik vienas žingsnis;F{false step}L{prk.}klaidingas žingsnis/poelgis;F{a step forwards}L{prk.}žingsnis į priekį;F{a step in the right direction}L{prk.}žingsnis teisinga kryptimi;F{step by step}žingsnis po žingsnio; palaipsniui, po truputį, pamažėle;F{at every step}kiekviename žingsnyje;F{the first step on the road to victory}pirmasis žingsnis kelyje į pergalę;F{to turn one’s steps}l{(to)}žingsniuoti, patrauktil{(kuria nors kryptimi)};F{to fall into step}pataikyti įl{(kieno)}žingsnįI{2}žengsena, eisena, ėjimas;F{light step}lengva eisena;F{to walk with quick steps}greitai žingsniuotiI{3}pėdsakas;F{to follow smb’s steps}sekti kieno pėdomis, būti ištikimu sekėjuI{4}l{(šokio)}pa, žingsnisI{5}l{(skalės)}padala, laipsnisI{6}(pa)žengimas į priekį; paaukštinimas;F{to get one’s step}L{kar.}gauti aukštesnį laipsnį, būti paaukštintamI{7}laiptas, laiptelis; slenkstis; pamina, pakoja, pakopa, skersinis;F{flight/pair of steps}laiptail{(nuo vienos aikštelės iki kitos)}I{8}E{pl}lipynė, kopėčiosl{(L{t. p.}X{a pair of steps})}I{9}L{muz.}laipsnis, tonas; intervalasI{10}L{jūr.}l{(stiebo)}lizdas, stepsasI{11}L{tech.}eigaS{&loz;}X{in step}koja į koją, pakojui;F{to be/keep in step}l{(with)}eiti koja į koją, sutarti, neatsiliktil{(nuo madosL{ir pan.})};F{to be out of step}l{(with)}neiti koja kojon, atsilikti; išsiskirti;F{to break step}sumaišyti kojąl{(žygiuojant)};F{to bring into step}suderinti, sureguliuotil{(laiko atžvilgiu)}; sinchronizuoti;F{to guide smb’s steps}vadovauti kam, nukreipti ką;F{to take steps}imtis žygių/priemonių;F{to mind/watch one’s steps}X{a)}elgtis/veikti atsargiai/apdairiai;X{b)}būti atsargiam;F{it is the first step that costs}S{&cong;}kiekviena pradžia sunkiS{&rArr;}E{v}I{1}žengti, eiti, žingsniuoti;F{to step high}aukštai kelti kojasl{(einant, bėgant)};F{to step short}neapskaičiuoti žingsnio; suklupti;F{to step lightly}eiti lengvai;F{to step over a puddle}peržengti klanąI{2}(už)minti, numintil{(on)}I{3}L{prk.}paminti po kojų, paniekintiI{4}L{šnek.}(iš)eitil{(L{t. p.}X{step along})};F{I must be steping}man laikas eitiI{5}(iš)matuoti žingsniaisl{(L{t. p.}X{step off/out})}I{6}daryti šokio judesius, daryti paI{7}lengvai pasiektil{(into)};F{to step into a good job}lengvai gauti gerą tarnybą;F{to step into a fortune}netikėtai gauti palikimąI{8}iškalti laiptusl{(uoloje)}; iškasti laiptusl{(kalne)}I{9}padaryti laiptelius; sukalti pakopas/skersiniusl{(kopėčioms)}I{10}L{jūr.}(į)statytil{(stiebą į lizdą)}S{o}1{step aside}X{a)}pasitraukti į šalį, duoti kelią;X{b)}užleisti vietąl{(for – kam)};1{step back}atsitraukti; trauktis atgal;1{step down}X{a)}nužengtil{(žemyn)}; X{b)}išliptil{(iš vežimo)};X{c)}pasitraukti, užleistil{(savo pareigas)}, atsistatydinti;X{d)}L{el.}pažeminti įtampą;1{step forth}žengti (žingsnį) į priekį;1{step forward}išeiti į priekį, prisistatytil{(padėtiL{ir pan.})};1{step in}X{a)}įeiti, įžengti;X{b)}įsikišti, įsiterpti;1{step off}X{a)}nulipti, išlipti;X{b)}L{kar.}išžygiuoti;X{c)}L{amer.}suklysti; 1{step out}X{a)}l{(trumpam)}išeiti; X{b)}paspartinti žingsnį; greitai žingsniuoti; X{c)}matuoti žingsniais;X{d)}L{šnek.}vaikščioti į pasilinksminimus; gerai/linksmai leisti laiką;1{step over}užminti linijąl{(startuojant)};1{step up}X{a)}prieiti, prisiartintil{(to)};X{b)}(pa)didinti, (pa)spartinti, (pa)kelti;X{c)}(pa)didėti, (pa)kilti;X{d)}L{el.}paaukštinti įtampąS{&loz;}X{step lively!}greičiau!, vikriau!;F{step on it!}L{šnek.}paskubėk!, paspausk!l{(raginant greičiau važiuoti)};F{to step it}X{a)}šokti;X{b)}eiti pėsčiomis
+0{stepbrother}['stepbr&#652;&#601;]E{n}l{(L{tik v.})}įbrolis
+0{step-by-step}['stepba&#618;'step]E{a}E{attr}laipsniškas; planingas
+0{stepchild}['stept&#643;a&#618;ld]E{n}(E{pl}-children[-t&#643;&#618;ldrX{&#601;}n]) povaikis; posūnis, podukra
+0{step-dance}['stepda:ns]E{n}stepavimas
+0{stepdaughter}['stepd&#596;:t&#601;]E{n}podukra
+0{stepfather}['stepfa:&#601;]E{n}l{(L{tik v.})}patėvis
+0{Stephanie, Stephany}['stef&#601;n&#618;]E{n}Stefanijal{(vardas)}
+0{Stephen}['sti:vn]E{n}Steponas, Stivenasl{(vardas)}
+0{step-ins}['step&#618;nz]E{n}E{pl}L{šnek.}I{1}užsimaunamas per kojas moteriškas apatinis drabužisl{(elastingas korsetasL{ir pan.})}I{2}įsispiriamos basutės/šlepetės
+0{stepladder}['step,l&aelig;d&#601;]E{n}skečiamosios kopėčios
+0{stepless}['stepl&#601;s]E{a}I{1}L{tech.}bepakopis, belaipsnisI{2}L{jūr.}beredanis
+0{stepmother}['stepm&#652;&#601;]E{n}pamotė
+0{stepmotherly}['step,m&#652;&#601;l&#618;]E{a}pamotiškas, nerūpestingas, neprielankus
+0{stepmum}['stepm&#652;m]E{n}L{šnek.}A{=R{stepmother}}
+0{stepparent}['step,p&#604;&#601;r&#601;nt]E{n}patėvis; pamotė
+0{steppe}[step]E{n}stepė
+0{stepped}[stept]E{a}I{1}L{tech.}pakopinis I{2}L{jūr.}redaninis
+0{stepped-up}[,stept'&#652;p]E{a}pagreitintas; intensyvesnis;F{stepped-up pace}paspartintas žingsnis
+0{stepping-stone}['step&#618;&#331;st&#601;un]E{n}I{1}brastos akmuo; akmuo, įmestas į upę/griovį/purvąl{(kad būtų galima pereiti)}I{2}L{prk.}priemonė tikslui pasiekti, padėčiai pagerintiL{ir pan.}, tramplinas
+0{stepping-stones}['step&#618;&#331;st&#601;unz]E{n}akmenys per ką perbristi, laiptelis kelyje į
+0{stepsister}['steps&#618;st&#601;]E{n}įseserė
+0{stepson}['steps&#652;n]E{n}l{(L{tik v.})}posūnis
+0{-ster}[-st&#601;]E{suff}-ikas, -ojas, -uolis, -ėjasl{(L{ir kt.}priesagos, žyminčios asmenų savybes/interesus/užsiėmimą)};F{trickster}apgavikas, gudruolis;F{gamester}lošėjas, kortuotojas;F{gangster}gangsteris
+0{steradian}[st&#601;'re&#618;d&#618;&#601;n]E{n}L{geom.}steradianas
+0{stereo}['ster&#618;&#601;u]L{sutr.}I{1}A{=R{stereophonic}}I{2}A{=R{stereoscope}}I{3}A{=R{stereoscopic}}
+0{stereo-}['ster&#618;&#601;X{u}-]l{(L{sudurt.}žodžiuose)}stereo- (I{1}žymint sąsają su erdviniu išsidėstymu;F{stereophonics}stereofonijaI{2}žymint sąsają su kietumu, tolydumu;F{stereotype}stereotipas)
+0{stereochemistry}[,ster&#618;&#601;'kem&#618;str&#618;]E{n}stereochemija
+0{stereogram}['ster&#618;&#601;gr&aelig;m]E{n}stereograma
+0{stereography}[,ster&#618;'&#596;gr&#601;f&#618;]E{n}stereografija
+0{stereometry}[,ster&#618;'&#596;m&#618;tr&#618;]E{n}stereometrija
+0{stereophonic}[,ster&#618;&#601;'f&#596;n&#618;k]E{a}stereofoninis
+0{stereoscope}['ster&#618;&#601;sk&#601;up]E{n}stereoskopas
+0{stereoscopic}[,ster&#618;&#601;'sk&#596;p&#618;k]E{a}stereoskopinis
+0{stereotype}['ster&#618;&#601;ta&#618;p]S{&rArr;}E{n}stereotipasl{(L{t. p.}L{poligr.})}S{&rArr;}E{a}stereotipinisl{(L{t. p.}L{poligr.})}; šabloniškas, standartinisS{&rArr;}E{v}I{1}L{poligr.}spausdinti stereotipuI{2}L{poligr.}pagaminti stereotipąI{3}daryti šablonišką/standartinį; šabloninti
+0{stereotyped}['ster&#618;&#601;ta&#618;pt]E{a}stereotipinis, stereotipiškas; šabloniškas;F{stereotyped expression}stereotipinis pasakymas, kalbos štampas
+0{stereotypical}[,ster&#618;&#601;X{u}'t&#618;p&#618;kl]E{a}A{=R{stereotyped}}
+0{sterile}['stera&#618;l]E{a}I{1}nevaisingas, bergždžias, bevaisis, sterilus I{2}L{prk.}bevaisis, bergždžias, tuščias;F{sterile debate}tušti debatai;F{sterile lecture}neįdomi paskaitaI{3}nederlingas, bergždžiasl{(apie žemę)}I{4}sterilus, sterilizuotasI{5}L{bot.}tuščiažiedis, besėklis
+0{sterilisation}[,ster&#618;la&#618;'ze&#618;&#643;n]E{n}sterilizacija
+0{sterilise}['ster&#618;la&#618;z]E{v}padaryti nevaisingą, sterilizuoti
+0{sterility}[st&#601;'r&#618;l&#601;t&#618;]E{n}I{1}nevaisingumas, bevaisiškumas; bergždumasl{(L{t. p.}L{prk.})}I{2}l{(žemės)}nederlingumasI{3}sterilumas
+0{sterilization}[,ster&#618;la&#618;'ze&#618;&#643;n]E{n}sterilizacija, sterilizavimas
+0{sterilize}['ster&#618;la&#618;z]E{v}I{1}(pa)daryti nevaisingą/bergždžią/bevaisįI{2}sterilizuoti
+0{sterilizer}['ster&#618;la&#618;z&#601;]E{n}sterilizatorius
+0{sterlet}['st&#601;:l&#618;t]L{rus.}E{n}L{zool.}sterlė
+0{sterling}['st&#601;:l&#618;&#331;]S{&rArr;}E{n}I{1}sterlingasl{(D. Britanijos pinigas)}I{2}nustatytos prabos sidabrasS{&rArr;}E{a}I{1}sterlingų;F{pound sterling}svaras sterlingų;F{sterling area}sterlingo zonaI{2}pilnavertis, pilnasvorisl{(apie D. Britanijos monetas)}; nustatytos prabosl{(apie auksą/sidabrą)};F{in sterling coin of the realm}pilnaverčiais anglų pinigaisI{3}patikimas, tikras, doras;F{sterling fellow}patikimas žmogus;F{work of sterling merit}aukštos kokybės darbas, tikras meno kūrinys
+0{stern^{1}}[st&#601;:n]E{a}griežtas; rūstus, nepalenkiamas;F{stern resolve}griežtas sprendimas, ryžtas;F{stern measures}griežtos priemonės;F{stern reality}rūsti tikrovė;F{stern look}rūstus žvilgsnis
+0{stern^{2}}E{n}I{1}L{jūr.}laivagalis;F{stern sea}lydimasis bangavimasI{2}L{šnek.}l{(L{džn.}L{juok.})}pasturgalis, užpakalisI{3}L{medž.}l{(kurtoL{ir pan.})}uodega
+0{sterna}['st&#601;:n&#601;]E{pl}A{L{žr.}R{sternum}}
+0{sternal}['st&#601;:nl]E{a}L{anat.}krūtinkaulio
+0{Sterne}[st&#601;:n]E{n}:X{Laurence Sterne}Lorensas Sternasl{(anglų rašytojas)}
+0{sternly}[st&#601;:nl&#618;]E{adv}griežtai, rūsčiai
+0{sternness}[st&#601;:nn&#618;s]E{n}griežtumas, rūstumas
+0{sternpost}['st&#601;:np&#601;ust]E{n}L{jūr.}laivagalio števenis, achterštevenis
+0{sternum}['st&#601;:n&#601;m]E{n}(E{pl}-na, sternums)L{anat.}krūtinkaulis
+0{sternutation}[,st&#601;:njute&#618;&#643;n]E{n}L{med.},L{juok.}čiaudėjimas, čiaudulys
+0{sternutator}['st&#601;:nju:te&#618;t&#601;]E{n}L{kar.}čiaudulinė medžiaga
+0{sternutatory}[st&#601;:'nju:t&#601;tX{&#601;}r&#618;]E{a}sukeliantis čiaudulį, čiaudulinis
+0{sternward}['st&#601;:nw&#601;d]L{jūr.}S{&rArr;}E{a}laivagalioS{&rArr;}E{adv}į laivagalį
+0{sternway}['st&#601;:nwe&#618;]E{n}L{jūr.}l{(laivo)}atbulinė eiga
+0{steroid}['st&#618;&#601;r&#596;&#618;d, 'ste-]E{n}L{chem.},L{farm.}steroidas
+0{stertorous}['st&#601;:t&#601;r&#601;s]E{a}I{1}L{med.}kriokiamasis, stertorinisl{(apie kvėpavimą)}I{2}L{knyg.},L{juok.}knarkiantis
+0{stet}[stet]E{v}L{poligr.}palikti, kaip buvo, netaisytil{(korektūros nuoroda)}
+0{stethoscope}['ste&theta;&#601;sk&#601;up]L{med.}S{&rArr;}E{n}stetoskopasS{&rArr;}E{v}išklausyti/auskultuoti stetoskopu
+0{stetson}['stetsn]E{n}l{(kaubojų)}plačiakraštė skrybėlė
+0{Steve}[sti:v]E{n}Stivasl{(vardas)}
+0{stevedore}['sti:v&#601;d&#596;:]S{&rArr;}E{n}l{(ypačL{amer.})}uosto krovikasS{&rArr;}E{v}iškrauti/pakrauti laivą; dirbti kroviku uoste
+0{Stevenson}['sti:vnsn]E{n}:X{Robert Stevenson}Robertas Stivensonasl{(anglų rašytojas)}
+0{stew^{1}}[stju:]S{&rArr;}E{n}L{kul.}troškinta mėsa/žuvis;F{Irish stew}troškinta aviena su svogūnais ir bulvėmisS{&loz;}X{to be in a stew}nerimauti, būti susirūpinusiam;S{&cong;}būti kaip ant adatų;F{to get into a stew}susijaudinti, sunerimti;S{&cong;}įklimpti į bėdąS{&rArr;}E{v}I{1}troškinti(s)l{(apie mėsą, žuvį, daržoves)}, šutinti, šustiI{2}leipėti, kamuotisl{(nuo karščio)}I{3}L{šnek.}prakaituoti, plūktisl{(over)}I{4}L{šnek.}jaudintis, nervintis, rūpintis, nerimautil{(L{džn.}X{stew up})}
+0{stew^{2}}E{n}tvenkinys/rezervuaras žuvims/austrėms laikyti; skiaurė
+0{steward}['stju:&#601;d]E{n}I{1}l{(dvaro, ūkioL{ir pan.})}prievaizdas, ekonomas, valdytojasI{2}l{(koledžo, kluboL{ir pan.})}ūkvedys, tiekėjasI{3}l{(laivo, lėktuvo)}stiuardasI{4}l{(lenktynių, priėmimų, šokiųL{ir pan.})}tvarkdarys, tvarkytojasI{5}L{ist.}senešalas; F{Lord High Steward of England}X{a)}lordas karūnavimo ceremonijos prižiūrėtojas;X{b)}perų teismo pirmininkas
+0{stewardess}['stju:&#601;d&#618;s, 'stju&#601;des]E{n}I{1}stiuardesė, palydovėI{2}patarnautoja, padavėjal{(laive, traukinyje)}
+0{stewardship}['stju:&#601;d&#643;&#618;p]E{n}I{1}prievaizdo/ekonomo/valdytojo pareigosI{2}valdymas; valdymo laikotarpis
+0{stewed}[stju:d]E{a}I{1}troškintas;F{stewed fruit}kompotasI{2}(per) stiprusl{(apie arbatą)}I{3}E{predic}L{šnek.}girtas, pasigėręs
+0{stewpan}['stju:p&aelig;n]E{n}prikaistuvis maistui troškinti
+0{stewpot}['stju:p&#596;t]E{n}troškintuvas, puodas maistui troškinti
+0{St. Ex.}L{sutr.}X{Stock Exchange}fondų birža
+0{stg}L{sutr.}X{sterling}svaras sterlingų
+0{Sth.}L{sutr.}X{South}pietūs
+0{St Helena}[,snt'hel&#601;n&#601;]E{n}Šv. Elenos sala
+0{sthenic}['s&theta;en&#618;k]E{a}I{1}L{med.}stiprus; steninisl{(apie ligą)}I{2}L{psich.}energingas ir agresyvusl{(apie asmenybę)}
+0{stick}[st&#618;k]S{&rArr;}E{n}I{1}lazda, lazdelė; vėzdas; strypas;F{cocktail stick}kokteilio lazdelė;F{to walk with a stick}vaikščioti su lazdaI{2}pailgas gabalas, plytelė;F{stick of chocolate}šokolado plytelė;F{stick of chewing gum}kramtomosios gumos plytelė;F{stick of soap}muilo gabaliukasl{(pailgas)};F{stick of chalk}gabaliukas kreidosI{3}pagalys, pagaliukas, stagaras, šakal{(L{ppr.}sausa)};F{to find sticks for firewood}rasti pagalių laužuiI{4}L{šnek.}apsileidėlis, stuobrys; žmogysta;F{crooked stick}nedorėlis; sunkiai sugyvenamas žmogus;F{poor stick}silpnavalis (žmogus), menkysta;F{queer stick}keistuolis;F{he’s a dry old stick}jis neturi humoro jausmo I{5}L{šnek.}baldail{(ypač paprasti;L{ppr.}X{a few sticks of furniture})}I{6}X{(the sticks)}E{pl}L{šnek.}provincija, užkampis;F{(out) in the sticks}labai toli nuo miesto;S{&cong;}pasaulio pakraštyjeI{7}L{muz.}dirigento lazdelėI{8}L{tech.}rankena;F{stick shift}L{amer.}L{aut.}pavarų perjungimo svirtelėI{9}L{tekst.}brauktuvėI{10}L{poligr.}rinktuvasl{(L{t. p.}X{composing stick})}I{11}L{jūr.}L{šnek.}stiebasI{12}L{av.}parašiutininkų grupelėl{(atliekanti šuolį)}I{13}L{kar.}bombų serijaI{14}L{sport.}ritmuša, riedmušal{(L{t. p.}X{hockey stick})}I{15}X{(the sticks)}E{pl}L{sport.}kliūtysS{&loz;}X{in a cleft stick}padėtyje be išeities;F{he has us in a cleft stick}S{&cong;}jis surietė mus į ožio ragą;F{any stick to beat the dog}S{&cong;}norėdamas šunį mušti, lazdą rasi;F{the only stick left in one’s hedge}paskutinė priemonė;F{to get on the stick}imtis reikalo, pradėti veikti;F{to give smb stick}S{&cong;}duoti kam lazdų;F{he wants a stick}jis nori gauti lazdų, į kailį;F{to wield/carry a big stick}l{(over)}taikyti vėzdo politiką;F{more}l{(E{smb}/E{smth}E{pl})}X{than you/one can shake a stick at}L{šnek.}daugybėl{(ko)}, nesuskaičiuojamil{(kas)};F{to cut one’s sticks}L{sl.}pasprukti:X{to up sticks}L{šnek.}išsikeltil{(kitur gyventi)}S{&rArr;}E{v}(stuck)I{1}(į)smeigti, (į)bestil{(in, into)}; pasmeigtil{(on)}; persmeigtil{(through)}; badyti; smaig(st)yti; prismaigstyti; įsmigti;F{the nail stuck in my foot}vinis įsmigo man į kojąI{2}(nu)durti;F{to stick pigs}X{a)}skersti kiaules;X{b)}medžioti šernusl{(ietimi)}I{3}L{šnek.}(į)kišti; (pa)dėti;F{he stuck his hands in his pockets}jis susikišo rankas į kišenes;F{he stuck a pen behind his ear}jis užsikišo plunksną už ausies;F{to stick one’s head out of the window}iškišti galvą pro langą;F{stick the letter under the door}pakišk laišką po durimis;F{stick it on the table}padėk ant stalo;F{just stick your jacket on that chair}užmesk savo švarką ant kėdės;F{stick the chair in the corner}pastatyk kėdę į kampąI{4}L{šnek.}kyšoti, išlįstil{(L{t. p.}X{stick out})};F{his head stuck in the window}jo galva kyšojo/išlindo lange;F{careful – there’s a nail sticking of that board}atsargiai – iš tos lentos kyšo vinisI{5}(pri)klijuoti, (pri)lipdyti; klijuotis; (pri)liptil{(L{t. p.}L{prk.})};F{the envelope won’t stick}vokas neužsiklijuoja;F{his shirt stuck to his back}jam marškiniai prilipo prie nugaros;F{the nickname stuck}pravardė prigijo/prilipo;F{to be stuck with smb}negalėti kuo/ko nusikratyti;F{to stick on a horse}L{šnek.}tvirtai sėdėti ant arklioI{6}tūnoti, kiūtoti, lindėti;F{to stick at home}tūnoti/lindėti/sėdėti namieI{7}laikytisl{(to – ko)}; neapleistil{(to, with – ko)}; likti ištikimaml{(savo draugui/žodžiui/pareigai)};F{to stick to the opinion [to the text]laikytis nuomonės [teksto];F{to stick to one’s principles}laikytis savo principų;F{you’d better stick with me}tu verčiau laikykis manęs;F{to stick to one’s friends in trouble}neapleisti draugų nelaimėje;F{friends stick together}draugai visada kartu;S{&cong;}visi už vieną, vienas už visus;F{to stick to/by one’s belief}likti ištikimam savo įsitikinimams;F{to stick by smb}nepalikti ko bėdoje;F{to stick to the point}nenukrypti nuo reikalo/temosI{8}įstrigti, įklimptil{(L{t. p.}L{prk.})}; užkliūti;F{to get stuck}l{(on)}suklupti;F{to stick fast}X{a)}gerokai/ilgam įklimpti;X{b)}L{tech.}įstrigtil{(apie spyną, šautuvą)};F{the door sticks}durys užsikerta;F{the key has stuck in the lock}raktas įstrigo spynoje;F{the car was stuck in the mud}automobilis įklimpo purve;F{to stick in smb’s mind/memory}įstrigti kieno atmintyjeI{9}L{šnek.}(pa)kęsti, ištverti;F{he could not stick his mother-in-law}jis negalėjo pakęsti savo uošvėsI{10}L{šnek.}užsigulėtil{(apie prekes)}I{11}L{šnek.}l{(atkakliai, ryžtingai)}tęstil{(at, to)}; F{to stick at the job}atkakliai tęsti darbą;F{I hated practicing, but I stuck}aš nemėgau treniruotis, bet atkakliai tęsiauI{12}L{šnek.}suversti kaltęl{(on – kam)}I{13}L{šnek.}įbrukti, įpiršti, įkištil{(netikrą monetąL{ir pan.}; with)}I{14}L{šnek.}suglumintiI{15}L{poligr.}įstatyti į rinktuvąI{16}L{ž. ū.}paramstyti, priraišiotil{(vynuogienojus, pomidorusL{ir pan.})}S{o}1{stick about/around}L{šnek.}lūkuriuoti, slankioti aplinkui;F{stick around for a while!}neišeik!, luktelėk truputį!;1{stick down}X{a)}užklijuotil{(vokąL{ir pan.})};X{b)}L{šnek.}pastatyti, padėti;X{c)}L{šnek.}užrašyti; 1{stick out}X{a)}iš(si)kišti; kyšoti, styroti;F{to stick out one’s chest}atstatyti krūtinę;X{b)}(pa)kęsti; ištverti iki galo;X{c)}l{(toliau)}atkakliai siekti, primygtinai reikalautil{(for)};1{stick together}X{a)}sulipti;X{b)}L{šnek.}likti kartu; būti solidariam;1{stick up}X{a)}priklijuoti, pritvirtinti;X{b)}kyšoti, styrotil{(aukštyn)}; pastatyti;F{his hair stuck up on end}jam plaukai piestu pasistojo;X{c)}L{šnek.}apiplėšti, įvykdyti ginkluotą apiplėšimą;F{stick ’em up!}rankas aukštyn;X{d)}(ap)ginti, užstotil{(for)};F{to stick up for one’s rights}ginti savo teises;X{e)}nepaklusti, pasipriešintil{(to)}S{&loz;}X{to stick it on}L{šnek.}už(si)prašyti, už(si)plėštil{(didelę kainą)};F{to be stuck on smb [smth]L{šnek.}būti įsimylėjusiam ką [būti ko sužavėtam];F{to stick at nothing}būti viskam pasiryžus, nieko nepaisyti
+0{sticker}['st&#618;k&#601;]E{n}I{1}skelbimasl{(klijuojamas gatvėje)}I{2}užklija, lipdukas; etiketėI{3}l{(skelbimų)}lipintojas, klijuotojasI{4}atkaklus žmogus, darbštuolisI{5}L{šnek.}sunkus/gluminantis klausimas/uždavinysI{6}skerdikas, skerdėjas
+0{stickful}['st&#618;kful]E{n}L{poligr.}pilnas rinktuvas
+0{stickily}['st&#618;k&#618;l&#618;]E{adv}sunkiai
+0{stickiness}['st&#618;k&#618;n&#618;s]E{n}keblumas
+0{sticking-knife}['st&#618;k&#618;&#331;na&#618;f]E{n}skerdiklis
+0{sticking-plaster}['st&#618;k&#618;&#331;,pla:st&#601;]E{n}pleistras
+0{sticking-point}['st&#618;k&#618;&#331;p&#596;&#618;nt]E{n}kliūtis susitarti; nesutarimų/aklavietės priežastis
+0{stick-in-the-mud}['st&#618;k&#618;n&#601;,m&#652;d]L{šnek.}S{&rArr;}E{n}atsilikėlis, konservatoriusS{&rArr;}E{a}atsilikęs, senamadis, konservatyvus
+0{stickjaw}['st&#618;kd&#658;&#596;:]E{n}L{šnek.}tąsiukasl{(saldainis)}
+0{stickle}['st&#618;kl]E{v}L{ret.}I{1}atkakliai ginčytisl{(ypač dėl smulkmenų)}I{2}prieštarautil{(L{ppr.}be pagrindo)}
+0{stickleback}['st&#618;klb&aelig;k]E{n}L{zool.}dyglėl{(žuvelė)}
+0{stickler}['st&#618;kl&#601;]E{n}I{1}karštas šalininkas/gynėjasl{(for – ko)};F{to be a stickler for smth}tvirtai ko laikytis I{2}sunkus uždavinys/klausimas, galvosūkis
+0{stick-on}['st&#618;k&#596;n]E{a}E{attr}lipnus, (pri)klijuojamasl{(apie etiketęL{ir pan.})}
+0{stickout}['st&#618;kaut]L{šnek.}S{&rArr;}E{n}išsiskiriantis žmogus/daiktas; žymi asmenybėS{&rArr;}E{a}išsiskiriantis, žymus
+0{stickpin}['st&#618;kp&#618;n]E{n}L{amer.}kaklaraiščio segtukas
+0{sticktight}['st&#618;kta&#618;t]E{n}L{bot.}lakišius
+0{stick-to-it-ive}[st&#618;k'tu:&#618;t&#618;v]E{a}L{amer.}L{šnek.}atkaklus, ištvermingas
+0{stick-to-it-iveness}[st&#618;k'tu:&#618;t&#618;vn&#618;s]E{n}L{amer.}L{šnek.}ištvermė
+0{stick-up}['st&#618;k&#652;p]E{n}I{1}stati apykaklėI{2}L{šnek.}ginkluotas apiplėšimas
+0{sticky}['st&#618;k&#618;]E{a}I{1}lipus, lipnus, glitus; kibus;F{sticky with jam}lipnus nuo uogienėsI{2}(pri)klijuojamas; klijingasI{2}nenorintisl{(padėti, duotiL{ir pan.})}; skrupulingasI{3}tvankus, šutnusl{(apie orą, klimatą)};F{sticky day}šutni dienaI{4}L{šnek.}blogas, labai nemalonus;F{he will come to a sticky end}jam tai geruoju nesibaigsI{5}L{šnek.}keblus, sunkus;F{sticky situation}kebli padėtis
+0{stiff}[st&#618;f]S{&rArr;}E{a}I{1}standus, nelankstus; kietas;F{stiff collar}standi apykaklė;F{a sheet of stiff cardboard}kieto kartono lapasI{2}sustingęs, sustiręs, sugrubęs; apmiręs;F{stiff in death}sustingęsl{(apie lavoną)};F{stiff joints}sustingę sąnariai;F{he has a stiff leg}jam nutirpo koja;F{I have a stiff neck}man susuko sprandą, manl{(skersvėjis)}perpūtė kaklą;F{she feels stiff}jai maudžia visą kūnąI{3}L{kul.}tirštas;F{stiff dough}tiršta/kieta tešlaI{4}nepalenkiamas, ryžtingas, tvirtas;F{stiff denial}ryžtingas paneigimas/atsisakymas;F{stiff battle}įnirtingos kautynėsI{5}šaltas, formalus, manieringas, nenatūralus; F{stiff smile}nenatūrali šypsena;F{stiff bow}šaltas nusilenkimas/pasisveikinimas I{6}negracingas, nevikrusI{7}sunkus;F{stiff task}nelengva užduotis;F{stiff examination}sunkus egzaminasI{8}griežtasl{(apie bausmę, sprendimąL{ir pan.})}I{9}stiprusl{(apie gėrimus, vaistus, vėją, žemę)}I{10}L{šnek.}neįvykdomas, pernelyg didelisl{(apie reikalavimus, sąlygasL{ir pan.})}I{11}aukštas, tvirtas, pastovusl{(apie kainasL{ir pan.})}I{12}L{sl.}gausiai aprūpintasl{(with – kuo)}I{13}L{kalb.}sustabarėjęsI{14}L{jūr.}stovusl{(apie laivą)}S{&loz;}X{that’s a bit stiff!}to jau per daug!, tai netiesa!S{&rArr;}E{adv}visiškai, mirtinai;F{they bored me stiff}vos nemiriau iš nuobodulio;F{I was scared stiff}vos nemiriau iš baimėsS{&rArr;}E{n}L{šnek.}I{1}L{amer.}lavonasI{2}valkataI{3}džiaugsmo drumstėjas; beviltiškas/nepataisomas žmogusl{(L{t. p.}X{big stiff})}I{4}L{amer.}dirbantysis, darbininkasl{(L{ppr.}X{working stiff})}I{5}padirbtas banknotasS{&rArr;}E{v}L{amer.}L{šnek.}neatsilyginti; neduoti arbatpinigių
+0{stiffen}['st&#618;fn]E{v}I{1}standėti, stangrėti, kietėti; kietinti, stangrinti, standinti;F{to stiffen linen with starch}krakmolyti skalbiniusI{2}(su)stingdyti, (su)stinginti; (su)stingtil{(L{t. p.}L{prk.})}I{3}įsitempti, staiga atšalti/supyktiI{4}stiprėti, tvirtėti, tvirtinti, stiprinti;F{his resolution stiffened}jo pasiryžimas sutvirtėjoI{5}griežtinti; griežtėtil{(apie reikalavimus, sąlygasL{ir pan.})}
+0{stiffener}['st&#618;fn&#601;]E{n}I{1}L{stat.}kietas įdėklas/įklotas; standumo briaunaI{2}L{šnek.}l{(degtinės, vyno)}gurkšnelis, taurelėI{3}l{(apykaklėsL{ir pan.})}standiklis
+0{stiffly}['st&#618;fl&#618;]E{adv}stipriai
+0{stiff-necked}['st&#618;f'nekt]E{a}I{1}užsispyręs, kietasprandisI{2}įsitempęs; pasipūtęs, išdidus
+0{stiffness}['st&#618;fn&#618;s]E{n}oficialumas
+0{stifle^{1}}['sta&#618;fl]E{v}I{1}smaugti, dusintiI{2}dusti, troškuotiI{3}gesintil{(ugnį)}I{4}L{prk.}užtušuoti; F{to stifle a scandal}užtušuoti skandaląI{5}(nu)slopinti, užgniaužti, sulaikyti;F{to stifle a yawn}sulaikyti žiovulį;F{to stifle initiative}slopinti iniciatyvą
+0{stifle^{2}}E{n}l{(arklio, šuns)}kelio girnelė/sąnarys
+0{stifle-joint}['sta&#618;fld&#658;&#596;&#618;nt]E{n}A{=R{stifle^{2}}}
+0{stifling}['sta&#618;fl&#618;&#331;]E{a}tvankus, troškus; slopus, slogusl{(L{t. p.}L{prk.})}
+0{stigma}['st&#618;gm&#601;]E{n}I{1}gėda, dėmė;F{the stigma of alcoholism}gėda dėl alkoholizmol{(reputacijai)}I{2}randas, rumbasI{3}L{med.}stigma, žymėI{4}L{zool.}kvapinė, kvėptukasI{5}L{bot.}purka
+0{stigmata}[st&#618;g'ma:t&#601;, 'st&#618;gm&#601;t&#601;]E{n}E{pl}L{rel.}stigmos
+0{stigmatic}[st&#618;g'm&aelig;t&#618;k]S{&rArr;}E{n}L{rel.}stigmatasS{&rArr;}E{a}gėdos; pasmerktas gėdai
+0{stigmatize}['st&#618;gm&#601;ta&#618;z]E{v}l{(L{ppr.}E{pass})}vainoti, niekinti, plėšti garbę; pasmerkti gėdai
+0{stilb}[st&#618;lb]E{n}L{fiz.}stilbasl{(skaisčio vienetas)}
+0{stile^{1}}[sta&#618;l]E{n}I{1}lipynė, perlipa, kopynėl{(lipti per tvorą/sieną)}I{2}turniketas
+0{stile^{2}}E{n}L{stat.}l{(durų, langų rėmų)}šoniniai tašeliai
+0{stiletto}[st&#618;'let&#601;u]L{it.}E{n}(E{pl}stiletto(e)s[-z])I{1}stiletasI{2}smailus kulniukasl{(L{t. p.}X{stiletto heel})};l{(L{ppr.}E{pl})}bateliai smailiais kulniukais
+0{still^{1}}[st&#618;l]S{&rArr;}E{a}I{1}tylus; ramus;F{still evening [voice]tylus vakaras [balsas]; F{to keep still}netriukšmauti, tylėtiI{2}nejudantis, nejudamas;F{to keep/stand still}stovėti nejudant, nejudėti;F{still rain}lietus be vėjoI{3}neputojantisl{(apie vynąL{ir pan.})}S{&rArr;}E{adv}tyliai; ramiai;F{sit still!}sėdėk ramiai!S{&rArr;}E{n}I{1}L{poet.}tyla; ramybė, rimtis;F{in the still of the night}nakties tylojeI{2}L{kin.}reklaminis kadras, fotoreklamaS{&rArr;}E{v}I{1}tildyti; raminti;F{to still a child}raminti/liūliuoti kūdikį;F{to still doubts}išsklaidyti abejonesI{2}malšinti;F{to still hunger}malšinti alkįI{3}L{ret.}nurimti, nusiraminti;F{when the tempest stills}kai nurims audra
+0{still^{2}}S{&rArr;}E{adv}I{1}iki šiol, dar, vis dar;F{we’re still waiting for a reply}mes vis dar laukiame atsakymo;F{do you still play tennis?}ar tu dar žaidi tenisą?I{2}vis tiek, vis dėlto;F{his mother was Canadian: Irish-Canadian but still Canadian}jo motina buvo kanadietė; Kanados airė, bet vis dėlto kanadietėI{3}darl{(ypač lyginant)};F{still better}dar geresnis;F{still further}dar toliau/daugiauS{&loz;}X{still and all}nepaisant viso to, kaip bebūtųS{&rArr;}E{conj}tačiau, bet;F{the pain was bad, still he did not complain}skausmas buvo didelis, tačiau jis nesiskundė
+0{still^{3}}S{&rArr;}E{n}I{1}distiliatorius, distiliavimo indasI{2}spirito varyklaS{&rArr;}E{v}distiliuoti, varyti
+0{stillbirth}['st&#618;lb&#601;:&theta;]E{n}negyvo vaisiaus gimimas; negyvagimis
+0{stillborn}['st&#618;lb&#596;:n]E{a}I{1}gimęs negyvasI{2}neveiksmingas, nesėkmingasl{(apie sumanymąL{ir pan.})}
+0{still-life}[,st&#618;l'la&#618;f]E{n}(E{pl}still-lifes)L{men.}natiurmortas
+0{stillness}['st&#618;ln&#618;s]E{n}tylumas; ramumas
+0{stillroom}['st&#618;lrum]E{n}I{1}distiliavimo patalpaI{2}sandėliukas, podėlis
+0{stilly}['st&#618;l&#618;]S{&rArr;}E{adv}tyliai, be triukšmoS{&rArr;}E{a}L{poet.}tylus, ramus
+0{stilt}[st&#618;lt]E{n}I{1}l{(L{ppr.}E{pl})}kojokai, stypynės;F{on stilts}X{a)}su kojokais/stypynėmis;X{b)}išpuikęs, pasipūtęsI{2}E{pl}ilgos kojosI{3}L{stat.}statramstis; aukšta atramaI{4}L{zool.}stibynuočių būrio paukštis
+0{stiltbird}['st&#618;ltb&#601;:d]E{n}A{=R{stilt}}4
+0{stilted}['st&#618;lt&#618;d]E{a}nenatūralus, pompastiškas, išpūstasl{(apie stiliųL{ir pan.})}
+0{Stilton}['st&#618;ltn]E{n}stiltonasl{(sūrio rūšis;L{t. p.}X{Stilton cheese})}
+0{stilt-plover}['st&#618;lt,pl&#652;v&#601;]E{n}A{=R{stilt}}4
+0{stimulant}['st&#618;mjul&#601;nt]S{&rArr;}E{n}I{1}stimuliatorius, stimuliuojantis veiksnys, skatinamoji priemonėI{2}alkoholinis gėrimas;F{to take stimulants}vartoti alkoholinius gėrimusI{3}akstinas, stimulas, paskataS{&rArr;}E{a}skatinamasis, stimuliuojamasis; žadinamasis
+0{stimulate}['st&#618;mjule&#618;t]E{v}I{1}(pa)skatinti, akstintiI{2}(su)žadinti; stimuliuoti;F{to stimulate the action of the heart}stimuliuoti/žadinti širdies veikimąI{3}L{fiziol.},L{med.}jaud(r)inti, dirginti
+0{stimulating}['st&#618;mjule&#618;t&#618;&#331;]E{a}I{1}skatinantis, stimuliuojantisI{2}įkvepiantis, jaudinantisI{3}žvalinantis, sveikasl{(apie kalnų orąL{ir pan.})}
+0{stimulation}[,st&#618;mju'le&#618;&#643;n]E{n}I{1}sužadinimas; stimuliavimasI{2}(pa)skatinimas;F{young children need stimulation}mažus vaikus reikia paskatintiI{3}L{fiziol.},L{med.}jaud(r)inimas, dirginimas
+0{stimulus}['st&#618;mjul&#601;s]E{n}(E{pl}-li[-la&#618;])I{1}akstinas, skatulys, stimulas, paskata;l{(skatinanti)}įtakaI{2}L{fiziol.}jaudiklis, dirgiklis
+0{sting}[st&#618;&#331;]S{&rArr;}E{n}I{1}gylys, geluonisI{2}L{bot.}dilginamasis plaukelisI{3}įgėlimas, įkandimas; (nu)dilginimas;F{wasp sting}vapsvos įgėlimasI{4}aštrus skausmas, dilgsėjimas, gėlimas; kančia;F{the stings of hunger}alkio skausmai;F{stings of remorse}sąžinės graužimasI{5}kandumas;F{to take the sting}l{(out of)}pašalintil{(žodžiųL{ir pan.})}kandumąI{6}jėga, aštrumas;F{his service has no sting in it}jo padavimas silpnasl{(tenise)}I{7}L{amer.}stambi apgavystė/suktybė; policijos paspęstos pinklėsl{(nusikaltėliams sugauti)}S{&loz;}X{sting in the tail}pats nemaloniausias dalykas –l{(pasakojimoL{ir pan.})}pabaigojeS{&rArr;}E{v}(stung)I{1}(į)gelti, (į)kąsti; kandžioti(s)l{(apie vabzdžius)}; (nu)dilgintiI{2}sukelti/jausti aštrų skausmą; deginti;F{iodine stings}jodas deginaI{3}graužtil{(apie dūmus;L{t. p.}L{prk.})};F{his conscience stung him sharply}jį smarkiai graužė sąžinėI{4}paskatinti;F{her words stung him into action}jos žodžiai jį paskatino veiktiI{5}L{šnek.}nulupti, apsukti;F{he was stung for £5}jį apsuko 5 svaraisI{6}L{šnek.}pasiskolintil{(for – kiek)}
+0{stinger}['st&#618;&#331;&#601;]E{n}I{1}L{amer.}gylys, geluonisI{2}geliantis/kandantis vabzdys/šliužasI{3}dilgus augalasI{4}L{šnek.}smarkus smūgisI{5}L{šnek.}kandi replikaI{6}L{šnek.}degtinės ir mėtų likerio kokteilis; degtinė su gazuotu vandeniu
+0{stingily}['st&#618;&#331;d&#658;&#618;l&#618;]E{adv}šykščiai
+0{stinginess}['st&#618;&#331;d&#658;&#618;n&#618;s]E{n}šykštumas
+0{stinging}['st&#618;&#331;&#618;&#331;]E{a}I{1}geliantis; dilginantis, dilgusI{2}aštrus; kandus;F{stinging pain}aštrus skausmas;F{stinging words}kandūs žodžiaiI{3}turintis geluonį
+0{stingy^{1}}['st&#618;nd&#658;&#618;]E{a}I{1}šykštusI{2}menkas, negausus;F{stingy crop}menkas/mažas derlius
+0{stingy^{2}}['st&#618;&#331;&#618;]E{a}geliantis; dilgus
+0{stink}[st&#618;&#331;k]S{&rArr;}E{n}I{1}dvokas, dvokimas, smarvėI{2}L{šnek.}nemaloni sensacija, skandalas;F{to make/raise/create a stink}pakelti skandalą, skųstisS{&loz;}X{like stink}L{šnek.}labai smarkiail{(ką daryti)}S{&rArr;}E{v}(stank, stunk; stunk)I{1}dvokti, smirdėtil{(of – kuo)}I{2}L{prk.}L{šnek.}smirdėti, būti nemaloniam/nekenčiamam;F{this book stinks}tai šlykšti/sumauta knygpalaikėS{o}N{1{stink out}}L{šnek.}prismardinti;1{stink up}L{amer.}A{=R{stink out}}S{&loz;}X{to stink of money}L{šnek.}būti labai turtingam
+0{stink-bomb}['st&#618;&#331;kb&#596;m]E{n}bomba, pripildyta dvokiančių dujų
+0{stinkbug}['st&#618;&#331;kb&#652;g]E{n}L{amer.}blakė, smirdėlė
+0{stinker}['st&#618;&#331;k&#601;]E{n}L{šnek.}I{1}smirdžius, susmirdėlis, smirdėlius; smirdalasI{2}pašlemėkas, bjaurybė, šlykštuolisI{3}šlamštasl{(apie filmą, romanąL{ir pan.})}I{4}kankynė, bėda
+0{stinkeroo}[,st&#618;&#331;k&#601;'ru:]E{n}L{amer.}L{šnek.}A{=R{stinker}}2
+0{stinkhorn}['st&#618;&#331;kh&#596;:n]E{n}L{bot.}smirdeklis, paprastoji paniabudė
+0{stinking}['st&#618;&#331;k&#618;&#331;]E{a}I{1}dvokiantis, smirdintisI{2}L{šnek.}bjaurus, šlykštus;F{I’ve got a stinking cold}aš turiu šlykščią slogąS{&loz;}X{to be stinking rich}L{šnek.}turėti pinigų kaip mėšlo
+0{stinko}['st&#618;&#331;k&#601;u]E{a}L{sl.}girtas
+0{stinkstone}['st&#618;&#331;kst&#601;un]E{n}L{min.}dvokiančioji klintis
+0{stinkweed}['st&#618;&#331;kwi:d]E{n}dvokus augalas
+0{stinkwood}['st&#618;&#331;kwud]E{n}medis su dvokiančia mediena
+0{stinky}['st&#618;&#331;k&#618;]E{a}smardus, dvokus, dvokiantis
+0{stint}[st&#618;nt]S{&rArr;}E{n}I{1}užduotis; nustatytal{(darbo)}norma;F{one’s daily stint}dienos užduotisI{2}tarnybos/darbo laikasI{3}apribojimas, riba;F{to labour without stint}darbuotis negailint jėgųS{&rArr;}E{v}I{1}šykštauti, šykštėti; taupytil{(kito sąskaita)};F{he does not stint his praise}jis nešykšti pagyrimųI{2}apriboti; (pa)skirti užduotįI{3}E{refl}atsisakytil{(of – ko)}
+0{stipe}[sta&#618;p]E{n}L{bot.}l{(paparčioL{ir pan.})}stiebas;l{(grybo)}kotas
+0{stipend}['sta&#618;pend]E{n}I{1}alga, atlyginimasl{(ypač dvasininko)}I{2}L{ret.}stipendija
+0{stipendiary}[sta&#618;'pend&#618;&#601;r&#618;]S{&rArr;}E{a}I{1}gaunantis algąI{2}mokamasS{&rArr;}E{n}magistratas/dvasiškis, gaunantis valstybinę algą
+0{stipes}['sta&#618;pi:z]E{n}(E{pl}stipites['st&#618;p&#618;ti:z])A{=R{stipe}}
+0{stipple}['st&#618;pl]S{&rArr;}E{n}I{1}piešimas/graviravimas punktyru/taškuoteI{2}darbas, atliktas punktyru/taškuoteI{3}teptukas piešti punktyru/taškuoteS{&rArr;}E{v}piešti/graviruoti punktyru/taškuote
+0{stipulate^{1}}['st&#618;pjule&#618;t]E{v}I{1}kelti sąlygą; sąlygotil{(by)}I{2}nustatytil{(sutartyje)}; išlygtil{(for)};F{to stipulate a price}sulygti dėl kainos
+0{stipulate^{2}}['st&#618;pjul&#601;t]E{a}L{bot.}turintis prielapius
+0{stipulation}[,st&#618;pju'le&#618;&#643;n]E{n}I{1}sąlygojimas; išlyga;F{the only stipulation is...}vienintelė sąlyga ta...I{2}sulygimas, susitarimas
+0{stipule}['st&#618;pju:l]E{n}L{bot.}prielapis
+0{stir^{1}}[st&#601;:]S{&rArr;}E{n}I{1}judėjimas, krutėjimas;F{not a stir}niekas nė krustI{2}maišymas;F{to give smth a stir}pamaišyti kąI{3}sąmyšis, sujudimas;F{to cause/create a stir}sukelti sąmyšį/sensaciją;F{to make a great stir}sukelti visuotinį susidomėjimąS{&rArr;}E{v}I{1}(su)judėti, (su)krutėti; (su)judinti, (su)krutinti;F{something stirred in the grass}kažkas sukrutėjo žolėje;F{to stir out of this house}L{šnek.}pajudėti iš namų; išeitiI{2}maišyti, plaktiI{3}išjudinti, sukeltil{(L{t. p.}X{stir up})};F{to stir up the dust}sukelti dulkes;F{to stir the blood}išjudinti kraują, sukelti entuziazmą;F{to stir to action}sukelti į kovą;F{to stir to the depths}sujaudinti iki sielos gelmiųI{4}kilti, pabustil{(apie jausmus, mintį)}I{5}E{refl}sukrustiS{o}1{stir in}įmaišyti, įplaktil{(miltų, kiaušinįL{ir pan.})};1{stir up}X{a)}gerai išmaišyti; suplakti; drumsti;X{b)}sukelti, pažadintil{(smalsumąL{ir pan.})}; sukurstytil{(ginčą, pyktįL{ir pan.})};F{to stir up hatred}sukurstyti neapykantąS{&loz;}X{not to stir an eyelid}nė nemirktelėti, nenustebti; nesumišti;F{to stir abroad}išeiti iš namų, į gatvę;F{he’s always stirring it}L{šnek.}jis visada sukursto/suerzina/supykdo
+0{stir^{2}}E{n}L{sl.}kalėjimas
+0{stirabout}['st&#601;:r&#601;,baut]E{n}I{1}košėI{2}sąmyšis, sujudimas
+0{stir-crazy}['st&#601;:'kre&#618;z&#618;]E{a}L{šnek.}trenktas, beveik išprotėjęsl{(ypač dėl ilgo įkalinimo)}
+0{stir-fry}['st&#601;:fra&#618;]S{&rArr;}E{v}pakepinti riebaluosel{(pamaišant)}S{&rArr;}E{a}pakepintas, paskrudintasl{(apie mėsą, daržoves)}
+0{Stirlingshire}['st&#601;:l&#618;&#331;&#643;&#618;&#601;]E{n}Stirlingšyras
+0{stirps}[st&#601;:ps]E{n}(E{pl}stirpes['st&#601;:pi:z])L{teis.}giminė, šeimos protėvis; genealoginė linija
+0{stirrer}['st&#601;:r&#601;]E{n}I{1}maišiklis; maišyklė, maišytuvasI{2}maišytojasI{3}L{šnek.}sukėlėjas; kurstytojas;F{a stirrer of trouble}ramybės drumstėjas, nesantaikos sėjėjas
+0{stirring}['st&#601;:r&#618;&#331;]S{&rArr;}E{n}I{1}maišymas, plakimasI{2}E{pl}l{(jausmųL{ir pan.})}kilimas, pabudimas;F{the first stirrings of revolt}pirmieji maišto pasireiškimaiS{&rArr;}E{a}I{1}jaudinantis;F{stirring music}jaudinanti muzika;F{stirring times}laikotarpis, pilnas įvykiųI{2}veiklus, aktyvus; judrus
+0{stirrup}['st&#618;r&#601;p]E{n}I{1}balnakilpėI{2}L{anat.}l{(ausies)}kilpaI{3}L{tech.}ąselė; apkaba, sąvara; pavalkasI{4}L{jūr.}bugelis
+0{stirrup-cup}['st&#618;r&#601;pk&#652;p]E{n}atsisveikinimo taurėl{(išvykstant į kelionę)}
+0{stirrup-leather}['st&#618;r&#601;p,le&#601;]E{n}kilpsaitis
+0{stirrup-strap}['st&#618;r&#601;pstr&aelig;p]E{n}A{=R{stirrup-leather}}
+0{stitch}[st&#618;t&#643;]S{&rArr;}E{n}I{1}dygsnis; peltakys;F{to make large stitches}siūti dideliais dygsniaisI{2}siuvimas; siūlė;F{to put in stitches}L{med.}susiūti;F{to take out the stitches}L{med.}išimti siūlusI{3}l{(mezginio)}akis; mezgimo raštas;F{to drop [to take up] a stitch}nuleisti [pagauti] akįI{4}dieglys;F{I have a stitch in my side}man dieglys įsimetė į šoną, man diegia/varsto šonąI{5}L{šnek.}truputis, nedaug;F{he has not done a stitch of work}jis ničnieko nepadarėS{&loz;}X{he has not a dry stitch on}jis permirko iki paskutinio siūlelio;F{without a stitch of clothing, not a stitch on}nuogutėlaitis, visiškai nuogas;F{not to have a stitch to one’s back}S{&cong;}būti plikam kaip tilvikui, neturėti kuo apsirengti;F{a stitch in time saves nine}S{&cong;}tinginys du kartus dirba, šykštus du kartus moka;F{to be in stitches}L{šnek.}plyšti juokaisS{&rArr;}E{v}I{1}dygsniuoti; peltakiuoti; siūti; siuvinėtiI{2}L{med.}susiūtil{(žaizdą)}S{o}1{stitch down}pridygsniuoti;1{stitch up}X{a)}susiūtil{(L{t. p.}L{med.})};X{b)}sutvarkytil{(reikaląL{ir pan.})};X{c)}L{šnek.}neteisingai apkaltinti;X{d)}L{poligr.}brošiūruoti
+0{stitcher}['st&#618;t&#643;&#601;]E{n}I{1}dygsniuotojasI{2}peltakiavimo/dygsniavimo mašinaI{3}brošiūruotojas
+0{stitchwort}['st&#618;t&#643;w&#601;:t]E{n}L{bot.}(krūmokšninė) žliūgė
+0{stithy}['st&#618;&#618;]E{n}L{psn.},L{poet.}I{1}priekalasI{2}kalvė
+0{stiver}['sta&#618;v&#601;]E{n}L{ist.}smulkiausia monetal{(Olandijoje)}S{&loz;}X{not worth a stiver}nevertas nė skatiko;F{without a stiver}be skatiko;F{not to care a stiver}nė kiek nevertinti; nusispjauti
+0{stk.}L{sutr.}X{stock}atsarga, fondas;L{amer.}akcijos
+0{stoa}['st&#601;u&#601;]L{gr.}E{n}I{1}L{archit.}stojal{(dengta kolonada)}I{2}X{(the Stoa)}stoikų filosofijos mokykla
+0{stoat}[st&#601;ut]E{n}L{zool.}šermuonėlisl{(vasaros kailiu)}
+0{stochactic}[st&#601;'k&aelig;st&#618;k]E{a}L{spec.}stochastinis, atsitiktinis, tikimybinis
+0{stochastic}[st&#601;u'k&aelig;st&#618;k]E{a}stochastinis, atsitiktinis, tikimybinis
+0{stock}[st&#596;k]S{&rArr;}E{n}I{1}atsarga, ištekliai;l{(turimas, esamas)}kiekis;F{word stock}žodžių atsarga;F{stocks of flour and sugar}miltų ir cukraus atsargos;F{stock of plays}repertuaras;F{to take stock}X{a)}darytil{(prekių)}apskaitą;X{b)}kruopščiai apžiūrinėti; kritiškai įvertintil{(padėtįL{ir pan.})};F{in stock}esamas, turimasl{(apie prekesL{ir pan.})};F{stocks on hand}turimos atsargos;F{out of stock}išparduota, pasibaigėI{2}l{(prekių)}asortimentasI{3}L{ž. ū.}inventorius;F{live stock}gyvasis inventorius, gyvuliai;F{dead stock}negyvasis inventoriusI{4}l{(transporto priemonių)}parkasI{5}žaliava;F{paper stock}popieriaus žaliavaI{6}stiprus sultinysl{(sriubai)}I{7}L{ekon.}(pagrindinis) kapitalas; fondai;F{the stocks}valstybinė skolaI{8}L{fin.}akcija, akcijos; vertybiniai popieriai;F{watered stock}„praskiestosios“ akcijos;F{to take stock in}X{a)}pirkti akcijas; tapti dalininku;X{b)}L{šnek.}tikėti; teikti reikšmės;F{the government’s stock was high [low]L{prk.}vyriausybės akcijos kilo [smuko]I{9}L{amer.}akcinė bendrovėl{(L{t. p.}X{stock company})}I{10}L{teatr.}nuolatinė trupėl{(L{t. p.}X{stock company})};F{summer stock}vasaros gastrolės/repertuarasI{11}l{(medžio)}pagrindinis kamienas/liemuoI{12}l{(įrankioL{ir pan.})}atrama, ramstis, pagrindasI{13}l{(šautuvo)}buožė, apsodasI{14}l{(botago, meškerėsL{ir pan.})}kotasI{15}L{menk.}stuobrys, kelmas;F{to stand like a stock}stovėti kaip stuobriui/kelmuiI{16}protėvis; giminė, šeimyninė kilmė;F{he comes of good stock}jis (kilęs) iš geros šeimosI{17}padermė; rūšis, veislėI{18}rasėI{19}giminiškų kalbų grupėI{20}l{(kortų)}malka; neišdalintoji kortų dalisI{21}E{pl}L{ist.}trinkal{(bausmės įrenginys)}I{22}platus kaklaraištis, kaklaskarė, kaklajuostėl{(ypač dvasiškio)}I{23}L{bot.}poskiepisI{24}L{bot.}leukonijaI{25}L{tech.}l{(rato)}stebulėI{26}L{tech.}l{(staklių)}galvutėI{27}L{tech.}užleidimasI{28}L{jūr.}l{(inkaro)}štokasI{29}L{jūr.}stapelisI{30}L{metal.}įkrova, šichtaS{&loz;}X{on the stocks}ruošiamas, rengiamasl{(apie literatūros kūrinį)};F{stock and block}visas turtas;F{stocks and stones}X{a)}negyvi daiktai;X{b)}nejautrūs/bejausmiai žmonės;F{to put stock}l{(in)}vertintil{(ką)}S{&rArr;}E{v}I{1}aprūpinti, tiekti;F{to stock a farm}aprūpinti ūkį reikalingais įrengimaisI{2}turėtil{(parduotuvėje)};F{the shop stocks only cheap goods}krautuvėje yra (parduodamos) tik pigios prekėsI{3}laikyti; saugoti, prikrautil{(sandėlyje, spintojeL{ir pan.})}I{4}pritaisyti rankenasL{ir kt.}smulkias dalisI{5}leisti naujus ūgliusI{6}l{(L{ppr.}E{pass})}prileisti žuvųl{(į ežerą, upę)}S{o}1{stock up}apsirūpinti; (su)kauptil{(atsargas; on)}S{&rArr;}E{a}I{1}esamas, turimasl{(parduotuvėje)}I{2}įprastinis, šabloniškas;F{stock size}standartinis dydisI{3}veislinis;F{stock farm}gyvulininkystės ūkis/fermaI{4}L{fin.}akcinis; biržos;F{stock capital}akcinis/pagrindinis kapitalas;F{stock exchange}fondų biržaI{5}L{teatr.}repertuarinis
+0{stock-account}['st&#596;k&#601;'kaunt]E{n}L{ekon.}I{1}kapitalo sąskaitaI{2}vertybinių popierių sąskaitaI{3}prekių (atsargų) sąskaita
+0{stockade}[st&#596;'ke&#618;d]S{&rArr;}E{n}I{1}l{(gynybos)}užtvaraI{2}statinių tvoraI{3}L{amer.}kariškių kalėjimasS{&rArr;}E{v}aptverti statinių tvora
+0{stockbreeder}['st&#596;k,bri:d&#601;]E{n}gyvulių augintojas, gyvulininkas
+0{stockbreeding}['st&#596;k,bri:d&#618;&#331;]E{n}gyvulių auginimas, gyvulininkystė
+0{stockbroker}['st&#596;k,br&#601;uk&#601;]E{n}biržos makleris
+0{stockcar}['st&#596;kka:]E{n}I{1}standartinis automobilisl{(pritaikytas lenktynėms)}I{2}L{amer.}gyvulinis vagonas
+0{stockdove}['st&#596;kd&#652;v]E{n}L{zool.}karvelis uldukas
+0{stocker}['st&#596;k&#601;]E{n}L{ž. ū.}penimis jautukas/veršis
+0{stock-farmer}['st&#596;kfa:m&#601;]E{n}A{=R{stockbreeder}}
+0{stockfish}['st&#596;kf&#618;&#643;]E{n}l{(ore, saulėje)}džiovinta menkė
+0{stockholder}['st&#596;k,h&#601;uld&#601;]E{n}l{(ypačL{amer.})}akcininkas
+0{stockholding}['st&#596;kh&#601;uld&#618;&#331;]E{n}žaliavų/gaminių atsargos/sandėliavimas
+0{Stockholm}['st&#596;kh&#601;um]E{n}Stokholmas
+0{stockily}['st&#596;k&#618;l&#618;]E{adv}kresnai
+0{stockiness}['st&#596;k&#618;n&#618;s]E{n}kresnumas
+0{stockinet(te)}[,st&#596;k&#618;'net]E{n}trikotažasl{(medžiaga)}
+0{stocking}['st&#596;k&#618;&#331;]E{n}I{1}kojinė;F{Christmas stocking}kojinė vaikų Kalėdų dovanoms;F{in one’s stocking feet}vienomis kojinėmisI{2}kojų dangal{(plunksnos, plaukai)};F{horse with one white stocking}arklys su viena balta koja
+0{stocking-cap}['st&#596;k&#618;&#331;k&aelig;p]E{n}megztinė kepuraitė su bumbulu
+0{stockinged}['st&#596;k&#618;&#331;d]E{a}su kojinėmisl{(apsiavęs kojinėmis, bet be batų)}
+0{stocking-filler}['st&#596;k&#618;&#331;f&#618;l&#601;]E{n}Kalėdų dovanėlėl{(dedama į kojinę)}
+0{stocking-stuffer}['st&#596;k&#618;&#331;st&#652;f&#601;]E{n}L{amer.}L{šnek.}A{=R{stocking-filler}}
+0{stock-in-trade}[,st&#596;k&#618;n'tre&#618;d]E{n}I{1}prekių atsarga/ištekliaiI{2}prekybos reikmenys/įrengimaiI{3}l{(kieno)}įprastinė priemonė; savitas bruožas
+0{stockist}['st&#596;k&#618;st]E{n}prekybininkasl{ar}firma, prekiaujantys tam tikro asortimento prekėmis
+0{stockjobber}['st&#596;k,d&#658;&#596;b&#601;]E{n}L{menk.}biržos makleris/spekuliantas
+0{stockjobbery, stockjobbing}['st&#596;k,d&#658;&#596;b&#601;r&#618;, -,d&#658;&#596;b&#618;&#331;]E{n}L{menk.}spekuliaciniai biržos sandoriai
+0{stocklist}['st&#596;kl&#618;st]E{n}biržos biuletenisl{(skelbiantis prekių asortimentą)}; akcijų kurso lentelė
+0{stockman}['st&#596;km&#601;n]E{n}(E{pl}-men[-m&#601;n])I{1}gyvulininkystės fermos darbininkasI{2}L{amer.}sandėlininkasI{3}L{austral.},L{amer.}A{=R{stockbreeder}}
+0{stock-market}['st&#596;k,ma:k&#618;t]E{n}I{1}fondų biržaI{2}fondų biržos operacijos;F{to play the stock-market}užsiiminėti smulkiomis biržos operacijomis
+0{stockout}['st&#596;kaut]E{n}pageidaujamos prekės nebuvimasl{(parduotuvėje)}
+0{stockpile}['st&#596;kpa&#618;l]S{&rArr;}E{n}I{1}l{(sukaupta)}atsarga, rezervasI{2}krūva, rietuvėS{&rArr;}E{v}I{1}kaupti/daryti atsargas; sudaryti atsargos fondąI{2}krauti į rietuves
+0{stockpiling}['st&#596;k,pa&#618;l&#618;&#331;]E{n}atsargos fondo sudarymas; sankaupos
+0{stockpot}['st&#596;kp&#596;t]E{n}puodas stipriam sultiniui virti ir laikyti
+0{stock-raising}['st&#596;k,re&#618;z&#618;&#331;]S{&rArr;}E{n}gyvulininkystėS{&rArr;}E{a}gyvulininkystės
+0{stockrider}['st&#596;k,ra&#618;d&#601;]E{n}L{austral.}raitas piemuo, kaubojus
+0{stockroom}['st&#596;krum]E{n}l{(prekių)}sandėlis, saugykla
+0{stock-saddle}['st&#596;k,s&aelig;dl]E{n}L{amer.}kaubojiškas balnas
+0{stock-still}S{&rArr;}E{a}[,st&#596;k'st&#618;l]nejudamasS{&rArr;}E{adv}[,st&#596;k'st&#618;l]nejudėdamas, kaip stulpas;F{to stand stock-still}nejudėti, stovėti kaip įbestam; suakmenėti
+0{stocktaking}['st&#596;k,te&#618;k&#618;&#331;]E{n}I{1}l{(prekių)}inventorizacija, apskaita; inventoriaus patikrinimasI{2}l{(padėties, rezultatųL{ir pan.})}apžvalga, kritiškas peržiūrėjimas
+0{stocky}['st&#596;k&#618;]E{a}kresnas
+0{stockyard}['st&#596;kja:d]E{n}aptvaras, žardis, diendaržis
+0{stodge}[st&#596;d&#658;]L{menk.}S{&rArr;}E{n}I{1}sunkus/sotus valgisI{2}sunkybė; nuobodus skaitalasI{3}nuobodal{(žmogus)}S{&rArr;}E{v}I{1}godžiai valgyti; (pri)ryti, prikimštiI{2}kėblinti, maknoti
+0{stodginess}['st&#596;d&#658;&#618;n&#618;s]E{n}nuobodumas
+0{stodgy}['st&#596;d&#658;&#618;]E{a}L{menk.}I{1}sunkus, sotusl{(apie maistą)}I{2}nuobodus, neįdomusI{3}perkrautasl{(detalių)}, sunkusl{(apie stilių, knygą)}
+0{stoep}[stu:p]E{n}veranda priešais namąl{(P. Afrikoje)}
+0{stogie, stogy}['st&#601;ud&#658;&#618;]E{n}L{amer.}I{1}sunkusl{(aulinis)}batasI{2}pigus cigaras
+0{stoic}['st&#601;u&#618;k]S{&rArr;}E{n}stoikasl{(L{t. p.}L{prk.})}S{&rArr;}E{a}stoiškasl{(L{t. p.}L{prk.})}
+0{stoical}['st&#601;u&#618;kl]A{=R{stoic}}E{a}
+0{stoichiometry}[,st&#596;&#618;k&#618;'&#596;m&#618;tr&#618;]E{n}L{chem.}stechiometrija
+0{stoicism}['st&#601;u&#618;s&#618;zm]E{n}stoicizmas
+0{stoke}[st&#601;uk]E{v}l{(L{džn.}X{stoke up})}pridėti, pripiltil{(kuro)}; pakrautil{(krosnį)}; kūrenti; (pa)kurstytil{(L{t. p.}L{prk.})};F{to stoke smb’s anger}kurstyti kieno pyktįS{o}1{stoke up}L{šnek.}pri(si)kimšti, pri(si)valgyti; prisipirktil{(on)}
+0{stokehold}['st&#601;ukh&#601;uld]E{n}L{jūr.}katilinė
+0{stokehole}['st&#601;ukh&#601;ul]E{n}I{1}kūryklos ertmė/angal{(katilinėje)}I{2}A{=R{stokehold}}
+0{stoker}['st&#601;uk&#601;]E{n}I{1}krosniakurys, kūrikasI{2}mechaninė kūrykla;L{glžk.}stokeris
+0{stokes}[st&#601;uks]E{n}(E{pl}stokes)L{fiz.}stoksasl{(kinematinės klampos vienetas)}
+0{STOL}L{sutr.}X{short take off and landing}trumpesnio kilimo ir tūpimo kelio lėktuvas
+0{stole^{1}}[st&#601;ul]E{n}I{1}(kailinė) moteriška šerpė, boaI{2}L{bažn.}stula
+0{stole^{2}}E{past}A{L{žr.}R{steal}}E{v}
+0{stolen}['st&#601;ulX{&#601;}n]E{pII}A{L{žr.}R{steal}}E{v}
+0{stolid}['st&#596;l&#618;d]E{a}flegmatiškas, bejausmis, beaistris; santūrus
+0{stolidity}[st&#601;'l&#618;d&#601;t&#618;]E{n}flegmatiškumas, bejausmiškumas, beaistriškumas
+0{stolidly}['st&#596;l&#618;dl&#618;]E{adv}flegmatiškai
+0{stolidness}['st&#596;l&#618;dn&#618;s]E{n}flegmatiškumas
+0{stolon}['st&#601;ul&#596;n]E{n}L{bot.},L{zool.}stolonas;l{(L{bot.}L{t. p.})}palaipa
+0{stoma}['st&#601;um&#601;]E{n}(E{pl}stomas, stomata)L{bot.},L{zool.}žiotelė, žiotelės
+0{stomach}['st&#652;m&#601;k]S{&rArr;}E{n}I{1}skrandis;F{disordered stomach}skrandžio sutrikimas;F{on an empty stomach}nevalgiusI{2}pilvas;F{to lie on one’s stomach}gulėti ant pilvoI{3}apetitasl{(for)}S{&loz;}X{proud/high stomach}išdidumas, išpuikimas;F{to turn smb’s stomach}X{a)}pykinti, versti ką vemti;X{b)}(su)kelti kam pasibjaurėjimą;F{to have no stomach}l{(for)}neturėti jokio noro, būti nelinkusiaml{(ką daryti)};F{to have a strong stomach}nesidygėti; būti nelabai jautriamS{&rArr;}E{v}I{1}galėti (su)valgyti/suvirškintiI{2}L{prk.}pakelti, pakęsti, iškęsti;F{to stomach an insult}nukęsti įžeidimą
+0{stomachache}['st&#652;m&#601;ke&#618;k]E{n}pilvo/skrandžio skausmas
+0{stomach-churning}['st&#652;m&#601;k,t&#643;&#601;:n&#618;&#331;]E{a}bjaurus, verčiantis vemti
+0{stomacher}['st&#652;m&#601;k&#601;]E{n}L{ist.}žemyn siaurėjantis korsažo priekis, korsažas
+0{stomachful}['st&#652;m&#601;kful]E{n}L{šnek.}l{(ko)}pakankamas kiekis,S{&cong;}iki kaklo;F{I’ve had my stomachful of his bad behaviour}jo blogas elgesys man įgriso iki gyvo kaulo
+0{stomachic}[st&#601;'m&aelig;k&#618;k]S{&rArr;}E{a}I{1}skrandžioI{2}skatinantis virškinimąS{&rArr;}E{n}vaistai nuo skrandžio; virškinimą skatinantys vaistai
+0{stomach-pump}['st&#652;m&#601;kp&#652;mp]E{n}L{med.}skrandžio zondas
+0{stomach-tooth}['st&#652;m&#601;ktu:&theta;]E{n}apatinisl{(pieninis)}iltinis dantis
+0{stomata}['st&#601;um&#601;t&#601;]E{pl}A{L{žr.}R{stoma}}
+0{stomatitis}[,st&#601;um&#601;'ta&#618;t&#618;s]E{n}L{med.}stomatitas
+0{stomatologist}[,st&#601;um&#601;'t&#596;l&#601;d&#658;&#618;st]E{n}stomatologas
+0{stomatology}[,st&#601;um&#601;'t&#596;l&#601;d&#658;&#618;]E{n}stomatologija
+0{stomp}[st&#596;mp]S{&rArr;}E{n}L{amer.}stompasl{(ritmingas šokis)}, tryptinisS{&rArr;}E{v}trepenti, trepsėti; trypsėti, tryptil{(šokti)}
+0{stone}[st&#601;un]S{&rArr;}E{n}I{1}akmuol{(L{t. p.}statybinė medžiaga)};F{head stone}kertinis akmuo;F{meteoric stone}aerolitas, akmeninis meteoritas;F{to break stones}X{a)}skaldyti akmenis;X{b)}L{prk.}sunkiai dirbti; sunkiu darbu užsidirbti duoną;F{to build of stone}statyti iš akmens;F{paving stone}grindinio akmuo;F{heart of stone}L{prk.}akmeninė širdisI{2}paminklinis akmuo, antkapisI{3}brangakmenisl{(L{t. p.}X{gem/precious stone})}I{4}l{(slyvos, vyšnios, abrikosoL{ir pan.})}kauliukas;l{(apelsino, citrinosL{ir kt.}vaisiaus)}sėkla, grūdelisI{5}l{(žaidžiamasis)}kauliukasI{6}l{(krušos)}kruopaI{7}galąstuvas, tekėlasI{8}girnakmenis, girnapusėI{9}L{med.}akmuo; akmenligėI{10}(E{pl}stone, stones) stonasl{(svorio matas D. Britanijoje; = 6,35 kg)}S{&loz;}X{to mark with a white stone}pažymėti kaip džiugią/laimingą dieną;F{a stone’s throw away, within a stone’s throw}l{(of)}netoli, artil{(ko)};F{to cast/throw a stone}l{(at)}S{&cong;}akmeniu mestil{(į)}; kaltinti, užsipulti;F{to leave no stone unturned}padaryti visa, kas įmanoma, dėti visas pastangas;F{not a stone was left standing}S{&cong;}neliko akmens ant akmensS{&rArr;}E{a}I{1}akmeninis; mūrinis;F{stone implements}akmeniniai įrankiai;F{the Stone Age}akmens amžiusI{2}keraminis, molinis;F{stone mug}molinis puodukasS{&rArr;}E{v}I{1}grįsti/aptaisyti/apdailinti akmeniuI{2}mėtyti akmenimis; užmėtyti/užmušti akmenimisl{(L{džn.}X{stone to death})}I{3}išimti kauliukusl{(iš vaisių)}I{4}galąstil{(galąstuvu ar į akmenį)}S{&rArr;}E{adv}visiškai;F{stone insane}visiškai išprotėjęs/pakvaišęs
+0{stone-blind}['st&#601;un'bla&#618;nd]E{a}visiškai aklas
+0{stonebreaker}['st&#601;un,bre&#618;k&#601;]E{n}I{1}akmenskaldysI{2}akmenskaldėl{(mašina)}
+0{stone-broke}['st&#601;un'br&#601;uk]E{a}L{šnek.}visiškai nusigyvenęs
+0{stone-cast}['st&#601;unka:st]E{n}nedidelis nuotolis
+0{stonechat}['st&#601;unt&#643;&aelig;t]E{n}L{zool.}juodagalvė kiauliukėl{(paukštis)}
+0{stone-coal}['st&#601;unk&#601;ul]E{n}antracitas
+0{stone-cold}['st&#601;un'k&#601;uld]E{a}šaltas kaip ledas, visiškai šaltasS{&loz;}X{stone-cold sober}L{šnek.}visiškai blaivus
+0{stone-colour}['st&#601;un,k&#652;l&#601;]S{&rArr;}E{n}pilka spalvaS{&rArr;}E{a}pilkas
+0{stonecrop}['st&#601;unkr&#596;p]E{n}L{bot.}aitrusis šilokas
+0{stone-crusher}['st&#601;un,kr&#652;&#643;&#601;]E{n}akmentrupėl{(mašina)}
+0{stone-curlew}['st&#601;un,k&#601;:lju:]E{n}L{zool.}storkulnis
+0{stonecutter}['st&#601;un,k&#652;t&#601;]E{n}I{1}akmentašysI{2}akmenpjūklis
+0{stoned}[st&#601;und]E{a}I{1}išimtais kauliukaisl{(apie vaisius)}I{2}E{predic}L{šnek.}girtutėlis, negyvai nusigėręsI{3}E{predic}L{šnek.}apdujęs/apsvaigęs nuo narkotikų
+0{stone-dead}['st&#601;un'ded]E{a}miręs, negyvas
+0{stone-deaf}['st&#601;un'def]E{a}visiškai kurčias
+0{stone-fruit}['st&#601;unfru:t]E{n}L{bot.}kaulavaisis
+0{stoneground}['st&#601;ungraund]E{a}(su)maltas girnomisl{(apie miltus)}
+0{stoneless}['st&#601;unl&#601;s]E{a}be kauliukų, išimtais kauliukaisl{(apie vaisius)}
+0{stone-marten}['st&#601;un,ma:t&#618;n]E{n}L{zool.}akmeninė/naminė kiaunė
+0{stonemason}['st&#601;un,me&#618;sn]E{n}mūrininkas
+0{stone-pine}['st&#601;unpa&#618;n]E{n}L{bot.}pinija, italinė pušis
+0{stone-pit}['st&#601;unp&#618;t]E{n}akmenų skaldykla/kirtykla/karjeras
+0{stone-still}['st&#601;un'st&#618;l]E{a}kaip įbestas
+0{stonewall}[,st&#601;un'w&#596;:l]E{v}I{1}(pa)daryti obstrukciją; daryti kliūtis, trukdyti, sabotuotiI{2}žaisti tik gynyboje, atsargiai žaistil{(kriketą)}
+0{stonewalling}[,st&#601;un'w&#596;:l&#618;&#331;]E{n}obstrukcija; kliūčių darymas; priešinimasis, pasipriešinimas
+0{stoneware}['st&#601;unw&#604;&#601;]E{n}L{kuop.}moliniai indai, keramikos dirbiniai, keramika
+0{stonewashed}['st&#601;unw&#596;&#643;t]E{a}skalbtas su abrazyvaisl{(apie džinsus)}
+0{stonework}['st&#601;unw&#601;:k]E{n}I{1}mūrijimas; mūro/akmens darbaiI{2}mūrinys, mūras
+0{stonewort}['st&#601;unw&#601;:t]E{n}L{bot.}žaliadumbliai
+0{stonily}['st&#601;un&#618;l&#618;]E{adv}akmeniniu žvilgsniu, pastėrusiu žvilgsniu
+0{stoniness}['st&#601;un&#618;n&#618;s]E{n}suakmenėjimas
+0{stonkered}['st&#596;&#331;k&#601;d]E{a}L{austral.}L{šnek.}nusikamavęs
+0{stonking}['st&#596;&#331;k&#618;&#331;]E{a}L{šnek.}nuostabus, puikus
+0{stony}['st&#601;un&#618;]E{a}I{1}akmenuotas, akmeningasI{2}akmeninis, kietasI{3}L{prk.}akmeninis, negailestingas;F{stony heart}akmeninė širdis;F{stony stare}sustingęs/pastėręs žvilgsnisI{4}su kauliukaisl{(apie vaisių)}I{5}A{=R{stony-broke}}
+0{stony-broke}[,st&#601;un&#618;'br&#601;uk]E{a}L{šnek.}visiškai nusigyvenęs
+0{stony-faced}['st&#601;un&#618;'fe&#618;st]E{a}akmeniniu veidu, bejausmis, abejingas
+0{stony-hearted}['st&#601;un&#618;'ha:t&#618;d]E{a}akmenširdis, kietaširdis, negailestingas
+0{stood}[stud]E{past}l{ir}E{pII}A{L{žr.}R{stand}}E{v}
+0{stooge}[stu:d&#658;]S{&rArr;}E{n}I{1}L{teatr.}komiko partneris; pajuokiamas aktoriusl{(komedijoje)}I{2}L{šnek.}statytinis; marionetėl{(kieno rankose)};l{(kieno)}pastumdėlisS{&rArr;}E{v}I{1}L{teatr.}būti komiko partneriuI{2}L{šnek.}būti statytiniu/marionetel{(for)}S{o}1{stooge about/around}L{šnek.}trintis aplink, valkiotis
+0{stook}[stuk]S{&rArr;}E{n}kupeta, gubaS{&rArr;}E{v}krauti į kupetas/gubas
+0{stool}[stu:l]S{&rArr;}E{n}I{1}taburetė, sėdynė; suolelis kojoms, pakojaI{2}L{prk.}kėdė, sostasl{(valdžios simbolis)}I{3}L{bažn.}klauptas; F{stool of repentance}X{a)}L{ist.}gėdos suolasl{(Škotijos bažnyčioje)};X{b)}L{prk.}viešas pažeminimasI{4}L{amer.}tualeto sėdynė, naktipuodis; tualetasI{5}L{med.}nusilengvinimas, išsituštinimas;E{pl}išmatos;F{to go to stool}išsituštintiI{6}šaknis, kelmas, stuobrysl{(leidžiantis atžalas)}I{7}atžalos, atlankos; atžala, atlankaI{8}L{amer.}paukštis, pritvirtintas prie karties, paukščio iškamšal{(jaukas)}I{9}L{amer.},L{psn.}palangėS{&loz;}X{to fall between two stools}S{&cong;}norėti vienu šūviu du zuikius nušautil{(ir nepataikyti nė į vieną)}S{&rArr;}E{v}leisti atžalasl{(iš šaknų, kelmo;L{t. p.}X{stool out/forth})}
+0{stool-ball}['stu:lb&#596;:l]E{n}žaidimas, panašus į kriketą
+0{stoolie}['stu:l&#618;]E{n}L{amer.}L{šnek.}A{=R{stoolpigeon}}2
+0{stoolpigeon}['stu:l,p&#618;d&#658;&#618;n]E{n}I{1}balandisl{(jaukas)}I{2}L{šnek.}provokatorius, įskundėjas
+0{stoop^{1}}[stu:p]S{&rArr;}E{n}I{1}susikūprinimas, susilenkimas; pakumpimasI{2}nusižeminimasI{3}l{(sakalo, erelioL{ir pan.})}staigus kritimasS{&rArr;}E{v}I{1}kūprinti(s); susikūprinti, pakumptiI{2}pa(si)lenkti, nu(si)lenktil{(L{t. p.}X{stoop down})}I{3}nusižeminti, nusileisti, nusmuktil{(to – iki)};F{he stooped to stealing}jis nusmuko iki to, kad pradėjo vogtiI{4}greitai kristi žemynl{(apie paukštį;L{t. p.}X{stoop down})}
+0{stoop^{2}}E{n}L{amer.}atviras prieangis
+0{stooping}['stu:p&#618;&#331;]E{a}pasikumpinęs, pakumpęs
+0{stop}[st&#596;p]S{&rArr;}E{n}I{1}sustojimas; (su)stabdymas, sulaikymas;F{without stop}be sustojimo;F{to come to a stop}sustoti;F{to come to a full stop}X{a)}visiškai sustoti; pasibaigti;X{b)}L{prk.}patekti į aklavietę;F{to bring smth to a stop}sustabdyti kąI{2}pertrauka, pauzė;F{to have/make a ten-minute stop for coffee}padaryti 10 minučių pertrauką atsigerti kavosI{3}apsistojimas, trumpas sustojimasl{(at)};F{to make a stop in Vilnius}apsistoti trumpam VilniujeI{4}stotelė, sustojimo vieta;F{to miss one’s stop}pravažiuoti savo stotelęI{5}sustojimo ženklasI{6}skyrybos ženklas;F{full stop}taškasI{7}užkimšimas, užkišimas, užtaisymasI{8}A{=R{stopper}}1I{9}L{muz.}vožtuvas, ventilis;l{(vargonų)}registrasI{10}L{fon.}sprogstamasis priebalsisl{(L{t. p.}X{stop consonant})}I{11}A{=R{stop-order}}2I{12}L{tech.}stabdiklis, ribotuvas, užkirtiklis; atmušasI{13}L{fot.}diafragmaS{&loz;}X{to pull out all the stops}L{šnek.}X{a)}stengtis iš visų jėgų; siekti tikslol{(bet kokiomis priemonėmis)};X{b)}reikšti jausmus nesivaržant;F{to put a stop to smth}nutraukti ką, padaryti kam galą;F{to bring smb to a (dead) stop}priversti ką nutiltiS{&rArr;}E{v}I{1}sustoti; (su)stabdyti; (su)laikyti;F{to stop dead}staigiai sustoti;F{my watch has stopped}mano laikrodis sustojo/stovi;F{to stop the car [the bleeding]sustabdyti automobilį [kraujavimą];F{someone stopped me in the street and asked the way}mane sustabdė gatvėje ir paklausė kelio;F{to stop some minutes}sustoti/stovėti keletą minučių;F{do not stop}tęskite;F{stop thief!}laikykit vagį!;F{stop a moment!}palaukite!I{2}liautis, nutraukti, baigti;F{stop grumbling!}liaukis murmėjęs!;F{to stop payment}X{a)}liautis mokėjus mokesčius;X{b)}subankrutuoti;F{to stop the war}nutraukti karą;F{we stopped work at six}mes baigėme darbą šeštą valandąI{3}nustoti, baigtis, nutrūkti;F{they were waiting for the rain to stop}jie laukė, kol baigsis/nustos lietus;F{the road stops at the forest}kelias baigiasi prie miškoI{4}sulaikyti, sukliudytil{(from)};F{they could not stop us from doing it}jis negalėjo mums sukliudyti tai padarytiI{5}užkirstil{(kelią)}, užblokuotil{(L{t. p.}X{stop up})};F{this must be stopped}tam reikia užkirsti kelią;F{to stop the way}pastoti keliąI{6}užkišti, užkimšti, užtaisytil{(L{t. p.}X{stop up})};F{to stop the bottle}užkimšti butelį;F{to stop one’s ears}užsikimšti ausis;F{to stop a hole}užtaisyti skylę;F{to stop a hole with clay}užglaistyti/užlipdyti skylę moliu;F{to stop a tooth}užplombuoti dantį;F{to stop smb’s mouth}L{prk.}užkišti/užčiaupti/užkimšti kam burnąI{7}atskaityti, išskaitytil{(from)};F{the sum must be stopped from his salary}suma privalo būti išskaityta iš jo atlyginimoI{8}E{refl}susilaikyti;F{he tried to stop himself (from) telling her}jis stengėsi jai nieko nesakytiI{9}L{šnek.}apsistoti; pabūti, pasilikti;F{to stop with friends}apsistoti/viešėti pas draugus;F{to stop at home}likti namie;F{I won’t sit down – I’m not stopping}aš nesisėsiu – aš trumpamI{10}dėti skyrybos ženklusI{11}atmušti, atremtil{(smūgį; bokse)}I{12}L{muz.}paspausti, nuspaustil{(vožtuvą, ventilį)}; prispaustil{(stygą)}I{13}L{jūr.}fiksuoti, (pri)tvirtintil{(lynąL{ir pan.})}S{o}1{stop away}nebūti, nedalyvautil{(from)};1{stop back}L{amer.}(su)grįžti, vėl ateiti;1{stop behind}pasiliktil{(po susirinkimoL{ir pan.})};N{1{stop by}}L{šnek.}užeiti, užsukti;1{stop down}L{fot.}užtemdyti lęšį diafragma;1{stop in}L{šnek.}X{a)}likti namie;X{b)}A{=R{stop by}};X{c)}pasilikti po pamokųl{(bausmė)};N{1{stop off}}L{šnek.}apsistoti, trumpam sustotil{(kelyje, kelionėje)};1{stop on}pasilikti ilgiaul{(mokykloje, koledže)};1{stop out}X{a)}užsibūti lauke/svetur;X{b)}negrįžti į darbą, tęsti streiką;X{c)}L{amer.}laikinai nutraukti studijas; imti akademines atostogas;1{stop over}A{=R{stop off}};1{stop up}X{a)}užkišti, užlieti, užlipdyti, užtaisyti;X{b)}L{šnek.}neiti miegoti, užsisėdėtiS{&loz;}X{to stop a bullet/shell}L{sl.}būti sužeistam/nukautam;F{to stop at nothing}nepaisyti jokių kliūčių
+0{stopbank}['st&#596;pb&aelig;&#331;k]E{n}L{austral.}apsauginė krantinė
+0{stopcock}['st&#596;pk&#596;k]E{n}L{tech.}čiaupas
+0{stopgap}['st&#596;pg&aelig;p]S{&rArr;}E{n}I{1}laikina priemonėl{(L{t. p.}X{stopgap measure})}I{2}laikinas pavaduotojasS{&rArr;}E{a}laikinas
+0{stop-go}['st&#596;p'g&#601;u]E{a}E{attr}pakaitomis stimuliuojantis ir sulaikantis ekonomikos augimąl{(apie politikąL{ir pan.})}
+0{stoplight}['st&#596;pla&#618;t]E{n}I{1}raudona šviesoforo šviesa;L{amer.}šviesoforasI{2}L{aut.}stabdymo signalas;F{stoplight switch}stabdymo signalo jungiklis
+0{stopoff}['st&#596;p&#596;f]E{n}A{=R{stopover}}
+0{stop-order}['st&#596;p,&#596;:d&#601;]E{n}L{fin.}I{1}nurodymas biržos makleriui parduoti/pirkti akcijas atsižvelgiant į kurso svyravimąI{2}nurodymas bankui neapmokėtil{(čekio, vekselio)}
+0{stopover}['st&#596;p,&#601;uv&#601;]E{n}I{1}trumpas sustojimasl{(kelyje)}I{2}sustojimasl{(L{ppr.}skrendant su tranzitiniu bilietu)}; F{stopover ticket}tranzitinis bilietas
+0{stoppage}['st&#596;p&#618;d&#658;]E{n}I{1}sustojimas; sustabdymas, sulaikymasI{2}l{(darbo, gamybos)}nutraukimas; streikasI{3}l{(L{ppr.}E{pl})}L{fin.}išskaitymasI{4}užsikimšimas, užsikišimas; užakimas
+0{stopper}['st&#596;p&#601;]S{&rArr;}E{n}I{1}kamštis, užkamšalas, kaištisI{2}L{šnek.}tai, kas patraukia dėmesį; gražumėlisI{3}L{tech.}stabdiklis, užkirtiklis;F{screw stopper}ribotuvas, sraigtinis fiksatoriusS{&loz;}X{to put a stopper on smth}L{šnek.}nutraukti ką, padaryti kam galąS{&rArr;}E{v}užkišti, užkimšti
+0{stopping}['st&#596;p&#618;&#331;]E{n}I{1}sustojimas, (su)stabdymasL{ir kt.}A{L{žr.}R{stop}}E{v}; F{“no stopping”}„sustoti draudžiama“I{2}l{(danties)}plomba
+0{stopple}['st&#596;pl]L{ret.}S{&rArr;}E{n}kaištis, kamštisS{&rArr;}E{v}užkišti, užkimšti
+0{stop-press}['st&#596;p,pres]E{n}nepaprastas, specialus pranešimas, „paskutinę valandą“l{(laikraštyje)}; paskutinės/naujausios žiniosl{(L{t. p.}X{stop-press news})}
+0{stopwatch}['st&#596;pw&#596;t&#643;]E{n}laikmatis, chronometras
+0{storage}['st&#596;:r&#618;d&#658;]E{n}I{1}laikymas, saugojimasl{(sandėlyjeL{ir pan.})}; sandėliavimas;F{to put smth in storage}atiduoti ką saugotiI{2}sandėlis, saugykla;F{cold storage}X{a)}šaldykla, šaldytuvai;X{b)}laikymas šaldyklojeI{3}užmokestis už laikymą sandėlyje/šaldyklojeI{4}L{spec.}l{(energijos)}(su)kaupimas, akumuliavimas;F{atomic energy storage}atominė baterijaI{5}L{komp.}atminties įrenginys; atmintis;F{storage cell}atminties ląstelėS{&loz;}X{to put in cold storage}atidėtil{(ko įgyvendinimą)}
+0{storax}['st&#596;:r&#601;ks]E{n}L{bot.}stiraksas
+0{store}[st&#596;:]S{&rArr;}E{n}I{1}atsarga;F{in store}atsargoje, atsargai; paruoštas;F{to lay in store for the winter}sukaupti/paruošti atsargas žiemai;F{I have a surprise in store for you}aš turiu paruošęs jums netikėtumą;F{what does the future hold in store for us?}ką mums žada ateitis?, kas laukia mūsų ateityje?I{2}E{pl}l{(specialios paskirties)}atsargos;F{military stores}karinės atsargosI{3}sandėlis, saugykla;F{to deposit smth in a store}atiduoti ką į sandėlįl{(saugoti)}I{4}l{(ypačL{amer.})}parduotuvė, krautuvė;F{variety store}galanterijos parduotuvė;F{department/general store}universalinė parduotuvėI{5}gausybė, daugybėl{(of)};F{a store of impressions}daugybė įspūdžiųI{6}E{attr}atsarginis, paliktas vėlesniam naudojimuiI{7}E{attr}l{(ypačL{amer.})}gatavas; pirktas krautuvėjel{(ne naminis;L{t. p.}X{store bought})};F{store clothes}gatavi drabužiaiS{&loz;}X{to set (great) store}l{(by, on)}laikyti (itin) vertingu/svarbiu; skirti (ypatingą) reikšmę; (labai) vertintiS{&rArr;}E{v}I{1}aprūpinti, tiekti; papildyti;F{his mind is well stored with knowledge}jis daug išmano/žinoI{2}(su)daryti atsargas, apsirūpinti, (su)kauptil{(L{t. p.}X{store away/up})};F{facts stored away in the memory}faktai, sukaupti atmintyje;F{the harvest has been stored up}derlius nuimtasI{3}sandėliuoti; atiduoti į apsaugą, laikyti sandėlyjeL{ir pan.}I{4}L{komp.}laikytil{(duomenis, informaciją)}; įrašyti į atmintįS{o}1{store up}pri(si)darytil{(rūpesčiųL{ir pan.}; for)}
+0{store-bought}['st&#596;:b&#596;:t]E{a}l{(ypačL{amer.})}pirktas krautuvėje, pirktinisl{(ne naminis)}
+0{store-card}['st&#596;:ka:d]E{n}parduotuvės kreditinė kortelė
+0{store-cattle}['st&#596;:,k&aelig;tl]E{n}L{ž. ū.}penimi gyvuliai, penimiai
+0{storefront}['st&#596;:fr&#652;nt]E{n}l{(ypačL{amer.})}parduotuvės fasadas
+0{storehouse}['st&#596;:haus]E{n}I{1}sandėlisl{(pastatas)}; saugyklaI{2}L{prk.}lobynas;F{storehouse of knowledge}žinių/mokslo lobynas
+0{storekeeper}['st&#596;:,ki:p&#601;]E{n}I{1}sandėlininkasI{2}l{(ypačL{amer.})}krautuvininkas
+0{storeman}['st&#596;:m&#601;n]E{n}(E{pl}-men[-m&#601;n]) sandėlininkas
+0{storeroom}['st&#596;:rum]E{n}sandėlisl{(patalpa)}
+0{storey}['st&#596;:r&#618;]E{n}l{(namo)}austoreykštas;F{on the third storey}ketvirtame aukšte;F{to add a storey to a house}pristatyti papildomą aukštąS{&loz;}X{weak/wrong in the top/upper storey}S{&cong;}kvailas kaip aulas, ne viso proto;F{he is weak/touched in the upper storey}S{&cong;}jam vieno šulo trūksta
+0{-storey(ed)}[-'st&#596;:r&#618;(d)]l{(L{sudurt.}žodžiuose)}-aukštis;F{many-storeyed}daugiaaukštis;F{two-storey}dviaukštis
+0{storied}['st&#596;:r&#618;d]E{a}L{knyg.}I{1}legendinis; žinomas iš legendų/padavimųI{2}papuoštas piešiniais, vaizduojančiais legendasl{ar}istorinius įvykius
+0{-storied}[-'st&#596;:r&#618;d]A{=R{-storey(ed)}}
+0{storiette}[,st&#596;:r&#618;'et]E{n}L{ret.}trumpas apsakymas; literatūrinė miniatiūra
+0{stork}[st&#596;:k]E{n}L{zool.}gandras
+0{stork’s-bill}['st&#596;:ksb&#618;l]E{n}L{bot.}pelargonija
+0{storm}[st&#596;:m]S{&rArr;}E{n}I{1}audral{(L{t. p.}L{prk.})}; vėtra, uraganas;L{jūr.}štormas;F{auroral/magnetic storm}magnetinė audra;F{storm of applause}plojimų audra, audringi plojimai/aplodismentai;F{storm of shells}L{kar.}sviedinių krušaI{2}sambrūzdis, neramumai, sąmyšis; smarkus susijaudinimas;F{to stir up a storm}sukelti sąmyšį/neramumusI{3}L{kar.}šturmas;F{to take by storm}X{a)}užimti šturmu;X{b)}L{prk.}greitai užkariautiS{&loz;}X{a storm in a teacup}S{&cong;}daug triukšmo dėl nieko;F{to bring a storm down about one’s ears}užsitraukti smarkią kritikąS{&rArr;}E{v}I{1}audroti; siautėti, siausti, šėltiI{2}šaukti, rėkti, karščiuotisl{(at)}I{3}dumti, lėkti; įbėgti, įsiveržtil{(supykus; into)}I{4}L{kar.}šturmuotiS{o}1{storm off}nubėgti, nulėktil{(supykus)}
+0{storm-beaten}['st&#596;:m,bi:tn]E{a}I{1}audrų aplamdytas/aplaužytas/apdaužytas; vėjo nugairintasI{2}vėtytas ir mėtytas, matęs gyvenimo
+0{storm-belt}['st&#596;:mbelt]E{n}L{meteor.}audrų juosta
+0{stormbird}['st&#596;:mb&#601;:d]E{n}A{=R{storm-petrel}}
+0{storm-boat}['st&#596;:mb&#601;ut]E{n}L{jūr.}desantinis kateris
+0{stormbound}['st&#596;:mbaund]E{a}audros sulaikytas;F{we were stormbound for two days}dėl štormo mes negalėjome išplaukti dvi dienas
+0{storm-centre}['st&#596;:m,sent&#601;]E{n}I{1}L{meteor.}ciklono centrasI{2}l{(ginčų, neramumų, bruzdėjimų, nemalonumųL{ir pan.})}centras, židinys
+0{storm-cloud}['st&#596;:mklaud]E{n}I{1}audros/audrotas debesisI{2}l{(L{ppr.}E{pl})}nelaimės/pavojaus ženklas;F{storm-clouds gathered over Europe}karo debesys rinkosi virš Europos
+0{storm-cone}['st&#596;:mk&#601;un]E{n}A{=R{storm-signal}}
+0{storm-door}['st&#596;:md&#596;:]E{n}antros durysl{(L{ppr.}įstatomos žiemą)}
+0{storm-drum}['st&#596;:mdr&#652;m]E{n}L{jūr.}l{(audros signalo)}cilindras
+0{storm-finch}['st&#596;:mf&#618;nt&#643;]E{n}A{=R{storm-petrel}}
+0{stormily}['st&#596;:m&#618;l&#618;]E{adv}audringai
+0{storminess}['st&#596;:m&#618;n&#618;s]E{n}audringumas
+0{storm-ladder}['st&#596;:m,l&aelig;d&#601;]E{n}L{jūr.}audrinės kopėčios
+0{storm-lantern}['st&#596;:m,l&aelig;nt&#601;n]E{n}kilnojamasis žibalinis žibintas
+0{storm-petrel}['st&#596;:mpetr&#601;l]E{n}L{zool.}audrapaukštis
+0{stormproof}['st&#596;:mpru:f]E{a}galintis atlaikyti audrą; neperpučiamas, neperšlampamas
+0{storm-sail}['st&#596;:mse&#618;l]E{n}L{jūr.}audrinė burė
+0{storm-signal}['st&#596;:m,s&#618;gnl]E{n}audros signalas
+0{storm-tossed}['st&#596;:mt&#596;st]E{a}štormo/uragano nešamas/blaškomas
+0{stormtrooper}['st&#596;:m,tru:p&#601;]E{n}I{1}šturmuotojasI{2}L{ist.}smogikasl{(nacistinėje Vokietijoje)}
+0{storm-troops}['st&#596;:mtru:ps]E{n}E{pl}šturmuotojų būriai; smogiamieji daliniai
+0{storm-warning}['st&#596;:m,w&#596;:n&#618;&#331;]E{n}I{1}audros signalasI{2}perspėjimas apie artėjantį cikloną/tornadąL{ir pan.}I{3}L{prk.}pavojaus signalas
+0{storm-window}['st&#596;:m,w&#618;nd&#601;u]E{n}antrasl{(išorinis)}langas
+0{stormy}['st&#596;:m&#618;]E{a}I{1}audringas, vėtringas, audrotas; štorminis; siautingas, siautulingas;F{the sea is stormy}jūroje siaučia štormasI{2}L{prk.}audringas, įnirtingas;F{stormy quarrel}audringas/įnirtingas ginčasI{3}pranašaujantis audrąl{(L{t. p.}L{prk.})};F{stormy sunset}audrą pranašaujantis saulėlydis
+0{stort(h)ing}['st&#596;:t&#618;&#331;]E{n}stortingasl{(Norvegijos parlamentas)}
+0{story^{1}}['st&#596;:r&#618;]E{n}I{1}apysaka; apsakymas;F{short story}novelė, apsakymas;F{love [ghost] story}meilės [vaiduoklių] romanas/apysaka/apsakymasI{2}pasakojimas, istorija; sakmė, padavimas; pasakal{(L{t. p.}X{fairy story})};F{good/funny story}anekdotas;F{a dirty story}nepadorus anekdotas;F{smb’s life story}l{(kieno)}gyvenimo istorija;F{his is an eventful story}jo biografija pilna įvykių;F{according to his story}jo žodžiais;F{tell me a story!}pasek pasaką!;F{these scars tell their own story}tie randai kalba patys už save, turi savo istorijąI{3}siužetas, fabulaI{4}girdas, kalbos;F{the story goes that...}kalbama, kad ...I{5}L{šnek.}nebūtas dalykas, prasimanymas, išsigalvojimasl{(L{t. p.}X{fish story})};F{don’t tell storys}neišsigalvokiteI{6}medžiaga straipsniui, straipsnisl{(laikraštyje, žurnale)};F{‘Respublika’ runs a big story about the scandal}„Respublika“ spausdina/pateikia didelį straipsnį apie tą skandalą;F{he is covering the story of the space flight}jis rašo reportažus apie kosminį skrydįS{&loz;}X{that is (quite) another story}tai visiškai kitas dalykas, apie tai dabar nekalbėsim;F{it is quite another story now}dabar padėtis iš pagrindų pasikeitė;F{to cut/make a long story short}trumpai tariant, vienu žodžiu;F{this is not the whole story}tai dar ne viskas;F{it’s a long story}S{&cong;}tai ilga kalba;F{they tell the same story}jie visi sako tą patį
+0{story^{2}}E{n}L{amer.}A{=R{storey}}
+0{storyboard}['st&#596;:r&#618;b&#596;:d]E{n}l{(filmoL{ir pan.})}parengiamasis maketas
+0{storybook}['st&#596;:r&#618;buk]E{n}I{1}pasakų knyga/rinkinysI{2}E{attr}pasakiškas, laimingas;F{storybook ending}laiminga pabaigal{(kaip pasakose)}
+0{storyline}['st&#596;:r&#618;la&#618;n]E{n}pagrindinė siužeto linija
+0{storyteller}['st&#596;:r&#618;,tel&#601;]E{n}I{1}pasakotojas; (pasakų) sekėjas, pasakininkas I{2}apsakymų rašytojasI{3}L{šnek.}prasimanėlis, melagis
+0{storytelling}['st&#596;:r&#618;,tel&#618;&#331;]E{n}pasakojimas, pasakų sekimas, istorijų pasakojimas
+0{story-telling}['st&#596;:r&#618;,tel&#618;&#331;]E{n}pasakojimas, pasakų sekimas, istorijų pasakojimas
+0{stoup}[stu:p]E{n}I{1}L{bažn.}šventinto vandens indasl{(prie įėjimo į bažnyčią)}I{2}L{ist.}l{(gėrimo)}indas
+0{stout}[staut]S{&rArr;}E{a}I{1}apkūnus, storas, stambusI{2}stiprus; tvirtas, patvarus;F{of stout build}tvirto sudėjimoI{3}ryžtingas, atkaklus; narsus;F{stout heart}drąsa;F{stout resistance}atkaklus pasipriešinimasS{&rArr;}E{n}I{1}apkūnus žmogus, storulisI{2}drabužis apkūniam žmogui; didelis numerisI{3}stiprus porteris
+0{stout-hearted}['staut'ha:t&#618;d]E{a}L{knyg.}ištvermingas, drąsus
+0{stoutness}['stautn&#618;s]E{n}I{1}apkūnumas, stambumasI{2}stiprumas, tvirtumasI{3}narsa; atkaklumas
+0{stove^{1}}[st&#601;uv]S{&rArr;}E{n}I{1}krosnis; viryklė;F{stove heating}šildymas krosnimisI{2}šiltnamisI{3}oro šildytuvasI{4}džiovyklaS{&rArr;}E{v}kepti, virti
+0{stove^{2}}E{past}l{ir}E{pII}A{L{žr.}R{stave}}E{v}
+0{stovepipe}['st&#601;uvpa&#618;p]E{n}I{1}l{(metalinis)}dūmtraukisI{2}L{amer.}L{ist.}cilindrasl{(skrybėlė;L{t. p.}X{stovepipe hat})}
+0{stover}['st&#601;uv&#601;]E{n}l{(stambusis)}pašaras
+0{stow}[st&#601;u]E{v}I{1}sudėti; (su)krautil{(krovinį)}I{2}(pa)talpinti; tilptiI{3}pripildyti, prikimšti, prikrautil{(with)};F{to stow a ship}(pa)krauti laivąI{4}l{(L{ppr.}E{imp})}L{šnek.}baigti;F{stow that nonsense}baikite tuos niekusS{o}1{stow away}X{a)}slėpti, užkištil{(kur)};X{b)}slapta plaukti/skristi be bilietoS{&loz;}X{stow it!}L{šnek.}nutilk!, nustok plepėjęs!
+0{stowage}['st&#601;u&#618;d&#658;]E{n}I{1}(su)dėjimas, (su)krovimasI{2}sukrovimo vieta; sankrova;F{stowage capacity}sandėlio talpaI{3}sukrautos prekės/medžiagosL{ir pan.}I{4}mokestis už sukrovimą/saugojimą triume/sandėlyje; sankrovos mokestis
+0{stowaway}['st&#601;u&#601;we&#618;]E{n}l{(laivo, lėktuvo)}keleivis be bilieto
+0{Stowe}[st&#601;u]E{n}:X{Harriet Beecher Stowe}Harieta Bičer Stoul{(amerikiečių rašytoja)}
+0{STP}L{sutr.}X{standard temperature and pressure}normali temperatūra ir slėgis
+0{St. Petersburg}[snt'pi:t&#601;zb&#601;:g]Sankt Peterburgas
+0{STR}L{sutr.}X{strait}sąsiauris
+0{str}L{sutr.}X{steamer}garlaivisX{street}gatvėX{stroke}yris
+0{strabismus}[str&#601;'b&#618;zm&#601;s]E{n}L{med.}žvairumas, strabizmas
+0{straddle}['str&aelig;dl]S{&rArr;}E{n}I{1}stovėjimas/sėdėjimas/vaikščiojimas išsižergusI{2}L{amer.}L{šnek.}dviveidiška politikaI{3}L{fin.}dvigubas/dvišalis opcionasl{(biržos sandoris)}S{&rArr;}E{v}I{1}išsižergti; apžergtiI{2}žirglinti; žirgsoti, sėdėti/stovėti išsižergusI{3}būti išsidėsčiusiam abiejosel{(kelio, upėsL{ir pan.})}pusėsel{(apie miestąL{ir pan.})}I{4}L{amer.}L{šnek.}vykdyti dviveidišką politiką
+0{strafe}[stre&#618;f, stra:f]S{&rArr;}E{n}L{kar.}L{av.}apšaudymas, ugnis, puolimasl{(skrendant skutamuoju skridimu)}S{&rArr;}E{v}I{1}L{kar.}L{av.}apšaudyti, pulti, bombarduotiI{2}L{šnek.}duoti pylos
+0{straggle}['str&aelig;gl]S{&rArr;}E{n}pakrikasl{(žmonių)}būrys; išmėtyti daiktai, išsimėtę pastataiS{&rArr;}E{v}I{1}driektis; (pa)krikti, pakrikai/netvarkingai judėti;F{the village straggles along the river}kaimas driekiasi pagal upęI{2}nuklysti; atsilikti
+0{straggler}['str&aelig;gl&#601;]E{n}atsilikėlis;F{wait for the stragglers to catch up}palaukite, kol atsilikėliai pasivys
+0{straggliness}['str&aelig;gl&#618;n&#618;s]E{n}netvarka, išsidraikymas, išsimėtymas
+0{straggling}['str&aelig;gl&#618;&#331;]E{a}pakrikas, išdrikęs, išmėtytas;F{straggling village}netvarkingai išsimėčiusios sodybos
+0{straggly}['str&aelig;gl&#618;]E{a}A{=R{straggling}}
+0{straight}[stre&#618;t]S{&rArr;}E{a}I{1}tiesus; nesulinkęs, neišlenktas;F{straight course}tiesusis kursas;F{straight as an arrow}tiesus kaip strėlėI{2}lygus, negarbanotasl{(apie plaukus)}I{3}tinkamas, kaip reikiant; tikslus;F{straight eye}tiksli akis;F{to put/set smth straight}pa(si)taisyti ką;F{to put a room straight}sutvarkyti kambarįI{4}tiesus, doras, sąžiningas; atviras;F{straight question}tiesus klausimas;F{straight dealing}sąžiningumas;F{to keep straight}gyventi dorai;F{to be straight with smb}būti atviram su kuo;F{straight talk}atviras pokalbis;F{straight speaking}tiesumas, atvirumas;F{straight fight}X{a)}garbinga kova;X{b)}dviejų kandidatų/partijų tarpusavio kovaI{5}aiškus, suprantamas;F{to put/set smb straight about smth}paaiškinti kam ką;F{have you got that straight?}ar aišku/supratai?I{6}L{šnek.}patikimas, tikras;F{straight tip}X{a)}patikimas patarimas, už kurį žirgą statyti;X{b)}žinios iš patikimų šaltiniųI{7}grynas, neatmieštas;F{straight whisky}neatmieštas viskisI{8}ištisas, nenutrūkstamas;F{we finished the season with five straight wins}mes baigėme sezoną penkiomis pergalėmis iš eilėsI{9}L{teatr.}grynojo žanro; tradicinis; natūralusl{(apie vaidybą)};F{straight play}gryna dramal{(be muzikos)}I{10}objektyvusl{(apie laikraščių pranešimus)}I{11}L{šnek.}normalus, sveikas;F{straight and gay people}normalūs žmonės ir homoseksualistaiI{12}nesijuokiantis, rimtasl{(apie veidą)}I{13}L{amer.}L{polit.}atsidavęs savo partijai, nenukrypstamai vykdantis savo partijos politiką;F{to vote the straight ticket}balsuoti už savo partijos kandidatusI{14}L{amer.}L{šnek.}vienetinisl{(apie prekes)};F{cigars ten cents straight}cigarai po dešimt centųl{(kiekvienas)}S{&loz;}X{straight as a poker/ramrod}S{&cong;}it mietą prarijęs;F{to get it/this straight}L{šnek.}išsiaiškinti teisybę;F{we are straight}mes atsiskaitęl{(neskolingi vienas kitam)}S{&rArr;}E{adv}I{1}tiesiai, tiesiog, stačiai;F{straight above our heads}tiesiai virš mūsų galvų;F{to ride straight}joti tiesiai;F{to stand straight}stovėti tiesiai;F{to go straight to London}vykti tiesiai į Londoną;F{to drink straight from the bottle}gerti tiesiai iš butelio;F{come straight to the point}eikite tiesiai prie reikalo;F{the book is straight in front of you}knyga – tiesiai priešais taveI{2}tiksliai, taikliai;F{to shoot straight}taikliai šaudytiI{3}atvirai, tiesiai, sąžiningai, dorai;F{tell me straight}L{šnek.}(pa)sakyk man tiesiai;F{to live straight}gyventi doraiI{4}objektyviail{(apie laikraščių pranešimus)}I{5}aiškiai;F{he thinks straight}jis aiškiai mąstoI{6}nenutrūkstamai, paeiliui;F{he has been without sleep now for three days straight}jis be miego jau tris paras paeiliuiI{7}tuojau pat, iš karto, nedelsiantl{(L{t. p.}X{straight away/off})};F{we can meet straight after breakfast}mes galime susitikti iš karto po pusryčiųI{8}L{teatr.}tradiciškai, klasikiniu stiliumil{(vaidinti, statyti)}S{o}1{straight out}tiesiai ir atvirai;1{straight up}L{šnek.}tikrai, tikra teisybėS{&rArr;}E{n}I{1}X{(the straight)}tiesumaI{2}tiesė, tiesioji linijaI{3}L{sport.}l{(finišo)}tiesėI{4}L{šnek.}normalus žmogusl{(ne homoseksualistas, ne narkomanas)}S{&loz;}X{to keep to the straight and narrow}eiti tiesiu keliu, dorai gyventi;F{to stray from the straight and narrow}išklysti iš tiesaus kelio
+0{straight-arrow}['stre&#618;t'&aelig;r&#601;u]E{a}L{amer.}L{šnek.}doras; besilaikantis tradicinių elgesio normų
+0{straightaway}['stre&#618;t&#601;we&#618;]S{&rArr;}E{n}l{(ypačL{amer.})}L{sport.}tiesus bėgimo takasl{(be viražų)}S{&rArr;}E{a}I{1}l{(ypačL{amer.})}tiesusI{2}aiškusI{3}greitas, nedelsiamasl{(apie atsakymą)}S{&rArr;}E{adv}nedelsiant, tuojau pat
+0{straight-cut}['stre&#618;t'k&#652;t]E{a}išilgai perpjautasl{(apie tabako lapą)}
+0{straight-edge}['stre&#618;ted&#658;]E{n}tiesyklė
+0{straight-eight}['stre&#618;t'e&#618;t]E{a}L{aut.}aštuonių cilindrųl{(apie variklį)}
+0{straighten}['stre&#618;tn]E{v}I{1}(iš)tiesinti, (iš)tiestil{(L{t. p.}X{straighten out})}; atities(in)ti;F{to straighten one’s back}išsitiesti, atsitiestiI{2}sutvarkytil{(L{t. p.}X{straighten up})}I{3}pasitaisyti;F{he straightened his tie [glasses]jis pasitaisė kaklaraištį [akinius]S{o}1{straighten out}X{a)}išpainioti; su(si)tvarkyti;X{b)}pasitaisyti, imti dorai gyventi;1{straighten up}išsitiesti, atsitiesti
+0{straightener}['stre&#618;t&#601;n&#601;]E{n}L{tech.}lyginimo įtaisas
+0{straight-faced}['stre&#618;t'fe&#618;st]E{a}rimto veido, nesijuokiantis
+0{straightforward}[,stre&#618;t'f&#596;:w&#601;d]E{a}I{1}paprastas, nesudėtingas;F{straightforward style}paprastas stiliusI{2}tiesus, tiesmukas, sąžiningas, atvirasI{3}tiesus, einantis/vedantis tiesiai į priekį
+0{straightforwardly}[,stre&#618;t'f&#596;:w&#601;dl&#618;]E{adv}tiesiai, atvirai
+0{straightforwardness}[,stre&#618;t'f&#596;:w&#601;dn&#618;s]E{n}tiesumas
+0{straightjacket}['stre&#618;t,d&#658;&aelig;k&#618;t]E{n}A{=R{straitjacket}}
+0{straightlaced}['stre&#618;t'le&#618;st]E{a}A{=R{straitlaced}}
+0{straight-line}['stre&#618;tla&#618;n]E{a}I{1}tiesinis;F{straight-line cut}tiesinis pjūvisI{2}X{straight-line engine}L{tech.}variklis su vieneiliu cilindrų išdėstymu
+0{straightness}[stre&#618;tn&#618;s]E{n}tiesumas
+0{straight-out}['stre&#618;t,aut]l{(ypačL{amer.})}S{&rArr;}E{n}I{1}balsuojantis už visą savo partijos kandidatų sąrašąI{2}atsidavęs/ištikimas savo partijos narysS{&rArr;}E{a}I{1}tiesus, atvirasI{2}bekompromisis, visiškasI{3}atsidavęs, ištikimas
+0{straightway}['stre&#618;twe&#618;]L{knyg.}L{psn.}A{=R{straightaway}}E{adv}
+0{strain^{1}}[stre&#618;n]S{&rArr;}E{n}I{1}į(si)tempimas, ištempimas;F{to take the strain}ištemptil{(virvęL{ir pan.})};F{the rope broke under the strain}virvė trūko betempiantI{2}L{prk.}įtempimas, įtampa;F{without strain}be įtampos, lengvai;F{to put a strain}l{(on)}X{a)}sukelti įtampą;X{b)}sukelti sunkumųl{(kam)};F{to bear/stand the strain}pakelti įtampąI{3}apkrova, krūvis;F{it was a strain on his heart}tai apkrauna jam širdįI{4}L{med.}l{(sausgyslės)}patempimas, per(si)tempimasI{5}L{tech.},L{fiz.}deformacija; įtempimasS{&rArr;}E{v}I{1}į(si)temptil{(L{t. p.}L{prk.})}; ištempti;F{to strain under a load}įsitempti po naštaI{2}pertempti, patempti; nuvarginti;F{to strain a tendon}pa(si)tempti sausgyslę;F{to strain one’s eyes}įtempti akis; labai stengtis įžiūrėti; nuvarginti akisl{(skaitant prie silpnos šviesos)};F{to strain one’s voice}užkimtil{(berėkiant)}I{3}stengtis iš visų jėgų; veržtisl{(after)};F{to strain after an effect}siekti efekto, stengtis padaryti įspūdį;F{to strain to see [to hear]stengtis pamatyti [išgirsti];F{to strain to be in action}veržtis į mūšį;F{we strained at the oars}mes irklavome iš visų jėgųI{4}E{refl}persitempti, persistengti;F{don’t strain yourself!}nepersitempk!I{5}L{prk.}pritempti, iškreipti; piktnaudžiauti;F{to strain the truth}melą pateikti kaip gryną tiesą;F{to strain smb’s patience}piktnaudžiauti kieno kantrybe;F{to strain the law}tendencingai aiškinti įstatymąI{6}apkabinti, suspausti, pri(si)spausti;F{to strain to one’s heart}L{knyg.}prispausti prie širdiesI{7}košti, filtruoti; (nu)sunktil{(L{t. p.}X{strain off})}; sunktis, prasisunktiI{8}L{tech.}deformuoti
+0{strain^{2}}E{n}I{1}atmaina, veislė; giminė, kilmėI{2}l{(charakterio)}bruožas; polinkis; paveldėtas bruožas;F{a strain of insanity in the family}paveldėta psichikos liga šeimojeI{3}L{biol.}štamas, padermėI{4}l{(kalbėjimoL{ir pan.})}būdas, maniera; stilius, tonas;F{to speak in a cheerful strain}linksmai/džiaugsmingai kalbėti;F{in the same strain}tuo pačiu tonu/stiliumiI{5}l{(L{ppr.}E{pl})}melodija; eilės;F{the strains of the harp}arfos garsai;F{the strains of ancient poets}senovės poetų eilės
+0{strained}[stre&#618;nd]E{a}I{1}įtemptas; nenatūralus, dirbtinis, priverstinis;F{strained relations}įtempti santykiai;F{strained cordiality}dirbtinis nuoširdumas;F{strained smile}nenatūrali/priverstinė šypsena I{2}įsitempęs; išvargęsI{3}iškreiptas;F{strained interpretation}iškreiptas aiškinimas I{4}iškoštas, nusunktas, pertrintasl{(apie kūdikių maistą, sriubąL{ir pan.})}I{5}L{tech.}deformuotas
+0{strainer}['stre&#618;n&#601;]E{n}I{1}koštuvas, filtras;L{kul.}kiaurasamtisI{2}L{tech.}tempiklis; sąvarža
+0{strait}[stre&#618;t]S{&rArr;}E{n}I{1}E{pl}sunki padėtis, sunkumai; vargas, skurdas;F{in desperate/dire straits}labai sunkioje padėtyje; skurdeI{2}l{(L{ppr.}E{pl})}L{geogr.}sąsiaurisI{3}L{ret.}sąsmaukaS{&rArr;}E{a}I{1}L{bibl.}siauras, ankštasI{2}L{psn.}griežtas
+0{straiten}['stre&#618;tn]E{v}I{1}(su)varžyti, (ap)ribotiI{2}L{psn.}siaurinti, ankštinti
+0{straitened}['stre&#618;tnd]E{a}:X{in straitened circumstances}sunkioje materialinėje padėtyje; nepritekliuje, skurde
+0{straitjacket}['stre&#618;t,d&#658;&aelig;k&#618;t]E{n}I{1}tramdomieji marškiniaiI{2}L{prk.}suvaržymas, varžtai;F{the straitjacket of censorship}cenzūros varžtai
+0{straitlaced}['stre&#618;t'le&#618;st]E{a}griežtas moralės klausimais, puritoniškas
+0{Straits of Dover}['stre&#618;ts &#601;v 'd&#601;uv&#601;]Pa de Kalė
+0{strait-waistcoat}[,stre&#618;t'we&#618;sk&#601;ut]E{n}A{=R{straitjacket}}
+0{strake}[stre&#618;k]E{n}L{jūr.}l{(apkalos, dangos)}juosta
+0{stramonium}[str&#601;'m&#601;un&#618;&#601;m]E{n}I{1}L{bot.}durnaropėI{2}L{farm.}stramonisl{(narkotikas, gaunamas iš durnaropės)}
+0{strand^{1}}[str&aelig;nd]S{&rArr;}E{n}L{knyg.}pakrantė, pajūris, paežerė, paupysS{&rArr;}E{v}I{1}L{jūr.}užplaukti ant seklumosI{2}L{jūr.}išmesti į krantą;E{pass}įstrigti pakrantėjeI{3}L{prk.}patekti/pastatyti į keblią padėtį; palikti likimo valiai
+0{strand^{2}}S{&rArr;}E{n}I{1}L{tech.},L{tekst.}l{(lyno, kabelio)}(į)vija, pavija; pluoštas;l{(plaukų)}sruogaI{2}l{(karoliųL{ir pan.})}vėrinysI{3}L{prk.}gijaS{&rArr;}E{v}I{1}(su)vyti, (su)suktiI{2}nutrauktil{(pavijąL{ir pan.})}
+0{stranded^{1}}['str&aelig;nd&#618;d]E{a}I{1}užplaukęs ant seklumosI{2}išmestas į krantąI{3}L{prk.}esantis/atsidūręs sunkioje būklėje, be išteklių; įstrigęsl{(kur)}
+0{stranded^{2}}E{a}suvytas, susuktas
+0{strange}[stre&#618;nd&#658;]S{&rArr;}E{a}I{1}keistas; nepaprastas, nuostabus;F{strange behaviour}keistas elgesys;F{it’s strange you should come today}(kaip) keista, kad jūs atėjote šiandien;F{strange to say}kaip bebūtų keista; keista, bet...;F{strange as that might seem...}kad ir kaip keistai beatrodytų...I{2}nepažįstamas, nežinomas; svetimas;F{strange country}nepažįstama/svetima šalis;F{strange face}nematytas/nepažįstamas veidas;F{into strange hands}į svetimas rankas;F{this handwriting is strange to me}ši rašysena man nepažįstamaI{3}E{predic}neįprastas, nesuprantamas;F{to feel strange}X{a)}jaustis neįprastai/nesmagiai;X{b)}nesveikuoti;F{to feel strange in a company}varžytis draugijoje, jaustis svetimam;F{he is strange to the job}jis nemoka šio darbo I{4}santūrus, šaltasS{&rArr;}E{adv}l{(ypačL{amer.})}keistai
+0{strange-looking}[stre&#618;nd&#658;'luk&#618;&#331;]E{a}keistos išvaizdos
+0{strangely}['stre&#618;nd&#658;l&#618;]E{adv}keistai;F{strangely shaped}keistos formos;F{strangely enough,...}keistas dalykas, ...
+0{strangeness}['stre&#618;nd&#658;n&#618;s]E{n}I{1}keistumasl{(L{t. p.}L{fiz.})}; keistybėI{2}neįprastumas; nepažįstamumas
+0{stranger}['stre&#618;nd&#658;&#601;]E{n}I{1}nepažįstamasis; svetimas žmogus; pašalinis (asmuo), pašalietis;F{a perfect/complete/total stranger}visiškai nepažįstamas žmogus;F{stranger in blood}nesusijęs kraujo ryšiais, svetimas žmogus;F{to spy/see strangers}L{parl.}reikalauti pašalinti pašaliniusl{(iš Bendruomenių rūmų)};F{he is a stranger to me}aš jo nepažįstuI{2}ateivis, atvykėlis; svetimšalis;F{you are quite a stranger here}jūs čia retai buvojateI{3}žmogus, nepažįstantis/nepatyręs baimės/vargoL{ir pan.}l{(to)};F{he is a stranger to fear}jis nepažįsta baimės; jam svetimas baimės jausmas;F{he is no stranger to hard times}jis matė vargoS{&loz;}X{the little stranger}L{juok.}naujagimis;F{hello, stranger!}L{juok.}sveikas, seniai matytas!
+0{strangle}['str&aelig;&#331;gl]E{v}I{1}pasmaugti, uždusinti; uždustiI{2}smaugti, veržtil{(apie apykaklę)}I{3}(nu)slopinti, užgniaužtiI{4}L{tech.}droseliuoti
+0{strangled}['str&aelig;&#331;gld]E{a}duslus, prislopintas;F{in a strangled voice}dusliu/silpnu balsu
+0{stranglehold}['str&aelig;&#331;glh&#601;uld]E{n}I{1}(už)dusinimas, (pa)smaugimas; užgniaužimasl{(L{ppr.}L{prk.})};F{to put a stranglehold}l{(on)}pasmaugti; (nu)slopinti, (su)varžytil{(augimą, infliacijąL{ir pan.})}I{2}(įsi)viešpatavimas;F{to have a stranglehold}l{(on)}viešpatauti
+0{strangler}['str&aelig;&#331;gl&#601;]E{n}smaugėjas, žmogžudys
+0{strangles}['str&aelig;&#331;glz]E{n}L{vet.}pažandės, geležuonys
+0{strangulate}['str&aelig;&#331;gjule&#618;t]E{v}I{1}L{med.}užveržti, užspaustil{(žarną, venąL{ir pan.})}I{2}L{ret.}smaugti
+0{strangulation}[,str&aelig;&#331;gju'le&#618;&#643;n]E{n}I{1}(pa)smaugimasI{2}L{med.}užveržimas, užspaudimas, stranguliacija
+0{strangury}['str&aelig;&#331;gjur&#618;]E{n}L{med.}spazminis šlapinimasis, strangurija
+0{strap}[str&aelig;p]S{&rArr;}E{n}I{1}diržas, dirželis;F{leather watch strap}odinis laikrodžio dirželisI{2}l{(metalo, medžiagos)}juosta;F{strap brake}L{tech.}juostinis stabdysI{3}surišimas, sąriša, raištis; petnešėlėI{4}pustasl{(diržas skustuvui pustyti)}I{5}X{(the strap)}pyla, pėrimasl{(diržu)}I{6}L{kar.}antpetisI{7}L{tech.}sąvarža, antdėklas, apkaba; ąsaI{8}L{jūr.},L{av.}stropasS{&rArr;}E{v}I{1}(su)veržti/(su)rišti diržul{(L{t. p.}X{strap down/up})}I{2}galąsti, pustytil{(skustuvą)}I{3}aprišti, sutvarstyti, subintuotil{(L{t. p.}X{strap up})}I{4}lupti, pertil{(diržu)}S{o}1{strap in}pririšti;1{strap on}užsidėtil{(akiniusL{ir pan.})}
+0{strap-drive}['str&aelig;pdra&#618;v]E{n}L{tech.}pavaros juosta
+0{straphanger}['str&aelig;p,h&aelig;&#331;&#601;]E{n}L{šnek.}stovintis keleivis, kuris laikosi už diržol{(autobuseL{ir pan.})}
+0{straphanging}['str&aelig;ph&aelig;&#331;&#618;&#331;]E{n}L{šnek.}laikymasis už diržol{(apie stovintį autobuso irL{pan.}keleivį)}
+0{strapless}['str&aelig;pl&#601;s]E{a}I{1}be diržoI{2}be petnešėliųl{(apie suknelęL{ir pan.})}
+0{strappado}[str&#601;'pe&#618;d&#601;u]E{n}(E{pl}strappado(e)s[-z])L{ist.}kankinimasl{(pakeliant į viršų už surištų rankų ir leidžiant kristi žemyn)}
+0{strapped}[str&aelig;pt]E{a}L{šnek.}bepinigis,S{&cong;}dyka kišenėl{(L{ppr.}X{strapped for cash})}
+0{strapper}['str&aelig;p&#601;]E{n}žaliūkas, stipruolis, tvirtas augalotas žmogus
+0{strapping}['str&aelig;p&#618;&#331;]S{&rArr;}E{n}I{1}L{kuop.}diržaiI{2}pririšimas/pritvirtinimas/surišimas diržais I{3}L{med.}l{(juostinis)}pleistras; aprišimas pleistru, sutvarstymasI{4}pėrimas, pylal{(diržu)}S{&rArr;}E{a}augalotas, stiprus;F{strapping fellow}žaliūkas
+0{strapwork}['str&aelig;pw&#601;:k]E{n}L{archit.}raizginysl{(ornamentas)}
+0{Strasbourg}['str&aelig;zb&#601;:g]E{n}Strasbūrasl{(Prancūzijos miestas)}
+0{strata}['stra:t&#601;]E{pl}A{L{žr.}R{stratum}}
+0{stratagem}['str&aelig;t&#601;d&#658;&#601;m]E{n}(karinė) gudrybė; apgaulė;F{he devised a stratagem}jis sugalvojo gudrybę
+0{strategic(al)}[str&#601;'ti:d&#658;&#618;k(l)]E{a}strateginis; operatyvinis;F{strategic(al) retreat}strateginis atsitraukimas;F{strategic(al) map}strateginis/operatyvinis žemėlapis;F{strategic(al) raw material}strateginė žaliava;F{strategic(al) position}(strategiškai) patogi pozicija
+0{strategically}[str&#601;'ti:d&#658;&#618;kX{&#601;}l&#618;]E{adv}strategiškai
+0{strategics}[str&#601;'ti:d&#658;&#618;ks]E{n}strategijal{(mokslas)}
+0{strategist}['str&aelig;t&#601;d&#658;&#618;st]E{n}strategas
+0{strategy}['str&aelig;t&#601;d&#658;&#618;]E{n}strategijal{(L{t. p.}L{prk.})}
+0{Stratford-on-Avon}[,str&aelig;df&#601;d&#596;n'e&#618;vn]E{n}Stradfordas prie Eivonol{(Anglijos miestas)}
+0{strath}[str&aelig;&theta;]E{n}L{škot.}platus upės slėnis
+0{Strathclyde}[str&aelig;&theta;'kla&#618;d]E{n}Stratklaidasl{(Škotijos rajonas)}
+0{strathspey}[str&aelig;&theta;'spe&#618;]E{n}škotų šokisl{(lėtesnis už rilą)}
+0{strati}['stre&#618;ta&#618;]E{pl}A{L{žr.}R{stratus}}
+0{stratification}[,str&aelig;t&#618;f&#618;'ke&#618;&#643;n]E{n}I{1}sluoksniavimas(is), susisluoksniavimas, stratifikacijaI{2}L{geol.}stratifikacija; slūgsojimas
+0{stratify}['str&aelig;t&#618;fa&#618;]E{v}sluoksniuoti(s), su(si)sluoksniuoti, stratifikuoti;l{(L{geol.}L{t. p.})}slūgsoti;F{stratified society}visuomenė, susiskaidžiusi į sluoksnius/klases/kastasL{ir pan.}
+0{stratigraphy}[str&#601;'t&#618;gr&#601;f&#618;]E{n}stratigrafijal{(geologijos skyrius)}
+0{stratocracy}[str&#601;'t&#596;kr&#601;s&#618;]E{n}karinė diktatūra
+0{stratocumulus}[,str&aelig;t&#601;u'kju:mjul&#601;s]E{n}L{meteor.}sluoksniniai kamuoliniai debesys
+0{stratosphere}['str&aelig;t&#601;sf&#618;&#601;]E{n}stratosfera
+0{stratospheric}[,str&aelig;t&#601;'sfer&#618;k]E{a}stratosferos, stratosferinis
+0{stratum}['stra:t&#601;m]E{n}(E{pl}-ta)I{1}L{geol.}sluoksnis, klodasI{2}l{(L{ppr.}E{pl})}l{(visuomenės)}sluoksnis
+0{stratus}['stre&#618;t&#601;s]E{n}(E{pl}-ti)L{meteor.}sluoksniniai debesys
+0{straw}[str&#596;:]S{&rArr;}E{n}I{1}šiaudas;L{kuop.}šiaudaiI{2}šiaudelis;F{to drink through a straw}gerti per šiaudelįI{3}šiaudinė skrybėlėS{&loz;}X{not worth a straw}nieko nevertas;F{not to care a straw}visiškai nevertinti, nekreipti jokio dėmesio;F{straw man, a man of straw}šiaudadvasis, silpnavalis žmogus;F{to catch/clutch at a straw}S{&cong;}griebtis už šiaudo;F{the last straw, the straw that broke the camel’s back}paskutinis (kantrybės) lašas; lašas, perpildęs kantrybės taurę;F{a straw in the wind}ženklas,l{(ateinančių įvykių)}užuomina;F{a straw shows which way the wind blows}šiaudas parodo, iš kur vėjas pučia;F{to draw straws}X{a)}merktis, liptil{(apie akis)};X{b)}traukti burtus;F{to draw/get the short straw}ištraukti blogą burtą, tektil{(kam)}nemaloni pareiga;F{to thrash over old straw}S{&cong;}pilstyti iš tuščio į kiaurą;F{to throw straws against the wind}beprasmiškai priešintis/stengtisS{&rArr;}E{a}I{1}šiaudinis, šiaudųI{2}šiaudų spalvos, gelsvasI{3}nepatikimas, abejotinas;F{straw bail}šiaudinė/nepatikima garantijaI{4}bevertis, bereikšmisS{&loz;}X{straw poll/vote}neoficialus viešosios nuomonės tyrimas/apklausa
+0{strawberry}['str&#596;:bX{&#601;}r&#618;]E{n}žemuogė; braškė;F{wild strawberry}miško žemuogė;F{crushed strawberry}sutrintos žemuogės spalval{(dulksvai raudona)};F{strawberry leaf}X{a)}žemuogės lapas;X{b)}hercogo titulasl{(pagal karūnos emblemą)}
+0{strawberry-mark}['str&#596;:bX{&#601;}r&#618;ma:k]E{n}rausvas apgamas
+0{strawberry-tree}['str&#596;:bX{&#601;}r&#618;tri:]E{n}L{bot.}žemuoginis medis
+0{strawboard}['str&#596;:b&#596;:d]E{n}L{tech.}šiaudinis kartonasl{(pakavimuiL{ir pan.})}
+0{straw-colour}['str&#596;:,k&#652;l&#601;]E{n}šiaudų/gelsva spalva
+0{straw-coloured}['str&#596;:,k&#652;l&#601;d]E{a}šiaudų spalvos, gelsvas
+0{strawy}['str&#596;:&#618;]E{a}šiaudinis; panašus į šiaudus, šiaudiškas
+0{stray}[stre&#618;]S{&rArr;}E{n}I{1}paklydęsl{ar}atsiskyręs nuo bandos gyvulys; benamis šuo/katėI{2}paklydėlis; benamis žmogus; benamis/beglobis vaikasI{3}atsitiktinis, ne savo vietoje atsidūręs daiktasI{4}E{pl}L{rad.}trukdžiai; trikdžiaiS{&rArr;}E{a}E{attr}I{1}paklydęs, nuklydęs, atsiskyręsI{2}benamis, beglobisI{3}atsitiktinis;F{stray thoughts}nerišlios mintys;F{stray bullet}atsitiktinė kulka;F{a few stray instances}keletas pavienių pavyzdžių/atvejųS{&rArr;}E{v}I{1}paklysti, nuklysti, atsiskirti;F{don’t stray from the road}neišklyskite iš kelio;F{the sheep has strayed from the flock}avis atsiskyrė/atsiliko nuo bandosI{2}nukrypti, nuklystil{(apie mintis, pokalbįL{ir pan.})};F{to stray from the subject/point}nukrypti nuo temos;F{to stray from the path of righteousness}išklysti iš doros kelioI{3}L{poet.}klaidžioti, klajoti, bastytis
+0{strayed}[stre&#618;d]E{a}paklydęs
+0{streak}[stri:k]S{&rArr;}E{n}I{1}ruoželis, dryželis; tarpsluoksnis, sluoksnelis;F{streak of light}šviesos ruožas;F{streak of lightning}žaibo blyksnis/blykstelėjimasI{2}l{(charakterio)}bruožas;F{children have a streak of cruelty}vaikai turi žiaurumoI{3}laikotarpis, periodas;F{he had a streak of good luck, he hit a winning streak}kurį laiką jam sekėsiS{&loz;}X{blue streak}L{šnek.}greitai judantis daiktas;F{to talk a blue streak}kalbėti be paliovos, nesustojant;F{like a streak of lightning}žaibo greitumuS{&rArr;}E{v}I{1}dryžuoti, ruožuotiI{2}blykstelėti, švystelėtil{(apie žaibą)}I{3}(pra)dumti, (pra)lėktil{(L{t. p.}X{streak past})}I{4}perbėgti nuogaml{(per viešą vietą)}
+0{streaked}[stri:kt]E{a}dryžuotas, ruožuotas;F{streaked with mud}išteptas purvu, purvinas;F{to get one’s hair streaked}nu(si)dažyti plaukų sruogas
+0{streaker}['stri:k&#601;]E{n}nuogas bėgikasl{(protesto prieš formalumus forma)}
+0{streaky}['stri:k&#618;]E{a}I{1}dryžuotas, ruožuotasI{2}sluoksniuotas;F{streaky bacon}kiaulienos šoninė su raumenų sluoksneliaisI{3}L{šnek.}nevienodas, nepastovus
+0{stream}[stri:m]S{&rArr;}E{n}I{1}upelisI{2}srovė, tėkmėl{(L{t. p.}L{prk.})};F{the Gulf Stream}Golfo srovė;F{in a stream}srove;F{stream of blood}kraujo srovė;F{the stream of time}laiko tėkmė;F{to go with the stream}eiti/plaukti pasroviuil{(L{t. p.}L{prk.})};F{to go against the stream}eiti/plaukti prieš srovęl{(L{t. p.}L{prk.})}I{3}srautasl{(L{t. p.}L{prk.})};F{stream of tears [of cars, of people]ašarų [automobilių, žmonių] srautas;F{in streams}srautais;F{stream of consciousness}L{lit.}sąmonės srautasI{4}L{mok.}lygiagrečios klasės, sudarytos atsižvelgiant į mokinių gabumus/pažangumąl{(D. Britanijoje)};F{remedial stream}klasės atsiliekantiemsS{&loz;}X{shallow streams make most din}S{&cong;}tuščias puodas garsiai skamba;F{to come on stream}S{&cong;}stoti į rikiuotę, pradėti veiktil{(apie gamykląL{ir pan.})}S{&rArr;}E{v}I{1}sruvėti, srūti, tekėti;F{his eyes streamed tears}jam iš akių sruvo ašaros;F{he was streaming with perspiration}prakaitas sruvo/žliaugė nuo jo;F{his face streamed blood}veidu jam tekėjo kraujasI{2}lietis, piltis;F{light streamed through the window}pro langą liejosi šviesa;F{people streamed out of the building}iš pastato pasipylė žmonėsI{3}plaikstyti(s)l{(vėjyje)}; plevėsuotiI{4}L{mok.}(su)skirstyti á klases pagal gabumus/pažangumąL{ir pan.}
+0{streamer}['stri:m&#601;]E{n}I{1}vimpelasI{2}ilgas siaurasl{(plevėsuojantis)}kaspinasl{(papuošimui)}I{3}transparantasI{4}straipsnio pavadinimas per visą puslapįI{5}E{pl}L{astr.}šiaurės pašvaistės stulpas
+0{stream-gold}['stri:mg&#601;uld]E{n}kasyklinis auksas
+0{streaming}['stri:m&#618;&#331;]S{&rArr;}E{a}sruvantisL{ir kt.},A{L{žr.}R{stream}}E{v}; F{streaming eyes}ašarojančios akys;F{streaming wound}kraujuojanti žaizda;F{streaming cold}didelė slogaS{&rArr;}E{n}L{mok.}(su)skirstymas į lygiagrečias klases, atsižvelgiant į gabumus/pažangumąL{ir pan.}l{(D. Britanijoje)}
+0{streamlet}['stri:ml&#618;t]E{n}upelis, upeliukas
+0{streamline}['stri:mla&#618;n]S{&rArr;}E{n}I{1}L{meteor.}l{(oro srovių)}kryptis; tėkmės kryptis; srovės linijaI{2}l{(automobilio, lėktuvoL{ir pan.})}aptakumas, aptaki formaS{&rArr;}E{a}aptakusS{&rArr;}E{v}I{1}suteikti aptakią formąI{2}(su)paprastinti; modernizuoti, racionalizuotil{(gamybos procesusL{ir pan.})}
+0{streamlined}['stri:mla&#618;nd]E{a}I{1}aptakusI{2}supaprastintas; modernizuotas; gerai organizuotas, sklandusl{(apie gamybą, procedūrasL{ir pan.})}
+0{streamliner}['stri:m,la&#618;n&#601;]E{n}aptakus traukinys/lėktuvas/automobilis
+0{streamway}['stri:mwe&#618;]E{n}upės vaga
+0{streamy}['stri:m&#618;]E{a}I{1}su daug upelių/sroviųI{2}srovus, srovingas, tėkmingas, tekus
+0{street}[stri:t]E{n}I{1}gatvė;F{back [high/main] street}šalutinė [pagrindinė] gatvė;F{in the street}X{a)}gatvėje;X{b)}atliekamas po darbo laikol{(apie fondų biržos operacijas)};F{to live in the street}retai būti namie, visą laisvalaikį praleisti gatvėjeI{2}X{(the Street)}L{amer.}biržos verteivos, finansiniai sluoksniai; komercijos/finansų centras (L{ppr.}Volstritas)I{3}E{attr}gatvės;F{street fighting}gatvių kautynės/mūšiai;F{street cries}gatvės pardavėjų/išnešiotojų šūkavimaiS{&loz;}X{to be on the streets, to walk the streets}X{a)}atsidurti gatvėje; būti benamiu;X{b)}užsiimti prostitucija;F{to go on the streets}tapti prostitute;F{streets ahead}l{(of)}nepalyginti geresnis, pranokstantis;F{to be streets ahead of smb in smth}smarkiai pranokti ką kuo;F{to be in the same street}l{(with)}būti vienodoje padėtyje;F{not in the same street}l{(as)}nepalyginti žemesnis/silpnesnis/blogesnis, nė iš tolo neprilygstantis;F{streets on easy street}pertekęs, turtingai; be rūpesčių;F{to be in Queer Street}L{šnek.}X{a)}prasiskolinti;X{b)}vargti,S{&cong;}vargą bristi;F{that’s right/just up his street}tai kaip tik jo sritis, jis kaip tik tuo domisi
+0{streetcar}['stri:tka:]E{n}L{amer.}tramvajus;F{streetcar yard}tramvajų parkas
+0{street-cred}['stri:tkred]E{n}L{šnek.}nerašytos elgimosi gatvėje taisyklėsl{(paauglių supratimu)}
+0{street-door}['stri:td&#596;:]E{n}paradinės durys
+0{streetlamp}['stri:tl&aelig;mp]E{n}A{=R{streetlight}}
+0{street-level}['stri:tlevl]E{a}gatvės/žemės lygio
+0{streetlight}['stri:tla&#618;t]E{n}gatvės žibintas
+0{street-railway}['stri:t,re&#618;lwe&#618;]E{n}L{amer.}tramvajų linija; autobusų maršrutas
+0{street-singer}['stri:t,s&#618;&#331;&#601;]E{n}gatvės dainininkas
+0{street-smart}['stri:tsm‚:t]E{a}L{amer.}A{=R{streetwise}}
+0{street-sweeper}['stri:t,swi:p&#601;]E{n}I{1}gatvės šlavėjasI{2}gatvių valymo mašina
+0{streetwalker}['stri:t,w&#596;:k&#601;]E{n}prostitutė
+0{streetway}['stri:twe&#618;]E{n}važiuojamoji gatvės dalis
+0{streetwise}['stri:twa&#618;z]E{a}L{šnek.}sugebantis orientuotis dideliame mieste
+0{strength}[stre&#331;&theta;]E{n}I{1}jėga;F{to recover/regain one’s strength}atgauti jėgas;F{a show of strength}karinės jėgos demonstravimas;F{strength of mind}proto/dvasios stiprybė/jėga; F{with all one’s strength}iš visų jėgų;F{that is beyond my strength}tai ne mano jėgoms I{2}tvirtumas; tvirtis, stiprumas;F{current strength}L{el.}srovės stipris/stiprumas;F{strength joint}L{tech.}stiprusis sujungimasI{3}l{(garso, kvapo, spalvosL{ir pan.})}intensyvumas;l{(skiedinio)}koncentracijaI{4}ryžtas, pasiryžimasI{5}L{tech.}atsparumas;F{strength of materials}medžiagų atsparumasI{6}neįveikiamumasI{7}kiekis, gausumasl{(L{t. p.}X{numerical strength})}; sudėtis;F{the alcoholic strength of a drink}gėrimo alkoholio kiekis/procentas;F{in strength}gausiai;F{at full strength, up to full strength}visos sudėties;F{on the strength}l{(kariuomenės, organizacijosL{ir pan.})}sudėtyje;F{what is your strength?}kiek jūsų yra?I{8}L{fin.}vertė,l{(kurso)}stabilumas;F{the pound has lost in strength}svaro vertė kritoS{&loz;}X{on the strength of}remiantis, pagal, dėl;F{to go from strength to strength}nuolat stiprėti/gerėti/augtiL{ir pan.};F{give me strength!}L{šnek.}daugiau nebegaliu!l{(supykus)}
+0{strengthen}['stre&#331;&theta;n]E{v}I{1}(su)stiprinti, (su)tvirtinti; (su)stiprėti; F{to strengthen defences [the economy]stiprinti gynybą [ekonomiką]I{2}paremtil{(argumentaisL{ir pan.})}I{3}L{fin.}tvirtėti, kilti, darytis didesnės vertėsl{(kitų šalių valiutos atžvilgiu)}
+0{strenuous}['strenju&#601;s]E{a}I{1}veiklus, energingas; uolus;F{strenuous life}veiklus gyvenimas;F{to put up strenuous opposition to smth}energingai priešintis kamI{2}įtemptas, sunkus; reikalaujantis daug jėgų; F{strenuous profession}sunki profesija;F{strenuous efforts}atkaklios pastangos
+0{strenuously}['strenju&#601;sl&#618;]E{adv}iš visų jėgų, sunkiai
+0{strep}[strep]E{n}(streptococcusL{sutr.})L{šnek.}streptokokas;F{strep throat}streptokokinė angina
+0{streptococcal}[,strept&#601;'k&#596;kl]E{a}L{med.}streptokokų sukeltas, streptokokinis
+0{streptococcus}[,strept&#601;'k&#596;k&#601;s]E{n}(E{pl}-ci[-ka&#618;]) streptokokas
+0{streptomycin}[,strept&#601;X{u}'ma&#618;s&#618;n]E{n}L{farm.}streptomicinas
+0{stress}[stres]S{&rArr;}E{n}I{1}svarba, reikšmingumas, reikšmė;F{to lay/put stress}l{(on)}pabrėžti, akcentuoti; teikti didelę reikšmęI{2}kirtis; akcentasl{(L{t. p.}L{muz.})};F{stress mark}kirčio ženklasI{3}spaudimas, slėgimas;F{under the stress of poverty}slegiamas skurdo; F{under the stress of weather}veikiamas/dėl blogo oroI{4}įtempimas; sunkumai; įtampal{(L{t. p.}L{fiz.})};F{times of stress}įtemptas laikotarpis, sunkūs laikaiI{5}L{tech.}įtempimas; įrąža;F{stress distribution}įtempimų pasiskirstymasI{6}L{psich.}stresasS{&rArr;}E{v}I{1}pabrėžti, pažymėti; akcentuotil{(L{t. p.}L{muz.})}I{2}(su)kirčiuotiI{3}L{tech.}spausti, slėgti; įtempti
+0{-stress}[-str&#618;s]E{suff}-ėja, -ikė, -ininkėl{(L{ir kt.}priesagos, žyminčios moteriškosios giminės asmenis)};F{seamstress}siuvėja;F{songstress}dainininkė
+0{stressed}[strest]E{a}I{1}įsitempęsl{(L{t. p.}X{stressed out})}I{2}kirčiuotasI{3}L{tech.}įtemptas
+0{stressful}['stresfX{&#601;}l]E{a}I{1}įtemptasl{(apie padėtįL{ir pan.})}I{2}(su)keliantis stresą, streso
+0{stress-mark}[stresma:k]E{n}kirčio ženklas
+0{stressor}['stres&#601;]E{n}L{spec.}stresorius, stresą sukeliantis faktorius
+0{stress-related}['stresr&#618;,le&#618;t&#618;d]E{a}sukeltas įtampos/stresol{(apie ligą)}
+0{stretch}[stret&#643;]S{&rArr;}E{n}I{1}nutįsimas, tįsojimas, tįsa; platybė, plotas;F{a stretch of hilly country}kalnuota vietovė;F{long stretch of beach}ilga pakrantė;F{grassy stretches}pievų plotaiI{2}tempimas; pailginimas, paplatinimasl{(tempiant)}I{3}rąžymasis, iš(si)tempimas;F{the cat woke and gave a stretch}katė atsibudo ir pasiraivė;F{he stood up with a stretch}jis atsistojo rąžydamasisI{4}įtempimas;F{to be at full stretch}būti įtemptam, įsitempti iki galol{(apie virvęL{ir pan.})};F{on the stretch}protinio įtempimo būklėje;F{nerves on the stretch}įtempti nervaiI{5}laiko tarpas;F{I did a twenty-month stretch in Klaipėda}aš išdirbau 20 mėnesių KlaipėdojeI{6}perdėjimas; ribų peržengimas;F{stretch of authority}kompetencijos ribų peržengimas, valdžios viršijimas;F{stretch of imagination}vaizduotės polėkis;F{not by any stretch of imagination}net ir turint lakią vaizduotę;F{stretch of a rule}nusižengimas taisykleiI{7}pasivaikščiojimas, prasimankštinimasI{8}l{(kelio, upėsL{ir pan.})}ruožas;L{sport.}l{(lenktynių tako)}tiesė;F{the final/home stretch}paskutinis etapasI{9}L{šnek.}įkalinimo laikasI{10}L{jūr.}halsas beidevindo kursuS{&loz;}X{at a stretch}X{a)}be pertraukos, nenutrūkstamai, vienu kartu;X{b)}daugių daugiausiai;F{at full stretch}įtempus visas jėgas, iš visų jėgųS{&rArr;}E{a}tampus; elastingas;F{stretch socks}elastingos puskojinės;F{stretch limo/limousine}pailgintas limuzinasS{&rArr;}E{v}I{1}tęstis; tįsėti, tįsoti, plytėti;F{these forests stretch for miles and miles}šie miškai tęsiasi mylių myliasI{2}tempti(s), tiesti(s), tampyti(s); ištempti, ištiesti; (pa)ilginti; (pa)ilgėti;F{material that stretches}medžiaga, kuri tempiasiI{3}E{refl}išsitempti, išsitiesti, rąžytis;F{to stretch one’s neck}ištempti/ištiesti kaklą I{4}įtempti;F{to stretch the reins [the strings]įtempti vadžias [stygas]I{5}užtempti, užtrauktil{(on)}I{6}L{prk.}peržengtil{(ribas)}; nusižengtil{(taisyklėms)}; perdėtil{(L{t. p.}X{stretch the truth})};F{to stretch the law}neteisingail{(savo naudai)}aiškinti įstatymą;F{that is stretching things too far!}to jau per daug!, tai peržengia visas ribas!I{7}verstis, išsiversti; (vos) pakakti;F{the money won’t stretch to a new TV}tų pinigų nepakaks naujam televizoriuiI{8}L{šnek.}partiesti, parmuštiS{o}1{stretch out}X{a)}ištiestil{(ranką, koją)}; išsitiestil{(L{ppr.}norint pailsėti)};X{b)}ištektil{(pinigų, maisto)}
+0{stretchable}['stret&#643;&#601;bl]E{a}tampus
+0{stretcher}['stret&#643;&#601;]S{&rArr;}E{n}I{1}neštuvaiI{2}tempimo prietaisasl{(rėmas, kurpalis, galvutėL{ir pan.})};l{(skėčio)}geležinis virbasI{3}L{tech.}tempiklis; temptuvasI{4}L{šnek.}perdėjimas, pertempimasI{5}l{(valties)}pakojos atramėlė, spyrysI{6}L{stat.}ilgainisl{(plyta, įmūryta išilgai)}I{7}L{men.}porėmisS{&rArr;}E{v}(iš)nešti su neštuvaisl{(L{t. p.}X{stretcher off})}
+0{stretcher-bearer}['stret&#643;&#601;,b&#604;&#601;r&#601;]E{n}sanitarasl{(nešantis sužeistuosius/ligonius)}
+0{stretch-out}['stret&#643;aut]E{n}L{amer.}L{šnek.}sistema, kai padidinamas darbo krūvis (beveik) nekeliant atlyginimo
+0{stretchy}['stret&#643;&#618;]E{a}elastiškas; tampus; tamprus
+0{strew}[stru:]E{v}(strewed; strewed, strewn[-n])I{1}l{(L{ppr.}E{pass})}išmėtyti, išsklaidyti; išbarstyti, pribarstyti;F{his clothes were strewn all over the room}jo drabužiai buvo išmėtyti po visą kambarįI{2}(pa)barstytil{(smėliu, pelenaisL{ir pan.})}; (api)bertil{(gėlėmisL{ir pan.}, with)}I{3}užžerti, nuklotil{(takąL{ir pan.})}
+0{strewth}[stru:&theta;]E{int}L{sl.}po šimts pypkių/kelmų!
+0{stria}['stra&#618;&#601;]E{n}(E{pl}-ae[-i:])I{1}L{spec.}ruožas, ruoželis, dryžis; vagutė, griovelisI{2}L{archit.}kaneliūra
+0{striate(d)}[stra&#618;'e&#618;t(&#618;d)]E{a}L{spec.}ruožuotas, dryžuotas; vagotas
+0{striation}[stra&#618;'e&#618;&#643;n]E{n}L{spec.}ruožuotumas, dryžuotumas; vagotumas
+0{stricken}['str&#618;kX{&#601;}n]E{a}I{1}palaužtas;l{(nelaimėsL{ir pan.})}ištiktas;F{stricken with paralysis}paralyžiuotasI{2}nubrauktas, sulig viršum, be kaupo, lygmalasl{(apie biralų matus)}I{3}L{amer.}L{teis.}išbrauktasl{(from)}
+0{-stricken}[-'str&#618;kX{&#601;}n]l{(L{sudurt.}žodžiuose)}apimtas, ištiktas;F{awe-stricken}apimtas baimės;F{famine-stricken}bado ištiktas;F{thunderstricken}apstulbintas
+0{strickle}['str&#618;kl]E{n}I{1}brauktuvasl{(biralų kaupui nubraukti)}I{2}pustyklė, galąstuvasI{3}drožtuvas
+0{strict}[str&#618;kt]E{a}I{1}griežtas, reiklus;F{strict teacher}griežtas/reiklus mokytojas;F{he was given strict orders}jam buvo griežtai įsakytaI{2}griežtas, tikslus;F{strict rules}griežtos taisyklės;F{in the strictest confidence}visiškai konfidencialiai;F{in strict secrecy}visiškai slaptai;F{in the strictest sense (of the word)}tiksliausia (žodžio) prasme;F{the strict truth}šventa teisybė
+0{strictly}['str&#618;ktl&#618;]E{adv}I{1}griežtai;F{strictly for members}tik nariamsI{2}tiksliai;F{strictly speaking}tiksliau sakant; kalbant iš esmės;F{that isn’t strictly true}tai ne visai teisybė
+0{strictness}[str&#618;ktn&#618;s]E{n}griežtumas
+0{stricture}['str&#618;kt&#643;&#601;]E{n}I{1}l{(L{džn.}E{pl})}griežta kritika, pasmerkimasI{2}suvaržymas, apribojimasl{(on, against)}I{3}L{med.}susiaurėjimas, striktūra
+0{stride}[stra&#618;d]S{&rArr;}E{n}I{1}l{(didelis, ilgas)}žingsnisI{2}eisena; bėgsenaI{3}l{(gyvūno)}šuolisI{4}E{pl}pasiekimai, laimėjimai;F{to make great/rapid strides}greitai progresuoti, daug pasiektiI{5}E{pl}L{austral.}L{šnek.}kelnėsS{&loz;}X{to get into one’s stride,}L{amer.}X{to hit one’s stride}įeiti į reikalingą ritmą; rimtai imtis darbo;F{to take smth in one’s stride}X{a)}lengvai atlikti/įveikti ką;X{b)}ramiai žiūrėti į ką; ramiai sutiktil{(žiniąL{ir pan.})};F{to put smb off one’s stride}S{&cong;}išmušti ką iš vėžių;F{to match smb stride for stride}S{&cong;}atitikti kirviui kotą, neužsileisti niekurS{&rArr;}E{v}(strode; stridden['str&#618;dn])I{1}žengti, žingsniuotil{(dideliais žingsniais)}; žirgčioti, žirgliotiI{2}peržengtil{(across, over)}I{3}L{ret.}žirgsoti; sėdėti apžargomisS{o}X{stride away/ off}nutolti dideliais žingsniais;1{stride out/on}nužingsniuoti toliau
+0{stridency}['stra&#618;d&#601;ns&#618;]E{n}I{1}l{(balso)}šaižumasI{2}l{(protestoL{ir pan.})}smarkumas, garsumas
+0{strident}['stra&#618;dX{&#601;}nt]E{a}I{1}gergždžiantis, girgždus; šaižus, aštrus, rėžiantis;F{strident voice}šaižus/raižus balsas;F{strident colour}rėžianti spalvaI{2}turintis šaižų balsą; rėksmingas, labai garsus
+0{stridulate}['str&#618;djule&#618;t]E{v}čirkšti, svirpti
+0{strife}[stra&#618;f]E{n}I{1}kova; konkurencijaI{2}nesantaika; vaidai, kivirčai;F{to sow (the seeds of) strife}sėti nesantaiką
+0{strife-ridden, -torn}['stra&#618;f,r&#618;dn, -t&#596;:n]E{a}nesantaikos apimtas/draskomas
+0{strike^{1}}[stra&#618;k]S{&rArr;}E{v}(struck)I{1}mušti, (su)duoti, kirsti, smogti;F{to strike blows}smūgiuoti;F{to strike the first blow}kirsti pirmą smūgį; pirmam pradėtil{(muštisL{ir pan.})};F{to strike smb on the head [in the face]suduoti kam per galvą [per veidą];F{to strike one’s hand on the table}trenkti/(su)duoti kumščiu į stalą;F{the lightning struck smth}žaibas trenkė į kąI{2}su(si)mušti, trenktis, atsimušti, atsitrenktil{(against)};F{to strike one’s foot against a stone}susimušti koją į akmenį;F{the ship struck a rock}laivas trenkėsi į uolą, užplaukė ant uolosI{3}suduotil{(per klavišus)}, paliestil{(stygas)}; išgauti garsąl{(on)}I{4}muštil{(apie laikrodį)};F{this clock strikes every quarter}šis laikrodis muša kas ketvirtį valandos;F{the hour has struck}išmušė valanda, atėjo laikasl{(imtis ko)};F{his hour has struck}išmušė jo mirties valanda I{5}įskeltil{(ugnį)}; už(si)degti;F{to strike a match}brūkštelėti/užžiebti degtuką;F{the match won’t strike}degtukas neužsidegaI{6}kalti;F{to strike medals}kalti medaliusI{7}l{(atsitiktinai)}surasti, užtikti, aptikti;F{to strike oil}rasti naftos;F{to strike a happy medium}surasti aukso vidurį;F{to strike the right path}l{(atsitiktinai)}išeiti į reikiamą keliąI{8}ištiktil{(apie audrą, ligą, nelaimęL{ir pan.})}; apimtil{(apie jausmusL{ir pan.})};F{the plague struck Europe}maras apėmė EuropąI{9}dingtelėti; sugalvotil{(planą; on)};F{an idea struck me}man atėjo į galvą mintis;F{it struck me that he was not telling the truth}man dingtelėjo, kad jis sako netiesą;F{at last I’ve struck on the plan that might work}pagaliau aš sugalvojau planą, kuris galėtų tiktiI{10}atrodyti, daryti įspūdį;F{how does it strike you?}kaip jums tai atrodo?, kokia jūsų nuomonė?;F{the story strikes me as unbelievable}pasakojimas man atrodo neįtikėtinas;F{what strikes your eye at once is...}pirmiausia krenta į akis tai, kad...;F{how does his playing strike you?}kaip jums patinka jo grojimas/atlikimas?I{11}įkvėpti, sukeltil{(jausmą)}; (ap)stulbinti;F{to strike fear/terror into smb’s heart}(į)bauginti ką;F{to strike devotion}įkvėpti atsidavimą;F{I was struck by her patience}mane apstulbino jos kantrybėI{12}nuleisti, suskleistil{(vėliavą, bures, palapinęL{ir pan.})};F{to strike camp, to strike one’s tent}išvykti iš stovyklosI{13}susumuoti; suvestil{(balansą)}; sudarytil{(sutartį, sandorįL{ir pan.};L{t. p.}X{strike up})};F{to strike hands}sudaužti/sumušti rankasl{(perkant, parduodant)}; sulygti, susitartiI{14}atsistoti/atsisėsti tam tikra pozal{(ypač norint padaryti įspūdį)}I{15}leistil{(šaknis)}; sodintiI{16}suleisti dantis, įkąsti, įkirstil{(apie tigrą, gyvatęL{ir pan.})}I{17}skverbtis, smelktisl{(apie šaltį, vėją, šviesą)};F{the cold struck through my clothes}šaltis skverbėsi per drabužiusI{18}(už)pultil{(at)};L{kar.}smogti, atakuotiI{19}pasileistil{(into)}; F{the horse struck into a gallop}arklys pasileido šuoliaisI{20}pasukti;F{strike to the left}sukite į kairęI{21}pasiekti;F{we struck Minsk before darkness}pasiekėme Minską prieš sutemstantI{22}nubrauktil{(biralų kaupą)}I{23}išbraukti, išleistil{(iš tekstoL{ir pan.}; from)}I{24}užkirstil{(meškeriojant)}; kibtil{(apie žuvį)}I{25}L{sl.}šantažuoti; prašytil{(protekcijos, pinigų)};F{he struck his friend for a job}jis paprašė draugą paieškoti jam darboS{o}1{strike aside}atmušti smūgį;1{strike back}kirsti/(su)duoti atsakomąjį smūgį;1{strike down}X{a)}parblokšti;X{b)}l{(L{ppr.}E{pass})}pakirstil{(apie ligąL{ir pan.})};X{c)}L{amer.}L{teis.}panaikinti, anuliuoti;1{strike in}įsikišti, įsiterptil{(į pokalbį)};1{strike off}X{a)}nukirsti, atkirsti;F{to strike off smb’s head}nukirsti kam galvą;X{b)}išbrauktil{(iš sąrašo)}; atimtil{(advokatui, gydytojui)}teisę praktikuoti;X{c)}išskaityti, išskaičiuotil{(iš sąskaitos)};X{d)}ekspromtu/greitomis sukurti/padaryti, improvizuoti;X{e)}atspausdinti;F{to strike off 1000 copies of the book}atspausdinti 1000 knygos egzempliorių;1{strike out}X{a)}išbraukti;X{b)}sugalvoti, išrasti;F{to strike out a new idea}sugalvoti naują planą;X{c)}leistis, pasileistil{(kur)};X{d)}pasuktil{(plaukiant)}, smarkiai plauktil{(kuria kryptimi)};F{to strike out for the shore}pasukti/plaukti į krantą;X{e)}smarkiai kirsti/duoti; už(si)pulti;1{strike through}perbraukti, užbraukti;1{strike up}pradėti;F{to strike up an acquaintance}l{(greitai)}užmegzti pažintį;F{the band struck up}orkestras pradėjo groti, užgrojoS{&loz;}X{to strike it rich}l{(staiga)}(pra)turtėti, pralobti; (at)rasti (aukso) gyslą;F{to strike out a new line for oneself}nusistatyti savitą/naują elgseną/teorijąL{ir pan.}; pradėti naują gyvenimą;F{to strike out on one’s own}tapti savarankiškam;F{to strike at the root/foundation}l{(of)}pakirsti iš pašaknų; visiškai sunaikinti;F{strike me pink}L{šnek.}nejaugi!l{(reiškiant nustebimą/netikėjimą)};F{to be struck on smb}L{šnek.}būti (beprotiškai) ką įsimylėjusiam;F{to be struck on smth}L{šnek.}susižavėti, būti susižavėjusiam kuoS{&rArr;}E{n}I{1}smūgisl{(L{t. p.}L{kar.})}I{2}l{(laikrodžio)}mušimasI{3}užkirtimasl{(meškeriojant)};l{(žuvų)}kibimasI{4}l{(naftos, rūdosL{ir pan.})}telkinių (at)radimasI{5}netikėta sėkmėl{(L{t. p.}X{lucky strike})}I{6}vieno kalimo monetos/medaliaiL{ir pan.}I{7}l{(ypačL{av.})}puolimas, ataka;F{strike weapon}puolamasis ginklasI{8}L{geol.}l{(gyslos, klodo)}tįsaS{&loz;}X{to have two strikes against one}būti nepalankioje padėtyje
+0{strike^{2}}S{&rArr;}E{n}I{1}streikas;F{general strike}visuotinis streikas;F{hunger [symphathy/sympathetic] strike}bado [solidarumo] streikas;F{to be on strike}streikuoti;F{to go on strike}paskelbti streiką, sustreikuoti;F{to break a strike}sužlugdyti streiką;F{to stage a strike}surengti streiką;F{outlaw strike}streikas, nesuderintas su profsąjungaI{2}boikotas;F{buyer’s strike}tam tikrų prekių/parduotuvių boikotavimasS{&rArr;}E{v}streikuoti;F{to strike work}nutraukti darbą, sustreikuoti
+0{strike-benefit}['stra&#618;k,ben&#618;f&#618;t]E{n}A{=R{strike-pay}}
+0{strikebound}['stra&#618;kbaund]E{a}apimtas streikol{(apie gamykląL{ir pan.})}
+0{strikebreaker}['stra&#618;k,bre&#618;k&#601;]E{n}streiklaužys
+0{strikebreaking}['stra&#618;k,bre&#618;k&#618;&#331;]E{n}I{1}streiko (nu)malšinimasI{2}streiklaužystė
+0{strike-committee}['stra&#618;kk&#601;,m&#618;t&#618;]E{n}streiko komitetas
+0{strike-fighter}['stra&#618;k,fa&#618;t&#601;]E{n}L{av.}smogiamasis lėktuvas
+0{strike-pay}['stra&#618;kpe&#618;]E{n}pašalpa streikuojantiemsl{(iš profsąjungų fondų)}
+0{striker^{1}}['stra&#618;k&#601;]E{n}I{1}kūjininkas, kalėjasI{2}harpūnininkasI{3}L{sport.}puolėjas I{4}laiką mušantis laikrodisI{5}L{kar.}L{tech.}daužiklis, skiltuvasI{6}L{amer.}L{kar.}pasiuntinys, ordonansas
+0{striker^{2}}E{n}streikininkas, streikuotojas
+0{striking}['stra&#618;k&#618;&#331;]E{a}I{1}nuostabus, stulbinantis, nepaprastas, ryškus, įspūdingas;F{striking contrast [example]ryškus kontrastas [pavyzdys]I{2}smogiamasis;F{striking power}smogiamoji jėga;F{striking force}L{kar.}smogiamoji grupė
+0{strikingly}['stra&#618;k&#618;&#331;l&#618;]E{adv}įspūdingai, efektingai
+0{Strine}[stra&#618;n]L{šnek.}S{&rArr;}E{n}australiškasis anglų kalbos variantasS{&rArr;}E{a}australiškas
+0{string}[str&#618;&#331;]S{&rArr;}E{n}I{1}l{(plona)}virvė, virvelė; špagatas; varstis, raištisI{2}vėrinys, virtinė;l{(svogūnų)}pynė, kasa;F{string of light bulbs}elektros lempučių girliandaI{3}plaušelis, skaidula, gyslelėI{4}l{(mašinų, faktų, pavyzdžiųL{ir pan.})}virtinė, serija;F{string of people [of soldiers]žmonių [kareivių] vora;F{string of bursts}kulkosvaidžio šūvių serijaI{5}sportininkai, sugrupuoti pagal pajėgumą;F{first string}X{a)}l{(komandos)}geriausias žaidėjas; pirmoji sudėtis;X{b)}L{prk.}pagrindinė priemonė/išeitis;F{the second string will play today}šiandien žais dubleriai, antroji komandaI{6}l{(lenktynių)}žirgai, priklausantys vienam savininkuiI{7}L{tech.}l{(izoliatorių)}grandinė;l{(vienu metu apdirbamų detalių)}partijaI{8}L{muz.}styga;F{to touch the strings}groti styginiu instrumentuI{9}X{(the strings)}E{pl}L{muz.}l{(orkestro)}styginiail{(instrumentai)}; stygininkaiI{10}l{(pupelių)}ankštisI{11}l{(lanko)}templėI{12}L{stat.}templė; laiptasijėI{13}l{(L{ppr.}E{pl})}l{(ypačL{amer.})}sąlyga, išlygal{(priimant dovaną, sutinkantL{ir pan.})};F{his acceptance has a string tied to it}jis sutiko, bet su sąlyga/išlyga;F{without strings attached}be išankstinių sąlygųI{14}L{komp.}l{(simbolių, duomenų, įrašų)}seka, eilutėI{15}E{attr}styginis;F{string band/orchestra}styginių (instrumentų) orkestrasS{&loz;}X{to harp on the same string}S{&cong;}traukti/giedoti tą pačią giesmę, nuolat kalbėti apie tą patį, nuolat tvirtinti tą patį;F{to touch a string}paliesti skaudamą/jautrią vietą, paliesti opų klausimą;F{on a string}visiškai priklausomas;S{&cong;}po padu;F{another,}l{ar}X{a second, string to one’s bow}papildoma/atsarginė galimybė, dar viena išeitis;F{to have two strings to one’s bow}rinktis iš dviejų galimybių;F{to have more than one string to one’s bow}turėti atsargoje dar vieną galimybę/išeitį;F{to have a string on smb}L{amer.}turėti kozirį prieš kąS{&rArr;}E{v}(strung)I{1}užrišti, surišti, pririštil{(virvele)}I{2}uždėti, įtaisyti, įtemptil{(stygas)}, (su)styguotiI{3}įtemptil{(L{t. p.}L{prk.})};F{highly strung nerves}labai įtempti nervaiI{4}(su)verti; (su)varstyti;F{beads swung on a silver chain}karoliai, suverti ant sidabrinės grandinėlėsI{5}sustatyti, surikiuoti, sustotil{(eilute, vora)}I{6}(pa)kabintil{(girliandąL{ir pan.})}I{7}aižyti, lukštentil{(pupas, žirniusL{ir pan.})}I{8}plaušoti(s)I{9}L{šnek.}apgaudinėti, mulkinti, vedžioti už nosiesl{(L{džn.}X{string along})}S{o}1{string along}l{(with)}X{a)}sektil{(kuo)}; laikytisl{(vienodų pažiūrų su kuo)}, pasitikėtil{(kuo)};X{b)}L{šnek.}pavažiuotil{(su kuo pakeliui)};X{c)}L{šnek.}prisidėtil{(prie)};1{string out}X{a)}l{(L{ppr.}E{pass})}iš(si)dėstyti, iš(si)driektil{(eile, virtine)};X{b)}L{šnek.}nu(si)tęstil{(laike)};1{string together}sujungti, suregztil{(žodžius, sakinius)}; sudėtil{(eilėraštį)};1{string up}X{a)}įtemptil{(nervusL{ir pan.})};X{b)}pakabinti aukštai;X{c)}L{šnek.}pakarti
+0{string-bag}['str&#618;&#331;b&aelig;g]E{n}tinklelis, regztukas
+0{stringboard}['str&#618;&#331;b&#596;:d]A{=R{string}}E{n}12
+0{stringcourse}['str&#618;&#331;k&#596;:s]E{n}L{archit.}juostelė, nedidelė atbraila
+0{stringed}[str&#618;&#331;d]E{a}styginis;F{stringed instrument}styginis instrumentas
+0{stringency}['str&#618;nd&#658;X{&#601;}ns&#618;]E{n}I{1}griežtumasI{2}L{ekon.}l{(pinigų)}trūkumas, stokaI{3}svarumas, įtikinamumas
+0{stringent}['str&#618;nd&#658;X{&#601;}nt]E{a}I{1}griežtas, privalomas, būtinas;F{stringent regulations}privalomieji nutarimaiI{2}L{ekon.}suvaržytasl{(dėl pinigų stokos)}I{3}svarus, įtikinamas
+0{stringently}['str&#618;nd&#658;X{&#601;}ntl&#618;]E{adv}griežtai, suvaržytai
+0{stringer}['str&#618;&#331;&#601;]E{n}I{1}L{stat.}laiptasijė; templė; išilginė sija, ilginisI{2}L{jūr.},L{av.}stringerisI{3}l{(laikraščio)}neetatinis korespondentas
+0{stringhalt}['str&#618;&#331;h&#596;:lt]E{n}L{vet.}špatasl{(arklių liga)}
+0{stringiness}['str&#618;&#331;&#618;n&#618;s]E{n}plaušingumas, skaidulingumas
+0{string-pulling}['str&#618;&#331;,pul&#618;&#331;]E{n}I{1}naudojimasis ryšiais/protekcijomisI{2}užkulisinės machinacijos
+0{stringy}['str&#618;&#331;&#618;]E{a}I{1}plaušingas, skaidulingas; gyslotasl{(apie mėsą, rankas)}I{2}plonas, šiurkštusl{(apie plaukus, barzdą)}
+0{strip}[str&#618;p]S{&rArr;}E{n}I{1}l{(ilgas siauras)}rėžis, ruožas, atraiža, juosta, juostelė;F{strip of board}lentjuostė;F{strip of land}žemės rėžis;F{strip steel}juostinis plienasI{2}l{(komiškų)}piešinių serijal{(laikraštyje, žurnale;L{t. p.}X{strip cartoon})}I{3}striptizas;F{to do a strip}atlikti striptiząI{4}L{sport.}l{(komandos)}uniformaI{5}L{sport.}l{(fechtavimo)}takelisI{6}L{av.}starto/nusileidimo aikštelėl{(L{t. p.}X{landing strip})}I{7}L{amer.}kelias/gatvė su daug parduotuvių/restoranųL{ir pan.}S{&loz;}X{to tear smb off a strip, to tear a strip off smb}L{šnek.}išplūsti/išbarti kąS{&rArr;}E{v}I{1}nuplėšti, nu(si)lupti, nudraskyti, nutrauktil{(L{t. p.}X{strip off})}; apnuoginti;F{the wind stripped the trees}vėjas apnuogino medžiusI{2}nu(si)rengti, nu(si)vilktil{(L{t. p.}X{strip down/off})};F{to strip to the waist}nusirengti iki juosmens;F{to strip to the skin}nusirengti nuogaiI{3}šokti striptiząI{4}atimtil{(of;L{t. p.}X{strip away})};F{to strip smb of titles}atimti kam titulusI{5}apiplėšti, išplėšti, apkraustyti; nusiaubti;F{the locusts stripped the fields}skėriai nusiaubė laukusI{6}išardyti, išmontuotil{(L{t. p.}X{strip down})}I{7}L{tech.}persuktil{(sriegį, pavarą)}I{8}L{ž. ū.}išmelžtiI{9}L{ž. ū.}bruktil{(linus)}S{o}1{strip away/off}X{a)}nuplėšti, nulupti;X{b)}L{prk.}nuplėštil{(kaukęL{ir pan.})}, nusimesti, atsikratyti
+0{strip-club}['str&#618;pkl&#652;b]E{n}klubas, kuriame rodomas striptizas
+0{stripe}[stra&#618;p]S{&rArr;}E{n}I{1}juosta, dryžis, ruožas;F{a shirt with black and white stripes}marškiniai juodais ir baltais ruoželiaisI{2}dryžuota medžiaga, dryžainis;F{to wear the stripes}vilkėti kalinio rūbus; sėdėti kalėjimeI{3}L{kar.}ševronas, antsiuvas, juostelė;F{to get [to lose] one’s stripes}būti pakeltam/paaukštintam [būti pažemintam]I{4}rėžis, kirtis, smūgisl{(botagu, lazda)};E{pl}pylaI{5}L{amer.}tipas, rūšisl{(apie žmogaus būdą, nuomonęL{ir pan.})}I{6}E{pl}L{šnek.}tigrasS{&loz;}X{to earn one’s stripes}L{šnek.}nusipelnyti laipsnio/pareigųL{ir pan.}S{&rArr;}E{v}dryžuoti, ruožuoti
+0{striped}[stra&#618;pt]E{a}dryžuotas, juostuotas, ruožuotas
+0{-striper}[-'stra&#618;p&#601;]l{(L{sudurt.}žodžiuose)}L{amer.}L{sl.}turintisl{(tiek)}antsiuvųl{(ypač apie jūrų karininką)};F{four-striper}antrojo rango kapitonas
+0{strip-joint}['str&#618;pd&#658;&#596;&#618;nt]E{n}L{šnek.}A{=R{strip-club}}
+0{strip-lighting}['str&#618;p,la&#618;t&#618;&#331;]E{n}apšvietimas dienos šviesos lempomis
+0{stripling}['str&#618;pl&#618;&#331;]E{n}l{(L{tik v.})}L{knyg.}paauglys, jaunuolis
+0{stripper}['str&#618;p&#601;]E{n}I{1}striptizo šokėjaI{2}L{tech.}striperis, luistastūmis
+0{strip-search}['str&#618;ps&#601;:t&#643;]S{&rArr;}E{n}nuogai išrengto žmogaus apieškojimasl{(ypač ieškant paslėptų narkotikų)}S{&rArr;}E{v}apieškoti nuogai išrengtą žmogų
+0{striptease}['str&#618;pti:z]E{n}striptizas
+0{stripteaser}['str&#618;p,ti:z&#601;]E{n}A{=R{stripper}}1
+0{stripy}['stra&#618;p&#618;]E{a}dryžas, dryžuotas
+0{strive}[stra&#618;v]E{v}(strove; striven['str&#618;vn])I{1}stengtis, dėti pastangas, siekti;F{to strive to win}stengtis laimėti;F{to strive for victory}siekti pergalėsI{2}L{ret.}kovotil{(against, with)}
+0{striving}['stra&#618;v&#618;&#331;]E{n}siekimas, siekis
+0{strobe}[str&#601;ub]E{n}I{1}L{sutr.}L{šnek.}stroboskopasI{2}šviesos blyksniail{(L{džn.}šokių salėje;L{t. p.}X{strobe light})}
+0{stroboscope}['str&#601;ub&#601;sk&#601;up]E{n}L{opt.}stroboskopas
+0{strode}[str&#601;ud]E{past}A{L{žr.}R{stride}}E{v}
+0{stroke}[str&#601;uk]S{&rArr;}E{n}I{1}smūgis, kirtisl{(L{t. p.}žaidžiant tenisą, golfą)}; dūžis;F{hammer strokes}kūjo dūžiai;F{at a/one stroke}X{a)}vienu smūgiu;X{b)}iš karto;F{the finishing stroke}X{a)}lemiamas smūgis;X{b)}svariausias argumentasI{2}L{med.}smūgis, priepuolis; insultasl{(L{t. p.}X{paralytic stroke})};F{apoplectic stroke}apopleksinis smūgis, apopleksijaI{3}brūkštelėjimas;F{with one stroke of pen}vienu plunksnos brūkštelėjimu;F{stroke of the brush}potėpisI{4}įžambus brūkšnysl{(reiškiantis „arba/ir“)}I{5}glostymas;F{to give smb/smth a stroke}paglostyti kąI{6}l{(laikrodžio)}dūžis, mušimasI{7}mojis, mostas, už(si)mojimas;F{the stroke of a whip}užsimojimas (kirsti) botaguI{8}L{sport.}yris; yrininkasl{(L{t. p.}X{stroke oar})};F{to row/pull the stroke}diktuoti greitį/ritmąl{(irkluojant)}I{9}L{sport.}plaukimo būdasI{10}požymis; žingsnis, veiksmas;F{bold stroke}drąsus žingsnis;F{it was a stroke of genius}tai buvo genialu;F{a stroke of luck}netikėta sėkmėI{11}L{tech.}taktas;l{(stūmoklio)}eigaS{&loz;}X{on/at the stroke}punktualiai;F{to put smb off their stroke}S{&cong;}išmušti ką iš vėžių;F{they have not done a stroke of work}S{&cong;}jie nė piršto nepajudino;F{the first stroke is half the battle}S{&cong;}gera pradžia – pusė darbo;F{little strokes fell great oaks}S{&cong;}lašas po lašo ir akmenį pratašoS{&rArr;}E{v}I{1}glostyti, glamonėti;F{he strokeed her hair tenderly}jis švelniai paglostė jos plaukusI{2}perbrauktiI{3}diktuoti ritmąl{(irkluotojams)}; būti yrininkuI{4}L{šnek.}užsiimtil{(kuo)}; susidorotil{(su kokiu darbu)}S{o}1{stroke down}nuraminti
+0{stroll}[str&#601;ul]S{&rArr;}E{n}pasivaikščiojimas;F{to take a stroll, to go for a stroll}(eiti) pasivaikščiotiS{&rArr;}E{v}I{1}vaikščioti, klaidžioti, bastytisl{(L{t. p.}X{stroll about/around})}I{2}klajotil{(apie artistus, muzikantus)}I{3}L{šnek.}lengvai laimėtil{(L{t. p.}X{stroll home})}
+0{stroller}['str&#601;ul&#601;]E{n}I{1}vaikštinėtojasI{2}valkata, bastūnasI{3}klajojantis artistasI{4}L{amer.}vaikiška sulankstoma kėdutė su rateliais
+0{strolling}['str&#601;ul&#618;&#331;]E{a}E{attr}klajojantis;F{strolling musicians}klajojantys muzikantai
+0{stroma}['str&#601;um&#601;]E{n}(E{pl}-mata[-m&#601;t&#601;])L{anat.},L{biol.}l{(organo, ląstelės)}griaučiai, stroma
+0{strong}[str&#596;&#331;]S{&rArr;}E{a}I{1}stiprus, smarkus, tvirtasl{(L{t. p.}L{prk.})};F{strong cloth}stiprus/tvirtas audeklas;F{strong walls}stiprios/tvirtos sienos;F{strong wind}stiprus/smarkus vėjas;F{strong arm}tvirta rankal{(L{t. p.}L{prk.})};F{strong will}stipri/tvirta valia;F{strong nerves}stiprūs nervaiI{2}energingas, ryžtingas; griežtas;F{strong measures}griežtos priemonės;F{to give a strong support}l{(to)}ryžtingai palaikytil{(ką)}I{3}tvirtas;F{strong opinion}tvirta nuomonė;F{strong beliefs}tvirti įsitikinimai;F{strong partisan}tvirtas/aistringas šalininkas I{4}svarus, stiprus, didelis;F{strong disappointment}didelis nusivylimas;F{strong reason}svari priežastisI{5}aiškus, ryškus, didelis;F{a strong German accent}ryškus vokiškas akcentas;F{strong resemblance}ryškus/didelis panašumas;F{the temptation is very strong}pagunda – labai didelėI{6}išraiškingas;F{strong literary style}išraiškingas stiliusI{7}galingas; turintis jėgą/valdžią/galimybių/šansų;F{strong candidate}kandidatas, turintis daugiausiai galimybiųl{(laimėti)};F{to be strong at sea}būti galingam jūroje; turėti galingą laivynąI{8}sveikas, stiprus;F{strong heart}sveika/stipri širdis;F{are you quite strong again?}ar jūs jau pakankamai sustiprėjote?, ar jūs jau sveikas?I{9}stiprus, nusimanantisl{(on, in)};F{to be strong}l{(in)}gerai išmanytil{(kurią sritį)}I{10}stiprus, neatskiestas;F{strong coffee}stipri kava;F{strong drinks}alkoholiniai gėrimai, svaigalai I{11}aštrus, gailus; aitrus, nemalonus;F{strong smell}stiprus/aštrus kvapas;F{strong cheese}aštrus sūris;F{strong smoke}aitrūs dūmai;F{strong breath}nemalonus burnos kvapas;F{strong butter}apgedęs/apkartęs sviestasI{12}garsusl{(apie balsą)}I{13}l{(po skaitvardžių) turintis tam tikrą skaičių:}X{battalions a thousand strong}batalionai po 1000 žmonių;F{how many strong are you?}kiek (čia) jūsų yra? I{14}L{kom.}kylantis; stabiliai aukštasl{(apie kainas)}; tvirtasl{(apie valiutą)}I{15}L{gram.}stiprusis I{16}L{fon.}kirčiuotas S{&loz;}X{by the strong arm/hand}jėga;F{strong meat}S{&cong;}kietas riešutas;F{to be a bit strong}L{šnek.}(truputį) perdėti, būti per daugS{&rArr;}E{n}X{(the strong)}L{kuop.}I{1}stiprieji; sveikiejiI{2}turintieji valdžiąl{(savo rankose)}S{&rArr;}E{adv}L{šnek.}I{1}stipriai;F{to be still going strong}būti dar pajėgiam/stipriamI{2}ryžtingai, smarkiai, griežtai;F{to go it (rather) strong}X{a)}veikti ryžtingai/energingai;X{b)}elgtis neprotingai;F{to come it strong}X{a)}smarkiai perdėti;X{b)}per daug sau leisti; per toli nueiti
+0{strong-arm}['str&#596;&#331;a:m]S{&rArr;}E{a}E{attr}vartojantis jėgą;F{strong-arm methods}smurto/prievartos metodaiS{&rArr;}E{v}vartoti jėgą
+0{strongback}['str&#596;&#331;b&aelig;k]E{n}L{jūr.}l{(valčių, keltuvų)}stiprinimo skersinis
+0{strongbox}['str&#596;&#331;b&#596;ks]E{n}seifas
+0{stronghold}['str&#596;&#331;h&#601;uld]E{n}I{1}tvirtovė, citadelė;F{the area is a Republican stronghold}tas rajonas – respublikonų tvirtovėI{2}L{kar.}atramos punktas, fortas
+0{strongly}['str&#596;&#331;l&#618;]E{adv}I{1}stipriai; smarkiai;F{he smelt strongly of garlic}nuo jo smarkiai atsidavė svogūnaisI{2}ryžtingai, griežtai;F{he feels very strongly about it}jis turi tvirtą nuomonę dėl to, jis griežtai nusistatęs prieš tai;F{he is strongly against her coming}jis ryžtingai nusistatęs prieš jos atvykimą
+0{strongman}['str&#596;&#331;m&aelig;n]E{n}(E{pl}-men[-men])l{(L{tik v.})}I{1}stipruolisl{(cirkeL{ir pan.})}I{2}L{polit.}valdingas/diktatoriškas vadovas,S{&cong;}tvirta ranka
+0{strong-minded}['str&#596;&#331;'ma&#618;nd&#618;d]E{a}tvirtavalis, tvirto nusistatymo; ryžtingas
+0{strongroom}['str&#596;&#331;rum]E{n}saugykla, seifasl{(banko patalpa)}
+0{strong-smelling}[str&#596;&#331;'smel&#618;&#331;]E{a}stipriai kvepintis, aštraus kvapo
+0{strong-willed}['str&#596;&#331;'w&#618;ld]E{a}I{1}stiprios valios, valingas; ryžtingasI{2}užsispyręs, atkaklus
+0{strontium}['str&#596;nt&#618;&#601;m]E{n}L{chem.}stroncis
+0{strop}[str&#596;p]S{&rArr;}E{n}I{1}pustas, diržasl{(skustuvams galąsti;L{t. p.}X{razor strop})}I{2}L{jūr.}stropasS{&loz;}X{to be in a strop}L{šnek.}būti susierzinusiam/supykusiamS{&rArr;}E{v}galąstil{(skustuvą)}
+0{strophanthin}[str&#601;X{u}'f&aelig;n&theta;&#618;n]E{n}L{farm.}strofantinas
+0{strophe}['str&#601;uf&#618;]E{n}L{lit.}posmas, strofa
+0{strophic}['str&#601;uf&#618;k]E{a}L{lit.}strofinis
+0{stropper}['str&#596;p&#601;]E{n}prietaisas skutimosi peiliukams galąsti
+0{stroppy}['str&#596;p&#618;]E{a}L{šnek.}smarkaujantis; nesukalbamas;F{to be stroppy}spyriotis
+0{strove}[str&#601;uv]E{past}A{L{žr.}R{strive}}
+0{struck}[str&#652;k]E{past}l{ir}E{pII}A{L{žr.}R{strike^{1}}}E{v}
+0{structural}['str&#652;kt&#643;X{&#601;}r&#601;l]E{a}I{1}struktūrinis;F{structural analysis}struktūrinė analizė;F{structural formula}L{chem.}struktūrinė formulė;F{structural linguistics}struktūrinė kalbotyra/lingvistikaI{2}statybinis; konstrukcinis;F{structural steel}konstrukcinis/statybinis plienas;F{structural features}konstrukcinės detalės;F{structural mechanics}statybinė mechanika
+0{structuralism}['str&#652;kt&#643;X{&#601;}r&#601;l&#618;zm]E{n}L{kalb.}struktūralizmas
+0{structuralist}['str&#652;kt&#643;X{&#601;}r&#601;l&#618;st]E{n}L{kalb.}struktūralistas
+0{structurally}['str&#652;kt&#643;X{&#601;}r&#601;l&#618;]E{adv}struktūriškai
+0{structure}['str&#652;kt&#643;&#601;]S{&rArr;}E{n}I{1}struktūra, sandara;F{the structure of a language}kalbos sandara/struktūra;F{the structure of a sentence}sakinio struktūra;F{the structure of the atom}atomo sandara;F{nutty structure}l{(dirvožemio)}riešutiškoji struktūra;F{social structure}socialinė santvarkaI{2}statinys, pastatas, konstrukcijaS{&rArr;}E{v}sudaryti, suformuoti; (su)sisteminti
+0{structured}['str&#652;kt&#643;&#601;d]E{a}struktūrinis, struktūriškai apibrėžtas;F{structured programming}struktūrinis programavimas
+0{structureless}['str&#652;kt&#643;&#601;l&#618;s]E{a}amorfinis, padrikas
+0{structure-specific}['str&#652;kt&#643;&#601;sp&#618;'s&#618;f&#618;k]E{a}priklausantis nuo struktūros
+0{struggle}['str&#652;gl]S{&rArr;}E{n}I{1}kova; grumtynės;F{power struggle}kova dėl valdžios;F{the struggle for existence/life}kova dėl būvio/egzistencijos;F{the struggle against injustice}kova prieš neteisybę;F{a life-and-death struggle}žūtbūtinė kovaI{2}pastangos; priešinimasis;F{to give in without a struggle}pasiduoti be pasipriešinimoI{3}sunkumas, vargasl{(ką daryti; for)}S{&rArr;}E{v}I{1}kovoti; grumtis,X{to struggle against difficulties}grumtis su sunkumais;F{to struggle for one’s living}kovoti dėl duonos kąsnioI{2}gintis, priešintis, spurdėti;F{he struggled with the policeman}jis priešinosi policininkuiI{3}dėti pastangas, stengtis iš visų jėgų; kamuotis;F{to struggle to one’s feet}vos atsistoti ant kojų;F{he struggled to make himself heard}jis iš visų jėgų stengėsi, kad jį išgirstų;F{to struggle with a mathematical problem}kamuotis/vargti sprendžiant uždavinį;F{he struggled into his jeans}jis vargais negalais užsimovė džinsusI{4}skverbtis, brautisl{(through)};F{to struggle through the crowd}brautis per miniąS{o}1{struggle along}sunkiai žengti į priekį;1{struggle on}toliau grumtis/kovoti, tęsti kovą
+0{strum}[str&#652;m]S{&rArr;}E{n}čirpinimasl{(styginiais/klavišiniais instrumentais)}, darL{žr.}E{v}S{&rArr;}E{v}čirpinti, čyruoti, čirškinti, birzginti, zirzinti, brązginti; barškinti, kliunkintil{(pianiną)}
+0{strumpet}['str&#652;mp&#618;t]E{n}L{psn.}prostitutė
+0{strung}[str&#652;&#331;]E{past}l{ir}E{pII}A{L{žr.}R{string}}E{v}
+0{strung-out}[,str&#652;&#331;'aut]E{a}L{šnek.}I{1}apdujęs, apsvaigęsl{(on – nuo)}I{2}išsikamavęs
+0{strung-up}[,str&#652;ng'&#652;p]E{a}L{šnek.}įsitempęs, nervingas
+0{strut^{1}}[str&#652;t]S{&rArr;}E{n}išdidi/nenatūrali eisenaS{&rArr;}E{v}eiti išdidžiai/nenatūraliai, vaikščioti pasipūtus
+0{strut^{2}}S{&rArr;}E{n}L{stat.}spyrys, statramstis, paramstisS{&rArr;}E{v}paspirti, paremti, ramstyti
+0{strutter}['str&#652;t&#601;]E{n}L{šnek.}pasipūtėlis
+0{strychnine}['str&#618;kni:n]E{n}L{farm.}strichninas
+0{Stuart}['stju&#601;t]E{n}Stiuartasl{(vardas, pavardė)}
+0{stub}[st&#652;b]S{&rArr;}E{n}I{1}l{(trumpas bukas)}galas, galiukas;F{stub of pencil}pieštuko galiukas;F{stub of a tail}bigė, nukirsta uodegaI{2}nuorūkaI{3}l{(čekių, kvitų knygelėsL{ir pan.})}šaknelėI{4}kelmasI{5}nuolauža, lūžgalysI{6}L{el.}šleifas, kilpaS{&rArr;}E{v}su(si)mušti koją/pirštąl{(on, against)}S{o}1{stub out}užgesinti nuorūką;1{stub up}rauti kelmus; (iš)rauti su šaknimisl{(piktžolesL{ir pan.})}
+0{stubble}['st&#652;bl]E{n}I{1}ražiena;F{rye stubble}rugiena, rugienojaiI{2}blogai nuskusta barzda, seniai skusta barzda; trumpai nukirpti plaukai, šeriai
+0{stubbly}['st&#652;bl&#618;]E{a}I{1}ražieninis, ražienųI{2}dygus, šeriuotas, neskustasl{(apie barzdąL{ir pan.})}
+0{stubborn}['st&#652;b&#601;n]E{a}I{1}užsispyręs, nenuolaidus;F{to be stubborn}užsispirti, spyriotisI{2}atkaklus; sunkiai įveikiamas/veikiantisL{ir pan.};F{stubborn opposition/resistance}atkaklus pasipriešinimas;F{stubborn illness}sunkiai pagydoma liga;F{stubborn stains}sunkiai pašalinamos dėmės
+0{stubbornness}['st&#652;b&#601;n&#618;s]E{n}I{1}užsispyrimasI{2}atkaklumas
+0{stubby}['st&#652;b&#618;]E{a}I{1}kelmuotasI{2}kresnas; trumpas ir storas;F{stubby figure}kresna figūra;F{stubby fingers}trumpi stori pirštaiI{3}šeriuotas, duriantis, dygusl{(apie barzdą)}; pasišiaušęs
+0{stucco}['st&#652;k&#601;u]S{&rArr;}E{n}(E{pl}stuccoes[-z])I{1}išorinis tinkas, tinkavimo gipsasI{2}tinkavimo/lipdymo darbaiS{&rArr;}E{v}tinkuoti
+0{stuccowork}['st&#652;k&#601;uw&#601;:k]E{n}lipdytiniai pagražinimai
+0{stuck}[st&#652;k]S{&rArr;}E{past}l{ir}E{pII}A{L{žr.}R{stick}}E{v}S{&rArr;}E{n}:X{to be in stuck}L{šnek.}būti bėdoje
+0{stuck-up}[,st&#652;k'&#652;p]E{a}L{šnek.}pasipūtęs, patenkintas savimi, išdidus, užrietęs nosį
+0{stud^{1}}[st&#652;d]S{&rArr;}E{n}I{1}vinisl{(su didele galvute)}; smeigėI{2}l{(rankogalių, apykaklėsL{ir pan.})}sąsaga, segutis; spraustukas, spaustukas, spaustelisI{3}L{tech.}kaištis, varžtas, smeigtukas; kakliukasI{4}L{stat.}l{(sienos)}rėmas; statramstis; staktaS{&rArr;}E{v}I{1}išmušti/apkalti vinimisl{(puošiant, sutvirtinant)}I{2}nusagstyti, nusėtil{(žvaigždėmisL{ir pan.})};F{to stud the dress with pearls}nusagstyti suknelę perlais
+0{stud^{2}}E{n}I{1}veislinis žirgas, eržilas; žirgynasl{(L{t. p.}X{stud farm})}I{2}L{kuop.}žirgai, priklausantys vienam savininkuiI{3}L{vulg.}eržilasl{(apie vyrą)}
+0{studbook}['st&#652;dbuk]E{n}žirgų kilmės knyga
+0{studding-sail}['st&#652;d&#618;&#331;se&#618;l,X{L{jūr.}}'st&#652;nsl]E{n}L{jūr.}liselis, pagalbinė burė
+0{student}['stju:d&#601;nt]E{n}I{1}studentas, studijuojantysis; besimokantysis, moksleivis; kursantas, klausytojas;F{law student}teisės fakulteto studentas;F{student body}L{amer.}studentija;F{student teaching}L{amer.}pedagoginė studentų praktikaI{2}studijuojantysisl{(ką)}, tyrinėtojas; specialistas
+0{student-led}['stju:d&#601;ntled]E{a}studentų vadovaujamas
+0{studentship}['stju:dX{&#601;}nt&#643;&#618;p]E{n}I{1}studentavimas, studijų metaiI{2}stipendija
+0{studhorse}['st&#652;dh&#596;:s]E{n}veislinis žirgas, eržilas
+0{studied}['st&#652;d&#618;d]E{a}I{1}(iš anksto) apgalvotas, tyčinis;F{studied insult}tyčinis įžeidimasI{2}dirbtinis, nenatūralus;F{studied politeness}dirbtinis/nenatūralus mandagumasI{3}L{psn.}apsiskaitęs, nusimanantis
+0{studiedly}['st&#652;d&#618;dl&#618;]E{adv}tyčia, sąmoningai
+0{studio}['stju:d&#618;&#601;u]E{n}(E{pl}studios[-z])I{1}l{(dailininkoL{ir pan.})}studija, ateljė, dirbtuvėI{2}L{rad.},L{tel.},L{kin.}studija;F{TV studio}televizijos studijaI{3}vieno kambario butasl{(L{džn.}X{studio flat};L{amer.}X{studio apartment})}
+0{studious}['stju:d&#618;&#601;s]E{a}I{1}atsidėjęs studijoms, uoliai studijuojantis, stropus; darbštusI{2}rūpestingas, kruopštus; apgalvotas
+0{studiously}['stju:d&#618;&#601;sl&#618;]E{adv}darbščiai, stropiai
+0{studiousness}['stju:d&#618;&#601;sn&#618;s]E{n}darbštumas, stropumas
+0{study}['st&#652;d&#618;]S{&rArr;}E{n}I{1}l{(L{ppr.}E{pl})}mokslas, mokymasis, studijavimas; studijos;F{study plan}mokymo planas;F{to begin one’s studys}pradėti mokytis;F{to continue one’s studies abroad}tęsti studijas užsienyjeI{2}mokslas; mokslo sritis;E{pl}mokomieji dalykai;F{humane studies}humanitariniai mokslaiI{3}(mokslinis) tyrinėjimas; mokslinis darbas;F{to make a study}l{(of)}kruopščiai, iš pagrindų (iš)tyrinėti;F{much given to study}besidomintis moksliniais tyrinėjimais, moksliniu darbuI{4}l{(tikE{sg})}tiriamasis objektas;F{man is their study}žmogus – jų tyrinėjimų objektasI{5}tyrinėjimų rezultatas; monografija, mokslo veikalas/darbasI{6}gilus susimąstymas;F{in a brown study}giliai susimąstęsI{7}darbo kambarys/kabinetasI{8}apybraižaI{9}L{men.}eskizas, etiudas, škicasI{10}L{muz.}etiudas, pratimasI{11}L{teatr.}aktorius, besimokantis vaidmenį mintinai;F{he is a quick study}jis greitai išmoksta vaidmenįI{12}L{psn.}pastangos; užsibrėžtas tikslas;F{his constant study is to do the job well}jis nuolatos stengiasi atlikti darbą geraiS{&loz;}X{his face was a study}vertėjo stebėti jo veidą, vertėjo pasižiūrėti į jįS{&rArr;}E{v}I{1}mokytis, studijuoti;F{to study history}mokytis/studijuoti istorijąI{2}rengtisl{(egzaminui, profesijaiL{ir pan.}; for)};F{he is studying for the medical profession [for the bar]jis rengiasi gydytojo profesijai [advokato karjerai]I{3}tirti, tyrinėti, nagrinėti; stebėti;F{he is studying effects of radiation on plants}jis tiria radiacijos poveikį augalamsI{4}stengtis, siekti; rūpintis;F{to study to wrong no man}stengtis nieko neįžeisti;F{he studys only his own interests}jis rūpinasi tik savo interesaisI{5}mokytis mintinail{(vaidmenį – apie aktorius)}I{6}L{psn.}mąstytiS{o}1{study out}išaiškinti;1{study up}rengtis egzaminams
+0{study-bedroom}['st&#652;d&#618;'bedrum]E{n}miegamasis ir darbo kambarys kartul{(ypač studentų bendrabutyje)}
+0{stuff}[st&#652;f]S{&rArr;}E{n}I{1}medžiaga;F{to collect the stuff for a book}rinkti medžiagą knygai;F{green/garden stuff}daržovės, žalėsiai;F{sweet stuff}saldumynai, saldėsiaiI{2}daiktas, daikčiukas;F{this wine is good stuff}tai geras vynas;F{this book is poor stuff}ši knyga niekam tikusiI{3}daiktai; turtas;F{I still haven’t packed my stuff}aš dar nesusidėjau/nesusipakavau savo daiktųI{4}šlamštas, niekai;F{stuff and nonsense!}L{šnek.}niekai!, nesąmonės!;F{do you call this stuff butter?}nejaugi jūs šį šlamštą vadinate sviestu?I{5}(pagrindinė) savybė; esmė;F{he is made of sterner stuff than his brother}jo charakteris tvirtesnis negu jo brolio;F{a man with plenty of good stuff in him}labai gerbtinas žmogus; žmogus, turintis daug gerų savybių;F{such conflicts are the very stuff of drama}tokie konfliktai yra pati dramos esmėI{6}L{šnek.}vaistai, mikstūral{(L{t. p.}X{doctor’s stuff})};F{a drop of the hard stuff}truputis viskioI{7}L{šnek.}elgimasis, elgesys;F{rough stuff}X{a)}akiplėšiškas elgesys, chuliganizmas;X{b)}L{sport.}neleistinas veiksmas;F{this is the sort of stuff to give them}su jais tik taip ir reikia elgtis; jie nieko geresnio nenusipelnėI{8}L{amer.}L{šnek.}marihuana, heroinasI{9}L{psn.}vilnonė medžiagaI{10}L{tech.}kamšalas, užpildasS{&loz;}X{to know one’s stuff}L{šnek.}išmanyti/mokėti savo darbą;F{to do/strut one’s stuff}L{šnek.}(pa)daryti savo darbąl{(kas geriausiai sugeba)}, demonstruoti/parodyti, ką sugeba;F{that’s the stuff!}L{šnek.}S{&cong;}čia tai bent!; kaip tik tai, ko reikia!; šaunu!;F{small stuff}gyvenimo smulkmenos, menkniekiai; F{hot stuff}L{šnek.}X{a)}kas nors labai įdomus/patrauklus/jaudinantis;X{b)}puikus darbuotojas/žaidėjas/atlikėjasL{ir pan.};F{and stuff}ir visa kitaS{&rArr;}E{v}I{1}įkišti, įbrukti; įspraustil{(into)};F{to stuff one’s clothes into a suitcase}susikimšti drabužius į lagaminąI{2}(pri)kimštil{(maišą, pagalvęL{ir pan.};L{t. p.}L{prk.})};F{to stuff one’s head with silly ideas}prikimšti galvą kvailų minčiųI{3}padaryti iškamšą, iškimšti;F{stuffed bird [animal]paukščio [gyvūno] iškamšaI{4}L{kul.}įdaryti, prikimšti, farširuotiI{5}užkimšti, užkištil{(ausis, skylęL{ir pan.};L{t. p.}X{stuff up})};F{he stuffed his fingers into his ears}jis užsikišo pirštais ausis;F{my nose is stuffed up}man nosis užgultaI{6}penėti; kišti, kimšti, versti valgyti;F{to stuff a child with sweets}L{šnek.}kimšti vaikui saldumynusI{7}E{refl}L{šnek.}prisikimšti, prisirytiI{8}(už)plombuotil{(dantį)}I{9}L{šnek.}apgaudinėti, mulkintiI{10}L{amer.}prikišti į urnas suklastotų biuleteniųI{11}L{sl.}sutriuškintil{(žaidžiant)}S{&loz;}X{stuff you!, get stuffed!}L{sl.}eik velniop!, įsikišk sau į užpakalį!
+0{stuffed}[st&#652;ft]E{a}prisivalgęs, prisikimšęs
+0{stuffed-up}[,st&#652;ft'&#652;p]E{a}:X{I’m stuffed-up today}man nosis šiandien užgulta
+0{stuffily}['st&#652;f&#618;l&#618;]E{adv}nuobodžiai
+0{stuffiness}['st&#652;f&#618;n&#618;s]E{n}tvankuma, nuobodumas
+0{stuffing}['st&#652;f&#618;&#331;]E{n}I{1}kamšalas, kamša, įkamšal{(šiaudai, plunksnos, drožlėsL{ir pan.})}I{2}L{kul.}įdaras, faršas, kamšalasI{3}kimšimasI{4}L{amer.}prikišimas į urną suklastotų biuleteniųS{&loz;}X{to knock the stuffing out of smb}L{šnek.}X{a)}S{&cong;}aplaužyti kam ragus;X{b)}primušti, prikulti ką;X{c)}nuvarginti ką; iškamuoti/iškankinti kąl{(apie ligąL{ir pan.})}
+0{stuffing-box}['st&#652;f&#618;&#331;b&#596;ks]E{n}L{tech.}riebokšlis
+0{stuffy}['st&#652;f&#618;]E{a}I{1}tvankus, troškusI{2}užgultasl{(apie nosįL{ir pan.})}I{3}neįdomus, nuobodusI{4}pasipūtęs, išdidusI{5}L{šnek.}griežtas, puritoniškas; atsilikęs, konservatyvus;F{she is a stuffy old thing}ji tokia manieringa I{6}L{šnek.}piktas ir užsispyręs, paniuręs
+0{stultification}[,st&#652;lt&#618;f&#618;'ke&#618;&#643;n]E{n}I{1}pavertimas niekaisI{2}apkvailinimas, apjuokimas
+0{stultify}['st&#652;lt&#618;fa&#618;]E{v}I{1}paversti niekaisl{(darbo rezultatusL{ir pan.})}I{2}atbukintil{(protąL{ir pan.})}I{3}apkvailinti, apjuoktiI{4}L{teis.}įrodinėti/įrodyti nepakaltinamumą
+0{stultifying}['st&#652;lt&#618;fa&#618;&#618;&#331;]E{a}bukinantis, labai nuobodus
+0{stum}[st&#652;m]S{&rArr;}E{n}I{1}vynuogių misaI{2}atšviežintas vynasS{&rArr;}E{v}I{1}sustabdyti rūgimą, apsaugoti nuo rūgimoI{2}atšviežinti vyną
+0{stumble}['st&#652;mbl]S{&rArr;}E{n}I{1}suklupimas, užkliuvimasI{2}klaidingas žingsnis, suklydimasS{&rArr;}E{v}I{1}(su)klupti, užkliūti;F{to stumble on/over a stone}suklupti ant akmensI{2}L{prk.}suklupti, apsirikti, suklysti;F{he stumbled through the poem}jis suklupo deklamuodamas, jis (pa)deklamavo eilėraštį užsikirsdamas/klupdamasI{3}eiti klupinėjant, klupinėti, klupiniuotil{(L{t. p.}X{stumble along})}I{4}atsitiktinai surasti/aptikti; netikėtai susitikti/susidurtil{(on, upon, across)}I{5}(su)abejoti, svyruotil{(at)}
+0{stumblebum}['st&#652;mblb&#652;m]E{n}L{amer.}L{šnek.}stuobrys; nemokša
+0{stumbling-block}['st&#652;mbl&#618;&#331;bl&#596;k]E{n}I{1}kliūtis, kliuvinysI{2}l{(nesisekimo, rūpesčiųL{ir pan.})}priežastis;S{&cong;}pažaidos akmuo
+0{stumbling-stone}['st&#652;mbl&#618;&#331;st&#601;un]E{n}L{ret.}A{=R{stumbling-block}}
+0{stumer}['stju:m&#601;]E{n}L{sl.}I{1}suklastotas pinigas/čekisI{2}klastotė, apgavystėI{3}nesėkmė
+0{stump}[st&#652;mp]S{&rArr;}E{n}I{1}kelmasI{2}strampgalys, rąstgalysI{3}strampas, bigėl{(amputuotos kojos/rankos liekana)}; galūnės protezasI{4}l{(pieštukoL{ir pan.})}liekana, galas, galiukas;F{stump of a candle}žvakigalis;F{cabbage stump}kopūstkotisI{5}nuorūkaI{6}l{(danties)}nuolaužaI{7}improvizuota tribūnaI{8}X{(the stump)}L{amer.}kampanijal{(ypač rinkimų)}; agitacinė kelionė po šalį;F{stump speech}agitacinė/demagogiška kalba;F{to be/go on the stump}agituotiI{9}E{pl}L{juok.}kojosI{10}l{(luošo/šlubo žmogaus)}sunkus žingsnisI{11}L{amer.}iššūkis, kvietimas varžytisI{12}L{sport.}l{(kriketo)}vartelių kuolelis;F{to draw stumps}baigti žaidimąl{(krikete)}I{13}L{men.}tušuoklis, tušavimo lazdelėI{14}L{kas.}grynuolisS{&loz;}X{to be up a stump}būti pasimetusiam; būti padėtyje be išeities;F{to stir one’s stumps}L{šnek.}paskubėti, skusti, subruztiS{&rArr;}E{v}I{1}nukirstil{(medį)}; nukapotil{(šakas)}I{2}(iš)rauti kelmusI{3}klupinėti, klibikščiuoti, sunkiai eitil{(L{džn.}X{stump across/along})}I{4}L{šnek.}(su)glumintil{(sunkiu klausimu)};F{I am stumped for an answer}aš nežinau, ką atsakytiI{5}L{amer.}atlikti agitacinę kelionę;F{to stump the country}važinėti po šalį su agitacinėmis kalbomisI{6}tušuotiI{7}L{amer.}kviesti varžytisI{8}L{sport.}pašalintil{(mušėją)}iš žaidimol{(krikete)}S{o}1{stump up}L{šnek.}(su)mokėtil{(nenoromis)}, pakloti
+0{stumpage}['st&#652;mp&#618;d&#658;]E{n}L{amer.}I{1}stačiasl{(nekirstas)}miškasI{2}stačio miško vertė/kaina
+0{stumper}['st&#652;mp&#601;]E{n}I{1}sunkus/gluminantis klausimas; sunkus uždavinys/darbasI{2}L{šnek.}l{(kriketo)}vartininkas
+0{stumpy}['st&#652;mp&#618;]E{a}I{1}trumpas ir storas; žemas, kresnas;F{stumpy fingers}trumpi stori pirštaiI{2}L{amer.}kelmuotas
+0{stun}[st&#652;n]E{v}(ap)stulbinti, sugluminti; apkurtinti, apsvaiginti, priblokšti, pritrenktil{(smūgiuL{ir pan.})};F{the news stunned us}ši žinia mus pribloškė
+0{stung}[st&#652;&#331;]E{past}l{ir}E{pII}A{L{žr.}R{sting}}E{v}
+0{stunk}[st&#652;&#331;k]E{past}l{ir}E{pII}A{L{žr.}R{stink}}E{v}
+0{stunned}[st&#652;nd]E{a}apstulbintas; pritrenktas, priblokštas;F{stunned silence}bežadė tyla
+0{stunner}['st&#652;n&#601;]E{n}L{šnek.}I{1}nuostabus dalykas/žmogus; gražuolisl{(L{džn.}apie moterį)}I{2}stulbinantis/jaudinantis reginys
+0{stunning}['st&#652;n&#618;&#331;]E{a}I{1}stulbinantis, gluminantis; pritrenkiantis, pribloškiantis;F{stunning blow}baisus smūgisl{(L{t. p.}L{prk.})}I{2}L{šnek.}nuostabus, puikus
+0{stunsail, stuns’l}['st&#652;nsl]E{n}A{=R{studding-sail}}
+0{stunt^{1}}[st&#652;nt]S{&rArr;}E{n}I{1}augimo sustabdymasI{2}neūžaugal{(gyvulys, medis)}S{&rArr;}E{v}sustabdyti augimą
+0{stunt^{2}}L{šnek.}S{&rArr;}E{n}I{1}efektingas pasirodymas/reginys;l{(jėgos, sumanumoL{ir pan.})}demonstravimasI{2}kaskada, triukasl{(ypač pavojingas;L{t. p.}L{kin.})};F{to pull a stunt}iškrėsti pokštąI{3}L{av.}akrobatinis skrydisS{&rArr;}E{v}I{1}rodyti/demonstruoti jėgą/drąsą/vikrumąI{2}rodyti triukusI{3}L{av.}atlikti akrobatinius skrydžius
+0{stunted}['st&#652;nt&#618;d]E{a}žemas, žemaūgis; sunykęs, skurdus
+0{stuntman}['st&#652;ntm&aelig;n]E{n}(E{pl}-men[-men])l{(tik.L{v.})}I{1}L{kin.}kaskadininkasI{2}L{av.}lakūnas, atliekantis akrobatinius skrydžius
+0{stuntwoman}['st&#652;nt,wum&#601;n]E{n}(E{pl}-women[-,w&#618;m&#618;n])L{kin.}kaskadininkė
+0{stupe^{1}}[stju:p]S{&rArr;}E{n}karštas kompresasS{&rArr;}E{v}dėti karštus kompresus
+0{stupe^{2}}E{n}L{sl.}kvailys
+0{stupefaction}[,stju:p&#618;'f&aelig;k&#643;n]E{n}nustėrimas, apstulbimas; suglumimas
+0{stupefied}['stju:p&#618;fa&#618;d]E{a}nustėręs, apstulbęs; apglumęs, apdujęs, apkvaitęs
+0{stupefy}['stju:p&#618;fa&#618;]E{v}l{(L{džn.}E{pass})}I{1}(ap)stulbinti; (su)gluminti; nustėrtiI{2}atbukintil{(protą, jausmus)}
+0{stupefying}['stju:p&#618;fa&#618;&#618;&#331;]E{a}stulbinantis, pritrenkiantisl{(apie žiniąL{ir pan.})}
+0{stupendous}[stju:'pend&#601;s]E{a}I{1}stulbinantis, stebuklingas;F{stupendous achievement}stulbinantis laimėjimasI{2}didžiulis, milžiniškas;F{stupendous sums of money}didžiulės pinigų sumos
+0{stupid}['stju:p&#618;d]S{&rArr;}E{a}I{1}kvailas, neprotingas; bukas, bukaprotis, bukagalvis;F{to do a stupid thing}padaryti kvailystęI{2}neįdomus, lėkštasI{3}apdujęs, atbukęs, apglumęs;F{stupid with sleep}apglumęs nuo miegoS{&rArr;}E{n}L{šnek.}kvailutis, kvaišelis
+0{stupidity}[stju:'p&#618;d&#601;t&#618;]E{n}I{1}kvailumas; bukagalviškumas, bukumasI{2}kvailas poelgis; kvailystė
+0{stupidly}['stju:p&#618;dl&#618;]E{adv}kvailai
+0{stupor}['stju:p&#601;]E{n}I{1}sustingimas, sustirimas, nustėrimas, apstulbimas; stingulys;F{he drunk himself into a stupor}jis pasigėrė iki sąmonės netekimoI{2}L{med.}stuporas
+0{sturdily}['st&#601;:d&#618;l&#618;]E{adv}tvirtai
+0{sturdiness}['st&#601;:d&#618;n&#618;s]E{n}tvirtumas
+0{sturdy^{1}}['st&#601;:d&#618;]E{a}I{1}tvirtas, stiprus; sveikasI{2}nusistovėjęs, tvirtas; ryžtingas;F{sturdy common sense}tvirta (viešoji) nuomonė
+0{sturdy^{2}}E{n}L{vet.}kaitulys, kvaitulysl{(avių liga)}
+0{sturgeon}['st&#601;:d&#658;&#601;n]E{n}L{zool.}sturys; eršketas;F{green sturgeon}Sachalino sturys
+0{stutter}['st&#652;t&#601;]S{&rArr;}E{n}mikčiojimas, miksėjimas;F{to speak with a slight stutter}truputį mikčiotiS{&rArr;}E{v}mikčioti, miksėti, užsikirstil{(kalbant)};F{to stutter an apology}pralementi atsiprašymo žodžius
+0{stutterer}['st&#652;t&#601;r&#601;]E{n}mikčius, miknius, steneklis
+0{St Vincent and the Grenadines}[s&#601;nt,v&#618;nsnt&#601;n&#601;'gren&#601;di:nz]E{n}Sent Vinsentas ir Grenadinail{(valstybė)}
+0{sty^{1}}[sta&#618;]E{n}kiaulidė, kiauliatvartis, kiaulininkasl{(L{t. p.}L{prk.})}
+0{sty^{2}}E{n}L{med.}miežis
+0{stye}[sta&#618;]E{n}A{=R{sty^{2}}}
+0{Stygian}['st&#618;d&#658;&#618;&#601;n]E{a}I{1}L{mit.}Stikso upėsI{2}L{knyg.}niūrus, tamsus; pragariškasI{3}X{stygian}L{knyg.}nesulaužomasl{(apie priesaiką)}
+0{style}[sta&#618;l]S{&rArr;}E{n}I{1}l{(L{įv. reikšm.})}stilius;F{styles of architecture}architektūros stiliai; F{style of leadership}vadovavimo stilius;F{error of style}stiliaus klaida;F{old style}senasis stiliusl{(Julijaus kalendorius)};F{new style}naujasis stiliusl{(Grigaliaus kalendorius)}I{2}maniera;F{I don’t like his style of talking}man nepatinka jo kalbėjimo manieraI{3}mada, fasonas, modelis;l{(drabužių)}sukirpimas;F{the latest styles in hats}naujausios mados kepuraitėsI{4}skonis, elegancija; prašmatnumas, prabangumas;F{in style}X{a)}skoningai;X{b)}prašmatniai, prabangiai; įspūdingai;F{to live in style}prabangiai/ištaigiai gyventi;F{out of style}neskoningas; nemadingas;F{she has style}ji turi skonį, ji elegantiškaI{5}rūšis, tipas;F{that style of thing}toks daiktas, tos rūšies daiktas;F{something in that style}kažkas tokio/panašaus I{6}l{(saulės laikrodžio)}gnomonasI{7}L{ret.}titulas;F{give him his full style}kreipkitės į jį visu tituluI{8}l{(L{sen.}graikų ir romėnų)}rašomoji lazdelėI{9}L{poet.}plunksna, pieštukasI{10}patefono adataI{11}graviravimo adataI{12}L{med.}adataI{13}L{bot.}liemenėlis I{14}L{poligr.}l{(spaustuvės, redakcijos)}instrukcija,l{(skyrybosL{ir pan.})}taisyklių rinkinys, stilių lentelėl{(L{t. p.}X{style guide/manual/sheet})}S{&loz;}X{to cramp smb’s style}neleisti/trukdyti kam pasireikštil{(kompanijoje)};F{to set the style}duoti tonąS{&rArr;}E{v}I{1}(su)konstruoti/(su)projektuoti/(su)kirpti pagal fasoną;F{to style smb’s hair}padaryti kam madingą šukuosenąI{2}tvarkyti/taisytil{(rankraščioL{ir pan.})}stiliųI{3}E{refl}vadintis, tituluotis
+0{stylebook}['sta&#618;lbuk]E{n}I{1}madų albumasI{2}A{=R{style}}E{n}14
+0{stylet}['sta&#618;l&#618;t]E{n}I{1}stiletasI{2}L{med.}zondas; vielinis kaištis
+0{styli}['sta&#618;la&#618;]E{pl}A{L{žr.}R{stylus}}
+0{stylish}['sta&#618;l&#618;&#643;]E{a}I{1}stilingas; įmantraus fasonoI{2}elegantiškas, madingas
+0{stylishly}['sta&#618;l&#618;&#643;l&#618;]E{adv}stilingai
+0{stylishness}['sta&#618;l&#618;&#643;n&#618;s]E{n}stilingumas
+0{stylist}['sta&#618;l&#618;st]E{n}I{1}stilistas; stiliaus meistrasI{2}l{(plaukų)}šukuotojas I{3}interjero specialistas
+0{stylistic}[sta&#618;'l&#618;st&#618;k]E{a}stilistinis; stiliaus
+0{stylistics}[sta&#618;'l&#618;st&#618;ks]E{n}stilistika
+0{stylize}['sta&#618;la&#618;z]E{v}L{men.}stilizuoti
+0{stylo}['sta&#618;l&#601;u]E{n}L{sutr.}L{šnek.}A{=R{stylograph}}
+0{stylobate}['sta&#618;l&#601;be&#618;t]E{n}L{archit.}stilobatas
+0{stylograph}['sta&#618;l&#601;gra:f]E{n}stilografas; automatinis plunksnakotis
+0{stylus}['sta&#618;l&#601;s]E{n}(E{pl}-li, styluses)A{=R{style^{1}}}E{n}8l{ir}10
+0{stymie}['sta&#618;m&#618;]E{v}l{(L{ppr.}E{pass})}L{šnek.}(su)trukdyti, priešintis; (su)ardytil{(sumanymus, planus)}
+0{styptic}['st&#618;pt&#618;k]L{med.}S{&rArr;}E{a}stabdantis kraujavimą; sutraukiantisS{&rArr;}E{n}kraujavimą stabdantis, sutraukiantis vaistas
+0{styrax}['sta&#618;r&aelig;ks]E{n}L{bot.}stiraksas
+0{styrofoam}['sta&#618;&#601;r&#601;f&#601;um]E{n}L{amer.}polistirolas
+0{Styx}[st&#618;ks]E{n}L{mit.}Stiksasl{(upė)}S{&loz;}X{to cross the Styx}mirti
+0{suability}[,sju&#601;'b&#618;l&#601;t&#618;]E{n}L{teis.}teisnumas
+0{suable}['sju:&#601;bl]E{a}L{teis.}teisnus
+0{suasion}['swe&#618;&#658;n]E{n}L{ret.}įkalbinėjimas;F{moral suasion}patarinėjimas, pamokymas
+0{suave}[swa:v]E{a}labai mandagus, išauklėtas; meilus, lipšnus, meilikaujantis;F{he is a really suave type}jis toks meilikautojas
+0{suavely}['swa:vl&#618;]E{adv}lipšniai, maloniai
+0{suaveness}[swa:vn&#618;s]E{n}lipšnumas
+0{suavity}['swa:v&#601;t&#618;]E{n}mandagumas, išsiauklėjimas; meilumas, lipšnumas
+0{sub}[s&#652;b]L{sutr.}L{šnek.}S{&rArr;}E{n}I{1}avansasI{2}E{pl}nario mokestisI{3}atsarginis žaidėjasl{(futboleL{ir pan.})}I{4}prenumerataI{5}A{=R{submarine}}E{n}1I{6}A{=R{subordinate}}E{n}I{7}A{=R{subway}}I{8}A{=R{subaltern}}I{9}A{=R{subeditor}}S{&rArr;}E{v}I{1}gauti avansąI{2}A{=R{substitute}}E{v}1I{3}A{=R{subedit}}
+0{sub-}[s&#652;b-]E{pref}I{1}po-l{(žymint buvimą žemiau ko ar po kuo)};F{subfluvial}povandeninis;F{subzero}žemesnis už nulį;F{subsoil}podirvisI{2}po-, pa-l{(žymint smulkesnį dalijimą)};F{subsystem}posistemis;F{subcommittee}pakomitetisI{3}padėjėjas; jaunesnysis;F{subcommissioner}komisaro padėjėjas;F{subaltern}jaunesnysis karininkasI{4}sub-l{(žymint mažesnį laipsnį, nedidelį kiekį)}; vos, beveik;F{suboxide}suboksidas;F{subarctic}subarktinis;F{subparallel}beveik paralelus;F{subaudible}vos girdimasI{5}sub-l{(žymint perdavimą kitam asmeniui)};F{sublease}subnuoma
+0{sub}L{sutr.}X{substitute}pavaduotojas; pakaitalasX{suburb}priemiestis;F{suburban}priemiestinis
+0{subacid}[,s&#652;b'&aelig;s&#618;d]E{a}L{chem.}silpnai rūgštus
+0{subacute}[,s&#652;b&#601;'kju:t]E{a}L{med.}apyūmis
+0{subalpine}[,s&#652;b'&aelig;lpa&#618;n]E{a}subalpinis
+0{subaltern}['s&#652;bX{&#601;}lt&#601;n]L{knyg.}S{&rArr;}E{n}jaunesnysis karininkas; subalternas, pavaldinysS{&rArr;}E{a}pavaldus
+0{sub-aqua}[s&#652;b'&aelig;kw&#601;]E{a}E{attr}L{sport.}povandeninis
+0{subaqueous}[,s&#652;b'e&#618;kw&#618;&#601;s]E{a}L{knyg.}povandeninis
+0{subarctic}[,s&#652;b'a:kt&#618;k]E{a}subarktinis
+0{subassembly}[,s&#652;b&#601;'sembl&#618;]E{n}L{tech.}mazginis surinkimas
+0{subatomic}[,s&#652;b&#601;'t&#596;m&#618;k]E{a}L{fiz.}subatominis
+0{subaudition}[,s&#652;b&#596;:'d&#618;&#643;n]E{n}L{knyg.}I{1}numanymasl{(to, kas praleista)}; potekstėI{2}supratimas be žodžių, minčių skaitymas
+0{subchaser}[,s&#652;b't&#643;e&#618;s&#601;]E{n}L{amer.}L{kar.}povandeninių laivų persekiotojasl{(laivas)}
+0{subchloride}[,s&#652;b'kl&#596;:ra&#618;d]E{n}L{chem.}chloro suboksidas
+0{subclass}['s&#652;bkla:s]E{n}L{biol.}poklasis
+0{subcommittee}['s&#652;bk&#601;m&#618;t&#618;]E{n}pakomitetis, pakomisis
+0{subcompact}[,s&#652;b'k&#596;mp&aelig;kt]E{n}L{aut.}mažagabaritis dvejų durų automobilisl{(L{t. p.}X{subcompact car})}
+0{subconscious}[,s&#652;b'k&#596;n&#643;&#601;s]S{&rArr;}E{a}pasąmonės, nesąmoningasS{&rArr;}E{n}X{(the subconscious)}pasąmonė
+0{subconsciously}[s&#652;b'k&#596;n&#643;&#601;sl&#618;]E{adv}iš pasąmonės, nesąmoningai
+0{subconsciousness}[,s&#652;b'k&#596;n&#643;&#601;sn&#618;s]E{n}pasąmonė
+0{subcontinent}[,s&#652;b'k&#596;nt&#618;n&#601;nt]E{n}subkontinentas
+0{subcontract}S{&rArr;}E{n}[,s&#652;b'k&#596;ntr&aelig;kt]sutartis su subrangovu/subtiekėju, subrangos sutartisS{&rArr;}E{v}[,s&#652;bk&#601;n'tr&aelig;kt]sudaryti sutartį su subrangovu/subtiekėju
+0{sub-contracting}[,s&#652;bk&#601;n'tr&aelig;kt&#618;&#331;]E{n}subranga, subrangos sutarties sudarymas, sutarties perįgaliojimas
+0{subcontractor}[,s&#652;bk&#601;n'tr&aelig;kt&#601;]E{n}subrangovas
+0{subculture}['s&#652;bk&#652;lt&#643;&#601;]E{n}l{(socialinės grupės)}subkultūra, gyvensena
+0{subcutaneous}[,s&#652;bkju:'te&#618;n&#618;&#601;s]E{a}L{spec.}poodinis
+0{subdialect}['s&#652;b,da&#618;&#601;lekt]E{n}L{kalb.}patarmė, šnekta
+0{subdirectory}[,s&#652;bd&#618;'rektX{&#601;}r&#618;]E{n}pakatalogis
+0{subdivide}[,s&#652;bd&#618;'va&#618;d]E{v}l{(L{ppr.}E{pass})}dalyti(s), padalyti, skirstyti(s)l{(toliau)}
+0{subdivisable}[,s&#652;bd&#618;'v&#618;z&#601;bl]E{a}dalijamas į smulkesnes dalis
+0{subdivision}[,s&#652;bd&#618;'v&#618;&#658;n]E{n}pa(si)dalijimasl{(į mažesnius vienetus)}; poskyris, padalinys
+0{subdominant}[,s&#652;b'd&#596;m&#618;n&#601;nt]E{n}L{muz.}subdominantė
+0{subdrainage}[,s&#652;b'dre&#618;n&#618;d&#658;]E{n}L{spec.}uždarasis drenažas
+0{subdual}[s&#601;b'dju:&#601;l]E{n}pajungimas, pavergimas
+0{subdue}[s&#601;b'dju:]E{v}I{1}pajungti, pavergti; numalšinti;F{to subdue the rebels}numalšinti sukilėliusI{2}(pri)slopinti, sutvardytil{(jausmus)}I{3}sušvelninti, susilpninti, prislopintil{(garsą, šviesąL{ir pan.})}I{4}(ap)dirbti žemę
+0{subdued}[s&#601;b'dju:d]E{a}I{1}pajungtas, pavergtas;F{subdued spirits}pablogėjusi nuotaika;F{she was a bit subdued}ji buvo truputį prislėgtaI{2}susilpnintas, prislopintas, sušvelnintas;F{subdued light}susilpninta šviesa;F{subdued voices}prislopinti balsai
+0{subedit}[,s&#652;b'ed&#618;t]E{v}I{1}redaguotil{(laikraščio, žurnalo)}skyriųI{2}ruošti rankraštį rinkti
+0{subeditor}[,s&#652;b'ed&#618;t&#601;]E{n}I{1}redaktoriaus padėjėjasI{2}l{(laikraščioL{ir pan.})}skyriaus redaktorius
+0{subemployment}['s&#652;b&#618;m,pl&#596;&#618;m&#601;nt]E{n}L{ekon.}nevisiškas užimtumas
+0{subfamily}['s&#652;b,f&aelig;m&#618;l&#618;]E{n}L{biol.}pošeimis
+0{subfloor}['s&#652;bfl&#596;:]E{n}juodgrindės
+0{subframe}['s&#652;bfre&#618;m]E{n}L{aut.}porėmis
+0{subfusc, subfuscous}['s&#652;bf&#652;sk, s&#652;b'f&#652;sk&#601;s]E{a}I{1}L{knyg.}tamsus, tamsokasI{2}L{prk.}L{šnek.}pilkas
+0{subgenus}['s&#652;bd&#658;i:n&#601;s]E{n}(E{pl}-nera[-n&#601;r&#601;])L{biol.}pogentis
+0{subgrade}['s&#652;bgre&#618;d]E{n}L{stat.}sankasa; posluoksnis
+0{subgroup}['s&#652;bgru:p]E{n}pogrupis
+0{subhead}['s&#652;bhed]E{n}I{1}A{=R{subheading}}I{2}l{(temos)}poskyris
+0{subheading}['s&#652;b,hed&#618;&#331;]E{n}paantraštė
+0{subhuman}[,s&#652;b'hju:m&#601;n]E{a}I{1}nežmoniškasl{(apie elgesį)}I{2}nepasiekęs žmogaus lygiol{(apie sąmonę)}; neprotingasl{(apie gyvą būtybę)}I{3}žmoginis, panašus į žmogųl{(apie beždžionęL{ir pan.})}
+0{subjacent}[s&#601;b'd&#658;e&#618;sX{&#601;}nt]E{a}papėdės; esantis apačioje, išsidėstęs žemiau
+0{subject}S{&rArr;}E{n}['s&#652;bd&#658;&#618;kt]I{1}l{(kalbos, pokalbio, diskusijosL{ir pan.})}tema; klausimas;F{to dwell on a sore subject}apsistoti prie opios temos;F{to change the subject}pakeistil{(pokalbio)}temą;F{to be on the subject}l{(of)}aptar(inė)til{(kokį)}klausimą;F{delicate/thorny/tender subject}keblus klausimas, opi tema;F{to keep to the subject}laikytis temos, nenukrypti nuo temos;F{speak to the subject!}kalbėkite į temą!, nenukrypkite nuo temos!;F{to choose a subject for a dissertation}parinkti disertacijos temąI{2}dalykas, objektasl{(of)};F{the subject of research}tyrimo dalykas;F{to be a subject of/for discussion}būti diskusijų objektuI{3}l{(dėstomasis)}dalykas, disciplina;F{mathematics is my favourite subject}matematika – mano mėgstamiausia disciplinaI{4}L{men.}siužetas;F{tragic subject}tragiškas siužetasI{5}dingstisl{(for)};F{subject for ridicule}dingstis pajuoktiI{6}pilietis, valdinysI{7}žmogus, subjektas;F{a hysterical subject}isteriškas žmogus;F{a good hypnotic subject}lengvai užhipnotizuojamas žmogusI{8}L{gram.}veiksnys; subjektasI{9}L{filos.},L{teis.}subjektasI{10}L{muz.}pagrindinė temaI{11}L{med.}lavonasl{(kaip tyrimo objektas)}I{12}E{attr}teminis;F{subject programme}teminis planasS{&loz;}X{on the subject of}o dėlS{&rArr;}E{a}['s&#652;bd&#658;&#618;kt]I{1}pavaldus, priklausomas;F{subject nations}pavaldžios valstybės;F{subject to the laws of nature}pavaldus gamtos dėsniamsI{2}linkęsl{(to)};F{he is subject to colds}jis greitai persišaldo;F{she is subject to fits of depression}ją ištinka depresijos priepuoliai, ji linkusi į depresijąI{3}priklausantisl{(to)}; F{the plan is subject to alterations/modifications}plane gali būti pakeitimų;F{to be subject to market fluctuations}L{ekon.}priklausyti nuo rinkos svyravimų;F{subject to appeal}apskundžiamas apeliacine tvarkaS{&rArr;}E{prep}X{(subject to)}priklausomai nuo; jei;F{this can be done subject to your consent}tai gali būti padaryta tik su jūsų leidimu;F{you’ll get your visa quickly subject to producing the necessary papers}jūs greit gausite vizą, jei pristatysite reikalingus dokumentusS{&rArr;}E{v}[s&#601;b'd&#658;ekt]I{1}pajungti, palenktil{(to)}I{2}priversti išgyventi/patirtil{(to)};F{to be subjected to torture}būti kankinamam;F{to subject oneself to ridicule}tapti pajuokos objektu;F{to subject smb to criticism}(su)kritikuoti ką I{3}pateikti;F{to subject a plan for approval}pateikti planą tvirtintiI{4}pavergti;F{to subject tribes}pavergti gentis
+0{subject-heading}['s&#652;bd&#658;&#618;kt,hed&#618;&#331;]E{n}dalykinė rodyklė, indeksas; dalykinė rubrika
+0{subjection}[s&#601;b'd&#658;ek&#643;n]E{n}I{1}pajungimasI{2}priklausomybė;F{to be in complete financial subjection to one’s husband}finansiškai visiškai priklausyti nuo vyroI{3}pavergimas
+0{subjective}[s&#601;b'd&#658;ekt&#618;v]E{a}I{1}subjektyvusI{2}įsivaizduojamasI{3}L{gram.}veiksnio; F{subjective case}vardininko linksnis
+0{subjectively}[s&#601;b'd&#658;ekt&#618;vl&#618;]E{adv}subjektyviai
+0{subjectivism}[s&#601;b'd&#658;ekt&#618;v&#618;zm]E{n}L{filos.}subjektyvizmas
+0{subjectivist}[s&#601;b'd&#658;ekt&#618;v&#618;st]E{n}subjektyvistas
+0{subjectivity}[,s&#652;bd&#658;ek't&#618;v&#601;t&#618;]E{n}subjektyvumas
+0{subject-matter}['s&#652;bd&#658;&#618;kt,m&aelig;t&#601;]E{n}I{1}l{(knygos, pokalbioL{ir pan.})}turinys, temaI{2}l{(tyrimo, mokslo)}dalykas, objektas
+0{subject-specific}['s&#652;bd&#658;&#618;ktsp&#618;'s&#618;f&#618;k]E{a}temai būdingas, dalykui būdingas
+0{subjoin}[,s&#652;b'd&#658;&#596;&#618;n]E{v}L{knyg.}pridėti, pridurti; prirašyti, padaryti prierašą
+0{sub judice}[,s&#652;b'd&#658;u:d&#618;s&#618;]L{lot.}L{teis.}dar nagrinėjamal{(apie bylą)}, kol vyksta tyrimas
+0{subjugate}['s&#652;bd&#658;uge&#618;t]E{v}l{(L{ppr.}E{pass})}pavergti; pajungtil{(to)};F{a subjugated people}pavergta tauta
+0{subjugation}[,s&#652;bd&#658;u'ge&#618;&#643;n]E{n}pavergimas; pajungimas
+0{subjugator}['s&#652;bd&#658;uge&#618;t&#601;]E{n}pavergėjas; pajungėjas
+0{subjunctive}[s&#601;b'd&#658;&#652;&#331;kt&#618;v]L{gram.}S{&rArr;}E{n}tariamoji nuosakaS{&rArr;}E{a}tariamosios nuosakosl{(apie formą, laiką)}
+0{sublanguage}[,s&#652;b'l&aelig;&#331;gw&#618;d&#658;]E{n}socialinis dialektas, tam tikrõs socialinės/etninės grupės kalba
+0{sublease}L{teis.}S{&rArr;}E{n}['s&#652;bli:s]E{n}subnuoma, pernuomaS{&rArr;}E{v}[s&#652;b'li:s]pernuomoti; sudaryti subnuomos sutartį
+0{sublessee}[,s&#652;ble'si:]E{n}L{teis.}subnuomininkas
+0{sublessor}[,s&#652;ble's&#596;:]E{n}L{teis.}pernuomotojas, pernuomininkas
+0{sublet}[,s&#652;b'let]E{v}(sublet)L{teis.}I{1}pernuomoti, išnuomoti subnuomininkuil{(kambarį, butą)}I{2}pavesti/perduoti subrangovui
+0{sublibrarian}[,s&#652;bla&#618;'br&#604;&#601;r&#618;&#601;n]E{n}bibliotekininko padėjėjas
+0{sublieutenant}[,s&#652;bl&#601;'ten&#601;nt]E{n}L{jūr.}jaunesnysis leitenantas
+0{sublimate}S{&rArr;}E{n}['s&#652;bl&#618;m&#601;t]L{chem.}sublimatas; sublimavimo produktas;F{corrosive sublimate}gyvsidabrio dichloridasS{&rArr;}E{v}['s&#652;bl&#618;me&#618;t]I{1}L{knyg.}(su)taurinti, kilninti; (su)taurėti, kilnėtiI{2}L{chem.}sublimuoti
+0{sublimation}[,s&#652;bl&#618;'me&#618;&#643;n]E{n}I{1}L{knyg.}taurinimasI{2}L{chem.}sublimacija, sublimavimasI{3}L{psich.}sublimacija
+0{sublime}[s&#601;'bla&#618;m]S{&rArr;}E{a}I{1}taurus, kilnus, aukštas, didingas, didisI{2}stulbinantis, didžiausiasI{3}L{poet.}išdidus, arogantiškas;F{sublime indifference}arogantiškas abejingumas S{&rArr;}E{n}X{(the sublime)}L{knyg.}taurumas, kilnumas, didingumas;F{from the sublime to the ridiculous there is but one step}nuo to, kas didinga, iki to, kas juokinga, – tik vienas žingsnisS{&rArr;}E{v}A{=R{sublimate}}E{v}
+0{sublimely}[s&#601;'bla&#618;ml&#618;]E{adv}didingai, tauriai, kilniai, visiškai, absoliučiai
+0{subliminal}[s&#601;'bl&#618;m&#618;nl]E{a}L{psich.}nesuvokiamas, pasąmonės; veikiantis pasąmonę;F{subliminal mind}pasąmonė;F{subliminal advertising}reklama, veikianti pasąmonę
+0{sublimity}[s&#601;'bl&#618;m&#601;t&#618;]E{n}L{knyg.}I{1}kilnumas, didingumas; didybėI{2}L{prk.}viršūnė, zenitas
+0{sublingual}[,s&#652;b'l&#618;&#331;gwX{&#601;}l]E{a}L{anat.}poliežuvinis
+0{sublunar}[s&#652;b'lu:n&#601;]E{a}L{ret.}A{=R{sublunary}}
+0{sublunary}[s&#652;b'lu:n&#601;r&#618;]E{a}L{knyg.}esantis po mėnuliu; žemės, žemiškas
+0{submachine-gun}[,s&#652;bm&#601;'&#643;i:ng&#652;n]E{n}L{kar.}automatas
+0{subman}['s&#652;bm&aelig;n]E{n}(E{pl}-men[-men])l{(L{tik v.})}L{menk.}pusžmogis; žmogėnas
+0{submarine}['s&#652;bm&#601;ri:n]S{&rArr;}E{n}I{1}povandeninis laivasI{2}povandeninis gyvūnas/augalasS{&rArr;}E{a}povandeninis; F{submarine force}povandeninių laivų laivynas;F{submarine speed}povandeninis greitis;F{submarine box}povandeninių laivų bazė;F{submarine chaser}L{kar.}povandeninių laivų persekiotojasl{(laivas)}S{&rArr;}E{v}užpulti/paskandinti povandeniniu laivu
+0{submariner}[s&#652;b'm&aelig;r&#618;n&#601;]E{n}povandeninio laivo įgulos narys, povandenininkas
+0{submaxillary}[,s&#652;bm&aelig;k's&#618;l&#601;r&#618;]E{a}L{anat.}pažandinis
+0{submental}[,s&#652;b'mentl]E{a}L{anat.}pasmakrinis
+0{submerge}[s&#601;b'm&#601;:d&#658;]E{v}I{1}užtvindyti, apsemti; nugramzdinti, panardintiI{2}nugrimzti, panirti, pasinertil{(L{t. p.}L{prk.})};F{to submerge oneself in work}pasinerti į darbą
+0{submerged}[s&#601;b'm&#601;:d&#658;d]E{a}I{1}užtvindytas; panardintas, nugramzdintas; nugrimzdęs, paniręs;F{submerged depth}panirimo gylisI{2}paskendęs skurde/skoloseL{ir pan.};F{I am completely submerged by papers}aš tiesiog paskendęs popieriuoseI{3}povandeninis
+0{submergence}[s&#601;b'm&#601;:d&#658;X{&#601;}ns]E{n}I{1}panardinimas, nugramzdinimasI{2}apsėmimas, užtvindymas
+0{submerse}[s&#601;b'm&#601;:s]E{v}A{=R{submerge}}
+0{submersed}[s&#601;b'm&#601;:st]E{a}L{bot.}augantis po vandeniu, povandeninis
+0{submersible}[s&#601;b'm&#601;:s&#601;bl]S{&rArr;}E{a}panardinamas; galintis veikti po vandeniul{ar}vandenyje, povandeninisS{&rArr;}E{n}L{ret.}povandeninis laivasl{(galintis veikti po vandeniu neilgai)}
+0{submersion}[s&#601;b'm&#601;:&#643;n]E{n}A{=R{submergence}}
+0{submission}[s&#601;b'm&#618;&#643;n]E{n}I{1}pasidavimas, nusileidimas, nusilenkimas; paklusimas;F{to frighten smb into submission}bauginimais priversti ką nusileistiI{2}paklusnumas, nuolankumas;F{with all due submission}su didžia pagarba ir nusižeminimuI{3}pateikimasl{(dokumentų, skundoL{ir pan.})}I{4}L{teis.}atidavimas svarstyti; sutikimas atiduoti ginčą į arbitražą; pareiškimasS{&loz;}X{in my submission}mano manymu
+0{submissive}[s&#601;b'm&#618;s&#618;v]E{a}paklusnus, nuolankus
+0{submissively}[s&#601;b'm&#618;s&#618;vl&#618;]E{adv}nuolankiai
+0{submissiveness}[s&#601;b'm&#618;s&#618;vn&#618;s]E{n}nuolankumas
+0{submit}[s&#601;b'm&#618;t]E{v}I{1}pasiduoti, nusileisti, nusilenkti, paklusti;F{to submit to smb’s authority}paklusti/nusilenkti kieno autoritetui;F{I will not submit to such treatment}aš nepakęsiu tokio elgesioI{2}priversti paklusti;F{to submit smb to a strict diet}nustatyti/skirti kam griežtą dietąI{3}pateikti, atiduotil{(svarstyti)};F{to submit a question}pateikti klausimą raštuI{4}L{ofic.}siūlyti, tvirtinti, (pagarbiai) pareikšti;F{I submit that...}drįstu pareikšti, kad...
+0{submontane}[,s&#652;b'm&#596;nte&#618;n]E{a}esantis kalno papėdėje
+0{submucous}[,s&#652;b'mju:k&#601;s]E{a}L{anat.}pogleivinis, submukozinis
+0{subnormal}[,s&#652;b'n&#596;:ml]S{&rArr;}E{a}L{spec.}mažesnis už normalų, nenormalus;F{subnormal in intelligence}protiškai atsilikęs S{&rArr;}E{n}I{1}X{(the subnormal)}silpnapročiai, protiškai atsilikę žmonėsI{2}L{mat.}subnormalė
+0{suborbital}[,s&#652;b'&#596;:b&#618;tl]E{a}I{1}L{anat.}poakiduobinis, poakinisI{2}L{spec.}neapskriejęs visos Žemės orbitosl{(apie erdvėlaivį)}
+0{suborder}['s&#652;b&#596;:d&#601;]E{n}L{biol.}pobūris;L{bot.}poeilis
+0{subordinate}S{&rArr;}E{a}[s&#601;'b&#596;:d&#618;n&#601;t]I{1}pavaldus, pajungtas, priklausomasl{(to)}I{2}antraeilis, ne toks svarbusI{3}L{gram.}šalutinis; prijungiamasis;F{subordinate clause}šalutinis sakinys;F{subordinate conjunctions}prijungiamieji jungtukaiS{&rArr;}E{n}[s&#601;'b&#596;:d&#618;n&#601;t]valdinys, pavaldinysS{&rArr;}E{v}[s&#601;'b&#596;:d&#618;ne&#618;t]I{1}pajungti, subordinuoti;F{to subordinate one’s own interests to the public good}pajungti asmeninius interesus visuomeniniamsI{2}L{gram.}prijungti
+0{subordination}[s&#601;,b&#596;:d&#618;'ne&#618;&#643;n]E{n}I{1}pavaldumas, priklausomumas, priklausomybė; subordinacija; pajungimasI{2}L{gram.}prijungimas
+0{suborn}[s&#601;'b&#596;:n]E{v}I{1}papirktiI{2}L{teis.}(su)kurstyti melagingai liudytil{ar}pažeisti įstatymus
+0{subornation}[,s&#652;b&#596;:'ne&#618;&#643;n]E{n}I{1}papirkimasI{2}L{teis.}kurstymas melagingai liudytil{ar}pažeisti įstatymus
+0{suborner}[s&#601;'b&#596;:n&#601;]E{n}L{teis.}papirkėjas, kyšio davėjas; kurstytojasl{(ypač liudyti melagingai)}
+0{suboxide}[s&#601;b'&#596;ksa&#618;d]E{n}L{chem.}suboksidas
+0{subplot}['s&#652;bpl&#596;t]E{n}L{lit.}šalutinė siužeto linija
+0{subpoena}[s&#601;X{b}'pi:n&#601;]L{teis.}S{&rArr;}E{n}teismo šaukimasl{(liudyti)}S{&rArr;}E{v}šaukti į teismą
+0{subpolar}[,s&#652;b'p&#601;ul&#601;]E{a}subpoliarinis
+0{sub-proletariat}[s&#652;b,pr&#601;ul&#618;'t&#604;&#601;r&#618;&#601;t]E{n}žemiausias proletariato sluoksnis
+0{subreption}[s&#601;b'rep&#643;n]E{n}L{spec.}subrepcija; faktų nuslėpimas/iškraipymas, neteisingasl{(faktų)}aiškinimas
+0{subrogation}[,s&#652;br&#601;'ge&#618;&#643;n]E{n}L{teis.}subrogacija; draudėjo teisių perėjimas draudimo organizacijai
+0{sub rosa}[,s&#652;b'r&#601;uz&#601;]L{lot.}L{knyg.}konfidencialiai, slapta
+0{subroutine}[,s&#652;bru:'ti:n]E{n}L{komp.}paprogramis
+0{subscribe}[s&#601;b'skra&#618;b]E{v}I{1}(už)prenumeruoti, už(si)sakytil{(laikraštįL{ir pan.}; to, for)}I{2}užsisakyti, abonuotil{(ložę)}; įsirašytil{(į bibliotekąL{ir pan.})}I{3}prisijungti, prisidėti, sutikti, pritartil{(nuomonei)}l{(to)}I{4}aukoti pinigus; mokėti nario mokestįI{5}pasirašytil{(paskoląL{ir pan.})};F{to subscribe for an amount}l{(of)}pasirašytil{(kokiai)}sumaiI{6}L{ret.}pasirašytil{(dokumentą)}
+0{subscriber}[s&#601;b'skra&#618;b&#601;]E{n}I{1}prenumeratoriusI{2}abonentas;F{subscriber’s pay}abonentinis mokestisI{3}aukotojasI{4}l{(paskolosL{ir pan.})}pasirašytojasI{5}žmogus, pasirašęs dokumentą
+0{subscription}[s&#601;b'skr&#618;p&#643;n]E{n}I{1}aukojimas;F{to take/make up a subscription}rinkti pinigus;F{subscription list}aukų/rinkliavos lapas;F{subscription concert}labdaros koncertasI{2}prenumerata, prenumeravimas;F{subscription edition/publication}prenumeruojamasis leidinysI{3}abonementas; abonentinis mokestis;F{subscription TV}abonentinė televizijaI{4}įmoka;l{(nario)}mokestisI{5}l{(paskolosL{ir pan.})}pasirašymasI{6}pritarimas; patvirtinimasl{(parašu)}I{7}l{(dokumentoL{ir pan.})}pasirašymasI{8}L{ret.}parašas
+0{subsection}['s&#652;bsek&#643;n]E{n}I{1}l{(dokumento, teksto)}punktas, paragrafasI{2}poskyris, posekcijis
+0{subsequence}['s&#652;bs&#618;kw&#601;ns]E{n}pasekmė; tolesnis įvykis
+0{subsequent}['s&#652;bs&#618;kw&#601;nt]E{a}einantis po, paskesnis, tolesnis, vėlesnis;F{subsequent events}vėlesni/tolesni įvykiai;F{subsequent to his death}po jo mirties;F{subsequent upon smth}kaip ko pasekmė;F{subsequent reinforcement}L{kar.}pastiprinimas iš užnugario
+0{subsequently}['s&#652;bs&#618;kw&#601;ntl&#618;]E{adv}vėliau, paskui
+0{subserve}[s&#601;b's&#601;:v]E{v}padėti, prisidėti;F{to subserve a useful purpose}tarnauti naudingam tikslui
+0{subservience, -cy}[s&#601;b's&#601;:v&#618;&#601;ns, -s&#618;]E{n}I{1}pataikavimas, keliaklupsčiavimas, padlaižiavimasI{2}naudingumas, tarnavimasl{(kuriam tikslui)}
+0{subservient}[s&#601;b's&#601;:v&#618;&#601;nt]E{a}I{1}pataikūniškas, pataikaujantis, keliaklupsčiaujantisI{2}naudingas, tarnaujantisl{(kuriam tikslui; to)}I{3}ne toks svarbus, pajungtasl{(to)}
+0{subset}['s&#652;bset]E{n}L{mat.}poaibis
+0{subshrub}['s&#652;b&#643;r&#652;b]E{n}L{bot.}puskrūmis
+0{subside}[s&#601;b'sa&#618;d]E{v}I{1}(nu)kristi, (su)mažėti, (nu)slūgti;F{the fever has subsided}temperatūra nukritoI{2}nurimti, nuščiūtil{(apie audrą, vėjąL{ir pan.};L{t. p.}L{prk.})};F{the excitement subsided}jaudinimasis atlyžoI{3}(nu)sėsti, (su)smukti, smegtil{(apie žemę, pastatąL{ir pan.})}I{4}L{šnek.}lėtai/pamažu atsisėsti;F{he subsided into a chair}jis susmuko į kėdę
+0{subsidence}[s&#601;b'sa&#618;d&#601;ns]E{n}I{1}l{(žemės)}nusėdimasI{2}(nu)slūgimas, nukritimasI{3}nurimimas
+0{subsidiary}[s&#601;b's&#618;d&#618;&#601;r&#618;]S{&rArr;}E{a}I{1}pagalbinis, šalutinis, papildomasI{2}L{teis.}subsidiarinisS{&rArr;}E{n}I{1}pagalbininkasI{2}dukterinė bendrovė/kompanijal{(L{t. p.}X{subsidiary company})}; filialas
+0{subsidise}['s&#652;bs&#618;da&#618;z]E{v}subsidijuoti, dotuoti
+0{subsidize}['s&#652;bs&#618;da&#618;z]E{v}I{1}subsidijuoti, dotuotiI{2}L{euf.}papirkti
+0{subsidy}['s&#652;bs&#618;d&#618;]E{n}subsidija, dotacija; asignavimas
+0{subsist}[s&#601;b's&#618;st]E{v}I{1}egzistuoti; (iš)likti gyvamI{2}(pra)gyventi, prasimaitinti, maitintisl{(on)};F{to subsist by begging}gyventi iš išmaldos/elgetavimoI{3}L{ret.}pramaitinti, išlaikytiI{4}slypėti, būti priskiriamaml{(in)}
+0{subsistence}[s&#601;b's&#618;st&#601;ns]E{n}I{1}(pra)gyvenimas, prasimaitinimas;F{subsistence level}pragyvenimo minimumasI{2}pragyvenimo lėšosl{(L{t. p.}X{means of subsistence})}I{3}egzistavimasI{4}L{filos.}būtis
+0{subsistent}[s&#601;b's&#618;st&#601;nt]E{a}I{1}egzistuojantis; gyvenantisI{2}būdingas
+0{subsoil}['s&#652;bs&#596;&#618;l]E{n}L{ž. ū.}podirvis
+0{subsonic}[,s&#652;b's&#596;n&#618;k]E{a}L{spec.}ikigarsinisl{(apie skridimo greitį)}
+0{subspecies}['s&#652;b,spi:&#643;i:z]E{n}l{(E{pl}subspecies)}L{bot.},L{zool.}porūšis
+0{substance}['s&#652;bst&#601;ns]E{n}I{1}medžiaga;F{radioactive substances}radioaktyviosios medžiagosI{2}L{filos.}substancija, materija, medžiagaI{3}esmė; turinys;F{in substance}iš esmės;F{form and substance}forma ir turinys;F{to come to the substance of the matter}pereiti prie klausimo esmėsI{4}pagrindas; svarba, tikroji vertė;F{to have no substance}neturėti pagrindo;F{to lend substance}l{(to)}pagrįstil{(kaltinimus, pretenzijasL{ir pan.})};F{matters of substance}svarbūs dalykai;F{an argument of little substance}nelabai svarus argumentasI{5}tirštumas, tankumas; tvirtumas;F{soup without much substance}skysta sriubaI{6}L{ret.}turtas, nuosavybė;F{man of substance}turtingas vyras/žmogusS{&loz;}X{to sacrifice the substance for the shadow}S{&cong;}pamesti kelią dėl takelio

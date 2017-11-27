@@ -1,0 +1,1000 @@
+0{precipitate}S{&rArr;}E{n}[pr&#618;'s&#618;p&#618;t&#601;t]L{chem.}nuosėdosS{&rArr;}E{a}[pr&#618;'s&#618;p&#618;t&#601;t]L{knyg.}I{1}pernelyg skubotas, neapgalvotasI{2}smarkus, veržlus; per staigusS{&rArr;}E{v}[pr&#618;'s&#618;p&#618;te&#618;t]I{1}pagreitinti, (pa)skubintiI{2}nublokšti, parblokšti;E{refl}pulti žemyn galvaI{3}L{chem.}nusistoti, nusėsti; nusodintil{(L{t. p.}X{precipitate out})}I{4}L{meteor.}iškristil{(apie kritulius)}
+0{precipitation}[pr&#618;,s&#618;p&#618;'te&#618;&#643;n]E{n}I{1}skubotumas; veržlumasI{2}l{(tempo)}pagreitinimas, didinimasI{3}nubloškimas; puolimasl{(žemyn)}I{4}L{chem.}nusėdimas; nusodinimasI{5}L{meteor.}krituliai;F{annual precipitation}metinis kritulių kiekis
+0{precipitator}[pr&#618;'s&#618;p&#618;te&#618;t&#601;]E{n}L{tech.}nusodintuvas
+0{precipitous}[pr&#618;'s&#618;p&#618;t&#601;s]E{a}I{1}labai status, skardingasI{2}skubotas
+0{précis}['pre&#618;si:]L{pr.}S{&rArr;}E{n}(E{pl}précis[-si:z]) santrauka, konspektasS{&rArr;}E{v}darytil{(ko)}santrauką/konspektą
+0{precise}[pr&#618;'sa&#618;s]E{a}I{1}tikslus, apibrėžtas;F{to arrive at the precise moment}atvykti tiksliai laiku;F{to be precise}tiksliau (sakant)I{2}aiškusl{(apie tartįL{ir pan.})}I{3}kruopštus; skrupulingas, pedantiškas
+0{precisely}[pr&#618;'sa&#618;sl&#618;]E{adv}I{1}tiksliaiI{2}būtent; būtent taipl{(atsakant)};F{that’s precisely why...}būtent čia priežastis, kodėl...
+0{preciseness}[pr&#618;'sa&#618;sn&#618;s]E{n}tikslumas
+0{precisian}[pr&#618;'s&#618;&#658;n]E{n}I{1}formalistas, pedantasI{2}L{ist.}puritonas
+0{precision}[pr&#618;'s&#618;&#658;n]E{n}I{1}tikslumas; precizijaI{2}E{attr}tikslus, precizinis;F{precision balance}tikslios svarstyklės;F{precision instrument}tikslus/precizinis instrumentas;F{precision fire}L{kar.}tiksli/taikli ugnis
+0{preclude}[pr&#618;'klu:d]E{v}I{1}neleisti atsirasti, užkirsti kelią;F{to preclude the possibility of any error}išvengti bet kokios klaidosI{2}sukliudyti, sutrukdytil{(from)};F{illness precluded me from coming}liga sukliudė man ateiti
+0{preclusion}[pr&#618;'klu:&#658;n]E{n}L{ret.}kliūtis; trukdymas
+0{precocious}[pr&#618;'k&#601;u&#643;&#601;s]E{a}I{1}per anksti išsivystęs; ne pagal metus išsivystęsI{2}ankstyvasI{3}L{ž. ū.}ankstyvasis, anksti subręstantis
+0{precocity}[pr&#618;'k&#596;s&#601;t&#618;]E{n}ankstyvas išsivystymasl{(ypač apie vaiką)}
+0{precognition}[,pri:k&#596;g'n&#618;&#643;n]E{n}L{knyg.}žinojimas iš anksto, nujautimas
+0{preconceive}[,pri:k&#601;n'si:v]E{v}iš anksto įsivaizduotil{ar}susidaryti nuomonę
+0{preconceived}[,pri:k&#601;n'si:vd]E{a}E{attr}išankstinis;F{preconceived notion}išankstinė nuomonė
+0{preconception}[,pri:k&#601;n'sep&#643;n]E{n}išankstinė nuomonė; išankstinis nusistatymas
+0{preconcert}[,pri:k&#601;n's&#601;:t]E{v}iš anksto susitarti
+0{precondition}[,pri:k&#601;n'd&#618;&#643;n]E{n}preliminari/išankstinė sąlyga, prielaida
+0{precontract}[pri:'k&#596;ntr&aelig;kt]S{&rArr;}E{n}ankstyvesnė sutartisl{(trukdanti sudaryti naują sutartį)}S{&rArr;}E{v}iš anksto sudaryti sutartį
+0{precook}[,pri:'kuk]E{v}L{kul.}iš anksto ruošti/išvirtil{(kad reiktų tik pašildyti)}
+0{precool}[,pri:'ku:l]E{v}iš anksto atvėsinti/ataušinti
+0{precursor}[pr&#618;'k&#601;:s&#601;]E{n}I{1}pirmtakasI{2}pranašiškas ženklas, pranašas
+0{precursory}[pr&#618;'k&#601;:s&#601;r&#618;]E{a}L{knyg.}I{1}pranašaujantisl{(of)}I{2}parengtinis;F{precursory symptoms}pirmieji simptomai
+0{pred.}L{sutr.}X{predicate}L{gram.}tarinys
+0{predacious}[pr&#618;'de&#618;&#643;&#601;s]E{a}L{ret.}plėšrus; grobuoniškas
+0{predate}[pri:'de&#618;t]E{v}I{1}įvykti/būti anksčiaul{(už)}I{2}datuoti atgaline data
+0{predator}['pred&#601;t&#601;]E{n}plėšrūnas, grobuonisl{(L{t. p.}L{prk.})}
+0{predatory}['pred&#601;tX{&#601;}r&#618;]E{a}I{1}grobuoniškas; grobikiškas;F{predatory habits}grobuonių įpročiaiI{2}plėšrus
+0{predawn}[pri:'d&#596;:n]E{a}priešaušrio, paryčio
+0{predecease}[,pri:d&#618;'si:s]E{v}L{teis.}mirti pirma/anksčiaul{(ko)};F{he predeceased his father}jis mirė anksčiau už savo tėvą
+0{predecessor}['pri:d&#618;ses&#601;]E{n}I{1}pirmtakasI{2}daiktas, pakeistas nauju;F{my present car is far superior to its predecessor}mano dabartinė mašina žymiai geresnė už ankstesnęI{3}L{ret.}protėvis
+0{predestinate}[pri:'dest&#618;ne&#618;t]E{v}L{knyg.}A{=R{predestine}}
+0{predestination}[pri:,dest&#618;'ne&#618;&#643;n]E{n}L{knyg.}I{1}nulėmimasI{2}lemtis; likimas
+0{predestine}[pri:'dest&#618;n]E{v}l{(L{ppr.}E{pass})}L{knyg.}iš anksto nulemti/paskirti
+0{predetermine}[,pri:d&#618;'t&#601;:m&#618;n]E{v}I{1}l{(L{ppr.}E{pass})}iš anksto nulemti/nuspręsti/nustatytiI{2}paveikti, palenkti; nukreiptil{(kieno)}veiksmusL{ir pan.}tam tikra kryptimi
+0{predial}['pri:d&#618;&#601;l]E{a}L{ist.}I{1}agrarinis, žemės; nekilnojamasl{(apie turtą)}I{2}priskirtas prie žemėsl{(apie baudžiauninką)}
+0{predicable}['pred&#618;k&#601;bl]E{a}L{log.}galimas patvirtinti, patvirtinamas
+0{predicament}[pr&#618;'d&#618;k&#601;m&#601;nt]E{n}I{1}kebli, nemaloni padėtis;F{what a predicament!}koks nemalonumas!I{2}L{log.}kategorija
+0{predicant}['pred&#618;k&#601;nt]E{n}L{bažn.}L{ist.}pamokslininkas
+0{predicate}S{&rArr;}E{n}['pred&#618;k&#601;t]I{1}L{gram.}tarinys, predikatas;F{simple predicate}vientisinis/grynasis tarinys I{2}L{log.}predikatas S{&rArr;}E{a}['pred&#618;k&#601;t]L{gram.},L{log.}predikatinis; predikacinisS{&rArr;}E{v}['pred&#618;ke&#618;t]I{1}tvirtinti, teigtil{(L{t. p.}L{log.}; of, about)}I{2}l{(L{džn.}E{pass})}remti, grįstil{(on)}
+0{predication}[,pred&#618;'ke&#618;&#643;n]E{n}I{1}tvirtinimas, teigimasl{(L{t. p.}L{log.})}I{2}L{gram.}predikacija, tarinio turinys
+0{predicative}[pr&#618;'d&#618;k&#601;t&#618;v]L{gram.}S{&rArr;}E{a}predikatinisS{&rArr;}E{n}predikatyvas, vardinė tarinio dalis
+0{predict}[pr&#618;'d&#618;kt]E{v}(iš)pranašauti; numatyti
+0{predictable}[pr&#618;'d&#618;kt&#601;bl]E{a}nuspėjamas, numatomas; iš anksto žinomas
+0{predictably}[pr&#618;'d&#618;kt&#601;bl&#618;]E{mod}kaip manyta, kaip laukta
+0{predicted}[pr&#618;'d&#618;kt&#618;d]E{a}:X{predicted fire}L{kar.}šaudymas pagal apskaičiuotus duomenis
+0{prediction}[pr&#618;'d&#618;k&#643;n]E{n}I{1}pranašavimas, pranašystė; prognozėI{2}L{kar.}duomenų apskaičiavimas šaudymui
+0{predictive}[pr&#618;'d&#618;kt&#618;v]E{a}pranašaujantis; pranašiškas; prognozuojantis
+0{predictor}[pr&#618;'d&#618;kt&#601;]E{n}I{1}pranašautojas, numatytojasI{2}L{kar.}instrumentas priešlėktuvinei artilerijos ugniai koreguoti
+0{predigest}[,pri:da&#618;'d&#658;est]E{v}I{1}L{fiziol.}apdorotil{(maistą)}chemiškail{(kad būtų galima lengviau suvirškinti)}I{2}supaprastinti, adaptuotil{(knygąL{ir pan.})}
+0{predilection}[,pri:d&#618;'lek&#643;n]E{n}L{knyg.}l{(didelis)}pamėgimas, pomėgis, polinkisl{(for)}
+0{predispose}[,pri:d&#618;'sp&#601;uz]E{v}iš anksto nuteikti; palenkti; būti linkusiaml{(to – į)}
+0{predisposition}[,pri:d&#618;sp&#601;'z&#618;&#643;n]E{n}palinkimas, polinkis
+0{predominance}[pr&#618;'d&#596;m&#618;n&#601;ns]E{n}vyravimas, dominavimas, viešpatavimas
+0{predominant}[pr&#618;'d&#596;m&#618;n&#601;nt]E{a}vyraujantis, dominuojantis, labiausiai paplitęs
+0{predominantly}[pr&#618;'d&#596;m&#618;n&#601;ntl&#618;]E{adv}daugiausia
+0{predominate}[pr&#618;'d&#596;m&#618;ne&#618;t]E{v}vyrauti, dominuoti; viešpatautil{(over)}
+0{preelection}[,pri:&#618;'lek&#643;n]E{a}E{attr}priešrinkiminis
+0{preem}[pri:m]E{n}L{amer.}L{šnek.}l{(filmoL{ir pan.})}premjera
+0{preembryo}[,pri:'embr&#618;&#601;u]E{n}L{med.}preembrionasl{(iki 2 savaičių po apvaisinimo)}
+0{preemie}['pri:m&#618;]E{n}L{amer.}L{šnek.}neišnešiotas kūdikis
+0{preeminence}[pri:'em&#618;n&#601;ns]E{n}pranašumas; primatas
+0{preeminent}[pri:'em&#618;n&#601;nt]E{a}pranašesnis; išsiskiriantis, žymus
+0{preeminently}[pri:'em&#618;n&#601;ntl&#618;]E{adv}visų pirma
+0{preempt}[pri:'empt]E{v}I{1}užbėgti už akių; sukliudyti, užkirsti kelią I{2}užimti/pasisavinti anksčiau už kitusI{3}L{teis.}pirkti anksčiau už kitusI{4}L{amer.}įsigyti pirmumo teisę pirkti žemę iš valstybės
+0{preemption}[pri:'emp&#643;n]E{n}I{1}pirkimas/įsigijimas/pasinaudojimasl{(teise)}anksčiau už kitusI{2}pirmumo teisė pirkti (L{amer.}pirkti žemę iš valstybės)I{3}užbėgimas už akių, prevencija
+0{preemptive}[pri:'empt&#618;v]E{a}I{1}pirmumol{(ypač apie teisę pirkti)}I{2}prevencinisl{(apie užpuolimąL{ir pan.})}
+0{preen}[pri:n]E{v}I{1}valytil{(plunksnas)}snapuI{2}l{(L{ppr.}E{refl})}gražintis, dabintisI{3}l{(L{džn.}E{refl})}didžiuotisl{(on, upon)}
+0{preengage}[,pri:&#618;n'ge&#618;d&#658;]E{v}kontraktuoti; iš anksto susieti žodžiu/įsipareigojimu
+0{preestablish}[,pri:&#618;s't&aelig;bl&#618;&#643;]E{v}iš anksto nustatyti
+0{preexist}[,pri:&#618;g'z&#618;st]E{v}egzistuoti priešl{(ką)}
+0{preexistent}[,pri:&#618;g'z&#618;st&#601;nt]E{a}pirmesnis, anksčiau buvęs
+0{pref.}L{sutr.}X{preface}įžanga, įvadasX{preferred}privilegijuotasisl{(apie akcijas)}X{prefix}priešdėlis
+0{prefab}['pri:f&aelig;b]L{sutr.}S{&rArr;}E{n}surenkamasis/standartinis namasS{&rArr;}E{a}surenkamasl{(apie namąL{ir pan.})}
+0{prefabricate}[,pri:'f&aelig;br&#618;ke&#618;t]E{v}gamintil{(ypač surenkamųjų pastatų)}dalis
+0{prefabricated}[pri:'f&aelig;br&#618;ke&#618;t&#618;d]E{a}surenkamasis; F{prefabricated house}surenkamasis/standartinis namas
+0{preface}['pref&#618;s]S{&rArr;}E{n}pratarmė; įvadas, įžangaS{&rArr;}E{v}I{1}parašyti pratarmę/įžangą; įžangoje išdėstytiI{2}pradėtil{(by, with)}
+0{prefatory}['pref&#601;tX{&#601;}r&#618;]E{a}įvadinis, įžanginis
+0{prefect}['pri:fekt]E{n}I{1}prefektasI{2}L{mok.}vyresnysis mokinys
+0{prefecture}['pri:fekt&#643;u&#601;]E{n}prefektūra
+0{prefer}[pr&#618;'f&#601;:]E{v}I{1}labiau mėgti/norėti, duoti/teikti pirmenybęl{(to)};F{I much prefer dogs to cats}man daug labiau patinka šunys negu katėsI{2}(pa)aukštintil{(tarnyboje)}I{3}pateiktil{(svarstyti)}; paduotil{(prašymą, skundą)};F{to prefer charges}L{teis.}iškelti kaltinimusl{(against)}
+0{preferable}['prefX{&#601;}r&#601;bl]E{a}labiau mėgstamas/pageidaujamas; vertesnis, tinkamesnisl{(to)}
+0{preferably}['prefX{&#601;}r&#601;bl&#618;]E{adv}verčiau, geriau
+0{preference^{1}}['prefX{&#601;}r&#601;ns]E{n}I{1}pirmumas, pirmenybė; laikymas vertesniu/tinkamesniu;F{to give preference}l{(to)}duoti pirmenybę;F{in preference to}labiau, mieliauI{2}tai, kam atiduodama pirmenybė; tai, kas labiau mėgstamaI{3}L{kom.}preferencija; muitų lengvataI{4}E{attr}L{ekon.}lengvatinis, privilegijuotas;F{preference share}privilegijuotoji akcija
+0{preference^{2}}E{n}preferansasl{(kortų lošimas)}
+0{preferential}[,pref&#601;'ren&#643;l]E{a}E{attr}I{1}turintis/duodantis pirmenybę; pirmenybinis; F{preferential shop}L{amer.}įmonė, kuri įsipareigoja duoti pirmenybę profsąjungos nariamsI{2}L{ekon.}lengvatinis, preferencinisl{(apie įvežamuosius muitus)}
+0{preferment}[pr&#618;'f&#601;:m&#601;nt]E{n}L{knyg.}I{1}pirmenybė; pirmenybės davimasI{2}paaukštinimasl{(tarnyboje)}
+0{preferred}[pr&#618;'f&#601;:d]E{a}L{ekon.}lengvatinis, privilegijuotas;F{preferred stock}L{amer.}privilegijuotosios akcijos
+0{prefigure}[,pri:'f&#618;g&#601;]E{v}I{1}įsivaizduoti; numatytiI{2}būtil{(ko)}ženklu/pranašu
+0{prefix}['pri:f&#618;ks]S{&rArr;}E{n}I{1}L{gram.}priešdėlis, prefiksasI{2}titulasL{ir pan.}, vart. prieš asmenvardžius (L{pvz.}, Dr., SirL{ir pan.})I{3}raidė(s)/skaičius, vart. prieš kodąS{&rArr;}E{v}I{1}L{gram.}pridėti priešdėlįI{2}pridėti tituląL{ir pan.}l{(prieš asmenvardžius)}I{3}(pri)dėtil{(knygos, kodoL{ir pan.})}pradžioje
+0{prefixation}[,pri:f&#618;k'se&#618;&#643;n]E{n}L{gram.}priešdėlinė žodžių daryba, prefiksacija
+0{preflight}['pri:fla&#618;t]E{a}l{(pasireiškiantis, vykdomas)}prieš lėktuvo pakilimą/skridimą
+0{preform}[pri:'f&#596;:m]E{v}iš anksto formuoti/sudaryti
+0{pregnable}['pregn&#601;bl]E{a}įveikiamas, (lengvai) paimamasl{(apie tvirtovęL{ir pan.})}; pažeidžiamas
+0{pregnancy}['pregn&#601;ns&#618;]E{n}I{1}nėštumasI{2}l{(idėjų, sumanymų)}turtingumas;l{(vaizduotės)}lakumas
+0{pregnant}['pregn&#601;nt]E{a}I{1}nėščiaI{2}ėringa, kumelinga, veršingaL{ir pan.}I{3}turiningas; kupinasl{(sumanymų, idėjų; with)}; lakus, kūrybingasl{(apie vaizduotę, mintį)}I{4}prasmingas, reikšmingasl{(apie tyląL{ir pan.})}
+0{preheat}[,pri:'hi:t]E{v}pirma įkaitinti/pašildyti
+0{prehensile}[pr&#618;'hensa&#618;l]E{a}L{zool.}graibštus, kibusl{(apie beždžionės uodegąL{ir pan.})}; čiumpamasis, griebiamasis
+0{prehension}[pr&#618;'hen&#643;n]E{n}I{1}L{zool.}(su)griebimas, (su)čiupimas, įsikabinimasI{2}supratimas, suvokimas
+0{prehistoric}[,pri:h&#618;'st&#596;r&#618;k]E{a}I{1}priešistorinisI{2}L{iron.}prieštvaninis, pasenęs
+0{prehistory}[pri:'h&#618;stX{&#601;}r&#618;]E{n}priešistorė
+0{prehuman}[,pri:'hju:m&#601;n]E{a}egzistavęs Žemėje prieš pasirodant žmogui
+0{prejudge}[,pri:'d&#658;&#652;d&#658;]E{v}I{1}iš anksto išspręsti/nuspręstil{ar}susidaryti nuomonęI{2}L{teis.}nuteisti neištyrus/neišklausiusl{(teisiamojo)}
+0{prejudice}['pred&#658;ud&#618;s]S{&rArr;}E{n}I{1}išankstinis nusistatymas; iš anksto susidariusil{(L{džn.}nepalanki)}nuomonėI{2}prietaras;F{steeped in prejudice}paskendęs prietaruoseI{3}žala;F{to the prejudice}l{(of)},X{in prejudice}l{(of)}l{(ko)}nenaudai;F{without prejudice}L{teis.}be žalosl{(to – kam)}, nepažeidžiant, neapribojantl{(teisėsL{ir pan.})}S{&rArr;}E{v}I{1}iš anksto nuteiktil{(against – prieš)};F{to be prejudiced in favour of smb}būti palankiai nusiteikusiam kieno atžvilgiuI{2}(pa)kenkti, apsunkinti; pablogintil{(kieno galimybes)}
+0{prejudicial}[,pred&#658;u'd&#618;&#643;l]E{a}kenkiantis, žalingas, pragaištingas
+0{prelacy}['prel&#601;s&#618;]E{n}L{bažn.}I{1}prelato titulasI{2}X{(the prelacy)}L{kuop.}prelatai
+0{prelate}['prel&#618;t]E{n}L{bažn.}prelatas
+0{prelect}[pr&#618;'lekt]E{v}L{knyg.}skaityti paskaitą
+0{prelection}[pr&#618;'lek&#643;n]E{n}L{knyg.}paskaita
+0{prelector}[pr&#618;'lekt&#601;]E{n}L{knyg.}lektorius
+0{prelim}['pri:l&#618;m]E{n}l{(L{ppr.}E{pl})}I{1}(preliminary examinationL{sutr.}) stojamasis egzaminasI{2}L{sport.}preliminarinės/parengtinės varžybos
+0{preliminary}[pr&#618;'l&#618;m&#618;nX{&#601;}r&#618;]S{&rArr;}E{n}I{1}l{(L{džn.}E{pl})}parengiamosios priemonėsI{2}E{pl}parengtinės derybos, preliminaraiI{3}E{pl}L{sport.}parengtinės varžybosS{&rArr;}E{a}preliminarinis, parengiamasis, parengtinis; įžanginis;F{preliminary work}L{spec.}parengiamieji darbai;F{preliminary examination}stojamasis egzaminas; F{preliminary investigation}L{teis.}parengtinis tardymas, pirminis nagrinėjimas;F{preliminary preparation}išankstinis parengimasl{(for)}
+0{preload}[pri:'l&#601;ud]E{n}L{tech.}išankstinė apkrova
+0{prelude}['prelju:d]S{&rArr;}E{n}I{1}preliudija, įžangaI{2}L{muz.}preliudasS{&rArr;}E{v}I{1}būti įžanga/preliudijaI{2}L{muz.}pradėti preliudul{(with)}; groti preliudą
+0{prelusive}[pr&#618;'lju:s&#618;v]E{a}įžanginis, įvadinis
+0{prem.}L{sutr.}X{premium}l{(draudimo)}premija
+0{premarital}[pri:'m&aelig;r&#618;tl]E{a}priešvedybinis, ikisantuokinis
+0{premature}['prem&#601;t&#643;X{u}&#601;, ,prem&#601;'t&#643;u&#601;]E{a}I{1}pirmalaikis, priešlaikinis, per ankstyvas;F{premature death}pirmalaikė/belaikė mirtis;F{premature baby}neišnešiotas kūdikisI{2}skubotas, neapgalvotas
+0{prematurely}[,preme't&#643;u&#601;l&#618;]E{adv}pirma laiko, per anksti
+0{prematurity}[,prem&#601;'t&#643;u&#601;r&#601;t&#618;]E{n}priešlaikiškumas
+0{premed}['pri:'med]L{sutr.}S{&rArr;}E{n}A{=R{premedication}}S{&rArr;}E{a}A{=R{premedical}}
+0{premedical}[pri:'med&#618;kl]E{a}L{amer.}parengiamųjų medicinos kursųl{(stojant į universitetą)}
+0{premedication}[,pri:med&#618;'ke&#618;&#643;n]E{n}L{med.}priešoperacinis/parengtinis gydymas
+0{premeditate}[pri:'med&#618;te&#618;t]E{v}iš anksto apgalvoti
+0{premeditated}[pri:'med&#618;te&#618;t&#618;d]E{a}iš anksto apgalvotas; sąmoningas, tyčinis
+0{premeditation}[pri:,med&#618;'te&#618;&#643;n]E{n}apgalvojimas iš anksto
+0{premenstrual}[pri:'menstru&#601;l]E{a}L{med.}priešmenstruacinis
+0{premie}['pri:m&#618;]E{n}L{amer.}L{šnek.}pirma laiko gimęs kūdikis
+0{premier}['prem&#618;&#601;]S{&rArr;}E{n}ministras pirmininkas, premjeras; vyriausybės vadovasS{&rArr;}E{a}pirmaeilis, svarbiausias, pagrindinis; pirmas
+0{première}['prem&#618;&#604;&#601;]L{pr.}L{teatr.}S{&rArr;}E{n}premjeraS{&rArr;}E{v}parodyti premjerą; įvykti premjerai
+0{premiership}['prem&#618;&#601;&#643;&#618;p]E{n}premjero postas; buvimas premjeru
+0{premise}S{&rArr;}E{n}['prem&#618;s]I{1}L{log.}premisa; prielaidaI{2}E{pl}L{teis.}įžanginė dokumento dalisI{3}E{pl}pastatas, namai, patalpos; namų valdosl{(su priestatais ir sodyba)}S{&loz;}X{to be consumed/drunk on the premises}parduodama neišsineštinai/išgertinai;F{to see smb off the premises}išprašyti ką lauk S{&rArr;}E{v}[pr&#618;'ma&#618;z]I{1}pirma išdėstyti/pateikti/pasakytiI{2}L{log.}daryti prielaidą
+0{premiss}['prem&#618;s]A{=R{premise}}E{n}1
+0{premium}['pri:m&#618;&#601;m]E{n}I{1}premija; priedas, priemoka, papildomas atlyginimas;F{premium pay}premijinė priemokaI{2}mokestisl{(už mokymąL{ir pan.})}I{3}L{fin.}draudimo įmoka, apdraudal{(L{t. p.}X{insurance premium})};F{exchange premium}ažioI{4}E{attr}aukščiausios kokybėsl{(apie prekes)}S{&loz;}X{at a premium}X{a)}didesne negu nominalia kaina;X{b)}turintis didelę paklausą; labai vertinamas/madingas;F{to put/place a premium}l{(on)}vertinti, laikyti svarbiu, skatinti
+0{premolar}[pri:'m&#601;ul&#601;]E{n}L{anat.}kaplysl{(priekinis dantis)}
+0{premonition}[,prem&#601;'n&#618;&#643;n]E{n}I{1}nujautimasI{2}perspėjimas
+0{premonitory}[pr&#618;'m&#596;n&#618;tX{&#601;}r&#618;]E{a}L{knyg.}perspėjamasis, įspėjantis;F{premonitory symptoms}L{med.}pirmieji simptomai
+0{prenatal}[,pri:'ne&#618;tl]E{a}L{med.}priešgimdyminis, prenatalinis;F{prenatal care}nėščiosios priežiūra/higiena;F{prenatal clinic}moterų konsultacija
+0{prentice}['prent&#618;s]E{n}L{psn.}pameistrys S{&loz;}X{prentice hand}neįgudusi/nemikli ranka;F{prentice effort}nevykęs/prastas bandymas
+0{prenuclear}[,pri:'nju:kl&#618;&#601;]E{a}ikibranduolinis, ikiatominis
+0{prenuptial}[,pri:'n&#652;p&#643;l]E{a}L{knyg.}priešvedybinis, ikivedybinis
+0{preoccupation}[pri:,&#596;kju'pe&#618;&#643;n]E{n}I{1}nuolatinis rūpestis, susirūpinimas; susimąstymasI{2}l{(vietos/sklypoL{ir pan.})}užėmimas/užvaldymas anksčiaul{(už kitą) ar}iš anksto
+0{preoccupied}[,pri:'&#596;kjupa&#618;d]E{a}susimąstęs; susirūpinęs
+0{preoccupy}[,pri:'&#596;kjupa&#618;]E{v}I{1}užimti, užvaldytil{(mintis, protą)};E{pass}būti susimąsčiusiam/susirūpinusiamI{2}užimti/užvaldyti anksčiaul{(už kitą) ar}iš anksto
+0{pre-op}[,pri:'&#596;p]L{šnek.}S{&rArr;}E{n}priešoperacinis gydymasS{&rArr;}E{a}A{=R{preoperative}}
+0{preoperative}[,pri:'&#596;p&#601;r&#601;t&#618;v]E{a}priešoperacinis
+0{preordain}[,pri:&#596;:'de&#618;n]E{v}E{pass}būti iš anksto nustatytam/nulemtam
+0{prep}[prep]L{mok.}L{šnek.}S{&rArr;}E{n}I{1}pamokų ruošimasI{2}parengiamoji mokyklal{(L{t. p.}X{prep school})}I{3}L{amer.}privačios mokyklos mokinysS{&rArr;}E{a}paruošiamasis, parengiamasisS{&rArr;}E{v}I{1}ruoštisl{(pamokai)}; mokytisl{(kokio dalyko)}I{2}L{amer.}ruošti; ruoštisI{3}L{amer.}mokytis parengiamojoje mokyklojel{(privačioje)}
+0{prep}L{sutr.}X{preposition}prielinksnis
+0{prepack}[,pri:'p&aelig;k]S{&rArr;}E{n}fasuotos prekėsS{&rArr;}E{v}fasuoti
+0{prepackage}[,pri:'p&aelig;k&#618;d&#658;]A{=R{prepack}}E{v}
+0{pre-packaging}[,pri:'p&aelig;k&#618;d&#658;&#618;&#331;]E{n}išankstinis prekių pakavimas
+0{prepaid}[,pri:'pe&#618;d]E{past}l{ir}E{pII}A{L{žr.}R{prepay}};F{prepaid envelope [reply]iš anksto apmokėtas siunčiamas vokas [atsakymas]
+0{preparation}[,prep&#601;'re&#618;&#643;n]E{n}ruošimas(is), pa(si)ruošimas, pa(si)rengimas;F{to make preparations}l{(for)}ruoštis, pasiruošti;F{the book is in preparation}knyga ruošiama spaudaiI{2}pamokų ruošimasI{3}preparatas; vaistasI{4}L{kas.}sodrinimas
+0{preparative}[pr&#618;'p&aelig;r&#601;t&#618;v]S{&rArr;}E{a}paruošiamasis S{&rArr;}E{n}I{1}paruošimasI{2}L{kar.}signalas pasiruošti
+0{preparatory}[pr&#618;'p&aelig;r&#601;tX{&#601;}r&#618;]E{a}I{1}paruošiamasis, parengiamasis, parengtinis;F{preparatory school}privati parengiamoji mokyklal{(D. Britanijoje – 8–13 m. vaikams; JAV – vidurinė mokykla)}I{2:}X{preparatory to}l{(L{vart.}kaipE{prep})}prieš, pirma/anksčiau negu
+0{prepare}[pr&#618;'p&#604;&#601;]E{v}I{1}ruošti(s), rengti(s), pa(si)ruošti;F{to prepare the ground for smth}paruošti žemę kam;F{she is quite prepared to be friendly}ji visai draugiškai nusiteikusi;F{to prepare a plan}sudaryti/parengti planąI{2}gamintil{(valgįL{ir pan.})};F{Tom is preparing supper for us}Tomas ruošia mums vakarienęI{3}L{spec.}preparuoti
+0{prepared}[pr&#618;'p&#604;&#601;d]E{a}parengtas, paruoštas; pasiruošęs;F{to be prepared for the worst}būti pasiruošusiam blogiausiam (atvejui)
+0{preparedness}[pr&#618;'p&#604;&#601;dn&#618;s]E{n}pasiruošimas; parengtis;F{a state of preparedness}kovinė parengtis
+0{prepay}[,pri:'pe&#618;]E{v}(prepaid) (ap)mokėti iš anksto; mokėti į priekį
+0{prepayment}[,pri:'pe&#618;m&#601;nt]E{n}išankstinis apmokėjimas
+0{prepense}[pr&#618;'pens]E{a}iš anksto apgalvotas;F{of malice prepense}L{teis.}tyčinis, padarytas tyčia, iš anksto apgalvotasl{(apie nusikaltimąL{ir pan.})}
+0{preplan}[,pri:'pl&aelig;n]E{v}planuoti iš anksto
+0{preplant}[,pri:'pla:nt]E{a}L{ž. ū.}priešsėjinis, prieš sėjąl{(apie dirvos įdirbimą)}
+0{preponderance}[pr&#618;'p&#596;ndX{&#601;}r&#601;ns]E{n}persvara; vyravimas
+0{preponderant}[pr&#618;'p&#596;ndX{&#601;}r&#601;nt]E{a}turintis persvarą/viršų, vyraujantis; pirmaujantis
+0{preponderate}[pr&#618;'p&#596;nd&#601;re&#618;t]E{v}L{knyg.}I{1}turėti persvarą, nusvertiI{2}vyrauti; būti pranašesniam
+0{preposition}E{n}L{gram.}I{1}[,prep&#601;'z&#618;&#643;n]prielinksnisI{2}[,pri:p&#601;'z&#618;&#643;n]prepozicija
+0{prepositional}[,prep&#601;'z&#618;&#643;n&#601;l]E{a}L{gram.}prielinksninis, prielinksnio
+0{prepositive}[pr&#618;:'p&#596;z&#618;t&#618;v]E{a}L{gram.}prepozicinis
+0{prepossessed}[,pri:p&#601;'zest]E{a}I{1}l{(jausmų, minčiųL{ir pan.})}apimtas, apsėstas, apniktasI{2}iš anksto nuteiktas; palankiai nuteiktas
+0{prepossessing}[,pri:p&#601;'zes&#618;&#331;]E{a}žavingas, mielas, malonus, simpatiškas;F{she is not very prepossessing}ji nelabai kelia simpatiją
+0{prepossession}[,pri:p&#601;'ze&#643;n]E{n}I{1}išankstinis nusistatymasI{2}palinkimas
+0{preposterous}[pr&#618;'p&#596;stX{&#601;}r&#601;s]E{a}absurdiškas, neprotingas, beprasmiškas
+0{preposterously}[pr&#618;'p&#596;stX{&#601;}r&#601;sl&#618;]E{adv}absurdiškai, beprasmiškai, neprotingai
+0{prepotent}[pr&#618;'p&#601;ut&#601;nt]E{a}I{1}labai galingas; galingesnisI{2}L{biol.}dominuojantis, vyraujantis
+0{preppie, preppy}['prep&#618;]L{amer.}L{šnek.}S{&rArr;}E{n}privačios parengiamosios mokyklos moksleivis/auklėtinisS{&rArr;}E{a}būdingas parengiamosios mokyklos moksleiviams; tvarkingas
+0{preprandial}[,pri:'pr&aelig;nd&#618;&#601;l]E{a}E{attr}priešpietinis
+0{preprogram}[,pri:'pr&#601;ugr&aelig;m]E{v}L{spec.}suprogramuotil{(vėlesniam programiniam valdymui)}
+0{prepster}[,prepst&#601;]L{amer.}L{šnek.}A{=R{preppie}}E{n}
+0{prepubescent}[,pri:pju:'besX{&#601;}nt]E{a}(vykstantis) prieš lytinį subrendimą, nesulaukęs lytinio subrendimo
+0{prepuce}['pri:pju:s]E{n}L{anat.}apyvarpė
+0{prequel}['pri:kw&#601;l]E{n}filmasl{ir}L{pan.}apie ankstesniusl{(populiaraus filmo irL{pan.})}įvykius
+0{Pre-Raphalite}[,pr&#618;:'r&aelig;f&#601;lait]L{men.}L{ist.}S{&rArr;}E{n}prerafaelitas S{&rArr;}E{a}prerafaelitų
+0{prerecord}[,pri:r&#618;'k&#596;:d]E{v}įrašyti iš ankstol{(muziką, kalbąL{ir pan.})}
+0{pre-recording}[,pri:r&#618;'k&#596;:d&#618;&#331;]E{n}išankstinis įrašymas
+0{prerelease}[,pri:r&#618;'li:s]E{n}L{kin.}uždara peržiūral{(L{t. p.}X{prerelease show})}
+0{prerequisite}[,pri:'rekw&#618;z&#618;t]S{&rArr;}E{n}prielaida, būtina sąlygal{(for)}S{&rArr;}E{a}būtinasl{(kaip sąlyga; to)}
+0{pre-retirement}[pri:r&#618;'ta&#618;&#601;m&#601;nt]E{n}laikotarpis prieš išėjimą į pensiją
+0{prerogative}[pr&#618;'r&#596;g&#601;t&#618;v]S{&rArr;}E{n}prerogatyva, išimtinė teisė; privilegijaS{&rArr;}E{a}turintis prerogatyvą;F{prerogative right}išimtinė/pirmumo teisė
+0{Pres.}L{sutr.}X{President}prezidentas; pirmininkas
+0{pres}L{sutr.}X{present}dabartis; esamas, dalyvaujantis
+0{presage}['pres&#618;d&#658;]S{&rArr;}E{n}I{1}l{(pranašingas)}ženklas, pranašystėI{2}nujautimasS{&rArr;}E{v}I{1}pranašauti, būti ženkluI{2}nujaustil{(ypač ką nors bloga)}
+0{presbyopia}[,prezb&#618;'&#601;up&#618;&#601;]E{n}L{med.}senatvinė tolregystė, presbiopija
+0{presbyter}['prezb&#618;t&#601;]E{n}L{bažn.}presbiteris; presbiterionų bendruomenės vadovas
+0{Presbyterian}[,prezb&#618;'t&#618;&#601;r&#618;&#601;n]L{bažn.}S{&rArr;}E{n}presbiterionasS{&rArr;}E{a}presbiterionų
+0{presbytery}['prezb&#618;tX{&#601;}r&#618;]E{n}L{bažn.}I{1}presbiterijaI{2}parapijos komitetasI{3}klebonija
+0{preschool}S{&rArr;}E{n}['pri:sku:l]L{amer.}vaikų darželisS{&rArr;}E{a}[,pri:'sku:l]ikimokyklinis;F{preschool child}ikimokyklinukas, ikimokyklinio amžiaus vaikas
+0{preschooler}[,pri:'sku:l&#601;]E{n}L{amer.}ikimokyklinukas
+0{prescience}['pre&#643;&#618;&#601;ns]E{n}L{knyg.}numatymas
+0{prescient}['pre&#643;&#618;&#601;nt]E{a}L{knyg.}numatantis, iš anksto žinantis
+0{prescind}[pr&#618;'s&#618;nd]E{v}L{knyg.}I{1}abstrahuoti(s), atsieti, atsytiI{2}atitraukti dėmesįl{(from)}I{3}atskirti, atplėštil{(from)}
+0{prescribe}[pr&#618;'skra&#618;b]E{v}I{1}nurodyti, įsakyti; nurodinėtiI{2}(pa)skirti; išrašytil{(vaistus; to, for)}I{3}L{teis.}reikalauti remiantis senaties teise
+0{prescript}['pri:skr&#618;pt]E{n}nurodymas, įsakymas
+0{prescription}[pr&#618;'skr&#618;p&#643;n]E{n}I{1}nurodymas, įsakymasI{2}l{(bausmėsL{ir pan.})}skyrimasI{3}L{med.}receptas; recepto išrašymas;F{on prescription}tik pagal receptąI{4}L{teis.}senatis;F{positive [negative] prescription}teisės įgijimas [netekimas] dėl senatiesI{5}L{prk.}nerašytas įstatymas
+0{prescriptive}[pr&#618;'skr&#618;pt&#618;v]E{a}I{1}nurodantis, įsakantisI{2}L{teis.}grindžiamas/pagrįstas senaties teisel{ar}senu papročiu;F{prescriptive right}senaties teisėI{3}L{kalb.}preskriptyvinis; norminamasis
+0{presell}[,pri:'sel]E{v}(presold) reklamuoti gaminį prieš imant jį pardavinėti
+0{presence}['prezns]E{n}I{1}buvimas, dalyvavimas; akivaizda;F{your presence is required}jūsų buvimas būtinas;F{in his presence}jo akivaizdoje, jam esant;F{I was admitted to his presence}aš buvau įleistas pas jįI{2}(įspūdinga) išvaizda, laikysena;F{dignified presence}ori išvaizda;F{to have presence}daryti įspūdį savo išvaizda ir elgsenaI{3}L{ret.}antgamtinė būtybė, kažkas paslaptingo/nežemiškoS{&loz;}X{presence of mind}šaltakraujiškumas, susivaldymas, blaivus protas;F{to make one’s presence felt}nelikti nepastebėtaml{(apie kieno dalyvavimą kur)}
+0{presence-chamber}['prezns,t&#643;e&#618;mb&#601;]E{n}priimamasis, priėmimo kambarys
+0{present^{1}}['preznt]S{&rArr;}E{n}I{1}X{(the present)}dabartis;F{at present}dabar, šiuo metu;F{for the present}tuo tarpu, šį kartąI{2}E{pl}L{teis.}:X{by these presents}šiuo raštu/dokumentuI{3}=X{present tense}L{žr.}E{a}4S{&loz;}X{(there is) no time like the present}dabar pats tinkamiausias laikas; neatidėk darbo rytdienaiS{&rArr;}E{a}I{1}E{attr}dabartinis, esamas, nūdienis;F{in the present circumstances}dabartinėmis aplinkybėmisI{2}E{predic}esantis, dalyvaujantis;F{to be present}l{(at)}dalyvauti;F{to be present in the mind}likti atmintyje, aiškiai atsiminti;F{all those present, everybody present}visi dalyvaujantiejiI{3}E{attr}šis, kalbamasis;F{the present volume}ši knyga;F{the present writer}šių eilučių autoriusI{4}E{attr}L{gram.}:X{present tense}esamasis laikas;F{present participle}esamojo laiko dalyvisS{&loz;}X{all present and correct,}L{amer.}X{all present and accounted for}visi (yra) čia; viskas gerai
+0{present^{2}}S{&rArr;}E{n}['preznt]dovana;F{to make smb a present of smth}dovanoti kam ką, apdovanoti ką kuoS{&rArr;}E{v}[pr&#618;'zent]I{1}įteikti; (pa)dovanoti; apdovanotil{(with)}I{2}(pa)reikšti;F{to present one’s compliments/regards}reikšti savo pagarbą;F{to present one’s apologies}atsiprašytiI{3}pateikti; perduotil{(svarstyti pareiškimą, prašymąL{ir pan.})};F{to present one’s passport to the customs officer}pateikti pasą muitinės darbuotojuiI{4}pristatyti, supažindintil{(to)}I{5}E{refl}prisistatyti; atvykti;F{to present oneself for trial}stoti į teismąI{6}E{refl}pasitaikyti, staiga atsirasti, pasirodyti;F{as soon as the opportunity presents itself...}kai tik pasitaikys proga...I{7}atrodyti, būti; sudaryti;F{they presented a different aspect}jie atrodė kitaip;F{it will present no problem/difficulty (to him)}tai nesudarys (jam) sunkumųI{8}pavaizduotil{(as – kaip)}I{9}statytil{(pjesę)}; (pa)rodytil{(scenoje, filme)};L{tel.},L{rad.}pristatytil{(programąL{ir pan.})}I{10}L{kar.}gerbti ginklul{(L{ppr.}X{present arms})}
+0{presentable}[pr&#618;'zent&#601;bl]E{a}I{1}tinkamas, (pri)deramasl{(pasirodyti, pateikti)}I{2}išvaizdus, tinkamas pasirodyti, reprezentatyvus
+0{presentation}[,prez&#601;n'te&#618;&#643;n]E{n}I{1}(pa)teikimas;F{on presentation}pateikusI{2}pristatymas; supažindinimasl{(to)};F{a letter of presentation}rekomendacinis laiškasI{3}l{(dovanosL{ir pan.})}įteikimas; dovana;F{presentation copy}autoriaus dovanotas egzemplioriusI{4}L{teatr.},L{kin.}pastatymas; parodymasI{5}L{med.}pirmeiga, prezentacija
+0{present-day}[,preznt'de&#618;]E{a}dabartinis, nūdienis, šių laikų
+0{presentee}[,prezn'ti:]E{n}I{1}kandidatas, pristatytasisl{(ypač bažnytinei tarnybai)}I{2}dovanos gavėjas, apdovanotasis
+0{presenter}[pr&#618;'zent&#601;]E{n}I{1}įteikėjas, pateikėjasI{2}L{rad.},L{tel.}l{(laidos, programos)}vedėjas
+0{presentiment}[pr&#618;'zent&#618;m&#601;nt]E{n}nuojauta, nujautimasl{(ypač blogas; of)}
+0{presently}['prezntl&#618;]E{adv}I{1}greitai, netrukusI{2}dabar, šiuo metu
+0{presentment}[pr&#618;'zentm&#601;nt]E{n}I{1}(pa)vaizdavimas; parodymasl{(scenoje)}I{2}pateikimas; išdėstymasI{3}L{teis.}l{(prisiekusiųjų)}pareiškimasI{4}oficialus skundas vyskupui
+0{preservation}[,prez&#601;'ve&#618;&#643;n]E{n}I{1}išsaugojimas, išlaikymas;F{in (a state of) good preservation}gerai išsilaikęsI{2}konservavimasI{3}apsauga, apsaugojimasl{(nuo brakonieriųL{ir pan.})}
+0{preservationist}[,prez&#601;'ve&#618;&#643;n&#618;st]E{n}l{(ypačL{amer.})}l{(istorinių pastatų, draustiniųL{ir pan.})}apsaugos darbuotojas
+0{preservative}[pr&#618;'z&#601;:v&#601;t&#618;v]S{&rArr;}E{a}apsauginis, apsaugos; apsaugantisS{&rArr;}E{n}apsauginė priemonė; konservantas
+0{preserve}[pr&#618;'z&#601;:v]S{&rArr;}E{n}I{1}l{(L{ppr.}E{pl})}konservai, prezervai; uogienėI{2}l{(medžioklės, žvejybos)}draustinisI{3}l{(kurios nors žmonių grupės)}monopolis, veiklos sritisS{&rArr;}E{v}I{1}(iš)saugoti; išlaikyti;F{to preserve one’s health}saugoti sveikatą;F{to preserve discipline}palaikyti drausmęI{2}L{kul.}konservuotiI{3}saugotil{(nuo brakonieriųL{ir pan.})}
+0{preserver}[pr&#618;'z&#601;:v&#601;]E{n}l{(kalbos, tradicijųL{ir pan.})}saugotojas, išlaikytojas
+0{preset}[,pri:'set]E{v}(preset)I{1}iš anksto įjungtil{(aparatą)}I{2}iš anksto nuspręsti
+0{preside}[pr&#618;'za&#618;d]E{v}I{1}pirmininkautil{(at, over)}I{2}vadovauti; kontroliuotil{(over)}I{3}dominuotil{(over)}
+0{presidency}['prez&#618;dX{&#601;}ns&#618;]E{n}I{1}prezidentystė; prezidentavimasI{2}pirmininkavimas; pirmininko pareigos
+0{president}['prez&#618;dX{&#601;}nt]E{n}I{1}prezidentasI{2}pirmininkasI{3}rektoriusI{4}L{amer.}l{(banko, bendrovės, firmos)}direktorius, vadovas, valdybos pirmininkas
+0{president-elect}[,prez&#618;dX{&#601;}nt&#618;'lekt]E{n}L{amer.}išrinktas, bet dar nepradėjęs eiti pareigų prezidentas
+0{presidential}[,prez&#618;'den&#643;l]E{a}prezidentinis, prezidento;F{presidential year}prezidento rinkimų metai
+0{presidium}[pr&#618;'s&#618;d&#618;&#601;m]E{n}L{polit.}prezidiumas
+0{pre-soak}[,pri:'s&#601;uk]E{v}mirkytil{(skalbinius prieš skalbimą)}
+0{presold}[,pri:'s&#601;uld]E{past}l{ir}E{pII}A{L{žr.}R{presell}}
+0{presort}[,pri:'s&#596;:t]E{v}L{amer.}išskirstytil{(korespondenciją)}pagal indeksus
+0{press^{1}}[pres]S{&rArr;}E{n}I{1}spūstis; miniaI{2}skuba, skubėjimas;F{there is a great press of work}daug skubaus darboI{3}spaudimasl{(L{t. p.}L{sport.})}; paspaudimas;F{to give a slight press}spustelėti;F{full-court/all court press}spaudimas/presingas po visą aikštęl{(krepšinyje)}I{4}L{tech.}presas, slėgtuvas, spaustuvas; spaustuvai;F{punch(ing) press}štampavimo presasI{5}spausdinimo mašinal{(L{t. p.}X{printing press})}I{6}spaustuvė, tipografija; leidyklaI{7}spausdinimas;F{to go to press}būti spausdinamam;F{to correct the press}taisyti korektūrąI{8}spauda;F{to have [to get] a good press}turėti [gauti] gerų spaudos atsiliepimų;F{press agent}spaudos ir reklamos agentasI{9}L{kuop.}spaudos darbuotojai, žurnalistaiI{10}l{(drabužių)}lyginimasI{11}L{air.},L{škot.}spintal{(ypač sieninė)}S{&rArr;}E{v}I{1}spaustil{(L{t. p.}apie avalynę)}; slėgti, mygti; pri(si)spaustil{(to)}; išspaustil{(L{t. p.}X{press out})};F{to press smb’s hand}(pa)spausti kam ranką;F{to press juice out of apples}spausti obuolių sultis;F{to press home}L{tech.}nuspausti iki galoI{2}spaustis, spraustis;F{to press forward}spaustis/veržtis į priekįI{3}l{(L{džn.}E{pass})}varžyti, apsunkinti; slėgti;F{to be pressed for money}turėti piniginių sunkumų;F{to be pressed for time}turėti nedaug laiko, labai skubėti;F{his responsibilities press heavily on him}atsakomybės našta slegia jįI{4}skubinti; būti neatidėliotinam;F{time presses}laikas nelaukia;F{have you any business that presses?}ar turite neatidėliotinų reikalų?I{5}primygtinai reikalauti, spausti, spirti, verstil{(for)};F{to press for rent}reikalauti neatidėliotinai įmokėti mokestį už butą;F{he pressed me to do it}jis spyrė mane tai padarytiI{6}primesti, užkartil{(on, upon)};F{to press one’s opinion on smb}primesti kam savo nuomonęI{7}laidyti, lygintil{(laidyne)}I{8}suspausti; presuotil{(šienąL{ir pan.})}I{9}L{sport.}išspaustil{(štangą)}S{o}1{press down}(nu)spaustil{(žemyn)};1{press on}energingai/užsispyrus tęstil{(darbąL{ir pan.})}; skubėtiS{&loz;}X{to press home}X{a)}įtikinti, išaiškinti;X{b)}atkakliai laikytis/tęsti;F{to press home one’s advantage}pasinaudoti proga, palankiomis aplinkybėmis
+0{press^{2}}L{ist.}S{&rArr;}E{v}I{1}verbuoti jėga/prievarta;F{to press into the service}l{(of)}L{prk.}panaudotil{(kam)}I{2}rekvizuotiS{&rArr;}E{n}verbavimas jėga
+0{press-box}['presb&#596;ks]E{n}vietos spaudos atstovamsl{(stadioneL{ir pan.})}
+0{press-button}['pres,b&#652;tn]E{n}mygtukas, spaustukas
+0{press-clipping}['pres,kl&#618;p&#618;&#331;]E{n}A{=R{press-cutting}}
+0{press-conference}['pres,k&#596;nfX{&#601;}r&#601;ns]E{n}spaudos konferencija
+0{press-cutting}['pres,k&#652;t&#618;&#331;]E{n}laikraščio iškarpa
+0{press-gallery}['pres,g&aelig;l&#601;r&#618;]E{n}vietos spaudos atstovamsl{(parlamente, suvažiavimeL{ir pan.})}
+0{pressgang}['presg&aelig;&#331;]S{&rArr;}E{n}L{ist.}verbuotojų būrysS{&rArr;}E{v}I{1}L{ist.}verbuoti prievartaI{2}priversti; įtraukti prievartal{(into)}
+0{pressie}['pres&#618;]E{n}A{=R{prezzie}}
+0{pressing}['pres&#618;&#331;]S{&rArr;}E{a}I{1}neatidėliotinas, skubusI{2}primygtinis; atkaklusS{&rArr;}E{n}I{1}spaudimas, slėgimas; prispaudimasI{2}presavimas; presavimo gaminys; štampuota detalėI{3}L{sport.}presingas
+0{pressman}['presm&aelig;n]E{n}(E{pl}-men[men])I{1}l{(L{tik v.})}žurnalistas, laikraštininkas, reporterisI{2}spaustuvininkasI{3}presuotojas
+0{pressmark}['presma:k]E{n}l{(knygos)}šifras
+0{press-office}['pres,&#596;f&#618;s]E{n}spaudos biuras
+0{press-officer}['pres,&#596;f&#618;s&#601;]E{n}darbuotojas, atsakingas už ryšius su spauda, spaudos atašė
+0{press-photographer}['presf&#601;'t&#596;gr&#601;f&#601;]E{n}fotokorespondentas, fotoreporteris
+0{press-release}['presr&#618;,li:s]E{n}pranešimas/pareiškimas spaudai
+0{pressroom}['presrum]E{n}L{poligr.}spausdinimo cechas
+0{press-stud}['presst&#652;d]E{n}spaustukas
+0{press-up}['pres&#652;p]E{n}atsispaudimasl{(pratimas)}
+0{pressure}['pre&#643;&#601;]S{&rArr;}E{n}I{1}(su)spaudimas; suslėgimas;F{pressure indicator}spaudimo rodiklisI{2}L{prk.}spaudimas; F{under pressure}spaudžiamas, verčiamas;F{to bring pressure (to bear) upon smb, to put pressure on smb}daryti spaudimą kam;F{peer pressure}bendraamžių įtaka;F{pressure group}L{polit.}spaudimo grupė, lobiaiI{3}sunkumas, našta; priespauda;F{pressure of taxation}mokesčių našta;F{financial pressure}piniginiai sunkumaiI{4}įtampa;F{the pressures of modern life}nūdienio gyvenimo įtampaI{5}L{fiz.}slėgimas, slėgisI{6}L{meteor.}oro slėgisI{7}L{tech.}presavimas, įspaudimasI{8}L{spec.}spūdisS{&loz;}X{to work at high [low] pressure}dirbti energingai/intensyviai[lėtai/vangiai]S{&rArr;}E{v}A{=R{pressurize}}1
+0{pressure-cook}['pre&#643;&#601;kuk]E{v}virti greitpuodyje
+0{pressure-cooker}['pre&#643;&#601;,kuk&#601;]E{n}greitpuodis
+0{pressure-gauge}['pre&#643;&#601;ge&#618;d&#658;]E{n}L{tech.}manometras
+0{pressurise}['pre&#643;&#601;ra&#618;z]E{v}pritaikyti normaliam oro slėgiui išlaikyti, priversti, versti
+0{pressurize}['pre&#643;&#601;ra&#618;z]E{v}I{1}daryti spaudimą; priverstil{(into)}I{2}hermetintiI{3}L{tech.}palaikyti normalų oro slėgį
+0{pressurized}['pre&#643;&#601;ra&#618;zd]E{a}I{1}L{tech.}hermetiškas; aukšto spaudimoI{2}susirūpinęs, kamuojamas įtampos
+0{presswoman}['preswum&#601;n]E{n}(E{pl}-women[-w&#618;m&#618;n]) žurnalistė, reporterė
+0{prestidigitation}[,prest&#618;,d&#618;d&#658;&#618;'te&#618;&#643;n]E{n}rankų miklumas; fokusų rodymas
+0{prestidigitator}[,prest&#618;'d&#618;d&#658;&#618;te&#618;t&#601;]E{n}fokusininkas
+0{prestige}[pre'sti:&#658;]L{pr.}E{n}prestižas
+0{prestigious}[pre'st&#618;d&#658;&#601;s]E{a}prestižinis; autoritetingas;F{for prestigious reasons}prestižo sumetimais
+0{presto}['prest&#601;u]L{it.}E{adv},E{n}L{muz.}presto
+0{prestress}[pri:'stres]E{n}L{stat.}išankstinis įtempis
+0{presumable}[pr&#618;'zju:m&#601;bl]E{a}galimas, tikėtinas
+0{presumably}[pr&#618;'zju:m&#601;bl&#618;]E{adv}galimas daiktas, turbūt, matyt
+0{presume}[pr&#618;'zju:m]E{v}I{1}manyti;F{no one, I presume, denies it}niekas, manau, to neneigiaI{2}drįsti, leisti sau;F{you presume too much}tu per daug sau leidiI{3}piktnaudžiauti; per daug pasitikėtil{(upon, on – kuo)};F{to presume upon a short acquaintance}familiariai elgtisI{4}numanyti; daryti prielaidą
+0{presumedly}[pr&#618;'zju:m&#618;dl&#618;]E{adv}turbūt
+0{presuming}[pr&#618;'zju:m&#618;&#331;]E{a}leidžiantis sau; arogantiškas, pasitikintis savimi
+0{presumption}[pr&#618;'z&#652;mp&#643;n]E{n}I{1}manymas, spėjimas; prielaidaI{2}pagrindas manyti/tikėti;F{there’s a strong presumption against it}tai mažai tikėtinaI{3}perdėtas pasitikėjimas savimi; drąsaI{4}L{teis.}prezumpcija;F{the presumption of innocence}nekaltumo prezumpcija
+0{presumptive}[pr&#618;'z&#652;mpt&#618;v]E{a}l{(L{džn.}L{teis.})}manomas, spėjamas; galimas, tikėtinas
+0{presumptuous}[pr&#618;'z&#652;mpt&#643;u&#601;s]E{a}pernelyg pasitikintis savimi, arogantiškas, įžūlus;F{that would be presumptuous of me}iš mano pusės (tai) būtų įžūlu
+0{presumptuousness}[pr&#618;'z&#652;mpt&#643;u&#601;sn&#618;s]E{n}įžūlumas, perdėtas pasitikėjimas savimi
+0{presuppose}[,pri:s&#601;'p&#601;uz]E{v}I{1}iš anksto manyti, laikyti galimu, spėtiI{2}suponuoti, turėti kaip prielaidą
+0{presupposition}[,pri:s&#652;p&#601;'z&#618;&#643;n]E{n}spėjimas; prielaida
+0{presurmise}[,pri:'s&#601;:ma&#618;z]E{n}iš anksto susidariusi nuomonė
+0{pretax}['pri:t&aelig;ks]E{a}E{attr}ikimokestinis, prieš išskaitant mokesčiusl{(apie pajamas, pelną)}
+0{preteen}[,pri:'ti:n]E{a}mažametisl{(10-12 metų amžiaus)}; skirtas 10-12 metų vaikams
+0{pretence}[pr&#618;'tens]E{n}I{1}apsimetimas;F{under the pretence of friendship}apsimetęs draugu;F{by/under false pretences}per apgavystę;F{to keep up the pretence}l{(of)}apsimetinėtiI{2}pretekstas;F{under the pretence}l{(of)}l{(ko)}dingstimi, pretekstu, apsimetęsl{(kuo)}I{3}pretenzija;F{to make no pretence}l{(of)}nepretenduotil{(į)}I{4}pretenzingumas
+0{pretend}[pr&#618;'tend]S{&rArr;}E{v}I{1}apsimesti, dėtis;F{to pretend of illness}apsimesti sergančiu, simuliuoti sergantįI{2}įsivaizduotiI{3}sugalvoti dingstį, naudotis kaip pretekstu; teisintisI{4}pretenduotil{(to – į)}I{5}L{šnek.}drįstiS{&rArr;}E{a}L{šnek.}įsivaizduojamasl{(vaikų žaidimuose)};F{it’s only pretend!}tai tik juokais!
+0{pretended}[pr&#618;'tend&#618;d]E{a}netikras, apsimetamasl{(apie jausmus, ligąL{ir pan.})}
+0{pretender}[pr&#618;'tend&#601;]E{n}I{1}apsimetėlis; simuliantasI{2}pretendentas
+0{pretense}[pr&#618;'tens]E{n}L{amer.}A{=R{pretence}}
+0{pretension}[pr&#618;'ten&#643;n]E{n}I{1}pretenzija;F{of no pretensions}be pretenzijų;F{to make no pretension}nepretenduotil{(to – į)}I{2}apsimetimas; simuliavimasI{3}pretenzingumas
+0{pretentious}[pr&#618;'ten&#643;&#601;s]E{a}pretenzingas
+0{preterhuman}[,pri:t&#601;'hju:m&#601;n]E{a}antžmogiškas, nežmogiškas
+0{preterit(e)}['pretX{&#601;}r&#618;t]E{n}L{gram.}preteritas, būtasis laikas
+0{preterition}[,pri:t&#601;'r&#618;&#643;n]E{n}I{1}praleidimas; neapsižiūrėjimasI{2}L{teis.}nepaminėjimas vieno iš teisėtų įpėdinių testamenteI{3}L{lit.}L{ret.}nutylėjimas
+0{pretermission}[,pri:t&#601;'m&#618;&#643;n]E{n}L{knyg.}I{1}neapsižiūrėjimas; apsileidimas, aplaidumas; F{pretermission of duty}aplaidumas darbe; aplaidus pareigų ėjimasI{3}(laikinas) nutraukimasI{3}praleidimas
+0{pretermit}[,pri:t&#601;'m&#618;t]E{v}I{1}praleisti; nepaminėtiI{2}nepaisyti; apleistiI{3}pertraukti, nutraukti
+0{preternatural}[,pri:t&#601;'n&aelig;t&#643;r&#601;l]E{a}L{knyg.}antgamtiškas
+0{pretext}S{&rArr;}E{n}['pri:tekst]pretekstas, dingstis;F{on/under the pretext}l{(of, that)}ta dingstimi, tuo pretekstul{(kad)}S{&rArr;}E{v}[pr&#618;'tekst]pateikti kaip pretekstą
+0{pretor}['pri:t&#601;]E{n}L{amer.}A{=R{praetor}}
+0{Pretoria}[pr&#618;'t&#596;:r&#618;&#601;]E{n}Pretorijal{(Pietų Afrikos Respublikos sostinė)}
+0{pretrial}[,pri:'tra&#618;X{&#601;}l]S{&rArr;}E{n}L{amer.}L{teis.}teisėjo ir abiejų šalių advokatų pasitarimasl{(prieš bylos pradžią)}S{&rArr;}E{a}ikiteisminis
+0{prettify}['pr&#618;t&#618;fa&#618;]E{v}(iš)gražinti, (iš)dailintil{(L{džn.}L{iron.})}
+0{prettily}['pr&#618;t&#618;l&#618;]E{adv}gražiai, žaviai
+0{prettiness}['pr&#618;t&#618;n&#618;s]E{n}gražumas, žavumas
+0{pretty}['pr&#618;t&#618;]S{&rArr;}E{a}I{1}gražusl{(ypač apie mergaites, vaikus;L{t. p.}L{iron.})}; dailus, puikus, gražutis;F{as pretty as a portrait/picture}gražus kaip paveikslėlis, labai gražus;F{a pretty business!}L{iron.}gražus, nieko sau dalykėlis!I{2}mielas, malonus; gerasI{3}L{šnek.}didelis, gerokas, gražus;F{a pretty penny/sum}graži sumelė, didoka sumaS{&rArr;}E{n}I{1}E{pl}gražumynai, gražūs drabužiaiI{2}L{amer.}niekutis, gražus daiktelisI{3:}X{my pretty!}mano mieloji/mielasis!l{(kreipinys)}S{&rArr;}E{adv}l{(+E{a},E{adv})}I{1}gana, ganėtinai, gerokai;F{to feel pretty well}jaustis gana gerai;F{I feel pretty sick about it}man tai ganėtinai įgrisoI{2:}X{pretty much/well}L{šnek.}beveik;F{that is pretty much the same thing}tai beveik tas patsS{&rArr;}E{v}:X{pretty up}išgražinti, pagražinti
+0{pretty-pretty}['pr&#618;t&#618;,pr&#618;t&#618;]L{šnek.}S{&rArr;}E{a}gražučiukas, pernelyg gražus;F{pretty-pretty face}veidas kaip lėlėsS{&rArr;}E{n}E{pl}niekučiai
+0{pretzel}['pretsX{&#601;}l]L{vok.}E{n}druska apibarstytas riestainiukas, riestė
+0{prevail}[pr&#618;'ve&#618;l]E{v}I{1}egzistuoti; būti įsigalėjusiam/paplitusiam, viešpatautiI{2}vyrauti, imti viršų, dominuotil{(over)}I{3}įveikti, nugalėti, triumfuotil{(over, against)}I{4}įtikinti, įkalbėtil{(upon, on)}
+0{prevailing}[pr&#618;'ve&#618;l&#618;&#331;]E{a}I{1}vyraujantis, dominuojantisI{2}(plačiai) paplitęs, visuotinis
+0{prevalence}['prev&#601;l&#601;ns]E{n}I{1}paplitimasI{2}vyravimas
+0{prevalent}['prev&#601;l&#601;nt]E{a}I{1}paplitęsI{2}vyraujantis, dominuojantis
+0{prevaricate}[pr&#618;'v&aelig;r&#618;ke&#618;t]E{v}I{1}išsisukinėti, vangstytisI{2}L{euf.}meluoti
+0{prevarication}[pr&#618;,v&aelig;r&#618;'ke&#618;&#643;n]E{n}išsisukinėjimas
+0{prevenance}['prevX{&#601;}n&#601;ns]E{n}L{knyg.}paslaugumas
+0{prevenient}[pr&#618;'vi:n&#618;&#601;nt]E{a}L{knyg.}einantis pirma, pirmesnis
+0{prevent}[pr&#618;'vent]E{v}I{1}(su)trukdyti, (su)kliudyti, užkirsti kelią, užkardyti;F{the weather prevented him from coming}oras sukliudė jam ateitiI{2}neleistil{(nelaimeiL{ir pan.}atsitikti)};F{to prevent the spread of disease}neleisti ligai plisti
+0{preventable}[pr&#618;'vent&#601;bl]E{a}išvengiamas
+0{preventative}[pr&#618;'vent&#601;t&#618;v]A{=R{preventive}}E{a},E{n}
+0{prevention}[pr&#618;'ven&#643;n]E{n}(su)trukdymas, kelio užkirtimas; prevencija; įspėjimas;F{accident prevention}saugumo technika; kelio užkirtimas nelaimingiems atsitikimams;F{crime prevention}nusikaltimų prevencijaS{&loz;}X{prevention is better than cure}L{pat.}lengviau užkirsti keliąl{(ligaiL{ir pan.})}negu išgydyti
+0{preventive}[pr&#618;'vent&#618;v]S{&rArr;}E{a}I{1}įspėjamasis, apsisaugomasis, apsauginis, profilaktinis; prevencinis;F{preventive medicine}profilaktinė medicina;F{preventive measures}apsisaugojimo/profilaktinės priemonėsI{2}antikontrabandinis;F{Preventive Service}tarnyba, kovojanti su kontrabandal{(muitinėje)}S{&rArr;}E{n}saugumo/profilaktinė priemonė
+0{preview}['pri:vju:]S{&rArr;}E{n}I{1}l{(naujo filmo, naujų madųL{ir pan.})}uždara peržiūraI{2}l{(naujo filmo fragmentų)}reklaminis demonstravimas, anonsasS{&rArr;}E{v}rengti peržiūrą; demonstruotil{(prieš, iš anksto)}
+0{previous}['pri:v&#618;&#601;s]S{&rArr;}E{a}I{1}E{attr}pirmesnis, ankstesnis; ką tik praėjęs;F{the previous day}praėjusi diena;F{my previous experience}mano ankstesnė patirtis;F{to have a previous engagement}būti jau susitarusiam/pasižadėjusiamI{2}E{predic}L{šnek.}per skubus/ankstyvasS{&loz;}X{Previous Examination}pirmasis egzaminas bakalauro laipsniui gautil{(Kembridžo universitete)}S{&rArr;}E{prep}:X{previous to}prieš, iki, pirma;F{previous to living here, he...}prieš čia apsigyvendamas, jis...
+0{previously}['pri:v&#618;&#601;sl&#618;]E{adv}I{1}anksčiau, pirmaI{2}prieš;F{three months previously}prieš tris mėnesius
+0{previse}[pri:'va&#618;z]E{v}L{knyg.}numatyti; įspėti
+0{prevision}[,pri:'v&#618;&#658;n]E{n}L{knyg.}numatymas
+0{prewar}[,pri:'w&#596;:]E{a}prieškarinis
+0{prewash}[,pri:'w&#596;&#643;]E{n}nuskalbimas
+0{prewrap}[,pri:'r&aelig;p]E{v}(su)fasuoti
+0{prex, prexy}[preks, 'preks&#618;]E{n}L{amer.}L{šnek.}l{(koledžo)}direktorius,l{(universiteto)}rektorius
+0{prey}[pre&#618;]S{&rArr;}E{n}I{1}l{(plėšrūno)}grobis;F{beast/bird of prey}plėšrūnasI{2}auka;F{to become/fall a prey}l{(to)}taptil{(ko)}auka;F{she is a prey to anxiety}ją kankina rūpesčiai S{&rArr;}E{v}l{(L{ppr.}on, upon)}I{1}medžioti, gaudytiI{2}išvilioti, gyventi svetimo sąskaita, apgaudinėtiI{3}plėšti, grobtiI{4}kankinti, graužti, slėgti;F{remorse preyed upon his mind}jį kankino sąžinės graužimas
+0{prezy}['prez&#618;]E{n}L{amer.}L{šnek.}L{polit.}prezidentas
+0{prezzie}['prez&#618;]E{n}L{šnek.}dovanėlė
+0{Priam}['pra&#618;&#601;m]E{n}Priamas
+0{price}[pra&#618;s]S{&rArr;}E{n}kainal{(L{t. p.}L{prk.})}; vertė;F{ceiling price}aukščiausia kaina;F{cost price}savikaina;F{trade price}pardavimo kaina;F{deliver price}pardavimo kaina su pristatymu;F{to pay a heavy price}l{(for)}L{prk.}brangiai užmokėtil{(už)};F{name your price}pasakykite savo kainą;F{list price}kainoraštyje nurodyta kaina;F{above/beyond/without price}neįkainojamas, labai brangus;F{at a price}nepigiai; pagal vertę;F{at any price}bet kokia kaina;F{not at any price}už jokius pinigus, jokiu būduS{&loz;}X{what price...?}X{a)}ko vertas...?;X{b)}kaip dėl...?;F{what price my new bike}kaip (tau patinka) mano naujas dviratis?;F{to put a price on smb’s head}skirti premiją už kieno galvąS{&rArr;}E{v}I{1}nustatytil{(ko)}kainą, įkainoti; pažymėti kainąl{(ant)}I{2}L{šnek.}paklaustil{(ko)}kainosS{o}1{price down}sumažinti kainą;1{price up}pakelti kainą
+0{price-boom}['pra&#618;sbu:m]E{n}aukščiausias kainų lygis
+0{price-conscious}[pra&#618;s'k&#596;n&#643;&#601;s]E{a}nelinkęs permokėti, kainą žinantis, pinigais nesišvaistantis
+0{price control}['pra&#618;s k&#601;n,tr&#601;ul]E{n}l{(vyriausybės)}kainų reguliavimas
+0{price-current}['pra&#618;s,k&#652;rX{&#601;}nt]E{n}kainoraštis
+0{price-cutting}['pra&#618;s,k&#652;t&#618;&#331;]E{n}kainų (su)mažinimas
+0{priced}[pra&#618;st]E{a}įkainotas;F{priced catalogue}kainynas
+0{price-earnings}[pra&#618;s'&#601;:n&#618;&#331;z]E{n}kainos ir pelno santykis, akcijos kainos ir pelno santykis
+0{price-fixing}['pra&#618;s,f&#618;ks&#618;&#331;]E{n}l{(vyriausybės ar prekiautojų)}kainų nustatymas/fiksavimas
+0{priceless}['pra&#618;sl&#601;s]E{a}I{1}neįkainojamasI{2}L{šnek.}labai juokingas/komiškas; absurdiškas
+0{price-list}['pra&#618;sl&#618;st]E{n}kainoraštis
+0{price-performance}[pra&#618;sp&#601;'f&#596;:m&#601;ns]E{a}kainos ir efektyvumo
+0{price-ring}['pra&#618;sr&#618;&#331;]E{n}L{ekon.}kainų ringasl{(monopolininkų grupė, nustatanti kainų lygį)}
+0{price-sensitive}['pra&#618;ssens&#618;t&#618;v]E{a}I{1}priklausomas nuo kainosl{(apie parduodamą gaminį)}I{2}galintis daryti įtaką kainoms
+0{price-tag}['pra&#618;st&aelig;g]E{n}etiketė su nurodyta kaina; kaina
+0{price-war}['pra&#618;sw&#596;:]E{n}kainų karasl{(kai kompanijos mažina kainas konkurencijos tikslais)}
+0{pricey}['pra&#618;s&#618;]E{a}L{šnek.}brangus
+0{pricing}['pra&#618;s&#618;&#331;]E{n}kainų nustatymas/kalkuliacija
+0{prick}[pr&#618;k]S{&rArr;}E{n}I{1}(į)dūrimas, dūrisI{2}dyglys; spyglys, adataI{3}pradurta skylutėI{4}dilgtelėjimas, skausmas (kaip) nuo dūrio;F{the pricks of conscience}sąžinės graužimasI{5}L{vulg.}vyrų lytinis organasI{6}l{(tik.L{v.})}L{sl.}L{niek.}bjaurybė, nelabasisS{&loz;}X{to kick against the pricks}S{&cong;}pūsti prieš vėjąS{&rArr;}E{v}I{1}į(si)durtiI{2}(pra)durti; (iš)bedžioti, (iš)badytil{(skylutes)};F{to prick all over}subadytil{(segtukuL{ir pan.})}I{3}graužti, kankinti;F{his conscience pricked him}jį graužė sąžinėI{4}L{psn.}(pa)žymėtil{(sąrašeL{ir pan.})}I{5}užkaustytil{(arklį)}S{o}1{prick in/off/out}persodinti, pikuotil{(daigus, sėjinukus)}S{&loz;}X{to prick a/the bladder/bubble}parodytil{(kieno, ko)}tuštumą/menkumą;F{to prick up one’s ears}pastatyti ausis, suklusti
+0{prick-eared}['pr&#618;k'&#618;&#601;d]E{a}I{1}smailiaausisI{2}pastatęs ausis, suklusęs
+0{pricker}['pr&#618;k&#601;]E{n}duriamasis įrankisl{(yla, skylmušaL{ir pan.})}
+0{pricket}['pr&#618;k&#618;t]E{n}I{1}vienametis elniasI{2}smaigaliukas, ant kurio užsmeigiama žvakė
+0{prickle}['pr&#618;kl]S{&rArr;}E{n}I{1}dyglys, spyglysI{2}dūrimas; diegimasS{&rArr;}E{v}I{1}(į)durtiI{2}dygsėti, diegti; peršėti;F{my skin prickled}man pašiurpo oda
+0{prickliness}['pr&#618;kl&#618;n&#618;s]E{n}dygumas
+0{prickly}['pr&#618;kl&#618;]E{a}I{1}dygliuotas, spygliuotasI{2}dygus, dilgus, duriantis, badantis, peršintis;F{prickly heat}L{med.}prakaitinė I{3}L{šnek.}įžeidus, greitai supykstantis
+0{pricy}['pra&#618;s&#618;]E{a}A{=R{pricey}}
+0{pride}[pra&#618;d]S{&rArr;}E{n}I{1}išdidumas; pasididžiavimas; pasitenkinimo jausmas;F{with pride}išdidžiai, pasididžiuodamas;F{to take (a) pride}l{(in)}X{a)}didžiuotisl{(kuo)}; X{b)}jausti pasitenkinimąl{(dėl)};X{c)}rūpintisl{(savo išvaizdaL{ir pan.})};F{the basketball team was the pride of the town}krepšinio komanda buvo miesto pasididžiavimasI{2}išpuikimas, savimana;F{false pride}puikybė, pasipūtimasI{3}savigarbos jausmasl{(L{t. p.}X{proper pride})};F{to nurse one’s pride}atstatyti savo orumą/savigarbąI{4}aukščiausias taškas, viršūnė; žydėjimas;F{in the pride of one’s youth}pačioje jaunystėje, pačiame žydėjimeI{5}l{(liūtų)}būrys, pulkasS{&loz;}X{pride goes before a fall}S{&cong;}kas aukštai kyla, tas žemai puola;F{pride of the morning}rūkas/lietus auštant;F{pride of place}garbingiausia vieta;F{to put one’s pride in one’s pocket, to swallow one’s pride}nuslopinti savo išdidumą, įveikti savimeilę, nusižemintil{(savo labui)};F{London pride}L{bot.}uolaskėlėS{&rArr;}E{v}E{refl}didžiuotisl{(on, upon)}
+0{priest}[pri:st]E{n}I{1}kunigas, dvasininkas;F{parish priest}klebonasI{2}žynys, vaidila;F{high priest}X{a)}vyriausiasis žynys/dvasininkas;X{b)}l{(meno, muzikos)}didžiausias autoritetas
+0{priestcraft}['pri:stkra:ft]E{n}dvasininkijos intrigos
+0{priestess}['pri:stes]E{n}dvasininkė; vaidilutė
+0{priesthood}['pri:sthud]E{n}I{1}kunigystėI{2}L{kuop.}dvasininkija
+0{priestly}['pri:stl&#618;]E{a}kunigo, kunigiškas; dvasininkų
+0{priest-ridden}['pri:st,r&#618;dn]E{a}esantis dvasininkų įtakoje/valdžioje
+0{prig}[pr&#618;g]E{n}pedantas, formalistas; savimana
+0{priggish}['pr&#618;g&#618;&#643;]E{a}L{menk.}pedantiškas; patenkintas savimi
+0{priggishly}['pr&#618;g&#618;&#643;l&#618;]E{adv}pasipūtėliškai
+0{priggishness}['pr&#618;g&#618;&#643;n&#618;s]E{n}pasipūtimas
+0{prim}[pr&#618;m]S{&rArr;}E{a}I{1}ceremoningas, manieringas, pabrėžtinai mandagus/oficialusl{(L{t. p.}X{prim and proper})};F{prim smile}nenatūrali šypsenaI{2}tvarkingasl{(apie drabužius, išvaizdą)}S{&rArr;}E{v}dėtis rimtam; nutaisyti griežtą veidą;F{to prim one’s lips}sučiaupti lūpas
+0{prima ballerina}[,pri:m&#601;b&aelig;l&#601;'ri:n&#601;]L{it.}E{n}primabalerina
+0{primacy}['pra&#618;m&#601;s&#618;]E{n}I{1}pirmumas, primatas, viršenybėl{(over)}I{2}arkivyskupo pareigos
+0{prima donna}[,pri:m&#601;'d&#596;n&#601;]L{it.}E{n}I{1}L{teatr.}primadonaI{2}pasipūtėlis
+0{primaeval}[pra&#618;'mi:vl]E{a}A{=R{primeval}}
+0{prima facie}[,pra&#618;m&#601;'fe&#618;&#643;i:]L{lot.}E{a},E{adv}I{1}iš pirmo žvilgsnioI{2}L{teis.}atrodantis patikimu, akivaizdus
+0{primage}['pra&#618;m&#618;d&#658;]E{n}L{jūr.}frachto priedas/priemokal{(už naudojimąsi pakrovimo įtaisais laive)}
+0{primal}['pra&#618;ml]E{a}I{1}pirminis; pirmykštisI{2}svarbiausias, pagrindinis
+0{primarily}['pra&#618;mX{&#601;}r&#601;l&#618;]E{adv}I{1}visų pirma, pirmiausiaiI{2}iš pradžių, pradžioje
+0{primary}['pra&#618;m&#601;r&#618;]S{&rArr;}E{n}I{1}tai, kas svarbiausiaI{2}L{amer.}preliminariniai rinkimail{(L{t. p.}X{primary election})}; rinkiminis susirinkimasl{(kandidatams iškelti)}I{3}pagrindinė spalvaI{4}l{(paukščio)}plasnojamoji plunksnal{(L{t. p.}X{primary feather})}I{5}L{astr.}planetaI{6}L{el.}l{(trasformatoriaus)}pirminė apvijaI{7}L{geol.}paleozojusS{&rArr;}E{a}I{1}svarbiausias, pagrindinis; pirmaeilis;F{primary stress/accent}L{fon.}pagrindinis kirtis;F{primary colours}pagrindinės spalvos;F{the primary planets}Saulės sistemos planetos; F{of primary importance}pirmaeilės svarbõsI{2}pirminis, pradinis;F{primary source}pirminis šaltinis;F{primary stem}L{gram.}pirminis kamienas;F{primary current}L{fiz.}pirminė srovė;F{primary school}pradinė mokyklal{(5–11 metų vaikams)};F{primary teacher}pradinės mokyklos mokytojas
+0{primary-school}['pra&#618;mX{&#601;}r&#618;,sku:l]E{n}pradinė mokykla
+0{primate}['pra&#618;m&#601;t]E{n}L{bažn.}arkivyskupas; primas
+0{primates}['pra&#618;me&#618;ts]E{n}E{pl}L{zool.}primatai
+0{primatology}[,pra&#618;m&#601;'t&#596;l&#601;d&#658;&#618;]E{n}L{zool.}primatologija
+0{prime}[pra&#618;m]S{&rArr;}E{n}I{1}pats gražumas/gerumas, (su)žydėjimas;F{in the prime of life}pačiame gyvenimo gražume, pačiame jėgų žydėjimeI{2}pradžia;L{poet.}pavasarisl{(L{t. p.}X{the prime of the year})}I{3}L{bažn.}rytmetinės (pamaldos)I{4}pirmoji pozicijal{(fechtavime)}I{5}L{mat.}pirminis skaičiusS{&rArr;}E{a}E{attr}I{1}pagrindinis, svarbiausias;F{prime motive}pagrindinis motyvasI{2}puikus, geriausias;F{prime candidate}tinkamiausias kandidatasI{3}pirmasis, pirmutinis, pirminis;F{prime cause}pirmoji/pagrindinė priežastis;F{prime number}L{mat.}pirminis skaičiusI{4}tipiškiausias, ryškiausiasl{(apie pavyzdįL{ir pan.})}S{&rArr;}E{v}I{1}(iš anksto) pamokyti, painstruktuoti; painformuoti, supažindintil{(about)}I{2}dėti pirmąjį dažų sluoksnį, gruntuotiI{3}L{kar.}užtaisytil{(šautuvąL{ir pan.})}I{4}L{tech.}pripildyti, pripiltil{(degalų, tepalo, vandens)}; paleisti į darbą
+0{primely}['pra&#618;ml&#618;]E{adv}L{šnek.},L{dial.}puikiai
+0{primer}['pra&#618;m&#601;]E{n}I{1}elementorius, pradžiamokslisI{2}L{spec.}gruntas;F{epoxy primer}epoksido gruntasI{3}L{kar.}detonatoriusl{(kapsulė, degtuvas)}I{4}['pr&#618;m&#601;]L{poligr.}:X{great primer}18 punktų šriftas;F{long primer}korpusas
+0{prime-time}['pra&#618;m,ta&#618;m]E{a}E{attr}L{tel.}(rodomas) vakare, pačiu patogiausiu laikul{(kada didžiausias žiūrovų skaičius)}
+0{primeval}[pra&#618;'mi:vl]E{a}I{1}pirmykštis, pirmapradis; senovinisI{2}instinktyvus
+0{primigravida}[,pra&#618;m&#618;'gr&aelig;v&#618;d&#601;]E{n}(E{pl}-dae[-di:]) moteris, pastojusi pirmą kartą
+0{priming}['pra&#618;m&#618;&#331;]E{n}I{1}L{spec.}gruntas; gruntavimasI{2}L{tech.}pripylimas, įpylimas, užpildymas; užtaisymasI{3}L{kar.}degtuvas, degiklis
+0{primipara}[pra&#618;'m&#618;pX{&#601;}r&#601;]E{n}L{med.}pirmagimdė
+0{primitive}['pr&#618;m&#618;t&#618;v]S{&rArr;}E{a}I{1}pirmykštis, pirminis;F{primitive man}pirmykštis žmogusI{2}senoviškas; primityvus, paprastas, elementarus;F{primitive tools}primityvūs įrankiaiI{3}pradinis, pirmasis; pagrindinisl{(apie spalvąL{ir pan.})};F{primitive cause}pirmoji priežastisS{&rArr;}E{n}I{1}pirmykštis žmogusI{2}primityvasl{(L{t. p.}L{men.})}I{3}pagrindinė spalvaI{4}L{spec.}bazinis elementas
+0{primly}[pr&#618;ml&#618;]E{adv}pabrėžtinai oficialiai, santūriai
+0{primness}['pr&#618;mn&#618;s]E{n}manieringumas
+0{primogeniture}[,pra&#618;m&#601;u'd&#658;en&#618;t&#643;&#601;]E{n}I{1}L{knyg.}pirmagimystėI{2}L{teis.}majoratas, vyriausiojo sūnaus teisėl{(paveldėti turtą;L{t. p.}X{right of primogeniture})}
+0{primordial}[pra&#618;'m&#596;:d&#618;&#601;l]E{a}L{knyg.}pirmapradis; pirmykštis;F{primordial soup}L{biol.}pirmapradis gyvybės šaltinis
+0{primp}[pr&#618;mp]E{v}dabinti(s), pustyti(s)l{(L{t. p.}X{primp and preen})}
+0{primrose}['pr&#618;mr&#601;uz]E{n}I{1}L{bot.}raktažolėI{2}šviesiai geltona spalval{(L{t. p.}X{primrose yellow})}S{&loz;}X{the primrose path/way}malonumų keliasl{(vedantis į pragaištį)}
+0{primula}['pr&#618;mjul&#601;]E{n}L{bot.}primulė, raktažolė
+0{Primus}['pra&#618;m&#601;s]E{n}primusasl{(L{t.L{primus}}X{Primus stove/heater})}
+0{prince}[pr&#618;ns]E{n}l{(L{tik v.})}I{1}princas; karalaitisl{(L{t. p.}X{prince of the blood})}I{2}kunigaikštisI{3}L{psn.}valdovasI{4}įžymus veikėjas, didžiausiasl{(of – iš)};F{the prince of poets}poetų karalius, didžiausias poetasS{&loz;}X{Prince of Peace}Kristus Karalius;F{Prince of the Church}kardinolas;F{Prince of darkness, Prince of the air/world}šėtonas;F{to live like a prince}gyventi karališkai
+0{princedom}['pr&#618;nsd&#601;m]E{n}kunigaikštystė
+0{princeling}['pr&#618;nsl&#618;&#331;]E{n}L{menk.}kunigaikštėlis
+0{princely}['pr&#618;nsl&#618;]E{a}I{1}princo, kunigaikščio; kunigaikštiškasI{2}kilnus; didingas, prabangus; dosnus;F{princely sum}l{(L{džn.}L{iron.})}dosni sumelėl{(pinigų)}
+0{princess}[pr&#618;n'ses]E{n}I{1}princesė; karalaitėl{(L{t. p.}X{princess of the blood})}; kunigaikštytė;F{the Princess Royal}['pr&#618;nses'r&#596;&#618;&#601;l]Britanijos karaliaus vyresnioji duktėI{2}kunigaikštienė
+0{principal}['pr&#618;ns&#601;pl]S{&rArr;}E{n}I{1}viršininkas, patronasI{2}rektorius;l{(mokyklos, koledžo)}direktoriusI{3}L{teatr.},L{muz.}pagrindinis/pagrindinio vaidmens atlikėjasl{(spektaklyjeL{ir pan.})}I{4}L{teis.}l{(nusikaltimo)}vykdytojasI{5}L{teis.}atstovaujamasis; įgaliotojasI{6}L{ekon.}pagrindinė sumal{(kuriai priskaičiuojamos palūkanos)}I{7}L{stat.}gegnių santvaraS{&rArr;}E{a}pagrindinis, svarbiausias;F{principal clause}L{gram.}pagrindinis sakinys;F{principal parts of the verb}L{gram.}pagrindinės veiksmažodžio formos;F{principal staff}atsakingi darbuotojai
+0{principality}[,pr&#618;ns&#618;'p&aelig;l&#601;t&#618;]E{n}kunigaikštystė;F{the Principality}Velsas
+0{principally}['pr&#618;ns&#601;pl&#618;]E{adv}daugiausia
+0{principle}['pr&#618;ns&#601;pl]E{n}I{1}l{(L{įv. reikšm.})}principas;F{unanimity principle}vienbalsiškumo principas; F{on principle}iš principol{(iš įsitikinimo)};F{in principle}X{a)}iš esmės;X{b)}iš principo, teoriškai;F{a question of principle}principinis klausimas;F{a man of no principles}neprincipingas žmogus; F{it’s the principle of the thing}L{šnek.}tai principo reikalasI{2}pirmoji priežastis; pagrindas, pradmuo;F{principles of biology}biologijos pagrindaiI{3}L{chem.}elementas, sudedamoji dalis
+0{principled}['pr&#618;ns&#601;pld]E{a}principingas; principinis
+0{prink}[pr&#618;&#331;k]E{v}I{1}puošti(s), pustyti(s)I{2}taisyti plunksnasl{(apie paukščius)}
+0{print}[pr&#618;nt]S{&rArr;}E{n}I{1}atspaudas, žymė, pėdsakasl{(L{t. p.}L{prk.})};F{sorrow’s print upon his face}liūdesio pėdsakai jo veideI{2}spauda, spausdinimas;F{in print}X{a)}spausdinama; atspausdintas;X{b)}parduodamal{(apie knygą, brošiūrąL{ir pan.})};F{out of print}išparduotasl{(apie leidinį)};F{to rush into print}per daug skubiai atiduoti spausdinti;F{to get into print}pasirodyti spaudojeI{3}spaudmuo, šriftas;F{small [large] print}smulkus [stambus] šriftas I{4}L{men.}graviūra, estampasI{5}l{(ypačL{amer.})}spaudinys; laikraštisI{6}fotoatspaudas, nuotraukaI{7}l{(audinio)}marginys, raštas; kartūnasS{&rArr;}E{v}I{1}(iš)spausdintiI{2}palikti pėdsakąI{3}įstrigtil{(atmintyje)}I{4}rašyti spausdintomis raidėmisI{5}marginti, raštuotil{(audinį; with)}I{6}spausdinti, darytil{(atspaudus, kopijas;L{t. p.}X{print out/off})}
+0{printable}['pr&#618;nt&#601;bl]E{a}spausdintinas
+0{printed}['pr&#618;nt&#618;d]E{a}(iš)spausdintas, atspausdintas;F{printed matter}spaudinys; banderolė;F{printed circuit}L{el.}spausdintinė schema
+0{printer}['pr&#618;nt&#601;]E{n}I{1}spaustuvininkasI{2}l{(audinių)}raštuotojas, margintojasI{3}L{komp.}spausdintuvas, spausdinimo įrenginys;F{ink-jet printer}rašalinis spausdintuvasS{&loz;}X{to spill printer’s ink}rašyti/publikuoti spaudojel{(savo kūrinius)};F{printer’s devil}L{ist.}spaustuvės mokinys
+0{printing}['pr&#618;nt&#618;&#331;]E{n}I{1}spauda, spausdinimas;F{the invention of printing}spaudos atradimasI{2}spaudinys, spausdintas leidinysI{3}tiražas
+0{printing-house}['pr&#618;nt&#618;&#331;haus]E{n}spaustuvė, tipografija
+0{printing-ink}['pr&#618;nt&#618;&#331;&#618;&#331;k]E{n}L{poligr.}spaustuvės dažai
+0{printing-machine, -press}['pr&#618;nt&#618;&#331;m&#601;,&#643;i:n, -pres]E{n}spausdinimo mašina
+0{printmaker}['pr&#618;ntme&#618;k&#601;]E{n}graviruotojas
+0{printmaking}['pr&#618;ntme&#618;k&#618;&#331;]E{n}graviravimas
+0{printout}['pr&#618;ntaut]E{n}L{komp.}spausdinta medžiaga
+0{print-seller}['pr&#618;nt,sel&#601;]E{n}graviūrų ir estampų pardavėjas
+0{print-shop}['pr&#618;nt&#643;&#596;p]E{n}I{1}graviūrų ir estampų parduotuvėI{2}spaustuvė
+0{print-works}['pr&#618;ntw&#601;:ks]E{n}l{(L{vart.}kaip sing ir kaipE{pl})}L{tekst.}marginimo fabrikas
+0{prion}['pri:&#596;n]E{n}L{biol.}prionasl{(proteino dalelė, sukelianti kai kurias ligas)}
+0{prior^{1}}['pra&#618;&#601;]S{&rArr;}E{a}I{1}ankstesnis; pirmesnis;F{under a prior agreement}pagal ankstesnį susitarimąI{2}svarbesnis, svaresnis;F{prior claim}svaresnis reikalavimasS{&rArr;}E{prep}:X{prior to}pirma, prieš, anksčiau;F{prior to making a decision}prieš priimant nutarimą
+0{prior^{2}}E{n}prioras, vienuolyno vyresnysis
+0{prioress}['pra&#618;&#601;r&#618;s]E{n}priorė, vienuolyno vyresnioji
+0{prioritize}[pra&#618;'&#596;r&#618;ta&#618;z]E{v}išdėstyti pagal svarbą/skubąL{ir pan.}; suteikti prioritetą
+0{priority}[pra&#618;'&#596;r&#601;t&#618;]E{n}I{1}pirmumas; prioritetas, svarbiausias dalykas; vyresniškumas;F{to take priority}l{(of, over)}X{a)}eiti pirma;X{b)}naudotis pirmenybe;F{order of priority}eiliškumas;F{we must give top priority to housing}pirmiausia mes turime spręsti butų problemąI{2}l{(transporto)}pirmumo teisė
+0{priory}['pra&#618;&#601;r&#618;]E{n}nedidelis vienuolynas
+0{prise}[pra&#618;z]S{&rArr;}E{n}svertasS{&rArr;}E{v}atidaryti/išlaužti svertul{(L{ppr.}X{prise open})}S{o}1{prise away}atplėšti, atitrauktil{(nuo darbo, televizoriaus; from)};1{prise out}ištrauktil{(vinįL{ir pan.};L{t. p.}L{prk.}paslaptį, informacijąL{ir pan.})};1{prise up}kelti svertu
+0{prism}['pr&#618;zm]E{n}L{tech.},L{geom.}prizmė
+0{prismatic}[pr&#618;z'm&aelig;t&#618;k]E{a}I{1}prizminisI{2}ryškusl{(apie spalvas)}
+0{prison}['pr&#618;zn]E{n}kalėjimasl{(L{t. p.}L{prk.})}; nelaisvė;F{to lie/be in prison}būti kalėjime, kalėti;F{to put smb in prison, to send smb to prison}įkalinti ką;F{prison camp}karo belaisvių stovykla;F{her house felt like a prison}ji jautėsi įkalinta tarp keturių sienų
+0{prison-breaker}['pr&#618;zn,bre&#618;k&#601;]E{n}pabėgėlis iš kalėjimo
+0{prison-breaking}['pr&#618;zn,bre&#618;k&#618;&#331;]E{n}pabėgimas iš kalėjimo
+0{prisoner}['pr&#618;zn&#601;]E{n}I{1}kalinys; kaltinamasis, teisiamasisl{(L{t. p.}X{prisoner at the bar})};F{prisoner on bail}teisiamasis, paleistas už užstatą;F{prisoner of state, state prisoner}politinis kalinysI{2}(karo) belaisvisl{(L{t. p.}X{prisoner of war})};F{to be taken prisoner}būti paimtam ar patekti į nelaisvęI{3}L{prk.}belaisvis, neturintis laisvės;F{his illness kept him a prisoner to his room}liga vertė jį būti kambaryje
+0{prison-house}['pr&#618;znhaus]E{n}L{poet.}kalėjimasl{(L{džn.}L{prk.})}
+0{prissy}['pr&#618;s&#618;]E{a}L{menk.}manieringas; perdėtai mandagus
+0{pristine}['pr&#618;sti:n]E{a}L{knyg.}I{1}pirmykštis; senovinisI{2}švarus, kaip naujas; neliestas, nevartotas
+0{prithee}['pr&#618;&#618;]E{int}(I pray theeL{sutr.})L{psn.}prašau
+0{privacy}['pr&#618;v&#601;s&#618;]E{n}I{1}vienuma, atskiruma; nuošalumasI{2}l{(privataus gyvenimo)}slaptumas; asmeninis gyvenimas;F{in the privacy of one’s thoughts}giliai mintyse, sielos gelmėse
+0{private}['pra&#618;v&#618;t]S{&rArr;}E{a}I{1}privatinis, privatus; asmeniškas;F{private life}privatus gyvenimas;F{private business}asmeniškas reikalas, privatus dalykas;F{private person}privatus asmuo;F{private law [property]privatinė teisė [nuosavybė];F{private (medical) practitioner}privačiai praktikuojantis gydytojas;F{private view}l{(parodos, filmoL{ir pan.})}uždara peržiūra;F{Private}pašaliniams įeiti draudžiamal{(užrašas ant durų)}I{2}eilinis; neoficialus;F{private member}eilinis parlamento narysl{(nesantis ministru)};F{private soldier}eilinis kareivisI{3}nuošalus, atskirtas; uždarasl{(apie žmogų)};F{we are not private here}mes čia ne vieniI{4}slaptas, konfidencialus;F{for one’s private ear}kaip paslaptį, konfidencialiai;F{to keep a thing private}laikyti ką paslaptyje S{&loz;}X{to go private}gydytis privačiaiS{&rArr;}E{n}I{1}L{kar.}eilinisl{(L{t. p.}X{private soldier})}I{2}E{pl}L{euf.}išoriniai lyties organaiS{&loz;}X{in private}X{a)}vienu du; konfidencialiai;S{&cong;}prie keturių akių;X{b)}privačiame gyvenime
+0{privateer}[,pra&#618;v&#601;'t&#618;&#601;]S{&rArr;}E{n}L{ist.}I{1}kaperisI{2}kaperio kapitonas; kaperio įgulos narysS{&rArr;}E{v}L{ret.}kaperiauti, plėšikautil{(jūroje)}
+0{private-eye}['pra&#618;v&#618;ta&#618;]E{n}privatus detektyvas
+0{privately}['pra&#618;v&#618;tl&#618;]E{adv}I{1}asmeniškai; konfidencialiai;F{privately I think that...}aš asmeniškai manau, kad...I{2}privačiai
+0{privately-owned}['pra&#618;v&#618;tl&#618;'&#601;und]E{a}privačiai priklausantis
+0{privately-run}['pra&#618;v&#618;tl&#618;r&#652;n]E{a}privačiai valdomas
+0{private-sector}['pra&#618;v&#618;t'sekt&#601;]S{&rArr;}E{n}privatusis sektoriusS{&rArr;}E{a}privačiojo sektoriaus
+0{privation}[pra&#618;'ve&#618;&#643;n]E{n}nepriteklius, trūkumas, stoka; skurdas
+0{privatisation}[,pra&#618;v&#601;ta&#618;'ze&#618;&#643;n]E{n}privatizavimas, privatizacija, pasitraukimas iš visuomeninio gyvenimo
+0{privatise}['pra&#618;v&#601;ta&#618;z]E{v}privatizuoti
+0{privatising}['pra&#618;v&#601;ta&#618;z&#618;&#331;]E{a}privatizuojantis
+0{privative}['pr&#618;v&#601;t&#618;v]E{a}I{1}neturintis, stokojantisI{2}L{gram.}neigiamasl{(apie afiksusL{ir pan.})}
+0{privatization}[,pra&#618;v&#601;ta&#618;'ze&#618;&#643;n]E{n}privatizavimas, privatizacija
+0{privatize}['pra&#618;v&#601;ta&#618;z]E{v}privatizuoti
+0{privet}['pr&#618;v&#618;t]E{n}L{bot.}ligustras
+0{privilege}['pr&#618;v&#618;l&#618;d&#658;]S{&rArr;}E{n}I{1}privilegija,l{(ypatinga, išskirtinė)}teisė, lengvata; prerogatyva;F{privilege of Parliament}deputato neliečiamybė ir kai kurios kitos parlamento narių privilegijos;F{breach of privilege}parlamento teisių pažeidimas;F{executive privilege}L{amer.}prezidento prerogatyval{(ypač jo susirašinėjimo ir pokalbių konfidencialumas)}I{2}ypatinga garbė, malonumas;F{to hear her sing was a privilege}girdėti ją dainuojant buvo ypatingai malonuS{&rArr;}E{v}suteikti privilegiją, privilegijuoti
+0{privileged}['pr&#618;v&#618;l&#618;d&#658;d]E{a}I{1}privilegijuotas;F{the privileged few}nedaugelis išrinktųjųI{2}konfidencialus, slaptas;F{privileged communication}l{(kliento, paciento)}konfidenciali informacijal{(advokatui, gydytojui)}
+0{privity}['pr&#618;v&#601;t&#618;]E{n}I{1}l{(slaptas)}žinių turėjimas, žinojimas, informuotumas;F{with the privity}sul{(kieno)}žiniaI{2}dalyvavimas, prisidėjimasl{(to)}I{3}L{teis.}įstatymo pripažintas ryšys tarp dviejų asmenų/pusių; turtiniai santykiai
+0{privy}['pr&#618;v&#618;]S{&rArr;}E{a}I{1}privatus; asmeninis; nuošalusl{(apie vietą)}I{2}žinantis, susipažinęsl{(to)};F{privy to a contract}L{teis.}dalyvaujantis kontrakte;F{to be privy to the conspiracy}būti sąmokslo dalyviuI{3}L{psn.}slaptas, paslėptasS{&rArr;}E{n}I{1}L{teis.}suinteresuotas asmuoI{2}L{amer.},L{psn.}išvietė
+0{prize^{1}}[pra&#618;z]S{&rArr;}E{n}I{1}prizas, premija, apdovanojimas;F{cash prize}piniginė premija;F{no prizes for guessing}prizų neteiksimel{(kai lengva įspėti)}I{2}laimėjimas; netikėta laimė; geidžiamas laimikis; trofėjus;F{to draw a prize in the lottery}laimėti loterijoje;F{the prizes of life}gyvenimo gėrybėsS{&rArr;}E{a}I{1}prizinis; premijuotas, apdovanotas;F{prize competition}varžybos dėl prizoI{2}vertas apdovanojimol{(L{t. p.}L{iron.})};F{prize idiot}L{šnek.}visiškas kvailysI{3}labai vertingasS{&rArr;}E{v}l{(L{ppr.}E{pass})}labai vertinti; įvertinti
+0{prize^{2}}E{n}L{jūr.}L{ist.}I{1}prizas, jūros trofėjus, užgrobtas laivas/turtas;F{to make (a) prize}l{(of)}užgrobtiI{2}E{attr}prizinis;F{naval prize law}jūrų prizinė teisė
+0{prize^{3}}L{amer.}A{=R{prise}}E{n},E{v}
+0{prized}['pra&#618;z&#601;d]E{a}vertingas, brangus, labiausiai verti-namas
+0{prizefight}['pra&#618;zfa&#618;t]E{n}profesionalų bokso varžybosl{(prizui laimėti)}
+0{prizefighter}['pra&#618;z,fa&#618;t&#601;]E{n}boksininkas profesionalas
+0{prizegiving}['pra&#618;zg&#618;v&#618;&#331;]E{n}prizų/apdovanojimų įteikimas
+0{prizeman}['pra&#618;zm&#601;n]E{n}(E{pl}-men[-m&#601;n]) prizininkas, premijuotasis; laureatas
+0{prize-ring}['pra&#618;zr&#618;&#331;]E{n}L{sport.}I{1}ringasI{2}profesionalų boksas
+0{prizewinner}['pra&#618;z,w&#618;n&#601;]E{n}A{=R{prizeman}}
+0{prizewinning}['pra&#618;zw&#618;n&#618;&#331;]E{a}E{attr}laimėjęs priząl{(apie filmą, knygąL{ir pan.})}
+0{p.r.n.}L{sutr.}X{pro re nata}L{lot.}pagal susidariusias aplinkybes, reikalui esantl{(receptuose)}
+0{pro^{1}}[pr&#601;u]E{prep},E{n}L{šnek.}už;F{pros and cons}(argumentai/balsai) už ir prieš
+0{pro^{2}}L{sutr.}L{šnek.}I{1}A{=R{professional}}E{n}I{2}A{=R{prophylactic}}E{n}I{3}A{=R{prostitute}}E{n}1
+0{pro-}[pr&#601;u-]E{pref}pro-l{(žymintl{a)}palankumą;l{b)}subordinaciją)};F{profascist}profašistinis;F{prorector}prorektorius
+0{PRO}L{sutr.}X{Public Records Office}valstybės archyvasX{public relations officer}visuomenės informavimo ir reklamos atsakingas darbuotojas
+0{proactive}[pr&#601;u'&aelig;kt&#618;v]E{a}iniciatyvus, veiksnus
+0{pro-am}[pr&#601;u'&aelig;m]E{n}L{sport.}profesionalų ir mėgėjų bendros varžybos
+0{prob}L{sutr.}X{problem}problema; uždavinys
+0{prob.}L{sutr.}X{probable}galimas, tikimas;F{probably}turbūt, tikriausiai
+0{probabilistic}[,pr&#596;b&#601;b&#601;'l&#618;st&#618;k]E{a}tikimybinis
+0{probability}[,pr&#596;b&#601;'b&#618;l&#601;t&#618;]E{n}I{1}galimumas, tikimumas, tikėtinumas;F{in all probability}tikriausiai, veikiausiai, labai galimas dalykasI{2}L{spec.}tikimybė; F{probability function}L{mat.}tikimybinė funkcija
+0{probable}['pr&#596;b&#601;bl]S{&rArr;}E{a}I{1}galimasI{2}tikėtinas;F{success is possible but hardly probable}pasisekimas galimas, bet jo tikimybė labai mažaS{&rArr;}E{n}labai galimas kandidatasl{(į komandąL{ir pan.})}
+0{probably}['pr&#596;b&#601;bl&#618;]E{mod}turbūt, tikriausiai
+0{probate}['pr&#601;ube&#618;t]L{teis.}S{&rArr;}E{n}I{1}oficialus testamento patvirtinimasI{2}patvirtintoji testamento kopijal{(L{t. p.}X{probate copy})}S{&rArr;}E{v}L{amer.}patvirtinti testamentą
+0{probation}[pr&#601;'be&#618;&#643;n]E{n}I{1}išbandymas; stažavimas, stažas;F{to work on probation}atlikti stažą, stažuotis I{2}bandomasis laikasI{3}L{teis.}lygtinisl{(ypač nepilnamečio nusikaltėlio)}nuteisimas;F{on probation}lygtinai;F{probation officer}inspektorius, prižiūrintis lygtinai nuteistuosius
+0{probationary}[pr&#601;'be&#618;&#643;nX{&#601;}r&#618;]E{a}I{1}bandomasisI{2}stažavimo; stažuotės;F{probationary teachers}mokytojai stažuotojaiI{3}L{teis.}lygtinis; F{probationary sentence}lygtinė bausmė
+0{probationer}[pr&#601;'be&#618;&#643;n&#601;]E{n}I{1}stažuotojas, stažistas; kandidatas į nariusl{(L{t. p.}X{probationer member})};F{probationer nurse}medicinos sesuo praktikantė I{2}L{teis.}lygtinai nuteistasis
+0{probative}['pr&#601;ub&#601;t&#618;v]E{a}I{1}įrodomas(is), pagrįstas įrodymuI{2}bandymo, bandomasis
+0{probe}[pr&#601;ub]S{&rArr;}E{n}I{1}zondasl{(L{t. p.}L{med.})}I{2}zondavimasI{3}(iš)tyrimasI{4}L{tech.}liestukas S{&rArr;}E{v}I{1}L{spec.}zonduotil{(L{t. p.}L{prk.})}I{2}(iš)tirti, išsiteirauti, išgautil{(klausinėjant)}
+0{probity}['pr&#601;ub&#601;t&#618;]E{n}dorumas, sąžiningumas
+0{problem}['pr&#596;bl&#601;m]E{n}I{1}problema, klausimasI{2}L{mat.},L{šach.}uždavinysI{3}keblumas, sudėtinga situacija, sunkumas, sunkus atvejis;F{it’s/that’s not my problem!}tai ne mano reikalas/problema!I{4}E{attr}probleminis;F{problem novel}probleminis romanas;F{problem child}sunkus vaikasS{&loz;}X{no problem}X{a)}žinoma, būtinail{(sutinkant ką daryti)};X{b)}viskas gerai; nėr už ką
+0{problematic(al)}[,pr&#596;bl&#601;'m&aelig;t&#618;k(l)]E{a}probleminis, problemiškas; abejojamas
+0{problem-free}['pr&#596;bl&#601;mfri:]E{a}beprobleminis, be problemų
+0{problem-oriented}['pr&#596;bl&#601;m'&#596;:r&#618;&#601;nt&#618;d]E{a}specializuotas, probleminis
+0{problem-solving}['pr&#596;bl&#601;ms&#596;lv&#618;&#331;]S{&rArr;}E{n}uždavinio sprendimas, problemos sprendimasS{&rArr;}E{a}problemą išsprendžiantis, uždavinį išsprendžiantis
+0{pro bono (publico)}[pr&#601;u'b&#601;un&#601;u ('publ&#618;k&#601;u)]L{lot.}E{a}E{attr}nemokamas, klientui suteikiamas veltuil{(ypač apie advokato paslaugas)}
+0{proboscis}[pr&#601;'b&#596;s&#618;s]E{n}(E{pl}-cises[-si:z], -cides[-sidi:z], -es)I{1}l{(dramblio)}straublysI{2}L{biol.}siurbtukas, čiulptuvėlis, straubliukasI{3}L{juok.}ištįsusi/ilga nosis
+0{proc.}L{sutr.}X{procedure}procedūraX{proceedings}l{(mokslinės draugijos)}darbaiX{process}procesas
+0{procaryote}[pr&#601;u'k&aelig;r&#618;&#601;ut]E{n}A{=R{prokaryote}}
+0{procedural}[pr&#601;'si:d&#658;&#601;r&#601;l]E{a}procedūrinis, procedūros; procesinis
+0{procedure}[pr&#601;'si:d&#658;&#601;]E{n}I{1}procedūra;F{legal procedure}teismo procedūraI{2}veikimo būdas; darbo tvarkaI{3}technologijos procesas;l{(bandymo, analizės)}atlikimo metodikaI{4}L{teis.}procesas; proceso teisės normos
+0{proceed}[pr&#601;'si:d]E{v}I{1}tęsti, toliau kalbėti;F{please proceed}prašom kalbėti toliauI{2}leistis pirmyn; keliauti/eiti toliauI{3}(iš naujo) pradėti, (vėl) imtisl{(with, in)}; pereitil{(+E{inf}; to – prie)};F{let us proceed to the next point}pereikime prie kito klausimoI{4}kilti, išeitil{(from)};F{shouts proceeded from the house}šauksmai sklido iš namoI{5}vykti, vystytis;F{the play proceeds slowly}pjesės veiksmas vystosi lėtaiI{6}veikti, daryti, elgtisI{7}L{teis.}(iš)kelti byląl{(against)}I{8}siekti gauti (mokslo) laipsnįl{(to)}
+0{proceeding}[pr&#601;'si:d&#618;&#331;]E{n}I{1}vyksmas, eiga, įvykis;F{I took no part in the proceedings}aš nedalyvavau tuose įvykiuoseI{2}E{pl}L{teis.}teismo procesas, teisminis nagrinėjimas; procesiniai veiksmai;F{legal proceedings}teismo procesas/procedūra, teisena;F{to take/start (legal) proceedings}l{(against)}iškelti byląl{(prieš)}I{3}E{pl}l{(komisijos)}darbas, veiklaI{4}E{pl}l{(mokslo draugijos)}darbai; protokolai
+0{proceeds}['pr&#601;usi:dz]E{n}E{pl}pajamos, įplaukos
+0{process}['pr&#601;uses]S{&rArr;}E{n}I{1}procesas, vyksmas; eiga, raida;F{changes are in process}vyksta pakitimai;F{in process of time}laikui bėgantI{2}L{teis.}šaukimasl{(į teismą)}; teismo procesas;F{due process}įstatyminė tvarka; tinkamas teismo procesasI{3}L{anat.},L{zool.},L{bot.}ataugaI{4}L{tech.}technologijos procesas/būdasI{5}L{poligr.}fotomechaninis būdasS{&rArr;}E{v}I{1}l{(technologiškai)}apdirbti, apdoroti; perdirbtiI{2}L{teis.}pradėti teismo procesą, pradėti/kelti byląI{3}apiforminti; (ap)svarstytil{(pareiškimąL{ir pan.})}I{4}[pr&#601;'ses]dalyvauti procesijojeI{5}L{poligr.}atgaminti fotomechaniniu būdu
+0{processed}['pr&#601;usest]E{a}apdorotas, perdirbtasl{(apie maistą)};F{processed cheese}lydytas sūris
+0{processing}['pr&#601;uses&#618;&#331;]E{n}I{1}apdorojimas, apdirbimasI{2}l{(maisto)}gaminių perdirbimasI{3}l{(vizosL{ir pan.})}apiforminimas;l{(pareiškimoL{ir pan.})}apsvarstymas
+0{procession}[pr&#601;'se&#643;n]S{&rArr;}E{n}procesija, eitynės; vilkstinėS{&rArr;}E{v}dalyvauti procesijoje/eitynėse
+0{processional}[pr&#601;'se&#643;n&#601;l]E{a}E{attr}procesijos
+0{processionist}[pr&#601;'se&#643;n&#618;st]E{n}procesijos dalyvis
+0{processor}['pr&#601;uses&#601;]E{n}L{komp.}procesorius;F{word processor}tekstų rengimo sistema
+0{process-server}['pr&#601;uses,s&#601;v&#601;]E{n}teismo kurjeris
+0{procès-verbal}[,pr&#596;se&#618;v&#601;:'ba:l]L{pr.}E{n}(E{pl}-verbaux[-v&#601;:'b&#601;u]) protokolas
+0{pro-choice}[pr&#601;u't&#643;&#596;&#618;s]E{a}remiantis moterų teisę pasirinkti abortą
+0{proclaim}[pr&#601;'kle&#618;m]E{v}I{1}(pa)skelbti; (pa)garsinti, proklamuoti;F{to proclaim peace}skelbti taikąI{2}liudyti, bylotil{(apie)}; rodyti
+0{proclamation}[,pr&#596;kl&#601;'me&#618;&#643;n]E{n}I{1}paskelbimas; pagarsinimas; deklaracijaI{2}atsišaukimas, proklamacija
+0{proclitic}[pr&#601;'kl&#618;t&#618;k]E{n}L{kalb.}proklitikas
+0{proclivity}[pr&#601;'kl&#618;v&#601;t&#618;]E{n}L{knyg.}palinkimas, polinkisl{(to, towards)}
+0{proconsul}[pr&#601;u'k&#596;nsX{&#601;}l]E{n}I{1}prokonsulasl{(L{sen.}Romoje)}I{2}l{(kolonijos)}gubernatorius
+0{proconsulate}[pr&#601;u'k&#596;nsjul&#601;t]E{n}L{ist.}prokonsulatas; prokonsulo pareigos
+0{procrastinate}[pr&#601;'kr&aelig;st&#618;ne&#618;t]E{v}delsti, vilkinti; atidėlioti
+0{procrastination}[pr&#601;,kr&aelig;st&#618;'ne&#618;&#643;n]E{n}delsimas, vilkinimas; atidėliojimasS{&loz;}X{procrastination is the thief of time}L{pat.}S{&cong;}neatidėk rytdienai to, ką gali padaryti šiandien
+0{procreate}['pr&#601;ukr&#618;e&#618;t]E{v}daugintis; (pa)gimdyti, duoti gyvybę;F{to procreate offsprings}gimdyti palikuonis
+0{procreation}[,pr&#601;ukr&#618;'e&#618;&#643;n]E{n}dauginimasis; gimdymas, gyvybės davimas
+0{Procrustian}[pr&#601;u'kr&#652;st&#618;&#601;n]E{a}L{mit.}Prokrusto;L{prk.}drakoniškas
+0{proctor}['pr&#596;kt&#601;]S{&rArr;}E{n}I{1}proktorius, inspektoriusl{(ypač Oksfordo ir Kembridžo universitetuose)}I{2}X{Proctor}advokatas, įgaliotinisl{(specialiuose, bažnyčios teismuose)}I{3}L{amer.}L{mok.}egzamino stebėtojas/prižiūrėtojasS{&rArr;}E{v}L{amer.}stebėti, sektil{(egzaminuojamuosius rašomojo darbo metu)}
+0{procumbent}[pr&#601;u'k&#652;mb&#601;nt]E{a}I{1}L{knyg.}gulintis kniūbsčias, išdrikasI{2}L{bot.}besidriekiantis
+0{procurable}[pr&#601;'kju&#601;r&#601;bl]E{a}gaunamas, įgyjamas; prieinamas
+0{procuration}[,pr&#596;kju're&#618;&#643;n]E{n}I{1}gavimas, į(si)gijimasI{2}L{teis.}įgaliojimasI{3}L{teis.}sąvadavimas
+0{procurator}['pr&#596;kjure&#618;t&#601;]E{n}I{1}L{teis.}įgaliotinis, patikėtinisI{2}L{teis.}prokurorasl{(L{t. p.}X{public procurator})};F{powers of procurator}prokuroro priežiūraI{3}prokuratoriusl{(L{sen.}Romoje)}
+0{procure}[pr&#601;'kju&#601;]E{v}I{1}į(si)gyti, gauti, pasiekti; parūpintiI{2}L{teis.}sąvadauti I{3}L{psn.}sukelti, būti priežastimi
+0{procurement}[pr&#601;'kju&#601;m&#601;nt]E{n}į(si)gijimas; parūpinimas; (su)pirkimas
+0{procurer}[pr&#601;'kju&#601;r&#601;]E{n}I{1}parūpintojas, tiekėjasI{2}l{(L{tik v.})}sąvadautojas
+0{procuress}[pr&#601;'kju&#601;r&#618;s]E{n}sąvadautoja
+0{prod}[pr&#596;d]S{&rArr;}E{n}I{1}bakstelėjimas;F{a prod with a bayonet}dūris durtuvuI{2}įnagis pradurti/badyti; yla, prakalasL{ir pan.}I{3}bakštinimas, raginimas;F{to give smb a prod}raginti, bakštinti kąl{(daryti ką)}S{&rArr;}E{v}I{1}bakstelėti, durti; badyti, baksnotil{(pirštu, lazdele)}I{2}bakštinti, ragintil{(into)}
+0{Prod(dy)}['pr&#596;d(&#618;)]E{n}L{sl.}L{niek.}protestantasl{(ypač Airijoje)}
+0{prodigal}['pr&#596;d&#618;gl]L{knyg.}S{&rArr;}E{a}I{1}išlaidus, švaistus;F{prodigal expenditure}per didelės, besaikės išlaidosI{2}dosnus; gaususS{&loz;}X{the prodigal son}L{bibl.}sūnus palaidūnas/paklydėlisS{&rArr;}E{n}švaistūnas, išlaidūnas; palaidūnas
+0{prodigality}[,pr&#596;d&#618;'g&aelig;l&#601;t&#618;]E{n}L{knyg.}I{1}išlaidumasI{2}dosnumas; gausumas
+0{prodigally}['pr&#596;d&#618;gX{&#601;}l&#618;]E{adv}išlaidžiai
+0{prodigious}[pr&#601;'d&#618;d&#658;&#601;s]E{a}stebuklingas; didžiulis, milžiniškas
+0{prodigy}['pr&#596;d&#618;d&#658;&#618;]E{n}I{1}stebuklasI{2}nuostabių gabumų žmogus;F{infant/child prodigy}vunderkindasI{3}E{attr}nepaprastai gabus
+0{prodrome}['pr&#601;udr&#601;um]E{n}I{1}L{knyg.}įvadas, įvadinė knyga, įvadinis straipsnisI{2}L{med.}l{(ligos)}pirmasis simptomas, pranašingas požymis
+0{produce}S{&rArr;}E{n}['pr&#596;dju:s]I{1}produkcija; produktai;F{farm/agricultural produce}žemės ūkio produktaiI{2}rezultatasS{&rArr;}E{v}[pr&#601;'dju:s]I{1}(pa)gaminti; duotil{(derlių, rezultatus, pelnąL{ir pan.})}I{2}kurti; parašyti, išleistil{(knygą)};F{to produce better teachers}išleisti geresnius mokytojusI{3}(pa)statytil{(pjesę, filmą)}I{4}pateikti, parodyti;F{to produce one’s ticket}pateikti bilietą;F{he produced a key from his pocket}jis ištraukė iš kišenės raktąI{5}sukelti, būti priežastimiI{6}pagimdyti; at(si)vesti;F{the country that produced Picasso}šalis, kuri pagimdė PikasoI{7}L{geom.}pratęstil{(liniją)}I{8}L{sport.}pasiektil{(įvartįL{ir pan.})};F{to produce a fine performance}puikiai žaisti
+0{producer}[pr&#601;'dju:s&#601;]E{n}I{1}gamintojasI{2}l{(spektaklioL{ir pan.})}statytojas; prodiuseris; teatro direktorius; kino studijos savininkasI{3}L{rad.},L{tel.}laidos rengėjasI{4}L{tech.}l{(dujų)}generatorius;F{producer gas}generatoriaus dujos
+0{producible}[pr&#601;'dju:s&#601;bl]E{a}gaminamas
+0{product}['pr&#596;d&#652;kt]E{n}I{1}produktas, gaminys, fabrikatasl{(L{t. p.}X{finished/manufactured product})};F{gross national product}bendrasis nacionalinis produktasI{2}rezultatas, padarinys;l{(darbo)}vaisiaiI{3}L{mat.}sandaugaI{4}L{chem.}reakcijos produktas
+0{production}[pr&#601;'d&#652;k&#643;n]E{n}I{1}gamyba; gaminimas;F{mass [serial] production}masinė [serijinė] gamybaI{2}produkcija; kūrinys;F{secondary production}šalutinė/antrinė produkcijaI{3}našumas; išdirbisI{4}L{teatr.},L{kin.}pastatymasI{5}l{(bilietoL{ir pan.})}parodymas, pateikimasI{6}E{attr}gamybinis; F{production meeting}gamybinis pasitarimas;F{production line}L{spec.}srovinė linija;F{production standard}išdirbio norma
+0{production-line}[pr&#601;'d&#652;k&#643;X{&#601;}nla&#618;n]E{a}srovinės linijos
+0{productive}[pr&#601;'d&#652;kt&#618;v]E{a}I{1}produktyvus, našus; vaisingas;F{productive capacity}X{a)}gamybinis pajėgumas;X{b)}našumas; derlingumas;F{productive collaboration}vaisingas bendradarbiavimasI{2}derlingas;F{productive year}derlingi metaiI{3}sukeliantis, nešantisl{(of)};F{it may be productive of much good}tai gali atnešti daug naudos
+0{productively}[pr&#601;'d&#652;kt&#618;vl&#618;]E{adv}našiai, produktyviai
+0{productivity}[,pr&#596;d&#652;k't&#618;v&#601;t&#618;]E{n}produktyvumas, našumas;F{labour productivity}darbo našumas;F{productivity of land}derlingumas
+0{proem}['pr&#601;uj&#618;m]E{n}L{knyg.}įvadas, įžanga
+0{prof}[pr&#596;f]E{n}L{sutr.}L{šnek.}A{=R{professor}}1, 2
+0{Prof}L{sutr.}X{professor}profesorius
+0{profanation}[,pr&#596;f&#601;'ne&#618;&#643;n]E{n}profanacija;l{(šventenybės)}(iš)niekinimas, (su)teršimas
+0{profane}[pr&#601;'fe&#618;n]S{&rArr;}E{a}I{1}pasaulietiškasI{2}bedieviškas; šventvagiškasI{3}pagonių, pagoniškasS{&rArr;}E{v}profanuoti; (iš)niekinti, (su)teršti
+0{profanity}[pr&#601;'f&aelig;n&#601;t&#618;]E{n}I{1}šventvagystė; Dievo niekinimasI{2}E{pl}nešvankybės
+0{profess}[pr&#601;'fes]E{v}I{1}atvirai pripažinti/pareikšti; prisipažintiI{2}išpažintil{(tikėjimą)}I{3}pretenduotil{(į)}; apsimesti, dėtisl{(žinančiu, mokančiuL{ir pan.})}I{4}L{ret.}praktikuotis, užsiimtil{(kokia profesija)}I{5}L{ret.}dėstytiI{6}l{(L{ppr.}E{pass})}priimti į religinį ordiną
+0{professed}[pr&#601;'fest]E{a}I{1}atviras, atvirai pareikštasI{2}apsimestinis, netikras; tariamasisI{3}prisiekęs; išpažįstantis
+0{professedly}[pr&#601;'fes&#618;dl&#618;]E{adv}I{1}atvirai, aiškiai; savo paties prisipažinimu I{2}neva, esą;F{professedly on business}tariamai/neva su reikalais
+0{profession}[pr&#601;'fe&#643;n]E{n}I{1}profesija; verslas;F{the learned professions}teologija, teisė, medicina;F{liberal professions}laisvos profesijos;F{a doctor by profession}gydytojas iš profesijosI{2}X{(the profession)}kurios nors profesijos žmonės;F{the medical profession}medikai;F{the profession}L{teatr.}L{sl.}artistaiI{3}viešas pri(si)pažinimas, pareiškimas; išreiškimasl{(jausmųL{ir pan.})}I{4}išpažinimas; religija, tikėjimasI{5}įstojimas į religinį ordiną; įžadas
+0{professional}[pr&#601;'fe&#643;n&#601;l]S{&rArr;}E{a}I{1}profesinis;F{professional advice}specialisto konsultacija/patarimas;F{professional skill}profesinis meistriškumas;F{professional school}profesinė mokyklaI{2}profesionalų; profesionalus;F{professional footballer}futbolininkas profesionalasI{3}turintis profesiją/specialybęI{4}L{menk.}užkietėjęsl{(apie melagįL{ir pan.})}S{&rArr;}E{n}I{1}profesionalasI{2}specialistasI{3}sportininkas profesionalasI{4}sporto instruktorius; kūno kultūros mokytojas
+0{professionalism}[pr&#601;'fe&#643;n&#601;l&#618;zm]E{n}I{1}profesionalizmasI{2}profesionalizacija
+0{professionalize}[pr&#601;'fe&#643;n&#601;la&#618;z]E{v}paverstil{(kokį užsiėmimą)}profesija; specializuotis
+0{professionally}[pr&#601;'fe&#643;n&#601;l&#618;]E{adv}I{1}profesionaliaiI{2}kaip specialistas;F{we consulted him professionally}mes kreipėmės į jį kaip į specialistąI{3}kaip profesionalasl{(žaidžia, dainuojaL{ir pan.})}
+0{professor}[pr&#601;'fes&#601;]E{n}I{1}profesoriusI{2}L{amer.}dėstytojasI{3}L{ret.}l{(tikėjimo)}išpažinėjas
+0{professorate}[,pr&#596;f&#618;'s&#596;:r&#601;t]E{n}profesūra
+0{professorial}[,pr&#596;f&#618;'s&#596;:r&#618;&#601;l]E{a}profesoriaus; profesoriškas
+0{professoriate}[,pr&#596;f&#618;'s&#596;:r&#618;&#601;t]E{n}profesūra, profesorių kolektyvas
+0{professorship}[pr&#601;'fes&#601;&#643;&#618;p]E{n}profesūral{(vardas, pareigos)}, profesoriaus vieta
+0{proffer}['pr&#596;f&#601;]L{knyg.}S{&rArr;}E{n}pasiūlymasS{&rArr;}E{v}I{1}siūlytil{(draugystę, pagalbą, paslaugas)}I{2}paduoti;F{to shake the proffered hand}paspausti ištiestą ranką
+0{profficiency}[pr&#601;'f&#618;&#643;ns&#618;]E{n}įgudimas, patyrimas; mokėjimas;F{profficiency test}specialybės egzaminasl{(iš užsienio kalbosL{ir pan.})}; kvalifikacijos patikrinimasl{(priimant į darbą)}
+0{proficiency}[pr&#601;'f&#618;&#643;X{&#601;}ns&#618;]E{n}įgudimas, patyrimas
+0{proficient}[pr&#601;'f&#618;&#643;nt]S{&rArr;}E{a}įgudęs, patyręs; mokantis;F{he is proficient in driving a car}jis įgudęs vairuotojasS{&rArr;}E{n}žinovas, specialistas
+0{proficiently}[pr&#601;'f&#618;&#643;X{&#601;}ntl&#618;]E{adv}sumaniai
+0{profile}['pr&#601;ufa&#618;l]S{&rArr;}E{n}I{1}profilis;F{in profile}iš profilioI{2}kontūrasI{3}trumpa (biografinė) apybraižaI{4}L{tech.}profilis, vertikalusis pjūvisI{5}E{attr}profilinis; fasoninisS{&loz;}X{to keep a low profile}nepatraukti į save dėmesio, laikytis atokiai, likti nepastebimam;F{to have a high profile}būti pastebimam, atkreipti daugelio dėmesįS{&rArr;}E{v}I{1}piešti iš profilio; pasisukti profiliu; vaizduoti pjūvyjeI{2}trumpai apibūdintil{(laikraštyjeL{ir pan.})}I{3}L{spec.}profiliuoti
+0{profit}['pr&#596;f&#618;t]S{&rArr;}E{n}I{1}nauda;F{to make a profit}l{(on)}gauti naudosl{(iš)}I{2}l{(L{džn.}E{pl})}pelnas; pajamos;F{gross [net] profit}bendrasis [grynas] pelnas; F{profit and loss account}pelno ir nuostolių sąskaita;F{to sell at a profit}parduoti pelningaiS{&rArr;}E{v}I{1}duoti naudos/pelno; būti naudingamI{2}gauti naudos/pelno, pelnytiI{3}pasinaudoti, pasimokytil{(by, from – iš)}
+0{profitability}[,pr&#596;f&#618;t&#601;'b&#618;l&#601;t&#618;]E{n}L{ekon.}pelningumas, rentabilumas
+0{profitable}['pr&#596;f&#618;t&#601;bl]E{a}I{1}pelningas, rentabilusI{2}naudingas, vaisingas
+0{profitably}['pr&#596;f&#618;t&#601;bl&#618;]E{adv}pelningai, naudingai
+0{profiteer}[,pr&#596;f&#618;'t&#618;&#601;]S{&rArr;}E{n}spekuliantasS{&rArr;}E{v}spekuliuoti
+0{profiterole}[pr&#601;'f&#618;t&#601;r&#601;ul]E{n}profitrolisl{(pyragaitis)}
+0{profitless}['pr&#596;f&#618;tl&#601;s]E{a}nepelningas, be pelno; nenaudingas
+0{profit-making}['pr&#596;f&#618;t,me&#618;k&#618;&#331;]E{a}:X{profit-making organization}pelno siekianti organizacija
+0{profit-sharing}['pr&#596;f&#618;t,&#643;&#604;&#601;r&#618;&#331;]E{n}L{ekon.}pelno padalijimas
+0{profligacy}['pr&#596;fl&#618;g&#601;s&#618;]E{n}I{1}išlaidumasI{2}pasileidimas, ištvirkimas
+0{profligate}['pr&#596;fl&#618;g&#601;t]S{&rArr;}E{a}I{1}švaistus, išlaidusI{2}pasileidęs, ištvirkęsS{&rArr;}E{n}I{1}išlaidūnas, švaistūnasI{2}ištvirkėlis
+0{pro forma}[,pr&#601;u'f&#596;:m&#601;]L{lot.}pro forma, dėl formos
+0{profound}[pr&#601;'faund]S{&rArr;}E{a}I{1}L{knyg.}gilus;F{to make a profound reverence}žemai nusilenkti I{2}L{prk.}gilus; giliamintis; išmintingas; įžvalgus;F{profound knowledge}gilios žinios, nuodugnus žinojimasI{3}visiškas;F{profound ignorance}visiškas nemokšiškumasI{4}sudėtingas, nesuprantamai įmantrusS{&rArr;}E{n}X{(the profound)}L{poet.}giluma, gelmė
+0{profoundly}[pr&#601;'faundl&#618;]E{adv}giliai, nepaprastai
+0{profoundness, profundity}[pr&#601;'faundn&#618;s, pr&#601;'f&#652;nd&#601;t&#618;]E{n}L{knyg.}I{1}l{(minties, jausmo)}gilumas, gilybė; giliamintiškumasI{2}L{poet.}giluma, gelmė
+0{profuse}[pr&#601;'fju:s]E{a}I{1}gausus, gausingasI{2}dosnus, nešykštintisl{(pagyrųL{ir pan.}, in, of)}
+0{profusely}[pr&#601;'fju:sl&#618;]E{adv}gausiai, labai
+0{profusion}[pr&#601;'fju:&#658;n]E{n}I{1}gausumas, gausingumas, gausybė; pertekliusI{2}dosnumas
+0{prog^{1}}[pr&#596;g]E{n}(programmeL{sutr.})L{rad.},L{tel.}L{šnek.}programa
+0{prog^{2}}E{n}(progressiveL{sutr.})L{menk.}pažanguolis
+0{prog^{3}}E{n}L{sl.}A{=R{proctor}}1
+0{progenitor}[pr&#601;X{u}'d&#658;en&#618;t&#601;]E{n}L{knyg.}I{1}protėvis, sentėvisI{2}pradininkas, pirmtakas
+0{progenitress, progenitrix}[pr&#601;u'd&#658;en&#618;tr&#618;s, -tr&#618;ks]E{n}pramotė, prosenelė
+0{progeny}['pr&#596;d&#658;&#601;n&#618;]E{n}I{1}palikuonis;L{kuop.}palikuonysI{2}L{juok.}atžalosl{(vaikai)}I{3}rezultatas, vaisius
+0{progesterone}[pr&#601;u'd&#658;est&#601;r&#601;un]E{n}L{fiziol.}progesteronas
+0{prognathous}[pr&#596;g'ne&#618;&theta;&#601;s]E{a}L{spec.}I{1}atsikišusiais žandikauliaisI{2}atsikišęsl{(apie žandikaulį)}
+0{prognosis}[pr&#596;g'n&#601;us&#618;s]E{n}(E{pl}-ses[-si:z]) prognozėl{(L{t. p.}L{med.})}
+0{prognostic}[pr&#601;g'n&#596;st&#618;k]S{&rArr;}E{a}pranašaujantisS{&rArr;}E{n}I{1}l{(būsimo įvykio)}ženklas, pranašasI{2}pranašavimas, pranašystė
+0{prognosticate}[pr&#601;g'n&#596;st&#618;ke&#618;t]E{v}L{knyg.}pranašauti; prognozuoti
+0{prognostication}[pr&#601;g,n&#596;st&#618;'ke&#618;&#643;n]E{n}L{knyg.}I{1}pranašavimas; prognozavimas, spėjimasI{2}l{(būsimo įvykio)}ženklas; nujautimas
+0{program}['pr&#601;ugr&aelig;m]l{(ypačL{amer.})}A{=R{programme}}E{n},E{v}
+0{programmable}['pr&#601;ugr&aelig;m&#601;bl]E{a}L{komp.}programuojamas; programinis
+0{programme}['pr&#601;ugr&aelig;m]S{&rArr;}E{n}I{1}l{(L{įv. reikšm.})}programa;F{party programme}partijos programa;F{theatre programme}teatro programaI{2}l{(darbo, veikimo)}planas;F{what’s the/our programme for tomorrow?}L{šnek.}ką darysime rytoj?;F{I have a full programme this week}aš esu užimtas visą šią savaitęI{3}E{attr}programinis, programos;F{programme music}programinė muzikaS{&rArr;}E{v}I{1}sudaryti programą/planą; planuotiI{2}L{spec.}programuoti
+0{programmed}['pr&#601;ugr&aelig;md]E{a}programuotas;F{programmed instruction}programuotasis mokymas;F{programmed key}L{komp.}programuojamasis klavišas
+0{programmer}['pr&#601;ugr&aelig;m&#601;]E{n}L{komp.}programuotojas, programų sudarytojas
+0{progress}S{&rArr;}E{n}['pr&#601;ugres]I{1}progresas; vystymasis; judėjimas į priekį;F{to be in progress}vykti, vystytis; judėti į priekį;F{changes are in progress}vyksta pakitimaiI{2}pažanga;F{to make progress}pažengti, daryti pažangą; progresuotiI{3}l{(įvykių, darbų)}eiga;F{we are watching the progress of the negotiations with interest}mes susidomėję stebime derybų eigąI{4}L{ist.}oficialaus asmensl{(ypač karaliaus)}kelionė po šalįS{&rArr;}E{v}[pr&#601;'gres]I{1}progresuoti; vystytisI{2}judėti/pasistumti į priekį;F{matters are progressing slowly}reikalai juda lėtaiI{3}daryti pažangąI{4}pereitil{(to – prie)}
+0{progression}[pr&#601;'gre&#643;n]E{n}I{1}judėjimas/pasistūmimas į priekį; progresavimasI{2}l{(įvykiųL{ir pan.})}sekaI{3}L{ret.}progresasI{4}L{mat.}progresija
+0{progressionist}[pr&#601;'gre&#643;n&#618;st]E{n}L{knyg.}progreso šalininkas
+0{progressive}[pr&#601;'gres&#618;v]S{&rArr;}E{a}I{1}progresyvus, pažangus;F{progressive policy}progresyvi politikaI{2}judantis pirmyn;F{progressive rotation}sukamasis-slenkamasis judėjimasI{3}progresinis, progresuojantis;F{progressive tax}progresinis mokestis;F{progressive paralysis}progresuojantis paralyžiusI{4}laipsniškasI{5}L{gram.}eigosl{(apie veikslą)}S{&rArr;}E{n}I{1}progresyvus veikėjas; pažanguolisI{2}X{Progressive}L{amer.}Progresyviosios partijos narys
+0{progressively}[pr&#601;'gres&#618;vl&#618;]E{adv}I{1}progresyviaiI{2}palaipsniui; vis labiau
+0{progressiveness}[pr&#601;'gres&#618;vn&#618;s]E{n}pažangumas, progresyvumas
+0{prohibit}[pr&#601;'h&#618;b&#618;t]E{v}I{1}(už)drausti;F{smoking strictly prohibited}rūkyti griežtai draudžiamaI{2}(su)trukdyti, (su)kliudytil{(from)};F{bad health prohibited him from finishing the work}bloga sveikata sutrukdė jam užbaigti darbą
+0{prohibition}[,pr&#601;uh&#618;'b&#618;&#643;n]E{n}I{1}(už)draudimas;F{prohibition of the sale of firearms}draudimas pardavinėti šaunamuosius ginklusI{2}stiprių svaigiųjų gėrimų draudimas, sausas įstatymas;L{amer.}L{ist.}prohibicijaI{3}L{teis.}draudžiamasis įsakymas/dekretasl{(L{t. p.}X{writ of prohibition})}
+0{prohibitionist}[,pr&#601;uh&#618;'b&#618;&#643;n&#618;st]E{n}svaigiųjų gėrimų draudimo šalininkas;L{amer.}L{ist.}prohibicionistas
+0{prohibitive}[pr&#601;'h&#618;b&#618;t&#618;v]E{a}I{1}draudžiamasis;F{prohibitive duty}draudžiamasis muitasI{2}pernelyg didelis, neįperkamasl{(apie kainas)}
+0{prohibitory}[pr&#601;'h&#618;b&#618;tX{&#601;}r&#618;]E{a}A{=R{prohibitive}}1
+0{project}S{&rArr;}E{n}['pr&#596;d&#658;ekt]I{1}projektas; planas, sumanymasI{2}L{mok.}užduotis, temal{(mokinio/studento savarankiškam darbui)};F{research project}mokslinis darbas/tyrimasI{3}(naujoji) statyba, statybos objektas, statinysS{&rArr;}E{v}[pr&#601;'d&#658;ekt]I{1}projektuoti; daryti projektą; planuoti; apgalvoti planą, numatytiI{2}mestil{(šešėlį, spindulįL{ir pan.})}I{3}paleisti, (iš)mesti, iššautil{(sviedinį)}I{4}iš(si)kišti, kyšoti; išsišautiI{5}primestil{(savo mintis, jausmus; on, onto – kam)}I{6}l{(L{džn.}E{refl})}vaizduoti save;F{to project an image}kurti imidžąI{7}E{refl}persikelti mintimisl{(į ateitįL{ir pan.}; into)}I{8}L{kin.}projektuoti, demonstruoti
+0{project-based}['pr&#596;d&#658;ektbe&#618;st]E{a}projektinis, projektais paremtas
+0{projectile}S{&rArr;}E{n}[pr&#601;'d&#658;ekta&#618;l]sviedinys, šovinys, kulkaS{&rArr;}E{a}metamasis, mėtomasis
+0{projecting}[pr&#601;'d&#658;ekt&#618;&#331;]E{a}išsikišęs, atsikišęs
+0{projection}[pr&#601;'d&#658;ek&#643;n]E{n}I{1}projektavimasI{2}projektas; planasI{3}metimasI{4}projekcijal{(L{t. p.}L{kin.},L{tel.})}I{5}iškyšulys, išsikišimas, išsikišęs daiktas; iškyša
+0{projectionist}[pr&#601;'d&#658;ek&#643;n&#618;st]E{n}kino mechanikas
+0{projective}[pr&#601;'d&#658;ekt&#618;v]E{a}projekcinis, išsikišęs
+0{projector}[pr&#601;'d&#658;ekt&#601;]E{n}I{1}projektuotojas, projektų/planų kūrėjas/sudarytojasI{2}L{kin.}projektorius, projekcinis aparatas;F{overhead projector}epidiaskopasI{3}prožektoriusI{4}L{kar.}granatsvaidis; liepsnosvaidis; dujosvaidis
+0{prokaryote}[pr&#601;u'k&aelig;r&#618;&#601;ut]E{n}L{biol.}prokariotasl{(organizmas, neturintis ląstelėse tikro branduolio)}
+0{prolactin}[pr&#601;u'l&aelig;kt&#618;n]E{n}L{fiziol.}prolaktinas
+0{prolapse}['pr&#601;ul&aelig;ps]L{med.}S{&rArr;}E{n}l{(vidaus organo)}iškritimas, prolapsasS{&rArr;}E{v}iškristil{(apie vidaus organą)}
+0{prolate}['pr&#601;ule&#618;t]E{a}I{1}L{geom.}ištįsęs, pailgėjęsl{(prie polių,L{pvz.}, sferoidas)}I{2}L{prk.}paplitęs
+0{prole}[pr&#601;ul]E{n}L{šnek.}L{menk.}proletaras
+0{prolegomena}[,pr&#601;ul&#618;'g&#596;m&#618;n&#601;]E{n}E{pl}L{knyg.}įvadas, įvadinės pastabos, prolegomenai
+0{proletarian}[,pr&#601;ul&#618;'t&#604;&#601;r&#618;&#601;n]S{&rArr;}E{n}proletarasS{&rArr;}E{a}proletarinis
+0{proletarianization}[,pr&#601;ul&#618;,t&#604;&#601;r&#618;&#601;na&#618;'ze&#618;&#643;n]E{n}proletarizacija, (su)proletarėjimas; (su)proletarinimas
+0{proletariat(e)}[,pr&#601;ul&#618;'t&#604;&#601;r&#618;&#601;t]E{n}proletariatas
+0{prolicide}['pr&#601;ul&#618;sa&#618;d]E{n}L{knyg.}vaikžudystė
+0{pro-life}[,pr&#601;u'la&#618;f]E{a}pasisakantis prieš abortus
+0{pro-lifer}[,pr&#601;u'la&#618;f&#601;]E{n}abortų priešininkas
+0{proliferate}[pr&#601;'l&#618;f&#601;re&#618;t]E{v}I{1}(greitai) daugėti, augti; plistil{(apie žiniasL{ir pan.})}I{2}L{biol.}proliferuoti; daugintis, pumpuruoti
+0{proliferation}[pr&#601;,l&#618;f&#601;'re&#618;&#643;n]E{n}I{1}daugėjimas; paplitimasI{2}L{biol.}proliferacija; dauginimasis, pumpuravimas
+0{prolific}[pr&#601;'l&#618;f&#618;k]E{a}I{1}vaisingas, produktyvusl{(L{t. p.}L{prk.})};F{prolific writer}produktyvus rašytojasI{2}L{zool.}vislusI{3}L{knyg.}gaususl{(in)}; turintis daugl{(of)}
+0{prolificacy}[pr&#601;'l&#618;f&#618;k&#601;s&#618;]E{n}I{1}vaisingumasI{2}vislumas
+0{prolix}['pr&#601;ul&#618;ks]E{a}daugiažodis; ištęstas, nuobodusl{(apie kalbąL{ir pan.})}; daugiakalbis
+0{prolixity}[pr&#601;'l&#618;ks&#601;t&#618;]E{n}daugiažodiškumas; ištęstumas, nuobodumas
+0{prolocutor}[pr&#601;u'l&#596;kjut&#601;]E{n}pirmininkasl{(ypač bažnyčios susirinkimo)}
+0{prologize}['pr&#601;ul&#601;ga&#618;z]E{v}L{knyg.}rašyti/sakyti prologą
+0{prologue}['pr&#601;ul&#596;g]E{n}prologasl{(L{t. p.}L{prk.})}
+0{prolong}[pr&#601;'l&#596;&#331;]E{v}I{1}(pra)ilginti, (pra)tęsti;F{to prolong one’s life}prailginti savo gyvenimą;F{to prolong the term}pratęsti terminąI{2}L{spec.}prolonguoti
+0{prolongation}[,pr&#601;ul&#596;&#331;'ge&#618;&#643;n]E{n}I{1}prailginimas, (pra)tęsimasI{2}L{spec.}prolongacijaI{3}tęsinys, tąsa
+0{prolonged}[pr&#601;'l&#596;&#331;d]E{a}užsitęsęs, ilgai trunkantis;F{prolonged visit}užsitęsęs vizitas
+0{prolusion}[pr&#601;'lju:&#658;n]E{n}L{knyg.}I{1}įžanginis straipsnis; preliminarinės pastabosI{2}literatūrinis debiutas, pirmasis spausdintas kūrinys
+0{prom}[pr&#596;m]E{n}L{sutr.}L{šnek.}I{1}A{=R{promenade}}2I{2}A{=R{promenade concert}}I{3}L{amer.}l{(mokinių, studentų)}šokių vakarasl{(L{ppr.}mokslo metų pabaigoje)}
+0{PROM}L{sutr.}X{programmable read-only memory}L{komp.}programuojamoji skaitomoji atmintis
+0{prom.}L{sutr.}X{promontory}L{geogr.}kyšulys
+0{promenade}[,pr&#596;m&#601;'na:d]S{&rArr;}E{n}I{1}pasivaikščiojimas; pasivažinėjimasI{2}pasivaikščiojimo vieta/takasI{3}A{=R{prom}}3I{4}E{attr}:X{promenade concert}koncertas, kurio metu publika gali laisvai vaikščioti po salęl{(dalis salės stovintiems klausytojams)};F{promenade deck}viršutinis denisl{(kur keleiviai gali pasivaikščioti)}S{&rArr;}E{v}I{1}pasivaikščioti, vaikštinėtiI{2}vesti pasivaikščiotil{(ypač norint parodyti, kad visi matytų)}
+0{Prometheus}[pr&#601;'mi:&theta;ju:s]E{n}L{mit.}Prometėjas
+0{Promethian}[pr&#601;'mi:&theta;&#618;&#601;n]E{a}:X{Promethian fire}Prometėjo ugnis
+0{promethium}[pr&#601;'mi:&theta;&#618;&#601;m]E{n}L{chem.}prometis
+0{prominence, -cy}['pr&#596;m&#618;n&#601;ns, -s&#618;]E{n}I{1}išsikišimas; iškiluma(s)I{2}reikšmingumas, žymumas; aukšta padėtis;F{to come to prominence as a writer}tapti žymiam kaip rašytojui;F{to give smth prominence}(su)reikšminti kąI{3}L{astr.}protuberantas
+0{prominent}['pr&#596;m&#618;n&#601;nt]E{a}I{1}išsikišęs; iškilus, iškilas, reljefiškasI{2}gerai matomas, pastebimas;F{in a prominent place}matomoje vietojeI{3}įžymus, garsus; žinomasl{(in)}
+0{prominently}['pr&#596;m&#618;n&#601;ntl&#618;]E{adv}ryškiai, pastebimai
+0{promiscuity}[,pr&#596;m&#618;'skju:&#601;t&#618;]E{n}I{1}įvairumas, nevienodumasI{2}mišrumas; susimaišymas, netvarkingumasI{3}paleistuvavimas;L{spec.}promiskuitetas
+0{promiscuous}[pr&#601;'m&#618;skju&#601;s]E{a}I{1}pasileidęs, doroviškai pakrikęs;F{promiscuous girl}paleistuvėI{2}įvairus, įvairiarūšis;F{promiscuous crowd}marga miniaI{3}mišrus, sumaišytas, netvarkingas;F{promiscuous bathing}bendras maudymasisI{4}L{psn.}nedarantis skirtumo, nesirenkantis
+0{promise}['pr&#596;m&#618;s]S{&rArr;}E{n}I{1}pažadas; prižadėjimas;F{to make/give a promise}žadėti;F{to keep one’s promise}ištesėti, išlaikyti/išpildyti pažadą;F{conditional promise}L{teis.}sąlyginis įsipareigojimasI{2}perspektyva, viltys;F{to give/show promise}būti perspektyviam;F{of (great) promise}daug žadantis, teikiantis vilčių;F{there seems little promise of peace}atrodo, maža vilčių, jog bus taikaS{&rArr;}E{v}I{1}(pa)žadėti, prižadėtiI{2}teikti vilčiųI{3}L{šnek.}:X{I promise you}tikėkit manim;F{it was not so easy, I promise you}patikėkit, tai nebuvo labai lengva;F{I promise you, the work won’t be easy}aš įspėju, darbas bus nelengvas
+0{promised}['pr&#596;m&#618;st]E{a}žadėtas;F{promised land}L{bibl.}pažadėtoji žemėl{(L{t. p.}L{prk.})}
+0{promisee}[,pr&#596;m&#618;'si:]E{n}L{teis.}I{1}asmuo, kuriam įsipareigotaI{2}kreditorius; vekselio turėtojas
+0{promiser}['pr&#596;m&#618;s&#601;]E{n}A{=R{promisor}}
+0{promising}['pr&#596;m&#618;s&#618;&#331;]E{a}daug žadantis, perspektyvus, teikiantis vilčių;F{things look promising}yra vilčių
+0{promisor}['pr&#596;m&#618;s&#601;]E{n}L{teis.}I{1}(pa)žadėtojas; skolininkasI{2}vekselio (iš)davėjas
+0{promissory}['pr&#596;m&#618;s&#601;r&#618;]E{a}L{ekon.}įsipareigojantis;F{promissory note}skolinis įsipareigojimas; paprastasis vekselis
+0{promo}['pr&#601;um&#601;u]S{&rArr;}E{n}(E{pl}promos[-z])L{šnek.}reklaminis filmukasS{&rArr;}E{a}reklaminis
+0{promontory}['pr&#596;m&#601;ntr&#618;]E{n}I{1}L{geogr.}kyšulys, ragasI{2}L{anat.}išsikišimas
+0{promote}[pr&#601;'m&#601;ut]E{v}I{1}pagelbėti, prisidėti; paremti, skatintil{(augimą, pardavimąL{ir pan.};)}X{to promote trade}skatinti prekybos augimąI{2}reklamuotiI{3}paaukštinti, pakeltil{(tarnyboje)}I{4}perkelti į aukštesnę klasęl{(mokinį)}I{5}L{šach.}paverstil{(pėstininką valdove)}
+0{promoter}[pr&#601;'m&#601;ut&#601;]E{n}I{1}rėmėjas; propaguotojasI{2}l{(bendrovės)}steigėjasl{(L{t. p.}X{company promoter})};F{promoters shares}steigėjų akcijosI{3}L{chem.}aktyvatorius
+0{promotion}[pr&#601;'m&#601;u&#643;n]E{n}I{1}paaukštinimas, pakėlimasl{(tarnyboje)}I{2}l{(mokinio)}perkėlimas į aukštesnę klasęI{3}L{ekon.}skatinimasl{(pardavimoL{ir pan.})}; reklamavimas; reklama;F{promotion man}agentas, tarpininkasI{4}reklaminis gaminysI{5}rėmimas, parama; propagavimasI{6}l{(akcinės bendrovėsL{ir pan.})}steigimas
+0{promotional}[pr&#601;'m&#601;u&#643;n&#601;l]E{a}reklaminis
+0{prompt^{1}}[pr&#596;mpt]S{&rArr;}E{a}I{1}greitas, skubus; skubrus;F{prompt assistance}neatidėliotina/neatidėtina pagalbaI{2}punktualus; tikslusI{3}L{kom.}apmokėtas/pristatytas nedelsiant;F{for prompt cash}už grynus pinigusS{&rArr;}E{adv}I{1}greitaiI{2}tiksliai, lygiai;F{at five o’clock prompt}lygiai penktą valandą
+0{prompt^{2}}S{&rArr;}E{n}I{1}(pa)sufleravimas; pasakinėjimas; užminimasI{2}L{komp.}kreipinys kompiuterio ekrane, raginantis pradėti naują operaciją; raginimasS{&rArr;}E{v}I{1}raginti, (pa)skatintiI{2}įteigti; įkvėpti, sukeltil{(mintįL{ir pan.})}I{3}(pa)sufleruotil{(L{t. p.}L{teatr.})}; pasakinėti;F{no prompting!}nesufleruokite!, nepasakinėti!
+0{prompt^{3}}E{n}L{kom.}mokėjimo diena/terminas
+0{prompt-box}['pr&#596;mptb&#596;ks]E{n}suflerio būdelė
+0{prompter}['pr&#596;mpt&#601;]E{n}I{1}suflerisl{(L{t. p.}L{teatr.})}; pasakinėtojasI{2}skatintojas, skubintojas
+0{promptitude}['pr&#596;mpt&#618;tju:d]E{n}I{1}greitumas, skubumas; skubrumasI{2}L{kom.}savalaikiškumas;F{promptitude in paying}l{(įmokų)}mokėjimas laiku
+0{promptly}['pr&#596;mptl&#618;]E{adv}I{1}greitai, skubiai, nedelsiant, tuojau patI{2}tiksliai; punktualiai;F{the performance begins promptly at eight o’clock}spektaklis prasideda lygiai/tiksliai aštuntą valandą
+0{promptness}[pr&#596;mptn&#618;s]E{n}greitumas
+0{prompt-note}['pr&#596;mptn&#601;ut]E{n}apmokėtinos sąskaitos priminimas klientuil{(raštelis)}
+0{prompt-side}['pr&#596;mptsa&#618;d]E{n}L{teatr.}I{1}kairioji scenos pusėl{(nuo artisto)}I{2}L{amer.}dešinioji scenos pusėl{(nuo artisto)}
+0{promulgate}['pr&#596;mX{&#601;}lge&#618;t]E{v}I{1}L{ofic.}paskelbtil{(naują įstatymąL{ir pan.})}I{2}(pa)skleisti, (iš)platintil{(pažiūras, teorijąL{ir pan.})}
+0{promulgation}[,pr&#596;mX{&#601;}l'ge&#618;&#643;n]E{n}I{1}L{ofic.}paskelbimas; promulgacijaI{2}paskleidimas
+0{pron.}L{sutr.}X{pronoun}įvardisX{pronunciation}tarimas
+0{prone}[pr&#601;un]E{a}I{1}kniūbsčias; išsitiesęs;F{to fall prone}pulti kniūbsčiam, išsitiestiI{2}E{predic}linkęs, turintis polinkįl{(to)}l{(L{t. p.}L{sudurt.}žodžiuose)};F{he is prone to prompt action}jis linkęs greitai veikti;F{prone to anger}greit supykstantis, ūmus;F{coronary-prone}turintis polinkį į koronarinius susirgimusI{3}L{psn.}nuotakus, nuolaidus
+0{prong}[pr&#596;&#331;]S{&rArr;}E{n}I{1}l{(šakutėsL{ir pan.})}dantis;l{(šakių)}virbalas, pirštasI{2}šakėsI{3}l{(briedžio ragoL{ir pan.})}šaka, išsikišimas, smaigalysI{4}L{amer.}l{(upės)}šakaS{&rArr;}E{v}I{1}kelti/versti šakėmisI{2}durti, įsmeigti, smaigyti
+0{pronominal}[pr&#601;u'n&#596;m&#618;nl]E{a}L{gram.}įvardinis; įvardžiuotinis
+0{pronominalization}[pr&#601;u,n&#596;m&#618;n&#601;la&#618;'ze&#618;&#643;n]E{n}L{gram.}įvardėjimas, pronominalizacija
+0{pronoun}['pr&#601;unaun]E{n}L{gram.}įvardis
+0{pronounce}[pr&#601;'nauns]E{v}I{1}(iš)tartiI{2}paskelbti; pareikšti;F{to pronounce a sentence}L{teis.}paskelbti nuosprendį;F{to pronounce a curse}l{(upon)}prakeiktiI{3}l{(L{džn.}E{refl})}pareikšti savo nuomonę, pasisakytil{(on, for, against)}
+0{pronounceable}[pr&#601;'nauns&#601;bl]E{a}(lengvai) ištariamas
+0{pronounced}[pr&#601;'naunst]E{a}I{1}aiškiai išreikštas, ryškus;F{pronounced smell}smarkus kvapas;F{pronounced accent}jaučiamas akcentas;F{he has pronounced views on this subject}jis turi aiškų/tvirtą požiūrį šiuo klausimuI{2}ištartas
+0{pronouncement}[pr&#601;'naunsm&#601;nt]E{n}I{1}l{(nutarimo, nuosprendžio)}paskelbimasI{2}nutarimas, oficialus pareiškimasI{3}(iš)tarimas
+0{pronouncing}[pr&#601;'nauns&#618;&#331;]E{n}I{1}(iš)tarimas;F{pronouncing dictionary}ortoepijos/tarimo žodynasI{2}paskelbimas
+0{pronto}['pr&#596;nt&#601;u]E{adv}L{šnek.}greitai, skubiai, nedelsiant
+0{pronunciation}[pr&#601;,n&#652;ns&#618;'e&#618;&#643;n]E{n}I{1}(iš)tarimasI{2}tarsena; tartis
+0{proof}[pru:f]S{&rArr;}E{n}I{1}įrodymasl{(L{t. p.}L{teis.},L{mat.})};F{proof of identity}tapatumo įrodymas;F{in proof of it}tam įrodytiI{2}išmėginimas, išbandymas; patikrinimas;F{to put smth/smb to the proof}išbandyti kąI{3}l{(spirito)}nustatytas stiprumo laipsnisI{4}mėgintuvėlisI{5}L{poligr.}korektūraI{6}l{(ypačL{fot.})}bandomasis atspaudas, bandomoji nuotraukaS{&rArr;}E{a}I{1}išmėgintas; nepramušamasl{(against)};F{proof against water}nepralaidus vandeniuiI{2}nepalenkiamas; nepasiduodantisl{(gundymuiL{ir pan.}; against)}I{3}nustatyto stiprumol{(apie spiritą)};F{to be 40° proof}būti 40° stiprumoS{&rArr;}vI{1}daryti nepralaidų; impregnuotiI{2}L{amer.}L{poligr.}taisyti korektūrą/skiltis
+0{-proof}[-pru:f]l{(L{sudurt.}žodžiuose)}nepralaidus, atsparus;F{waterproof}vandeniui nepralaidus;F{fireproof}ugniai atsparus, nedegantis
+0{proofread}['pru:fri:d]E{v}(proofread['pru:fred]) taisyti/skaityti korektūrą/skiltis
+0{proofreader}['pru:f,ri:d&#601;]E{n}korektorius;F{proofreader’s mark}L{poligr.}korektūros ženklas
+0{proof-sheet}['pru:f&#643;i:t]E{n}bandomoji nuotrauka, korektūra
+0{prop^{1}}[pr&#596;p]S{&rArr;}E{n}I{1}ramstis, atrama, paspara, paspirtisl{(L{t. p.}L{prk.})};F{the prop (and stay) of the home}šeimos ramstis/išlaikytojasI{2}kuoliukas, pagaliukasl{(L{t. p.}augalams paremti/pririšti)}I{3}E{pl}L{kas.}sutvirtinimaiS{&rArr;}E{v}l{(L{t. p.}X{prop up})}I{1}atremti; (pa)remti, (pa)ramstyti;E{refl}atsiremtil{(against – į)}I{2}L{prk.}palaikyti, paremti
+0{prop^{2}}E{n}l{(L{ppr.}E{pl})}(propertyL{sutr.})L{teatr.}L{šnek.}I{1}butaforijaI{2}rekvizitininkas
+0{prop^{3}}E{n}(propositionL{sutr.})L{mok.}L{sl.}teorema
+0{prop^{4}}E{n}(propellerL{sutr.})L{av.}L{šnek.}propeleris
+0{prop.}L{sutr.}X{properly}deramai, tinkamaiX{proposition}teoremaX{proprietor}savininkas
+0{propaedeutic(al)}[,pr&#601;upi:'dju:t&#618;k(l)]E{a}įvadinis, propedeutinis
+0{propaedeutics}[,pr&#601;upi:'dju:t&#618;ks]E{n}įvadinis kursas, propedeutika
+0{propaganda}[,pr&#596;p&#601;'g&aelig;nd&#601;]E{n}I{1}propagandaI{2}E{attr}propagandinis
+0{propagandist}[,pr&#596;p&#601;'g&aelig;nd&#618;st]E{n}propagandininkas
+0{propagandize}[,pr&#596;p&#601;'g&aelig;nda&#618;z]E{v}propaguoti, užsiimti propaganda
+0{propagate}['pr&#596;p&#601;ge&#618;t]E{v}I{1}skleisti, platinti, propaguotiI{2}dauginti(s); veisti(s);F{a species that propagates by spores}rūšis, kuri dauginasi sporomisI{3}perduoti paveldėjimo keliul{(ypatybes)}I{4}L{fiz.}sklisti, per(si)duoti
+0{propagation}[,pr&#596;p&#601;'ge&#618;&#643;n]E{n}I{1}skleidimas, platinimas, propagavimas;F{propagation of ideas [of knowledge]idėjų [žinių] skleidimasI{2}dauginimas(is); veisimas(is)I{3}L{fiz.}l{(garso, šviesos, bangų)}sklidimas
+0{propagator}['pr&#596;p&#601;ge&#618;t&#601;]E{n}I{1}propaguotojasI{2}dėžutė/puodas sėkloms daiginti
+0{propane}['pr&#601;upe&#618;n]E{n}L{chem.}propanas
+0{propel}[pr&#601;'pel]E{v}X{(-ll-)}stumti į priekį, (iš)judinti, varytil{(L{t. p.}L{prk.})};F{propelled by electricity}elektros varomas
+0{propellant, -lent}[pr&#601;'pel&#601;nt]S{&rArr;}E{n}I{1}varomoji jėgaI{2}raketinis kurasI{3}L{kar.}metamoji sprogstamoji medžiagaS{&rArr;}E{a}A{=R{propelling}}
+0{propeller}[pr&#601;'pel&#601;]E{n}I{1}propeleris, orsraigtisI{2}l{(laivo)}vandensraigtis, sraigtas, varytuvas
+0{propelling}[pr&#601;'pel&#618;&#331;]E{a}I{1}varomasis, stumiamasis;F{propelling force}varytuvo traukos jėga;F{propelling pencil}automatinis pieštukasl{(su įdedama šerdele)}I{2}metamasis
+0{propelling-pencil}[pr&#601;'pel&#618;&#331;'pensX{&#601;}l]E{n}automatinis pieštukas
+0{propensity}[pr&#601;'pens&#601;t&#618;]E{n}L{knyg.}palinkimas, polinkis
+0{proper}['pr&#596;p&#601;]S{&rArr;}E{a}I{1}(pri)deramas, tinkamas, reikiamas;F{proper behaviour}prideramas/padorus elgesys;F{all in it’s proper time [place]viskas savo laiku [vietoje]I{2}tikras(is); teisingas;F{proper fraction}L{mat.}tikroji trupmena;F{in a proper sense}tikrąja prasmeI{3}(pavartotas) siaurąja žodžio prasme;F{literature proper}literatūra siaurąja žodžio prasmeI{4}būdingas, savybingasl{(to)}I{5}L{šnek.}visiškas; F{I felt a proper fool}aš jaučiausi visiškas kvailys;F{he is a proper rascal}jis geras sukčius;F{he was in a proper rage}jis buvo kaip reikiant įsiutęsI{6}L{gram.}tikrinis; F{proper name/noun}tikrinis daiktavardisI{7}L{psn.}gražus, puikusI{8}L{psn.}savo, nuosavas;F{with my own proper hands}savo paties rankomis S{&rArr;}E{adv}L{šnek.}A{=R{properly}}1, 4
+0{properly}['pr&#596;p&#601;l&#618;]E{adv}I{1}(pri)deramai, tinkamai, padoriaiI{2}teisingai; kaip reikiant;F{quite/perfectly properly}visiškai teisingaiI{3}iš tikrųjų;F{properly speaking}tikrai/tiesą sakantI{4}L{šnek.}visiškai; gerokai; išsamiai
+0{propertied}['pr&#596;p&#601;t&#618;d]E{a}E{attr}turintis nuosavybę; turtingas;F{the propertied classes}turtingųjų klasės, turtuoliai
+0{property}['pr&#596;p&#601;t&#618;]E{n}I{1}nuosavybė; turtasl{(L{džn.}kilnojamasis)};F{government property}valstybės nuosavybė;F{a man of property}savininkas; turtuolis;F{the news is common property}ši žinia nėra niekam naujiena;F{property qualification}turto cenzas;F{property tax}turto mokestis;F{property relations}turtiniai santykiaiI{2}žemės nuosavybė; dvaras, ūkisI{3}l{(L{ppr.}E{pl})}ypatybė, savybėI{4}l{(L{ppr.}E{pl})}L{teatr.}butaforija; rekvizitasS{&loz;}X{hot property}populiarus artistas/dainininkasL{ir pan.}l{(kurį nori turėti teatraiL{ir pan.})}
+0{propertyless}['pr&#596;p&#601;t&#618;l&#618;s]E{a}beturtis
+0{property-man}['pr&#596;p&#601;t&#618;m&aelig;n]E{n}(E{pl}-men[-men])l{(L{tik v.})}L{teatr.}rekvizitininkas
+0{property-mistress}['pr&#596;p&#601;t&#618;,m&#618;str&#618;s]E{n}L{teatr.}rekvizitininkė
+0{prophecy}['pr&#596;f&#601;s&#618;]E{n}pranašystė, pranašavimas; numatymas
+0{prophesy}S{&rArr;}E{v}['pr&#596;f&#601;sa&#618;]pranašauti; spėti; numatytiS{&rArr;}E{n}['pr&#596;f&#601;s&#618;]L{amer.}A{=R{prophecy}}
+0{prophet}['pr&#596;f&#618;t]E{n}I{1}l{(L{tik v.})}L{bažn.}pranašas;F{the Prophet}Mahometas;F{the Prophets}l{(Senojo testamento)}Pranašų knygosI{2}pranašautojas, pranašasI{3}l{(minties, teorijosL{ir pan.})}skleidėjas, šalininkas
+0{prophetess}['pr&#596;f&#618;t&#618;s, ,pr&#596;f&#618;'tes]E{n}pranašė
+0{prophetic(al)}[pr&#601;'fet&#618;k(l)]E{a}I{1}pranašoI{2}pranašiškas, pranašingas
+0{prophetically}[pr&#601;'fet&#618;kX{&#601;}ll&#618;]E{adv}pranašiškai
+0{prophylactic}[,pr&#596;f&#618;'l&aelig;kt&#618;k]L{med.}S{&rArr;}E{a}profilaktinis, apsauginisS{&rArr;}E{n}I{1}profilaktinė priemonėI{2}L{amer.}prezervatyvas
+0{prophylaxis}[,pr&#596;f&#618;'l&aelig;ks&#618;s]E{n}(E{pl}-xes[-ksi:z])L{med.}profilaktika
+0{propinquity}[pr&#601;'p&#618;&#331;kw&#601;t&#618;]E{n}L{knyg.}I{1}artimumas, gretimumasI{2}giminingumas; panašumas
+0{propitiate}[pr&#601;'p&#618;&#643;&#618;e&#618;t]E{v}L{knyg.}I{1}permaldauti, suminkštinti širdį; nuramintil{(pyktįL{ir pan.})}I{2}sutaikinti
+0{propitiation}[pr&#601;,p&#618;&#643;&#618;'e&#618;&#643;n]E{n}L{knyg.}I{1}permaldavimas; nuraminimasI{2}sutaikinimas
+0{propitiatory}[pr&#601;'p&#618;&#643;&#618;&#601;tX{&#601;}r&#618;]E{a}L{knyg.}I{1}siekiantis suminkštinti širdį, raminamasisI{2}l{(kaltės)}atpirkimo, atperkamasis
+0{propitious}[pr&#601;'p&#618;&#643;&#601;s]E{a}palankus; prielankus, maloningas
+0{propjet}['pr&#596;pd&#658;et]E{n}turbosraigtinis variklis/lėktuvas
+0{propolis}['pr&#596;p&#601;l&#618;s]E{n}propolis, pikis
+0{proponent}[pr&#601;'p&#601;un&#601;nt]E{n}I{1}gynėjas, šalininkasI{2}siūlytojas;l{(pasiūlymoL{ir pan.})}pateikėjas
+0{proportion}[pr&#601;'p&#596;:&#643;n]S{&rArr;}E{n}I{1}proporcijal{(L{t. p.}L{mat.})}, santykisI{2}proporcingumas;F{in proportion}l{(to)}X{a)}proporcingas, proporcingail{(kam)};X{b)}palygintil{(su)};F{out of proportion}l{(to)}X{a)}neproporcingas, neproporcingai;X{b)}nepalygintiI{3}dalis;F{a large proportion of the audience}didžioji žiūrovų dalisI{4}l{(L{ppr.}E{pl})}dydis, mastas;F{to reach alarming proportions}pasiekti nerimą keliantį mastą;F{sense of proportion}saiko jautimas/žinojimasI{5}L{mat.}triskaitė taisyklėS{&loz;}X{to get blow things (all) out of proportion}išpūsti, perdėtiS{&rArr;}E{v}I{1}(su)derintil{(to – su)}I{2}paskirstyti, dozuoti
+0{proportionable}[pr&#601;'p&#596;:&#643;n&#601;bl]L{ret.}A{=R{proportional}}E{a}
+0{proportional}[pr&#601;'p&#596;:&#643;n&#601;l]S{&rArr;}E{a}proporcingas; proporcinis;F{proportional representation}proporcingo atstovavimo sistema, proporcinė rinkimų sistema;F{directly [inversely] proportional}tiesiogiai [atvirkščiai] proporcingasS{&rArr;}E{n}L{mat.}proporcijos narys
+0{proportionality}[pr&#601;,p&#596;:&#643;&#601;'n&aelig;l&#601;t&#618;]E{n}proporcingumas
+0{proportionally}[pr&#601;'p&#596;:&#643;X{&#601;}n&#601;ll&#618;]E{adv}proporcingai
+0{proportionate}[pr&#601;'p&#596;:&#643;X{&#601;}n&#601;t]S{&rArr;}E{a}proporcingas, atitinkantisl{(to)}S{&rArr;}E{v}daryti proporcingą, (su)derinti
+0{proportionately}[pr&#601;'p&#596;:&#643;X{&#601;}ne&#618;tl&#618;]E{adv}atitinkamai, proporcingai
+0{proportioned}[pr&#601;'p&#596;:&#643;nd]E{a}proporcingas, atitinkantis;F{the punishment was fully proportioned to the offence}bausmė visai atitiko nusikaltimo sunkumą
+0{proposal}[pr&#601;'p&#601;uzl]E{n}I{1}pasiūlymas; siūlymas;F{to put forward a proposal}pateikti pasiūlymąI{2}pasipiršimas
+0{propose}[pr&#601;'p&#601;uz]E{v}I{1}(pa)siūlyti; pateiktil{(svarstyti)};F{to propose smb’s health, to propose a toast to smb}siūlyti tostą už ką;F{to propose a motion}pateikti pasiūlymą;F{the object I propose to myself}tikslas, kurį aš sau keliuI{2}teigtil{(apie teoriją)}I{3}ketinti;F{we propose to leave at noon}mes ketiname išvykti vidurdienįI{4}pasipirštil{(to)}S{&loz;}X{man proposes God disposes}S{&cong;}žmogus šaudo, Dievas kulkas gaudo
+0{proposer}[pr&#601;'p&#601;uz&#601;]E{n}pasiūlymo autorius;l{(klausimo, teorijosL{ir pan.})}pateikėjas
+0{proposition}[,pr&#596;p&#601;'z&#618;&#643;n]S{&rArr;}E{n}I{1}teiginys, tvirtinimasI{2}pasiūlymas; planas, projektasI{3}L{mat.}teorema; uždavinysI{4}L{šnek.}(sunkus) reikalas, problema; biznis;F{he’s a tough proposition}su juo yra nelengva/sunkuI{5}L{euf.}pasisiūlymasl{(moteriai, vyrui)}S{&rArr;}E{v}L{euf.}pasisiūlytil{(moteriai, vyrui)}
+0{propound}[pr&#601;'paund]E{v}I{1}pateikti svarstytiI{2}L{teis.}pateikti tvirtinti testamentą
+0{proprietary}[pr&#601;'pra&#618;&#601;tX{&#601;}r&#618;]S{&rArr;}E{a}I{1}savininko; savininkiškas; privatus; nuosavybės;F{proprietary hospital}L{amer.}privati ligoninė;F{proprietary rights}savininko/nuosavybės teisėsI{2}firmos, firminis; patentuotas;F{proprietary medicine}patentuotas vaistasS{&rArr;}E{n}I{1}nuosavybės teisė; nuosavybėI{2}savininkas;L{kuop.}savininkai, savininkų klasėl{(L{t. p.}X{the proprietary classes})}I{3}patentuotas vaistas
+0{proprietor}[pr&#601;'pra&#618;&#601;t&#601;]E{n}savininkas; valdytojas
+0{proprietorial}[pr&#601;,pra&#618;&#601;'t&#596;:r&#618;&#601;l]E{a}savininko; savininkiškas
+0{proprietorship}[pr&#601;'pra&#618;&#601;t&#601;&#643;&#618;p]E{n}I{1}privati nuosavybė; nuosavybės teisėI{2}žemės nuosavybė
+0{proprietress}[pr&#601;'pra&#618;&#601;tr&#618;s]E{n}savininkė; valdytoja
+0{propriety}[pr&#601;'pra&#618;&#601;t&#618;]E{n}I{1}teisingumas; prideramumas, tinkamumasI{2}padorumas;F{the proprieties}elgesio normos, mandagumo taisyklės
+0{propulsion}[pr&#601;'p&#652;l&#643;n]E{n}I{1}varymas, stūmimas į priekįI{2}varomoji jėgal{(L{t. p.}L{prk.})}; pastūmėjimas, impulsas
+0{propulsive}[pr&#601;'p&#652;ls&#618;v]E{a}stumiamasis, varomasis, sukeliantis judėjimą
+0{propylene}['pr&#601;up&#618;li:n]E{n}L{chem.}propilenas
+0{pro rata}[,pr&#601;u'ra:t&#601;]L{lot.}L{knyg.}S{&rArr;}E{adv}atitinkamai, proporcingai, pagal kąS{&rArr;}E{a}proporcingas, apmokamas pagal atliktą darbą, vartojimo laiką
+0{prorate}[,pr&#601;u're&#618;t]E{v}l{(ypačL{amer.})}skirstyti/apskaičiuoti proporcingai
+0{prorogation}[,pr&#601;ur&#601;'ge&#618;&#643;n]E{n}I{1}pertrauka parlamento darbel{(valstybės vadovui įsakius)}I{2}L{spec.}prorogacija, valstybės vadovo teisė atidėti parlamento sesijas
+0{prorogue}[pr&#601;'r&#601;ug]E{v}L{parl.}padaryti pertrauką svarstant kokį klausimąl{(iki kito posėdžio)}; nutraukti posėdžius
+0{prosaic}[pr&#601;X{u}'ze&#618;&#618;k]E{a}I{1}prozos, prozinisI{2}proziškas, kasdieniškas, pilkas, nuobodus
+0{prosaism}['pr&#601;uze&#618;&#618;zm]E{n}I{1}prozaizmasI{2}proziškumas
+0{prosaist}['pr&#601;uze&#618;&#618;st]E{n}L{knyg.}prozininkas, prozaikasl{(L{t. p.}L{prk.})}
+0{proscenium}[pr&#601;X{u}'si:n&#618;&#601;m]E{n}(E{pl}-ia[-&#618;&#601;], prosceniums) avanscena; prosceniumasl{(L{t. p.}L{ist.})}
+0{prosciuto}[pr&#601;u'&#643;u:t&#601;u]L{it.}E{n}L{kul.}džiovintas kumpis
+0{proscribe}[pr&#601;X{u}'skra&#618;b]E{v}I{1}oficialiai uždrausti; pasmerktiI{2}L{ist.}paskelbti už įstatymo ribų; ištremti
+0{proscription}[pr&#601;X{u}'skr&#618;p&#643;n]E{n}I{1}L{knyg.}uždraudimasI{2}L{ist.}paskelbimas už įstatymo ribų; ištrėmimas, ištremtisI{3}L{ist.}proskripcija
+0{prose}[pr&#601;uz]S{&rArr;}E{n}I{1}prozal{(L{t. p.}L{prk.})}I{2}proziškumasI{3}L{mok.}vertimas iš gimtosios į svetimą kalbąl{(pratimas)}S{&rArr;}E{v}I{1}nuobodžiai rašyti/kalbėtiI{2}rašyti proza
+0{prosector}[pr&#601;u'sekt&#601;]E{n}L{med.}l{(ypačL{ist.})}prozektorius
+0{prosecute}['pr&#596;s&#618;kju:t]E{v}I{1}vykdyti; toliau darytil{(ką)}; užsiimti;F{to prosecute an inquiry}vykdyti toliau tyrimą I{2}L{teis.}patraukti baudžiamojon atsakomybėn; persekioti baudžiamąja tvarka; kaltinti;F{to prosecute a claim for damages}iškelti/pareikšti ieškinį dėl nuostolių padengimoI{3}L{teis.}palaikyti kaltinimą, būti kaltintojo advokatu
+0{prosecution}[,pr&#596;s&#618;'kju:&#643;n]E{n}I{1}vykdymas; užsiėmimasl{(of – kuo)};F{he was killed in the prosecution of his duties}jis žuvo vykdydamas savo pareigas;F{prosecution of war}karo vedimas, kariavimasI{2}L{teis.}baudžiamasis persekiojimas; patraukimas baudžiamojon atsakomybėnI{3}L{teis.}kaltinimas; ieškinį pareiškusioji šalis;F{to appear for the prosecution}būti kaltinimo liudytoju
+0{prosecutor}['pr&#596;s&#618;kju:t&#601;]E{n}L{teis.}I{1}kaltintojas;F{public prosecutor}prokurorasI{2}ieškovas
+0{proselyte}['pr&#596;s&#601;la&#618;t]E{n}perkrikštas, naujakrikštis; prozelitas
+0{proselytize}['pr&#596;s&#601;l&#618;ta&#618;z]E{v}L{knyg.}(stengtis) atversti į kitą tikėjimą; (stengtis) patraukti į kitą partiją
+0{prosit}['pr&#601;us&#618;t]L{lot.}E{int}į Jūsų sveikatąl{(sakoma geriant)}
+0{prosodemic}[,pr&#596;s&#601;X{u}'dem&#618;k]E{a}L{med.}plintantis kontaktų keliul{(apie ligą)}
+0{prosodic}[pr&#601;'s&#596;d&#618;k]E{a}L{lit.}prozodinis
+0{prosody}['pr&#596;s&#601;d&#618;]E{n}L{lit.}prozodija
+0{prosopopoeia}[,pr&#596;s&#601;p&#601;'pi:&#601;]E{n}L{lit.}prozopopėja; įasmeninimas
+0{prospect}S{&rArr;}E{n}['pr&#596;spekt]I{1}vaizdas, panorama, perspektyvaI{2}l{(L{džn.}E{pl})}perspektyva; ateities vaizdas/planas/ketinimas;F{in prospect}perspektyvoje, netolimoje ateityje;F{a man of no prospects}žmogus, neturintis jokių perspektyvų;F{there is little prospect of improvement}maža vilties, kad pagerės;F{what are your prospects for tomorrow?}ką jūs rengiatės rytoj daryti?I{3}numatomas/galimas klientas/kandidatasL{ir pan.}I{4}L{kas.},L{geol.}žvalgymas, žvalgyba; tyrimas;F{prospect hole}žvalgomasis gręžinysS{&rArr;}E{v}[pr&#601;'spekt]I{1}tirti; žvalgyti;F{to prospect for gold}ieškoti auksoI{2}būti perspektyviaml{(apie šachtąL{ir pan.})}
+0{prospective}[pr&#601;'spekt&#618;v]E{v}I{1}būsimas; ateities;F{this law is purely prospective}šis įstatymas dar negaliojaI{2}numatomas, laukiamas;F{prospective customer}galimas klientas
+0{prospectless}['pr&#596;spektl&#601;s]E{a}neperspektyvus, be perspektyvų
+0{prospector}[pr&#601;'spekt&#601;]E{n}L{kas.},L{geol.}žvalgytojas;F{gold prospector}aukso ieškotojas
+0{prospectus}[pr&#601;'spekt&#601;s]E{n}l{(būsimo leidinio, mokymo įstaigosL{ir pan.})}prospektas, brošiūra;F{preliminary prospectus}L{fin.}išankstinis prospektas
+0{prosper}['pr&#596;sp&#601;]E{v}I{1}klestėti; tarpti, vešėti, puikiai gyventi;F{a lot of companies prospered}daugelis bendrovių klestėjoI{2}L{psn.}būti palankiam;F{may God prosper you!}tepadeda jums Dievas!
+0{prosperity}[pr&#596;'sper&#601;t&#618;]E{n}I{1}(su)klestėjimas; vešėjimas; gerovė;F{I wish you all prosperity!}aš linkiu jums viso gero!I{2}E{pl}L{ret.}palankios aplinkybės
+0{prosperous}['pr&#596;spX{&#601;}r&#601;s]E{a}I{1}klestintis; sėkmingasI{2}pasiturintis, turtingasI{3}palankus
+0{prosperously}['pr&#596;spX{&#601;}r&#601;sl&#618;]E{adv}turtingai
+0{prostate}['pr&#596;ste&#618;t]E{n}L{anat.}prostata, priešinė liaukal{(L{t. p.}X{prostate gland})}
+0{prostatic}[pr&#596;'st&aelig;t&#618;k]E{a}L{anat.}prostatinis
+0{prosthesis}[pr&#596;s'&theta;i:s&#618;s]E{n}(E{pl}-ses[-si:z])I{1}protezasI{2}protezavimasI{3}L{kalb.}protezė
+0{prosthetic}[pr&#596;s'&theta;et&#618;k]E{a}protezinis;F{prosthetic appliance}protezas
+0{prosthodontist}[,pr&#596;s&theta;&#601;'d&#596;nt&#618;st]E{n}dantų protezuotojas
+0{prostitute}['pr&#596;st&#618;tju:t]S{&rArr;}E{n}I{1}prostitutėI{2}parsiduodantis žmogus, parsidavėlisS{&rArr;}E{v}l{(L{t. p.}E{refl})}I{1}užsiimti prostitucijaI{2}parsiduoti
+0{prostitution}[,pr&#596;st&#618;'tju:&#643;n]E{n}prostitucijal{(L{t. p.}L{prk.})}; parsidavėliškumas
+0{prostrate}S{&rArr;}E{a}['pr&#596;stre&#618;t]I{1}išsitiesęs, kniūbsčiasI{2}leisgyvis, išsekęs; paslikas, sugniuždytas; F{prostrate with grief}išsekęs nuo vargo, nelaimės/vargo sugniuždytasI{3}L{bot.}besidriekiantisS{&rArr;}E{v}[pr&#596;'stre&#618;t]I{1}parblokšti, pargriautiI{2}E{refl}pulti/gulėti kniūbsčiam; sukniubti; nusižemintiI{3}E{pass}L{prk.}parklupdyti; sugniuždytiI{4}išsekintil{(apie ligą, vargąL{ir pan.})}
+0{prostration}[pr&#596;'stre&#618;&#643;n]E{n}I{1}gulėjimas kniūbsčia; kniūbsojimasI{2}išsekimas, nusilpimas; prostracija
+0{prostyle}['pr&#601;usta&#618;l]E{n}L{archit.}prostilis
+0{prosy}['pr&#601;uz&#618;]E{a}proziškas, pilkas, nuobodus
+0{Prot}[pr&#596;t]E{n}(ProtestantL{sutr.}) protestantasl{(airių katalikų kalboje)}
+0{prot-}[pr&#601;ut-]E{pref}A{=R{proto-}}
+0{Prot.}L{sutr.}X{Protestant}protestantas
+0{protactinium}[,pr&#601;ut&aelig;k't&#618;n&#618;&#601;m]E{n}L{chem.}protaktinis
+0{protagonist}[pr&#601;X{u}'t&aelig;g&#601;n&#618;st]E{n}I{1}l{(judėjimo, lygių teisiųL{ir pan.})}šalininkas, kovotojasl{(už)}I{2}pagrindinis veikėjas, svarbiausio vaidmens atlikėjas, protagonistas
+0{protamine}['pr&#601;ut&#601;mi:n]E{n}L{chem.}protaminas
+0{protasis}['pr&#596;t&#601;s&#618;s]E{n}(E{pl}-ses[-si:z])L{gram.}sąlygos šalutinis sakinys
+0{protean}['pr&#601;ut&#618;&#601;n, pr&#601;u'ti:&#601;n]E{a}I{1}L{knyg.}kaitus, nepastovusI{2}L{amer.}L{teatr.}atliekantis keletą vaidmenųl{(vienoje pjesėje)}; visapusiškasl{(apie aktorių)}
+0{protect}[pr&#601;'tekt]E{v}I{1}(ap)ginti; (ap)saugoti, pridengti;E{refl}apsisaugoti, apsiginti;F{to protect one’s eyes from the sun}apsaugoti akis nuo saulėsI{2}globoti; proteguotiI{3}L{ekon.}vykdyti protekcionizmo politikąI{4}L{kom.},L{fin.}akceptuoti, (sutikti) apmokėti
+0{protected}[pr&#601;'tekt&#618;d]E{a}ginamas; saugomas
+0{protection}[pr&#601;'tek&#643;n]E{n}I{1}(ap)gynimas; (ap)saugojimas; apgintis, apsauga; priedanga;F{fire protection}apsauga nuo gaisro;F{under the protection}l{(of)}l{(ko)}priedangojeI{2}globojimas, globa; protegavimasI{3}apsaugos raštas; leidimas; pasasI{4}L{ekon.}protekcionizmasl{(L{t. p.}X{trade protection})}I{5}l{(reketininkų siūloma)}apsauga;F{protection money}mokestisl{(reketininkams)}už apsaugąS{&loz;}X{to live under the protection of smb}būti kieno išlaikoma meiluže
+0{protectionism}[pr&#601;'tek&#643;X{&#601;}n&#618;zm]E{n}L{ekon.}protekcionizmas
+0{protectionist}[pr&#601;'tek&#643;X{&#601;}n&#618;st]S{&rArr;}E{n}protekcionistas, protekcionizmo šalininkasS{&rArr;}E{a}protekcionistinis
+0{protective}[pr&#601;'tekt&#618;v]E{a}I{1}ginamasis; apsauginis; pridengiamasis;F{protective colouration/colouring}L{zool.},L{bot.}apsauginė/slepiamoji spalva;F{protective barrage}L{kar.}užtveriamoji ugnisI{2}globėjiškasl{(towards)};F{to be protective}l{(of)}žiūrėti pavydžiail{(į kieno turtus, automobilį)}I{3}L{ekon.}protekcinis, apsauginis;F{protective duty}protekcinis/apsauginis muitas;F{protective tariff}protekcinis/apsauginis muitų tarifas
+0{protector}[pr&#601;'tekt&#601;]E{n}I{1}gynėjas; saugotojasI{2}globėjas, patronasI{3}apsaugos priemonė, apsaugaI{4}L{tech.}apsauginis įrenginys; saugiklisI{5}L{aut.}protektoriusI{6}L{ist.}Anglijos regentas;F{Protector}protektoriusl{(L{t. p.}X{Lord Protector})}
+0{protectorate}[pr&#601;'tektX{&#601;}r&#601;t]E{n}protektoratas
+0{protectory}[pr&#601;'tekt&#601;r&#618;]E{n}įstaiga beglobiams vaikams ir nepilnamečiams nusikaltėliams
+0{protectress}[pr&#601;'tektr&#618;s]E{n}gynėja; globėja
+0{protégé}['pr&#601;ut&#618;&#658;e&#618;]L{pr.}E{n}protežė, proteguotinis, statytinis
+0{protégée}['pr&#601;ut&#618;&#658;e&#618;]L{pr.}E{n}protežė, proteguotinė, statytinė
+0{protein}['pr&#601;uti:n]E{n}L{chem.}baltymas, proteinas
+0{pro tem(pore)}[,pr&#601;u'tem(p&#601;r&#618;)]L{lot.}laikinas; laikinai, kol kas
+0{protest}S{&rArr;}E{n}['pr&#601;utest]I{1}protestas;F{to enter/lodge a protest}pareikšti protestą;F{under protest}priverstinai, prieš valiąI{2}L{teis.}protestasl{(kad vekselio davėjas nesumokėjo pažymėtos sumos)}; vekselio suprotestavimasS{&rArr;}E{v}[pr&#601;'test]I{1}protestuoti, reikšti protestąl{(against, about)}I{2}suprotestuoti, užprotestuotil{(vekselį)}I{3}iškilmingai pareikštil{(L{t. p.}L{teis.})}; teigti, tvirtinti;F{to protest one’s innocence}pareikšti apie savo nekaltumą;F{they protested that they had never heard of him}jie tvirtino, kad jie nė negirdėję apie jį
+0{Protestant}['pr&#596;t&#618;st&#601;nt]L{bažn.}S{&rArr;}E{n}protestantasS{&rArr;}E{a}protestantų, protestantiškas
+0{protestant}['pr&#596;t&#618;st&#601;nt]L{ret.}S{&rArr;}E{n}protestuojantysisS{&rArr;}E{a}protestuojantis
+0{Protestantism}['pr&#596;t&#618;st&#601;nt&#618;zm]E{n}L{bažn.}protestantizmas
+0{protestation}[,pr&#596;t&#618;'ste&#618;&#643;n]E{n}I{1}iškilmingas pareiškimasl{(of; that)}I{2}protestavimas, protestasl{(against)}
+0{protester}[pr&#601;'test&#601;]E{n}protestuotojas; demonstrantas
+0{Proteus}['pr&#601;ut&#618;&#601;s, 'pr&#601;utju:s]E{n}I{1}L{mit.}ProtėjasI{2}nepastovus žmogusl{(greitai keičiantis pažiūrasL{ir pan.})}
+0{prothallium}[pr&#601;u'&theta;&aelig;l&#618;&#601;m]E{n}(E{pl}-ia[-&#618;&#601;]),0{prothallus}[pr&#601;u'&theta;&aelig;l&#601;s]E{n}(E{pl}-li[-la&#618;])L{bot.}polaiškis
+0{prothesis}['pr&#596;&theta;&#618;s&#618;s]E{n}(E{pl}-ses[-si:z])L{kalb.}protezė
+0{proto-}['pr&#601;ut&#601;X{u}-]E{pref}proto-l{(žymint pirmumą, pradinį/pirminį pagrindą)}; pirmasis, pradinis;F{protozoology}protozoologija;F{protomartyr}pirmasis kankinys
+0{Proto-Balts}[,pr&#601;ut&#601;'b&#596;:lts]E{n}E{pl}prabaltai
+0{protocol}['pr&#601;ut&#601;k&#596;l]S{&rArr;}E{n}I{1}l{(L{įv. reikšm.})}protokolasI{2}preliminarinės sutarties sąlygosI{3}etiketo/elgesio taisyklėsI{4}X{(the Protocol)}l{(Užsienio reikalų ministerijosL{ir pan.})}protokolų skyriusS{&rArr;}E{v}protokoluoti, rašyti protokolą
+0{protohistory}[,pr&#601;ut&#601;X{u}'hist&#601;r&#618;]E{n}ankstyvoji istorija
+0{proton}['pr&#601;ut&#596;n]E{n}L{fiz.}protonas
+0{protoplasm}['pr&#601;ut&#601;pl&aelig;zm]E{n}L{biol.}protoplazma
+0{protoplasmic}[,pr&#601;ut&#601;'pl&aelig;zm&#618;k]E{a}L{biol.}protoplazminis
+0{protoplast}['pr&#601;ut&#601;pl&aelig;st]E{n}I{1}prototipas, pirmavaizdisI{2}L{biol.}protoplastas
+0{protoplastic}[,pr&#601;ut&#601;'pl&aelig;st&#618;k]E{a}I{1}pirmasis, pirmapradisI{2}L{biol.}protoplazminis
+0{prototype}['pr&#601;ut&#601;ta&#618;p]E{n}prototipas, pirmavaizdis
+0{protozoa}[,pr&#601;ut&#601;'z&#601;u&#601;]E{n}E{pl}L{zool.}protozojai, pirmuonys
+0{protozoan}[,pr&#601;ut&#601;'z&#601;u&#601;n]E{a}L{zool.}protozojų, pirmuonių
+0{protract}[pr&#601;'tr&aelig;kt]E{v}I{1}už(si)tęsti, (už)vilkinti; prailgintiI{2}L{ret.}braižytil{(planą)}
+0{protracted}[pr&#601;'tr&aelig;kt&#618;d]E{a}užsitęsęs, užtrukęs; ilgai trunkantis
+0{protractedly}[pr&#601;'tr&aelig;kt&#618;dl&#618;]E{adv}(per) ilgai; užtęstai
+0{protractile}[pr&#601;'tr&aelig;kta&#618;l]E{a}I{1}L{anat.}tiesiamasisl{(apie raumenį)}I{2}L{zool.}ištęsiamasis, ištempiamasis
+0{protraction}[pr&#601;'tr&aelig;k&#643;n]E{n}I{1}užtęsimas; vilkinimas; prailginimasI{2}pažymėjimas plane/brėžinyje
+0{protractor}[pr&#601;'tr&aelig;kt&#601;]E{n}I{1}L{tech.}matlankis; kampamatisI{2}L{anat.}tiesiamasis raumuo
+0{protrude}[pr&#601;'tru:d]E{v}iš(si)kišti; kyšoti
+0{protruding}[pr&#601;'tru:d&#618;&#331;]E{a}išsikišęs, atsikišęs, išsišovęs; kyšantis;F{protruding eyes}išsprogusios akys
+0{protrusion}[pr&#601;'tru:&#658;n]E{n}I{1}iš(si)kišimasI{2}iškyša, iškyšulys
+0{protrusive}[pr&#601;'tru:s&#618;v]E{v}išsikišęs, išsišovęs, atsikišęs;F{protrusive chin}atsikišęs smakras
+0{protuberance}[pr&#601;'tju:bX{&#601;}r&#601;ns]E{n}I{1}iškilumas, iš(si)kišimas; išgaubtumasI{2}L{anat.}gumburas, gumbasI{3}L{astr.}protuberantas
+0{protuberant}[pr&#601;'tju:bX{&#601;}r&#601;nt]E{a}iškilęs, išsikišęs, išsikišantis
+0{proud}[praud]E{a}I{1}besididžiuojantis;F{to be proud}l{(of)}didžiuotisI{2}išdidus; pasipūtęs;F{proud nation}išdidi tautaI{3}iškilnus, įspūdingas, didus, puikusI{4}pakilęsl{(apie vandens lygį)};F{proud sea}kylanti jūraI{5}išsipūtęs, išpurtęs;F{proud flesh}gyvmėsėI{6}L{poet.}smarkus, karštas;F{proud horse}eiklus žirgasS{&loz;}X{to do smb proud}L{šnek.}X{a)}kelti kam pasididžiavimą;X{b)}svetingai ką priimti, karališkai ką pavaišinti;F{to do oneself proud}L{iron.},L{juok.}galėti didžiuotis, pelnytai didžiuotisl{(kuo)}
+0{proud-hearted}['praud'ha:t&#618;d]E{a}išdidus, išpuikęs, pasipūtęs
+0{proudly}['praudl&#618;]E{adv}I{1}išdidžiai, su pasididžiavimuI{2}didingai
+0{prov}L{sutr.}X{province}provincijaX{provisional}laikinas
+0{provable}['pru:v&#601;bl]E{a}įrodomas
+0{prove}[pru:v]E{v}(proved; proved, proven)I{1}įrodyti; patvirtinti;F{the exception proves the rule}išimtis (tik) patvirtina taisyklęI{2}(iš)bandyti, (iš)mėgintiI{3}pasirodyti, paaiškėtil{(esąs)};F{he proved (to be) a coward}jis pasirodė esąs bailys;F{the play proved a success}pjesė turėjo pasisekimąI{4}E{refl}gerai pasirodytiI{5}L{kul.}kiltil{(apie tešlą)}; keltiI{6}L{mat.}patikrintil{(ar teisingai suskaičiuota)}I{7}L{teis.}patvirtintil{(testamentą)}I{8}L{poligr.}daryti bandomąją nuotraukąS{o}1{prove out}pasitvirtinti
+0{proven}['pru:vX{&#601;}n]S{&rArr;}E{a}įrodytas;F{not proven}L{škot.}L{teis.}nusikaltimas neįrodytasS{&rArr;}E{pII}l{(ypačL{amer.})}A{L{žr.}R{prove}}
+0{provenance}['pr&#596;vX{&#601;}n&#601;ns]E{n}kilmė; kilmės vieta
+0{Provençal}[,pr&#596;v&#596;n'sa:l]L{pr.}S{&rArr;}E{a}Provanso; provansalųS{&rArr;}E{n}I{1}provansalasI{2}provansalų kalba
+0{Provence}[pr&#596;'va:ns]E{n}Provansasl{(Prancūzijos sritis)}
+0{provender}['pr&#596;v&#618;nd&#601;]E{n}I{1}L{ž. ū.}pašarasI{2}L{juok.}maistas
+0{provenience}[pr&#601;'vi:n&#618;&#601;ns]E{n}A{=R{provenance}}
+0{proverb}['pr&#596;v&#601;:b]E{n}I{1}patarlė;F{Book of Proverbs}L{bibl.}(Saliamono) Išminties knygaI{2}priežodis; įsikūnijimas;F{he is a proverb for ignorance}jis – nemokšiškumo įsikūnijimasS{&loz;}X{to a proverb}itin, nepaprastail{(neigiama prasme)};F{he is avaricious to a proverb}jis nepaprastai šykštus, šykštumo įsikūnijimas
+0{proverbial}[pr&#601;'v&#601;:b&#618;&#601;l]E{a}I{1}kaip patarlė; priežodinis, priežodžių, patarliųI{2}tapęs priežodžiu; plačiai žinomas;F{the proverbial London fog}visiems žinomi Londono rūkai
+0{proverbially}[pr&#601;'v&#601;:b&#618;&#601;l&#618;]E{adv}kaip patarlėje, kaip sakoma; visiems žinoma
+0{provide}[pr&#601;'va&#618;d]E{v}I{1}ap(si)rūpinti; parūpinti; tiekti;F{he has well provided for his family}jis gerai aprūpino šeimąI{2}duoti, suteikti;F{his father provided him with a good education}tėvas davė jam gerą išsilavinimąI{3}iš anksto pa(si)ruošti;F{to provide an excuse}(iš anksto) apgalvoti, kaip reiks pasiteisintiI{4}imtis priemoniųl{(against)}; numatytil{(for)};F{the law does not provide for such a case}įstatymas nenumato tokio atvejoI{5}L{teis.}draustil{(against)};F{this clause provides against it}šis punktas tai draudžia
+0{provided}[pr&#601;'va&#618;d&#618;d]S{&rArr;}E{a}I{1}aprūpintas;F{provided school}pradinė mokykla, išlaikoma vietinio biudžeto lėšomisI{2}numatytasS{&rArr;}E{conj}su sąlyga, (tik) jeil{(L{t. p.}X{provided that})};F{you may remain, provided you keep silent}jūs galite pasilikti su sąlyga, kad tylėsite
+0{providence}['pr&#596;v&#618;dX{&#601;}ns]E{n}I{1}įžvalgumas, įžvalga, numatymasI{2}X{Providence}L{rel.}Dievo apvaizdaI{3}L{psn.}taupumas
+0{provident}['pr&#596;v&#618;dX{&#601;}nt]E{a}I{1}numatantis, įžvalgusI{2}taupus
+0{providential}[,pr&#596;v&#618;'den&#643;l]E{a}I{1}laimingas, stebuklingasI{2}L{rel.}(Dievo) apvaizdos; atsiųstas iš aukštybių, likimo lemtas
+0{providentially}[,pr&#596;v&#618;'den&#643;X{&#601;}ll&#618;]E{adv}stebuklingai, laimingai
+0{provider}[pr&#601;'va&#618;d&#601;]E{n}tiekėjas; aprūpintojasl{(ypač šeimos)}
+0{providing}[pr&#601;'va&#618;d&#618;&#331;]A{=R{provided}}E{conj}
+0{province}['pr&#596;v&#618;ns]E{n}I{1}sritis, provincijaI{2}X{(the provinces)}E{pl}periferija, provincijaI{3}L{prk.}l{(veiklosL{ir pan.})}sritis, sfera, kompetencija;F{it is outside,}l{ar}X{out of, my province}tai ne mano kompetencijojeI{4}L{bažn.}arkivyskupija
+0{provincial}[pr&#601;'v&#618;n&#643;l]S{&rArr;}E{a}I{1}provincinis, provincijos; periferinisI{2}provincialusS{&rArr;}E{n}I{1}provincialasI{2}L{bažn.}arkivyskupas
+0{provincialism}[pr&#601;'v&#618;n&#643;X{&#601;}l&#618;zm]E{n}I{1}provincializmas, provincialumasI{2}L{kalb.}provincializmas, provincialybė
+0{provinciality}[pr&#601;,v&#618;n&#643;&#618;'&aelig;l&#601;t&#618;]E{n}provincialumas
+0{proving}['pru:v&#618;&#331;]S{&rArr;}E{n}I{1}įrodymasl{(veiksmas)}I{2}L{teis.}l{(testamento)}patvirtinimasI{3}L{tech.}(iš)bandymasI{4}l{(tešlos)}kilimasS{&rArr;}E{a}bandomasis;F{proving ground}bandomasis poligonas/laukas
+0{provision}[pr&#601;'v&#618;&#658;n]S{&rArr;}E{n}I{1}ap(si)rūpinimas; parūpinimas; tiekimas;F{to make ample provision for one’s family}visiškai aprūpinti šeimąI{2}E{pl}maisto produktai/atsargos, maistasI{3}l{(sutartiesL{ir pan.})}sąlyga, nuostataI{4}pasiruošimasl{(ateičiai)}, atsargumo priemonėl{(for, against)}S{&rArr;}E{v}l{(L{ppr.}E{pass})}aprūpinti maistu
+0{provisional}[pr&#601;'v&#618;&#658;n&#601;l]E{a}I{1}laikinas;F{provisional government}laikinoji vyriausybėI{2}parengtinis, negalutinis
+0{provisionally}[pr&#601;'v&#618;&#658;X{&#601;}n&#601;l&#618;]E{adv}laikinai
+0{proviso}[pr&#601;'va&#618;z&#601;u]E{n}(E{pl}provisos[-z])l{(sutarties, sandorio)}išlyga
+0{provisory}[pr&#601;'va&#618;z&#601;r&#618;]E{a}I{1}sąlyginis; su sąlyga/išlygaI{2}laikinas
+0{provitamin}[pr&#601;u'va&#618;t&#601;m&#618;n]E{n}provitaminas
+0{provocation}[,pr&#601;v&#601;'ke&#618;&#643;n]E{n}I{1}provokavimas, kurstymas; iššūkis;F{he gets angry at/on the slightest provocation}jis supyksta dėl mažiausios priežastiesI{2}provokacijaI{3}erzinimas, dirginimas
+0{provocative}[pr&#601;'v&#596;k&#601;t&#618;v]S{&rArr;}E{a}I{1}provokacinis, provokatoriškasI{2}provokuojantis, gundantisl{(apie elgesįL{ir pan.})}I{3}sukeliantisl{(of)}; skatinantis; verčiantis pagalvoti/pamąstytil{(apie knygą, filmąL{ir pan.})}I{4}erzinantisS{&rArr;}E{n}I{1}jaudiklis; sukėlėjasI{2}dirginantis vaistas
+0{provocatively}[pr&#601;'v&#596;k&#601;t&#618;vl&#618;]E{adv}provokatoriškai, kurstančiai
+0{provoke}[pr&#601;'v&#601;uk]E{v}I{1}(iš)provokuotiI{2}sukeltil{(juoką, pyktįL{ir pan.})}I{3}(su)pykdyti, (su)erzintiI{4}kurstyti; gundyti
+0{provoking}[pr&#601;'v&#601;uk&#618;&#331;]E{a}erzinantis; keliantis apmaudą; nemalonus;F{how provoking!}kaip apmaudu/pikta!
+0{provost}['pr&#596;v&#601;st]E{n}I{1}l{(koledžo)}rektorius I{2}l{(Amerikos universitetų)}prorektoriusI{3}L{škot.}meras;F{Lord Provost}lordas merasI{4}L{bažn.}klebonasI{5}L{kar.}[pr&#601;'v&#601;u]karinės policijos karininkas;F{provost marshal}karinės policijos viršininkas;F{provost prison}karo kalėjimas
+0{prow}[prau]E{n}l{(laivoL{ir pan.})}priekis, pirmagalys, nosis
+0{prowess}['prau&#618;s]E{n}L{knyg.}I{1}meistriškumas, mokėjimas, menasI{2}šaunumas, narsa, drąsa
+0{prowl}[praul]S{&rArr;}E{v}I{1}sėlintiI{2}šmižinėti, klaidžiotil{(ypač ieškant grobio;L{t. p.}X{prowl about/around})}S{&rArr;}E{n}I{1}sėlinimas;F{on the prowl}sėlinant, vogčiomis, pasalomisI{2}klaidžiojimas;F{to take a prowl round the streets}eiti pasibastyti po gatvesI{3}E{attr}:X{prowl car}L{amer.}policijos patrulio mašina
+0{prowler}['praul&#601;]E{n}I{1}bastūnas, klajūnasI{2}plėšikas, chuliganas
+0{prox.}L{sutr.}X{proximo}L{lot.}ateinančio (mėnesio)
+0{proximal}['pr&#596;ks&#618;ml]E{a}L{anat.}proksimalinis
+0{proximate}['pr&#596;ks&#618;m&#601;t]E{a}I{1}artimiausias; ateinantisI{2}betarpiškas, tiesioginisl{(apie priežastį)}
+0{proximity}[pr&#596;k's&#618;m&#601;t&#618;]E{n}art(im)umas;F{proximity of blood}artima/kraujo giminystė;F{in the proximity}l{(of)}artil{(ko)};F{in close proximity}labai arti
+0{proximo}['pr&#596;ks&#618;m&#601;u]L{lot.}E{a}L{kom.}ateinančio mėnesio;F{on the 5th proximo}ateinančio mėnesio penktą dieną
+0{proxy}['pr&#596;ks&#618;]E{n}I{1}įgaliojimas;F{by proxy}pagal įgaliojimą;F{to vote by proxy}X{a)}perduoti savo balsą;X{b)}balsuoti už kitąl{(pagal įgaliojimą)}I{2}įgaliotinis, pavaduotojas;F{to be/stand proxy for smb}būti kieno atstovu/įgaliotiniu
+0{prude}[pru:d]E{n}L{menk.}apsimestinai drovi moteris; davatka, šventoji nekaltybė, dorovės sergėtojas
+0{prudence}['pru:dX{&#601;}ns]E{n}I{1}protingumasI{2}apdairumas, atsargumasI{2}taupumas
+0{prudent}['pru:dX{&#601;}nt]E{a}I{1}protingas, išmintingasI{2}apdairus, atsargusI{3}taupus
+0{prudential}[pru:'den&#643;l]E{a}protingas, sveiko proto padiktuotas
+0{prudently}['pru:dX{&#601;}ntl&#618;]E{adv}apdairiai, apgalvotai, protingai, išmintingai, atsargiai
+0{prudery}['pru:d&#601;r&#618;]E{n}L{menk.}apsimetamas drovumas; perdėtas skrupulingumas
+0{prudish}['pru:d&#618;&#643;]E{a}L{menk.}pernelyg drovus/skrupulingas
+0{prune^{1}}[pru:n]E{n}I{1}L{kul.}džiovinta slyvaI{2}violetinė spalvaI{3}L{šnek.}mulkis; atsibodėlisS{&loz;}X{prunes and prisms}manieringa kalbėsena, kalbos manieringumas
+0{prune^{2}}E{v}I{1}(ap)genėti, apkarpytil{(medžiusL{ir pan.};L{t. p.}X{prune back})}I{2}sumažintil{(kaštusL{ir pan.})}; sutrumpintil{(tekstą)}, pašalintil{(tai, kas nereikalinga;L{ppr.}X{prune down})}S{o}1{prune away/off}nugenėti, išgenėti
+0{prunella}[pru'nel&#601;]E{n}priunelėl{(medžiaga)}
+0{pruning-hook}['pru:n&#618;&#331;huk]E{n}genėjimo peilis
+0{prurience, -cy}['pru&#601;r&#618;&#601;ns, -s&#618;]E{n}I{1}geidimas, geidulysI{2}gašlumas
+0{prurient}['pru&#601;r&#618;&#601;nt]E{a}geidus; geidulingas, gašlus
+0{pruritus}[pru'ra&#618;t&#601;s]E{n}L{med.}niežėjimas
+0{Prussia}['pr&#652;&#643;&#601;]E{n}L{ist.}Prūsija
+0{Prussian}['pr&#652;&#643;n]S{&rArr;}E{a}L{ist.}Prūsijos; prūsų, prūsiškasS{&loz;}X{Prussian blue}Berlyno mėlis/mėlynasisl{(tamsiai mėlynas pigmentas)}S{&rArr;}E{n}L{ist.}prūsas
+0{prussic}['pr&#652;s&#618;k]E{a}:X{prussic acid}L{chem.}ciano vandenilio rūgštis
+0{pry^{1}}[pra&#618;]S{&rArr;}E{n}smalsuolisl{(L{juok.}L{t. p.}X{Paul Pry})}S{&rArr;}E{v}I{1}smalsiai žvilgčioti/ieškoti; smalsautiI{2}kišti nosįl{(į svetimus reikalus; into)}S{o}1{pry out}kamantinėti, išgautil{(žiniųL{ir pan.})}
+0{pry^{2}}L{amer.}S{&rArr;}E{n}svertas; laužtuvasS{&rArr;}E{v}I{1}kelti svertu; atidaryti, atplėštil{(laužtuvuL{ir pan.};L{t. p.}X{pry open})}I{2}sunkiai išgauti/ištraukti
+0{prying}['pra&#618;&#618;&#331;]E{a}smalsus;F{away from prying eyes}toli nuo smalsių akių
+0{PS}L{sutr.}X{permanent [private] secretary}nuolatinis [asmeninis] sekretoriusX{Police Sergeant}policijos puskarininkisX{post scriptum}L{lot.}post scriptum, prierašasl{(laiško pabaigoje)}X{Privy Seal}mažasis valstybinis antspaudas X{Public School}l{(JAV)}nemokama valstybinė mokykla
+0{ps.}L{sutr.}X{pieces}gabalai, vienetaiX{pseudonym}slapyvardis, pseudonimas;F{pseudonymous}pasirašytas slapyvardžiu
+0{psalm}[sa:m]E{n}psalmė, giesmė;F{the Psalms, the Book of Psalms}L{bibl.}Psalmių knyga
+0{psalm-book}['sa:mbuk]E{n}psalmynas
+0{psalmist}['sa:m&#618;st]E{n}psalmės kūrėjas, psalmininkas
+0{psalmody}['sa:m&#601;d&#618;]E{n}psalmių giedojimas, psalmodija
+0{psalter}['s&#596;:lt&#601;]E{n}psalmių knyga, psalmynas
+0{psaltery}['s&#596;:lt&#601;r&#618;]E{n}psalteriumasl{(senovinisL{muz.}instrumentas)}
+0{PSBR}L{sutr.}X{public sector borrowing requirement}l{(D. Britanijos)}valstybinio sektoriaus lėšų poreikis
+0{psephology}[se'f&#596;l&#601;d&#658;&#618;]E{n}statistinė balsavimo rezultatų analizė
+0{pseud}[sju:d]L{šnek.}S{&rArr;}E{n}žmogus, turintis didelių pretenzijų, apsimetėlis, tariamas mokovasS{&rArr;}E{a}pretenzingas, su pretenzijomis
+0{pseudo}['sju:d&#601;u]E{a}netikras, apgaulingas; pretenzingas
+0{pseud(o)-}['sju:d(&#601;u)-]E{pref}pseudo-;F{pseudoclassic(al)}pseudoklasikinis;F{pseudoscience}pseudomokslas
+0{pseudonym}['sju:d&#601;n&#618;m]E{n}slapyvardis, pseudonimas
+0{pseudonymous}[sju:'d&#596;n&#618;m&#601;s]E{a}pasirašęs/išleistas slapyvardžiu
+0{pshaw}[p&#643;&#596;:]L{ret.}S{&rArr;}E{int}fe!, fu!, pfui!l{(reiškiant panieką, pasibjaurėjimąL{ir pan.})}S{&rArr;}E{v}reikšti panieką/pasibjaurėjimąL{ir pan.}l{(sakant fu, pfui)}
+0{psi}L{sutr.}X{pounds per square inch}l{(kiek)}svarų kvadratiniam metrui
+0{psittacosis}[,ps&#618;t&#601;'k&#601;us&#618;s]E{n}L{med.}papūgligė, psitakozė
+0{psoriasis}[,s&#601;'ra&#618;&#601;s&#618;s]E{n}L{med.}psoriazė, žvynelinė
+0{psst}[psX{t}]E{int}ei!, ts!l{(siekiant atkreipti dėmesį)}
+0{PSV}L{sutr.}X{public service vehicle}visuomeninio transporto priemonė
+0{psych}[sa&#618;k]E{v}L{šnek.}I{1}daryti psichinį poveikį, psichiškai (pa)veiktil{(L{t. p.}X{psych out})}I{2}L{amer.}permanyti, perkąstil{(L{t. p.}X{psych out})}S{o}1{psych up}E{refl},E{pass}susikaupti, psichologiškai pasiruoštil{(prieš varžybasL{ir pan.}; for)}
+0{psych-}[sa&#618;k-]A{=R{psycho-}}
+0{psyche}['sa&#618;k&#618;]E{n}I{1}L{psich.}siela, dvasia; psichikaI{2}X{(the Psyche)}L{mit.}Psichė
+0{psychedelic}[,sa&#618;k&#601;'del&#618;k]E{a}I{1}psichodelinis; sukeliantis haliucinacijasl{(apie narkotikus)}I{2}absurdiškas, įmantrusl{(apie menąL{ir pan.})}; ryškusl{(apie drabužius)}
+0{psychiatric(al)}[,sa&#618;k&#618;'&aelig;tr&#618;k(l)]E{a}psichiatrinis, psichiatrijos
+0{psychiatrist}[sa&#618;'ka&#618;&#601;tr&#618;st]E{n}psichiatras
+0{psychiatry}[sa&#618;'ka&#618;&#601;tr&#618;]E{n}psichiatrija
+0{psychic}['sa&#618;k&#618;k]S{&rArr;}E{a}I{1}dvasinis;F{psychic income}moralinis pasitenkinimasI{2}aiškiaregis; pasižymintis telepatija; parapsichologinisI{3}A{=R{psychical}}S{&rArr;}E{n}I{1}aiškiaregysI{2}mediumasl{(asmuo)}
+0{psychical}['sa&#618;k&#618;kl]E{a}psichinis; psichologinis
+0{psychics}['sa&#618;k&#618;ks]E{n}psichologija
+0{psycho}['sa&#618;k&#601;u]E{n}L{šnek.}psichopatas, pamišėlis
+0{psycho-}['sa&#618;k&#601;X{u}-]l{(L{sudurt.}žodžiuose)}psicho-;F{psychoanalysis}psichoanalizė;F{psychoneurosis}psichoneurozė
+0{psychoanalyse}[,sa&#618;k&#601;u'&aelig;n&#601;la&#618;z]E{v}gydyti psichoanalizės metodu
+0{psychoanalyst}[,sa&#618;k&#601;X{u}'&aelig;n&#601;l&#618;st]E{n}psichoanalitikas
+0{psychoanalytic(al)}[,sa&#618;k&#601;u,&aelig;n&#601;'l&#618;k(l)]E{a}psichoanalitinis, psichoanalizės
+0{psychobabble}['sa&#618;k&#601;u,b&aelig;bl]E{n}L{šnek.}pseudomokslinis žargonasl{(kalbant apie psichikos problemas)}
+0{psychokinesis}[,sa&#618;k&#601;uka&#618;'ni:s&#618;s]E{n}L{spec.}psichokinezė
+0{psycholinquistics}[,sa&#618;k&#601;X{u}l&#618;&#331;'gw&#618;st&#618;ks]E{n}psicholingvistika
+0{psychological}[,sa&#618;k&#601;'l&#596;d&#658;&#618;kl]E{a}psichologinis, psichologijos; psichologiškasS{&loz;}X{the psychological moment}tinkamiausias momentas
+0{psychologically}[,sa&#618;k&#601;'l&#596;d&#658;&#618;kX{&#601;}l&#618;]E{adv}psichologiškai
+0{psychologist}[sa&#618;'k&#596;l&#601;d&#658;&#618;st]E{n}psichologas
+0{psychology}[sa&#618;'k&#596;l&#601;d&#658;&#618;]E{n}psichologija
+0{psychometric}[sa&#618;k&#601;'metr&#618;k]E{a}psichometrinisl{(apie testus irL{pan.})}
+0{psychometry}[sa&#618;'k&#596;m&#618;tr&#618;]E{n}psichometrija
+0{psychoneurosis}[,sa&#618;k&#601;unju&#601;'r&#601;us&#618;s]E{n}(E{pl}-ses[-si:z]) psichoneurozė
+0{psychopath}['sa&#618;k&#601;p&aelig;&theta;]E{n}psichopatas
+0{psychopathic}[,sa&#618;k&#601;'p&aelig;&theta;&#618;k]E{a}psichopatinis, psichopatiškas
+0{psychopathology}[,sa&#618;k&#601;X{u}p&#601;'&theta;&#596;l&#601;d&#658;&#618;]E{n}psichopatologija
+0{psychophysiology}[,sa&#618;k&#601;u,f&#618;z&#618;'&#596;l&#601;d&#658;&#618;]E{n}psichofiziologija
+0{psychosis}[sa&#618;'k&#601;us&#618;s]E{n}(E{pl}-ses[-si:z]) psichozė
+0{psychosomatic}[,sa&#618;k&#601;X{u}s&#601;'m&aelig;t&#618;k]E{a}L{med.}psichosomatinis

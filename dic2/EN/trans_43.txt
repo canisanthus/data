@@ -1,0 +1,1000 @@
+0{remissible}[r&#618;'m&#618;s&#601;bl]E{a}atleistinas, dovanotinas
+0{remission}[r&#618;'m&#618;&#643;n]E{n}I{1}atleidimas, dovanojimas;F{remission of sins}L{bažn.}nuodėmių atleidimasI{2}L{teis.}l{(bausmėsL{ir pan.})}(su)švelninimas, (su)mažinimas; atsisakymasl{(teisių)}I{3}L{med.}remisija
+0{remissive}[r&#618;'m&#618;s&#618;v]E{a}I{1}atleidžiantis, dovanojantisI{2}mažinantis; mažėjantis
+0{remit}S{&rArr;}E{v}[r&#618;'m&#618;t]I{1}persiųsti, pervestil{(pinigus)}I{2}dovanoti, atleistil{(nuodėmesL{ir pan.})}I{3}(su)mažinti, (su)švelnintil{(bausmę)}; mažėti, silpnėtiI{4}laikinai nutraukti, atidėtiI{5}grąžintil{(pasiūlymąL{ir pan.})}svarstytiI{6}L{teis.}perduotil{(bylą)}nagrinėti žemesnei instancijail{(to)}S{&rArr;}E{n}['ri:m&#618;t]l{(veiklosL{ir pan.})}sritis, kompetencija;F{it’s outside my remit}tai ne mano kompetencija/funkcija
+0{remittal}[r&#618;'m&#618;tl]E{n}L{teis.}bausmės sumažinimas
+0{remittance}[r&#618;'m&#618;tX{&#601;}ns]E{n}I{1}l{(pinigų)}pervedimas, (per)siuntimasI{2}pervedami pinigai, perlaida
+0{remittee}[,rem&#618;'ti:]E{n}perlaidos gavėjas
+0{remittent}[r&#618;'m&#618;tX{&#601;}nt]L{med.}S{&rArr;}E{a}protarpinis, protarpiais pasikartojantis; remisinisS{&rArr;}E{n}protarpinis karščiavimas
+0{remitter}[r&#618;'m&#618;t&#601;]E{n}I{1}perlaidos siuntėjasI{2}L{teis.}l{(bylos)}perdavimas kitai instancijai
+0{remix}['ri:m&#618;ks]E{n}L{muz.}atnaujintas kūrinys, kūrinio versija
+0{remnant}['remn&#601;nt]E{n}I{1}l{(L{ppr.}E{pl})}likutis, liekana; likusiejiI{2}l{(audekloL{ir pan.})}atraiža;F{remnant sale}atraižų išpardavimas
+0{remodel}[,ri:'m&#596;dl]E{v}X{(-ll-)}perdirbti; rekonstruoti
+0{remold}[,ri:'m&#601;uld]E{v}L{amer.}A{=R{remould^{2}}}
+0{remonstrance}[r&#618;'m&#596;nstr&#601;ns]E{n}I{1}protestas; prieštaravimasI{2}atkalbinėjimas
+0{remonstrant}[r&#618;'m&#596;nstr&#601;nt]S{&rArr;}E{a}protestuojantis, prieštaraujantisS{&rArr;}E{n}prieštaraujantysis
+0{remonstrate}['r&#604;m&#596;nstre&#618;t]E{v}I{1}protestuoti, prieštarautil{(against)}I{2}atkalbinėti, ginčytisl{(with)}
+0{remontant}[r&#618;'m&#596;nt&#601;nt]E{a}L{bot.}remontantinis
+0{remorse}[r&#618;'m&#596;:s]E{n}I{1}sąžinės graužimasI{2}gailėjimasis, gailestis;F{without remorse}be gailesčio, negailestingai
+0{remorseful}[r&#618;'m&#596;:sfX{&#601;}l]E{a}kenčiantis sąžinės graužimą, atgailaujantis
+0{remorsefully}[r&#618;'m&#596;:sfX{&#601;}ll&#618;]E{adv}su apgailestavimu
+0{remorseless}[r&#618;'m&#596;:sl&#601;s]E{a}negailestingas, be gailesčio
+0{remorselessly}[r&#618;'m&#596;:sl&#618;sl&#618;]E{adv}negailestingai
+0{remote}[r&#618;'m&#601;ut]S{&rArr;}E{a}I{1}tolimas, nutolęsl{(L{t. p.}L{prk.})};F{remote ancestors}tolimi protėviai;F{the leaders are too remote from the people}vadovai labai nutolę nuo žmoniųI{2}atokus, nuošalus;F{remote village}atokus kaimasI{3}menkas; mažas;F{remote resemblance}nedidelis panašumas;F{not the remotest idea}nė mažiausio supratimoI{4}L{tech.}distancinis, nuotolinis;F{remote sensing}Žemės stebėjimas iš palydovų;F{remote control}distancinis valdymas; distancinio valdymo prietaisasS{&rArr;}E{n}I{1}L{šnek.}=X{remote control}I{2}reportažas išl{(įvykio)}vietosl{(ne iš studijos)}
+0{remote-controlled}[r&#618;'m&#601;utk&#601;n'tr&#601;uld]E{a}distancinio valdymo; valdomas iš toli
+0{remotely}[r&#618;'m&#601;utl&#618;]E{adv}I{1}toli; iš toli; atokiaiI{2}nežymiai, truputį
+0{remoteness}[r&#618;'m&#601;utn&#618;s]E{n}I{1}nutolimasI{2}atokumasI{3}L{teis.}netiesioginis priežastinis ryšys
+0{remould^{1}}['ri:m&#601;uld]E{n}restauruota padanga
+0{remould^{2}}[,ri:'m&#601;uld]E{v}pakeisti, performuoti
+0{remount^{1}}[,ri:'maunt]E{v}I{1}vėl (už)lipti/l{(laiptaisL{ir pan.})}; vėl (už)sėstil{(ant arklio, dviračio)}I{2}kiltil{(to – iš)};F{a practice which remounts to antiquity}paprotys, kilęs iš senovės
+0{remount^{2}}S{&rArr;}E{n}['ri:maunt]I{1}atsarginis arklysI{2}L{kar.}arklių papildymasI{3}L{ž. ū.}bandos papildymasS{&rArr;}E{v}[,ri:'maunt]I{1}L{kar.}papildyti arklių skaičiųI{2}L{ž. ū.}papildyti bandą
+0{removable}[r&#618;'mu:v&#601;bl]E{a}I{1}perkeliamas, kilnojamas; nuimamasI{2}pakeičiamas, pašalinamas
+0{removal}[r&#618;'mu:vl]E{n}I{1}(pa)šalinimas; (pa)naikinimas;F{removal of dissatisfaction}nepasitenkinimo (priežasties) pašalinimas;F{removal of a ban}draudimo panaikinimas;F{for the removal of grease stains}riebalų dėmėms šalintiI{2}l{(teisėjoL{ir pan.})}nušalinimasI{3}per(si)kėlimas, per(si)kraustymas;F{removal of furniture}baldų pervežimasI{4}L{fiz.}l{(energijos, šilumos)}atidavimasI{5}L{euf.}L{šnek.}likvidavimas, pašalinimasl{(nužudymas)}I{6}E{attr}:X{removal firm}transporto agentūra;F{removal van}l{(dengtas)}sunkvežimis/furgonas baldams vežioti;F{removal expenses}persikraustymo/pergabenimo išlaidos
+0{remove}[r&#618;'mu:v]S{&rArr;}E{n}I{1}žingsnis, pakopa, nutolimo laipsnis;F{only one remove}l{(from)}tik vienas žingsnisl{(nuo)};F{at many removes}dideliu atstumu;F{at every remove}su kiekvienu žingsniuI{2}giminystės laipsnis, eilė, kartaI{3}mokinio (per)kėlimas į aukštesnę klasę;F{to get one’s remove}būti perkeltam į aukštesnę klasęI{4}skyrius, klasėl{(kai kuriose D. Britanijos mokyklose)}S{&rArr;}E{v}I{1}nuimti; nuneštil{(nuo stalo)};F{to remove a bandage [one’s hand]nuimti tvarstį [ranką];F{to remove one’s coat}nusivilkti apsiaustą;F{to remove one’s eyes}nugręžti/nusukti akisI{2}per(si)kelti, per(si)kraustytiI{3}nušalinti, pašalintil{(iš pareigų)}I{4}pašalinti; tolinti;E{refl}pasišalinti;F{to remove tumour}pašalinti auglįI{5}panaikinti; išsklaidytil{(abejonesL{ir pan.})}I{6}išvalyti, išimtil{(dėmes)}I{7}L{euf.}likviduoti, pašalintil{(užmušti)}I{8}E{refl}L{juok.}išeiti, pasitrauktiS{&loz;}X{to remove mountains}S{&cong;}kalnus nuversti
+0{removed}[r&#618;'mu:vd]E{a}I{1}nutolęs; atskirtas, atsiskyręs;F{life in the army was far removed from...}gyvenimas kariuomenėje labai skyrėsi nuo...I{2:}X{cousin once removed}pusbrolis, pusseserė;F{cousin twice removed}antros eilės pusbrolis/pusseserė
+0{remover}[r&#618;'mu:v&#601;]E{n}I{1}baldų vežėjasl{(L{t. p.}X{furniture remover})}I{2}preparatas dėmėms išimti/valyti, valiklisI{3}L{tech.}nuimtuvas, nuėmiklis; šalintuvas
+0{remunerate}[r&#618;'mju:n&#601;re&#618;t]E{v}at(si)lyginti, atsiteisti; kompensuoti
+0{remuneration}[r&#618;,mju:n&#601;'re&#618;&#643;n]E{n}at(si)lyginimas, atlygis, atsiteisimas, apmokėjimas; kompensacija, užmokestis
+0{remunerative}[r&#618;'mju:nX{&#601;}r&#601;t&#618;v]E{a}I{1}(gerai) apmokamas, pelningasI{2}(gausiai) apdovanojantis, atsilyginantis
+0{renaissance}[r&#601;'ne&#618;sX{&#601;}ns]E{n}I{1}X{(the Renaissance)}Renesansas;F{Renaissance architecture}Renesanso architektūra;F{Renaissance man}X{a)}Renesanso epochos žmogus;X{b)}L{prk.}įvairiapusis žmogusI{2}l{(meno, literatūrosL{ir pan.})}atgimimas, atgijimas
+0{renal}['ri:nl]E{a}L{anat.}inkstų, inkstinis;F{renal calculus}L{med.}inkstų akmuo;F{renal specialist}nefrologas
+0{rename}[,ri:'ne&#618;m]E{v}l{(L{ppr.}E{pass})}duoti naują pavadinimą/vardą; pakeisti vardą/pavadinimą
+0{renascence}[r&#618;'n&aelig;sns]E{n}A{=R{renaissance}}
+0{renascent}[r&#618;'n&aelig;snt]E{a}E{attr}atgimstantis;F{renascent enthusiasm}naujas entuziazmas
+0{rencontre}[ren'k&#596;nt&#601;]L{pr.}L{psn.}A{=R{rencounter}}E{n}
+0{rencounter}[ren'kaunt&#601;]L{psn.}S{&rArr;}E{n}I{1}susirėmimas; susidūrimas; dvikovaI{2}atsitiktinis susitikimasS{&rArr;}E{v}I{1}susiremti, susidurtiI{2}atsitiktinai susitikti
+0{rend}[rend]E{v}(rent)L{knyg.}I{1}plėšti; plėšyti, draskyti;F{my heart is rending}man širdį draskoI{2}skaldyti; skiltiI{3}plyšti, sprogtiS{o}1{rend away/off}atplėšti, išplėštil{(from)}
+0{render}['rend&#601;]S{&rArr;}E{n}I{1}atmokėjimas, atsilyginimasI{2}L{stat.}pirmasis tinko sluoksnisS{&rArr;}E{v}I{1}(pa)daryti, (pa)verstil{(kuo)};F{to render helpless [impossible]daryti bejėgį [negalimą];F{to render active}aktyvinti;F{to be rendered speechless with rage}netekti žado iš pykčioI{2}(su)teiktil{(pagalbąL{ir pan.})}; duoti, pateikti;F{to render a service}(pa)daryti paslaugą;F{to render an account}l{(of)}duoti ataskaitą;F{to render an account (for payment)}pateikti sąskaitą (apmokėti);F{to render judg(e)ment}L{teis.}priimti teismo sprendimą;F{to render thanks}pareikšti padėkąI{3}perteikti, perduoti, (pa)vaizduoti; atliktil{(vaidmenįL{ir pan.})}I{4}verstil{(į kitą kalbą; into)}I{5}atmokėti, at(si)lyginti;F{to render good for evil}atmokėti geru už blogaI{6}L{knyg.}atiduoti; F{to render one’s life for one’s country}atiduoti gyvybę už tėvynęI{7}L{stat.}tinkuotiS{o}1{render down}L{spec.}(iš)lydyti, tirp(d)ytil{(taukus)};1{render up}L{knyg.}atiduotil{(priešui, valdovui)}
+0{rendering}['rendX{&#601;}r&#618;&#331;]E{n}I{1}perdavimas, perteikimas, vaizdavimas;l{(L{muz.}kūrinio, vaidmens)}atlikimasI{2}vertimasI{3}l{(pagalbosL{ir pan.})}(su)teikimasI{4}L{spec.}l{(taukų)}lydymasI{5}L{stat.}tinkavimas be balanų; bebelanis tinkas
+0{rendezvous}['r&#596;nd&#618;vu:]L{pr.}S{&rArr;}E{n}(E{pl}-vous[-vu:z])I{1}susitikimas, pasimatymas, randevuI{2}susitikimo vietaI{3}l{(artistų, rašytojųL{ir pan.})}lankymosi vietaI{4}kariuomenės/laivų su(si)telkimas paskirtoje vietojeS{&rArr;}E{v}susitikti sutartoje vietojel{(L{džn.}L{kar.})}
+0{rendition}[ren'd&#618;&#643;n]E{n}I{1}A{=R{rendering}}1I{2}L{amer.}vertimasI{3}l{(teismo sprendimo)}priėmimasI{4}L{teis.}l{(pabėgusių nusikaltėlių kitos šalies vyriausybei)}perdavimas, atidavimas
+0{renegade}['ren&#618;ge&#618;d]S{&rArr;}E{n}renegatas, išdavikas; persimetėlis, perbėgėlisS{&rArr;}E{a}renegatiškas, išdavikiškas
+0{renege}[r&#618;'ni:g, r&#618;'ne&#618;g]E{v}išsižadėti žodžio, sulaužyti žodįl{(on)}
+0{renegotiate}[,ri:n&#618;'g&#601;u&#643;&#618;e&#618;t]E{v}L{dipl.}persvarstytil{(susitarimąL{ir pan.})}
+0{renegotiation}[,ri:n&#618;g&#601;u&#643;&#618;'e&#618;&#643;X{&#601;}n]E{n}pakartotinės derybos
+0{renegue}[r&#618;'ni:g, r&#618;'ne&#618;g]E{v}A{=R{renege}}
+0{renew}[r&#618;'nju:]E{v}I{1}at(si)naujinti; atstatyti, atkurti; restauruotiI{2}atgaivinti, vėl sukeltil{(jausmusL{ir pan.})}I{3}pakartoti;F{he renewed his invitation}jis pakartojo pakvietimąI{4}pratęstil{(galiojimo laiką)};F{to renew a book}pratęsti knygos grąžinimo laikąl{(bibliotekoje)}I{5}papildytil{(atsargasL{ir pan.})}
+0{renewable}[r&#618;'nju:&#601;bl]E{a}I{1}atnaujinamas; atstatomas;F{renewable liner}L{tech.}keičiamoji įvorėI{2}pratęsiamas;F{the permit is renewable after 12 months}leidimą galima pratęsti po 12 mėnesių
+0{renewal}[r&#618;'nju:&#601;l]E{n}I{1}at(si)naujinimas; atstatymas; atkūrimas;F{renewal of trees}medžių atjauninimasI{2}pakartojimasI{3}l{(galiojimo laiko)}pratęsimas, prolongacijaI{4}l{(atsargų)}papildymasI{5}L{tech.}susidėvėjusių įrengimų (pa)keitimas naujais; atkuriamasis remontas
+0{reniform}['ri:n&#618;f&#596;:m]E{a}L{knyg.}inksto formos, inkstiškas; pumpuriškasl{(apie lapą)}
+0{rennet^{1}}['ren&#618;t]E{n}renetasl{(obelų veislių grupė)}
+0{rennet^{2}}E{n}L{anat.}šliužasl{(atrajotojų skrandžio dalis;L{t. p.}X{rennet bag})}; šliužo fermentas
+0{renominate}[ri:'n&#596;m&#618;ne&#618;t]E{v}paskirti kitai kadencijai
+0{renounce}[r&#618;'nauns]S{&rArr;}E{v}I{1}atsisakytil{(teisių, reikalavimų, įpročiųL{ir pan.})};F{to renounce a treaty}L{dipl.}denonsuoti sutartįI{2}atsižadėti, išsižadėtil{(draugųL{ir pan.})}I{3}nepripažinti; atmestiI{4}renonsuotisl{(lošiant kortomis)}S{&rArr;}E{n}renonsas
+0{renouncement}[r&#618;'naunsm&#601;nt]E{n}atsisakymas; išsižadėjimas
+0{renovate}['ren&#601;ve&#618;t]E{v}at(si)naujinti, atstatyti; suremontuoti, sutaisyti
+0{renovation}[,ren&#601;'ve&#618;&#643;n]E{n}at(si)naujinimas, atstatymas; suremontavimas, sutaisymas;E{pl}atnaujinimo darbai
+0{renovator}['ren&#601;ve&#618;t&#601;]E{n}I{1}atnaujintojasI{2}restauratorius
+0{renown}['r&#618;'naun]E{n}garbė, šlovė, pagarsėjimas;F{to win renown by exploits}pagarsėti žygiais
+0{renowned}[r&#618;'naund]E{a}(į)žymus, garsus, pagarsėjęsl{(for, as)}
+0{rent^{1}}[rent]S{&rArr;}E{past}l{ir}E{pII}A{L{žr.}R{rend}}S{&rArr;}E{n}I{1}proplėša, skylė, plyšysI{2}plyšimas; trūkis, trūkimasI{3}L{ret.}(su)skilimas, nesutarimas
+0{rent^{2}}S{&rArr;}E{n}I{1}nuoma; nuompinigiai; mokestisl{(už butą, telefonąL{ir pan.})};F{for rent}nuomonI{2}L{ekon.}renta;F{ground rent}žemės rentaS{&rArr;}E{v}nuomoti, iš(si)nuomoti, duoti/imti nuomonl{(at, for – už)}S{o}1{rent out}išnuomoti
+0{rent-a-car}['rent&#601;,ka:]E{n}automobilių nuomojimo įstaiga, išsinuomotas automobilis
+0{rental}['rentl]E{n}I{1}nuompinigiai, nuomos mokestis; nuomos pajamosI{2}L{amer.}(išsi)nuomojimasl{(automobilioL{ir pan.})}; (iš)nuomojamas butas/automobilisL{ir pan.}
+0{renter}['rent&#601;]E{n}I{1}nuomininkasI{2}nuomotojasl{(ypač kino filmų)}
+0{rent-free}[,rent'fri:]S{&rArr;}E{a}atleistas nuo nuomos mokesčio; nemokamai (iš)nuomojamasS{&rArr;}E{adv}nemokantl{ar}atleidžiant nuo nuomos mokesčio
+0{rentier}['r&#596;nt&#618;e&#618;]L{pr.}E{n}L{ekon.}rentininkas, rentjė
+0{rent-roll}['rentr&#601;ul]E{n}I{1}nuomininkų sąrašasI{2}nuomos/rentos pajamos
+0{renumber}[,ri:'n&#652;mb&#601;]E{v}pernumeruoti
+0{renunciation}[r&#618;,n&#652;ns&#618;'e&#618;&#643;n]E{n}I{1}atsisakymas; išsižadėjimasI{2}pasiaukojimas
+0{renunciative, renunciatory}[r&#618;'n&#652;ns&#618;&#601;t&#618;v, r&#618;'n&#652;ns&#618;&#601;tX{&#601;}r&#618;]E{a}atsisakymo, atsisakomasis
+0{reoccupy}[,ri:'&#596;kjupa&#618;]E{v}iš naujo užimti; vėl okupuoti
+0{reopen}[,ri:'&#601;upX{&#601;}n]E{v}I{1}vėl at(s)idarytiI{2}atnaujintil{(derybas, byląL{ir pan.})}, vėl pradėtiI{3}atsinaujintil{(apie žaizdą)};F{to reopen old reopens}L{prk.}atverti senas žaizdas
+0{reorder}[,ri:'&#596;:d&#601;]S{&rArr;}E{n}pakartotinis/atnaujintas užsakymasS{&rArr;}E{v}I{1}vėl/pakartotinai užsakytiI{2}pertvarkyti
+0{reorganisation}[ri:,&#596;:g&#601;na&#618;'ze&#618;&#643;n]E{n}reorganizacija, pertvarkymas
+0{reorganise}[,ri:'&#596;:g&#601;na&#618;z]E{v}reorganizuoti, pertvarkyti
+0{reorganization}[ri:,&#596;:g&#601;na&#618;'ze&#618;&#643;n]E{n}reorganizacija, reorganizavimas; pertvarkymas
+0{reorganize}[,ri:'&#596;:g&#601;na&#618;z]E{v}reorganizuoti; pertvarkyti
+0{rep^{1}}[rep]E{n}L{tekst.}ripsas
+0{rep^{2}}E{n}L{fiz.}repas, fizikinis rentgeno ekvivalentas
+0{rep^{3}}E{n}(representativeL{sutr.})L{šnek.}I{1}komivojažieriusI{2}atstovas
+0{rep^{4}}E{n}L{sutr.}L{šnek.}A{=R{repertory}}A{R{theatre}},A{L{žr.}R{repertory}}2
+0{rep^{5}}E{n}L{sutr.}L{amer.}L{šnek.}A{=R{reputation}}
+0{Rep}L{sutr.}X{Representative}l{(JAV)}Atstovų rūmų narysX{Republic}respublika;F{Republican}l{(JAV)}respublikonas
+0{rep., rept.}L{sutr.}X{report}ataskaita; pranešimas
+0{repackage}[ri:'p&aelig;k&#618;d&#658;]E{v}I{1}L{kom.}perpakuoti I{2}L{prk.}keistil{(politikoL{ir pan.})}įvaizdį
+0{repaid}[r&#618;'pe&#618;d]E{past}l{ir}E{pII}A{L{žr.}R{repay}}
+0{repaint}[,ri:'pe&#618;nt]E{v}perdažyti
+0{repair^{1}}[r&#618;'p&#604;&#601;]S{&rArr;}E{n}I{1}l{(L{džn.}E{pl})}remontas; taisymas;F{under repair}remontuojamas;F{closed for repairs}uždaryta dėl remontol{(užrašas)};F{damage/emergency repairs}L{tech.}avarinis remontas;F{major repairs}kapitalinis remontas;F{repair parts}atsarginės dalys;F{repair shop}remonto dirbtuvė, taisykla;F{the repairs to the roof cost £900}stogo taisymas kainavo 900 svarų sterlingųI{2}l{(jėgų, sveikatos)}atkūrimas, atgavimas;l{(žaizdos)}(už)gijimasI{3}tinkamumas, tvarkingumas;F{in good repair}sutaisytas, suremontuotas, visiškai tvarkingas, tinkamas naudoti;F{in bad repair, out of repair}netvarkingas, nepataisytas;F{beyond repair}nepataisomas, visai netinkamas naudoti;F{to keep in repair}laikyti tvarkingąI{4}(su)taisyta/(su)remontuota vietaS{&rArr;}E{v}I{1}(su)remontuoti; (pa)taisyti;F{to repair a broken fence}sutaisyti sulaužytą tvorąI{2}pataisyti, atgautil{(sveikatąL{ir pan.})};F{to repair the ravages of war}(už)gydyti karo padarytas žaizdasI{3}atitaisyti, ištaisytil{(kaltę, skriaudąL{ir pan.})}I{4}atlygintil{(nuostolius)}
+0{repair^{2}}E{v}L{knyg.}l{(to)}I{1}(nu)vyktil{(į)}; lankytisl{(kur)}I{2}kreiptisl{(į ką)}
+0{repairable}[r&#618;'p&#604;&#601;r&#601;bl]E{a}pataisomas; taisytinas;F{the house is not repairable}namo jau negalima suremontuoti
+0{repairer}[r&#618;'p&#604;&#601;r&#601;]E{n}remontininkas, remonto meistras;F{watch repairer, repairer of clock}laikrodininkas;F{cabinet repairer}baldų remonto meistras
+0{repairman}[r&#618;'p&#604;&#601;m&#601;n]E{n}(E{pl}-men[-m&#601;n])l{(L{tik v.})}A{=R{repairer}}
+0{repaper}[,ri:'pe&#618;p&#601;]E{v}iš naujo, vėl klijuoti sienų apmušalus
+0{reparable}['repX{&#601;}r&#601;bl]E{a}ištaisomas, atitaisomas
+0{reparation}[,rep&#601;'re&#618;&#643;n]E{n}I{1}l{(skriaudosL{ir pan.})}atitaisymasI{2}l{(nuostolių)}atlyginimas, kompensacijaI{3}l{(L{ppr.}E{pl})}reparacijosI{4}L{ret.}remontavimas, taisymas
+0{reparcelling}[,ri:'pa:sl&#618;&#331;]E{n}žemės sklypų perskirstymas, žemės sklypų sujungimas
+0{repartee}[,repa:'ti:]E{n}I{1}sąmojingas atsakymas/pokalbisI{2}sąmojis, sąmojingumas
+0{repartition}[,ri:pa:'t&#618;&#643;n]S{&rArr;}E{n}I{1}pa(si)skirstymasI{2}perskirstymasS{&rArr;}E{v}perskirstyti
+0{repass}[,ri:'pa:s]E{v}I{1}vėl praeitil{(ypač grįžtant)}; vėl pereiti/perkirstiI{2}vėl priimtil{(rezoliucijąL{ir pan.})}
+0{repast}[r&#618;'pa:st]E{n}L{knyg.},L{juok.}valgis, valgymasl{(L{t. p.}veiksmas)}; valgymo laikas
+0{repatriate}[ri:'p&aelig;tr&#618;e&#618;t]S{&rArr;}E{n}repatriantasS{&rArr;}E{v}l{(L{ppr.}E{pass})}repatrijuoti, grįžti/grąžinti į tėvynę
+0{repatriation}[,ri:p&aelig;tr&#618;'e&#618;&#643;n]E{n}repatriacija, grįžimas/grąžinimas į tėvynę
+0{repay}[r&#618;'pe&#618;]E{v}(repaid)I{1}grąžintil{(skolą)}I{2}at(si)lyginti, at(si)mokėti;F{to repay smb for his service}atsilyginti/apmokėti kam už paslaugąI{3}būti vertam;F{the article will repay careful reading}tą straipsnį verta atidžiai perskaityti
+0{repayable}[r&#618;'pe&#618;&#601;bl]E{a}I{1}apmokėtinas, atlygintinasI{2}padengiamasisl{(apie paskolą)}
+0{repayment}[r&#618;'pe&#618;m&#601;nt]E{n}I{1}l{(kredito, skolos)}grąžinimas;l{(paskolos)}padengimasI{2}at(si)lyginimas, at(si)mokėjimas; atpildas
+0{repeal}[r&#618;'pi:l]L{teis.}S{&rArr;}E{n}panaikinimas, anuliavimasS{&rArr;}E{v}panaikinti, anuliuoti, atšaukti
+0{repeat}[r&#618;'pi:t]S{&rArr;}E{n}I{1}(pa)kartojimas;F{repeat order}pakartotinis užsakymasI{2}pakartotinis atlikimasl{(spektaklyje, koncerte)}I{3}L{rad.},L{tel.}laidos kartojimasI{4}L{muz.}reprizaS{&rArr;}E{v}I{1}kartoti(s), pa(si)kartoti, at(si)kartoti;F{to repeat a course/year}kartoti kursą, palikti antriems metams;F{history repeats itself}istorija kartojasiI{2}atsakinėti/sakyti atmintinai;F{to repeat one’s lesson}atsakinėti pamokąI{3}sakyti, pasakotiI{4}L{šnek.}atsirūgtil{(svogūnaisL{ir pan.}; on)}I{5}L{amer.}neteisėtai balsuoti per rinkimus keletą kartų
+0{repeatable}[r&#618;'pi:t&#601;bl]E{a}(pa)kartojamas, kartotinas
+0{repeated}[r&#618;'pi:t&#618;d]E{a}(pa)kartotinis; daugiakartis; dažnas;F{on repeated occasions}ne kartą, daug kartų
+0{repeatedly}[r&#618;'pi:t&#618;dl&#618;]E{adv}pakartotinai, kelis kartus
+0{repeater}[r&#618;'pi:t&#601;]E{n}I{1}kartotojasI{2}repetyrasl{(laikrodis)}I{3}L{amer.}L{šnek.}antrametisl{(mokinys, studentas)}I{4}L{amer.}L{šnek.}recidyvistasI{5}L{amer.}L{sl.}neteisėtai balsuojantis keletą kartų per rinkimusI{6}L{kar.}magazininis šautuvasI{7}L{mat.}periodinė trupmenaI{8}L{el.}retransliatoriusI{9}L{jūr.}kartotuvas, repyteris
+0{repeating}[r&#618;'pi:t&#618;&#331;]E{a}kartojamas, pasikartojantis;F{repeating rifle}magazininis šautuvas;F{repeating watch}repetyrasl{(laikrodis)}
+0{repel}[r&#618;'pel]E{v}X{(-ll-)}I{1}(su)kelti pasibjaurėjimą;F{he repels me}aš jaučiu jam antipatijąI{2}atremti, atmuštil{(puolimą)}I{3}atmestil{(pasiūlymą, kaltinimą)}I{4}atbaidyti;F{fire repels wild animals}ugnis atbaido žvėris I{5}L{spec.}atstumti; F{this material repels water}tai – hidrofobinis audinys
+0{repellent}[r&#618;'pel&#601;nt]S{&rArr;}E{a}I{1}atstumiantis; bjaurus; (su)keliantis pasibjaurėjimąI{2}L{tekst.}hidrofobinis, atstumiantis vandenįl{(L{t. p.}X{water repellent})}S{&rArr;}E{n}I{1}L{chem.}repelentasl{(vabzdžiamsL{ir pan.}atbaidyti)}I{2}L{tekst.}hidrofobinis audinys
+0{repent^{1}}['ri:p&#601;nt]E{a}I{1}L{bot.}šliaužiantisI{2}L{zool.}ropojantis
+0{repent^{2}}[r&#618;'pent ]E{v}I{1}gailėtis, apgailestauti;F{he has nothing to repent of}jam nėra ko gailėtisI{2}atgailautil{(of – už)}
+0{repentance}[r&#618;'pent&#601;ns]E{n}gailėjimasis, apgailestavimas; atgaila
+0{repentant}[r&#618;'pent&#601;nt]E{a}apgailestaujantis; atgailaujantis;F{repentant tears}gailesčio ašaros
+0{repercussion}[,ri:p&#601;'k&#652;&#643;n]E{n}I{1}atšokimas, atatranka, atsimušimasI{2}aidasl{(L{t. p.}L{prk.})}I{3}l{(L{ppr.}E{pl})}l{(įvykioL{ir pan.})}atgarsis, atbalsis
+0{repertoire}['rep&#601;twa:]L{pr.}E{n}repertuaras
+0{repertory}['rep&#601;tX{&#601;}r&#618;]E{n}I{1}žinynas, rinkinys;l{(informacijosL{ir pan.})}saugyklaI{2}repertuaras;F{repertory theatre}teatras su nuolatine trupe ir sezono repertuaru
+0{repetition}[,rep&#618;'t&#618;&#643;n]E{n}I{1}(pa)kartojimas; kartojimasis, pasikartojimasI{2}sakymas/mokymas(is) atmintinaiI{3}kopija
+0{repetitious}[,rep&#618;'t&#618;&#643;&#601;s]E{a}nuolat kartojamas/pasikartojantis, nuobodus, įkyrus
+0{repetitive}[r&#618;'pet&#601;t&#618;v]E{a}I{1}kartojamasis, pasikartojantisI{2}A{=R{repetitious}}
+0{rephrase}[,ri:'fre&#618;z]E{v}perfrazuoti
+0{repine}[r&#618;'pa&#618;n]E{v}L{knyg.}skųstis, sielotisl{(at, against)}
+0{replace}[r&#618;'ple&#618;s]S{&rArr;}E{v}I{1}(pa)keisti, išstumtil{(by, with)};F{impossible to replace}nepakeičiamas;F{buses are replacing the trams}autobusai išstumia tramvajusI{2}L{kom.}grąžinti; papildytil{(atsargas; with)}I{3}dėti atgal į vietąS{&rArr;}E{n}L{spec.}l{(teksto)}keitimas
+0{replaceable}[r&#618;'ple&#618;s&#601;bl]E{a}pakeičiamas, keičiamasis
+0{replacement}[r&#618;'ple&#618;sm&#601;nt]E{n}I{1}pakeitimas; pakaitas, pakaitalasI{2}grąžinimas; papildymasI{3}pavaduojantis asmuo, pavaduotojas
+0{replant}[,ri:'pla:nt]E{v}I{1}persodintil{(augalą)}I{2}(vėl) užsodintil{(kitais augalais)}
+0{replay}S{&rArr;}E{v}[,ri:'ple&#618;]I{1}L{sport.}peržaistiI{2}pergrotiS{&rArr;}E{n}['ri:ple&#618;]I{1}L{sport.}peržaidimas;F{action}/L{amer.}X{instant replay}L{tel.}svarbaus varžybų epizodo (pa)kartojimas;F{to show an instant replay of a goal}L{amer.}pakartotinai parodyti įvartįl{(rungtynių transliacijos metu)}I{2}L{šnek.}kartojimasl{(tų pačių klaidųL{ir pan.})}
+0{replenish}[r&#618;'plen&#618;&#643;]E{v}vėl pripildyti/pripiltil{(with)}; papildyti;F{to replenish supplies}papildyti atsargas
+0{replenishment}[r&#618;'plen&#618;&#643;m&#601;nt]E{n}pripildymas, papildymas
+0{replete}[r&#618;'pli:t]E{a}I{1}pripildytas, gerai aprūpintas, daug turintisl{(with)};F{a book replete with wisdom}knyga, pilna išmintiesI{2}prisotintas, prisisotinęs
+0{repletion}[r&#618;'pli:&#643;n]E{n}I{1}pripildymas,X{a hall filled to repletion with children}salė, pilna vaikųI{2}pri(si)sotinimas;F{to eat to repletion}prisivalgyti ligi soties
+0{replica}['repl&#618;k&#601;]E{n}L{men.}tiksli kopija; reprodukcija
+0{replicate}['repl&#618;ke&#618;t]E{v}I{1}L{men.}kopijuotiI{2}L{ret.}kartotiI{3}E{refl}L{biol.}replikuoti, savaime dvigubėti
+0{replication}[,repl&#618;'ke&#618;&#643;n]E{n}I{1}replika, atkirtis, atsikirtimasI{2}L{teis.}ieškovo atsikirtimas atsakovuiI{3}kopijavimasI{4}L{men.}kopija, reprodukcijaI{5}L{biol.}replikacija
+0{reply}[r&#618;'pla&#618;]S{&rArr;}E{n}I{1}atsakymas;F{in reply}atsakydamas, atsakantI{2}A{=R{replication}}2S{&loz;}X{without reply}sausu rezultatul{(laimėti)}S{&rArr;}E{v}I{1}atsakytiI{2}L{teis.}prieštarauti, atsikirstiI{3}reaguoti, imtis atsakomųjų veiksmųl{(to, with)}
+0{reply-paid}[r&#618;'pla&#618;'pe&#618;d]E{a}su apmokėtu atsakymul{(apie telegramąL{ir pan.})}
+0{repo}['ri:p&#601;u]E{v}(repossessL{sutr.})L{amer.}L{šnek.}atimti, susigrąžintil{(išsimokėtinai parduotą automobilį)}
+0{report}[r&#618;'p&#596;:t]S{&rArr;}E{n}I{1}ataskaital{(on, of)}; protokolas;F{to draw up a report on/of an accident}surašyti avarijos aktą/protokolą;F{expert report}eksperto išvadaI{2}pranešimas; raportas;F{weather report}pranešimas apie orąI{3}gandas, paskala;F{the report goes}šneka(ma), eina kalbos;F{mere report}tiktai gandasI{4}reputacijaI{5}L{mok.}pažangumo pažymėjimasl{(L{amer.}L{t. p.}X{report card})}I{6}šūvio/sprogimo garsasS{&rArr;}E{v}I{1}pranešti;F{to report oneself ill}pranešti apie savo susirgimą;F{no casualties have been reported}apie aukas nebuvo praneštaI{2}darytil{(oficialų)}pranešimą; atsiskaityti, pateikti ataskaitąl{(L{t. p.}X{report back})}; raportuoti;F{to report a bill}L{parl.}paskelbti komisijos nutarimą dėl įstatymo projekto parlamente prieš trečiąjį svarstymąI{3}(pa)pasakoti, (iš)dėstyti; perduotil{(žodžius)};F{did she have anything of interest to report?}ar ji turėjo ką nors įdomaus papasakoti?I{4}rengti/rašyti reportažą;F{to report well [badly]duoti palankų [nepalankų] atsiliepimąl{(apie)}I{5}atvykti; pareikšti, kad atvykote, prisistatyti;F{to report for work}atvykti į darbą;F{to report to the police}registruotis policijojeI{6}skųstis, pateikti skundąI{7}būti pavaldžiaml{(to)}I{8}l{(L{ppr.}E{pass})}kalbėti, sklistil{(apie gandus)}S{o}1{report back}X{a)}prisistatytil{(į darbą po nebuvimo)};X{b)}pateikti ataskaitąl{(about, on)}S{&loz;}X{to report progress}X{a)}pranešti apie padėtį;X{b)}L{parl.}nutraukti debatus dėl įstatymo projekto;X{c)}atidėti;F{to move to report progress}L{parl.}pateikti pasiūlymą nutraukti debatus
+0{reportable}[r&#618;'p&#596;:t&#601;bl]E{a}praneštinas; įdomusl{(spaudai)}
+0{reportage}[r&#618;'p&#596;:t&#618;d&#658;, ,rep&#596;:'ta:&#658;]L{pr.}E{n}reportažas
+0{reported}[r&#618;'p&#596;:t&#618;d]E{a}L{gram.}:X{reported speech}netiesioginė kalba
+0{reportedly}[r&#618;'p&#596;:t&#618;dl&#618;]E{adv}kaip kalbama, pagal turimas žinias
+0{reporter}[r&#618;'p&#596;:t&#601;]E{n}I{1}reporteris, korespondentas; radijo komentatorius;F{cub reporter}jaunas, neprityręs korespondentasI{2}referentas
+0{reporting}[r&#618;'p&#596;:t&#618;&#331;]E{n}reportažai
+0{repose^{1}}[r&#618;'p&#601;uz]E{v}:X{to repose one’s trust/confidence in smb}tikėti, pasikliauti kuo
+0{repose^{2}}L{knyg.}S{&rArr;}E{n}I{1}poilsis; miegasI{2}ramybė; laisvumas;F{to have repose of manner}laisvai/paprastai elgtisS{&loz;}X{angle of repose}L{tech.}natūraliojo šlaito kampasS{&rArr;}E{v}I{1}ilsėtis; gulėtiI{2}dėti, guldyti;F{to repose one’s head on the pillow}padėti galvą ant pagalvėsI{3}būti padėtaml{(on)}
+0{reposeful}[r&#618;'p&#601;uzfX{&#601;}l]E{a}I{1}ramusI{2}raminantis
+0{repository}[r&#618;'p&#596;z&#618;tX{&#601;}r&#618;]E{n}I{1}saugykla, talpykla; sandėlisI{2}l{(L{džn.}L{juok.})}žinovas, informacijos šaltinis, enciklopedijaI{3}patikėtinis, paslapties saugotojas
+0{repossess}[,ri:p&#601;'zes]E{v}L{knyg.}vėl imti valdyti, susigrąžintil{(nuosavybę)}; atsiimtil{(išnuomotą/paskolintą daiktą)}
+0{repot}[,ri:'p&#596;t]E{v}persodintil{(augalą)}į kitą puodą
+0{repoussé}[r&#601;'pu:se&#618;]L{pr.}S{&rArr;}E{n}štampuotas dirbinys;l{(metalo)}bareljefas; štampavimasS{&rArr;}E{a}štampuotasl{(apie metalą)}; reljefinis
+0{repp}[rep]E{n}A{=R{rep^{1}}}
+0{reprehend}[,repr&#618;'hend]E{v}peikti, priekaištauti; (pa)smerkti
+0{reprehensible}[,repr&#618;'hens&#601;bl]E{a}peiktinas, smerktinas
+0{reprehension}[,repr&#618;'hen&#643;n]E{n}(pa)peikimas; (pa)smerkimas
+0{represent}[,repr&#618;'zent]E{v}I{1}atstovauti, būti atstovu; reprezentuotiI{2}simbolizuoti; reikšti, ženklinti, rodyti; pateikti;F{the red lines on the map represent railways}raudonos linijos žemėlapyje rodo/reiškia geležinkelius;F{to represent falsely}pateikti melagingą informacijąI{3}(pa)vaizduoti; piešti;F{Shakespeare represents Richard III as a black-hearted villain}Šekspyras vaizduoja Ričardą III kaip beširdį piktadarįI{4}vaidintil{(vaidmenį)}I{5}E{refl}pristatyti, vaizduotisl{(esant; as)}
+0{re-present}[,ri:pr&#618;'zent]E{v}pakartotinai pateikti/pasiųstil{(ypač dokumentą)}
+0{representation}[,repr&#618;zen'te&#618;&#643;n]E{n}I{1}atstovavimas; reprezentavimas, reprezentacijaI{2}(pa)vaizdavimas; vaizdasI{3}pavaizdavimas, pateikimasI{4}vaidinimasI{5}L{ofic.}protestas;E{pl}nusiskundimai;F{to make representations}kreiptis kokiu reikalu/prašymu; nusiskųstil{(to – kam, about – dėl)}
+0{representational}[,repr&#618;zen'te&#618;&#643;n&#601;l]E{a}I{1}atstovaujamasisI{2}L{men.}vaizduojamasis
+0{representative}[,repr&#618;'zent&#601;t&#618;v]S{&rArr;}E{n}I{1}atstovas; delegatas; įgaliotinis;F{the mole is the sole British representative of the family}kurmis – vienintelis šios šeimos gyvūnas Britanijoje;F{representatives of the press}spaudos darbuotojaiI{2}L{amer.}atstovų rūmų narys;F{House of Representatives}atstovų rūmaiS{&rArr;}E{a}I{1}tipiškas, tipingas; pavyzdinisI{2}atstovaujantis; vaizduojantis; simbolizuojantisI{3}L{spec.}atstovaujamasis; reprezentacinis
+0{repress}[r&#618;'pres]E{v}I{1}(nu)malšinti, (nu)slopinti; (su)tramdytiI{2}(su)laikytil{(ašarasL{ir pan.})}; (su)valdytil{(aistras)}
+0{represser}[r&#618;'pres&#601;]E{n}I{1}engėjas, tironasI{2}malšintojas, slopintojas
+0{repression}[r&#618;'pre&#643;n]E{n}I{1}represijaI{2}(nu)malšinimas, (nu)slopinimasI{3}sulaikymas, (su)valdymasl{(jausmų, impulsų)}
+0{repressive}[r&#618;'pres&#618;v]E{a}represinis; represyvus;F{repressive measures}represinės/represavimo priemonės
+0{repressiveness}[r&#618;'pres&#618;vn&#618;s]E{n}represyvumas
+0{repressor}[r&#618;'pres&#601;]E{n}L{biol.}represorius
+0{reprieve}[r&#618;'pri:v]S{&rArr;}E{n}I{1}L{teis.}l{(mirties)}nuosprendžio vykdymo atidėjimas; įsakymas dėl nuosprendžio vykdymo atidėjimoI{2}atokvėpis, trumpa pertraukėlėS{&rArr;}E{v}I{1}l{(L{ppr.}E{pass})}atidėtil{(mirties)}nuosprendžio vykdymąI{2}leisti atsikvėpti/atsidusti
+0{reprimand}['repr&#618;ma:nd]S{&rArr;}E{n}papeikimasS{&rArr;}E{v}pareikšti papeikimą, papeikti
+0{reprint}S{&rArr;}E{n}['ri:pr&#618;nt]I{1}perspausdinimas; naujasl{(stereotipinis)}leidimasI{2}l{(straipsnioL{ir pan.})}atspaudasS{&rArr;}E{v}[,ri:'pr&#618;nt]perspausdinti, išleisti naują leidimą; daryti atspaudą
+0{reprisal}[r&#618;'pra&#618;zl]E{n}l{(L{džn.}E{pl})}represalijos; atsakomasis veiksmas/smūgis
+0{reprise}[r&#618;'pri:z]E{n}L{muz.},L{kin.}repriza
+0{repro}['ri:pr&#601;u]L{sutr.}L{šnek.}S{&rArr;}E{n}(E{pl}repros[-z])A{=R{reproduction}}2S{&rArr;}E{a}senovinio stiliausl{(apie namąL{ir pan.})}
+0{reproach}[r&#618;'pr&#601;ut&#643;]S{&rArr;}E{n}I{1}priekaištas;F{above/beyond reproach}nepriekaištingas;F{to heap reproaches}l{(on)}apiberti priekaištaisl{(ką)}I{2}gėdal{(to – kam)};F{to bring reproach}l{(on)}užtraukti gėdąl{(kam)}S{&rArr;}E{v}I{1}priekaištauti, prikaišioti; prikišti;F{to reproach smb with carelessness}prikišti/prikaišioti kam nerūpestingumąI{2}E{refl}kaltinti save; gailėtis
+0{reproachful}[r&#618;'pr&#601;utfX{&#601;}l]E{a}I{1}priekaištingasI{2}gėdingas, negarbingas
+0{reproachfully}[r&#618;'pr&#601;ut&#643;fX{&#601;}ll&#618;]E{adv}priekaištingai
+0{reprobate}['repr&#601;be&#618;t]S{&rArr;}E{n}I{1}pasileidėlis, ištvirkėlis; nedorėlisI{2}L{rel.}nusidėjėlisS{&rArr;}E{a}pasileidęs, ištvirkęs; nedorasI{2}L{rel.}nuodėmingas, atstumtas, paniekintasS{&rArr;}E{v}L{knyg.}I{1}smerkti, peiktiI{2}L{rel.}atstumti
+0{reprobation}[,repre'be&#618;&#643;n]E{n}pasmerkimas, papeikimas
+0{reprocess}[,ri:'pr&#601;uses]E{v}pakartotinai apdirbti, perdirbti
+0{reproduce}[,ri:pr&#601;'dju:s]E{v}I{1}atgaminti, atkurti; reprodukuoti;F{to reproduce the sound exactly}tiksliai atgaminti garsą;F{to reproduce a play}atnaujinti pastatymąI{2}atstatyti;F{lobsters are able to reproduce lost claws}vėžiams vėl atauga nutrauktos žnyplėsI{3}L{biol.}gimdyti; veistisl{(L{t. p.}E{refl})};F{to reproduce one’s kind}daugintis
+0{reproducer}[,ri:pr&#601;'dju:s&#601;]E{n}reproduktorius; atkūrimo įrenginys
+0{reproducibility}[,ri:pr&#601;,dju:s&#601;'b&#618;l&#601;t&#618;]E{n}L{spec.}atkuriamumas, atgaminamumas
+0{reproducible}[,ri:pr&#601;,dju:s&#601;bl]E{a}atkuriamas, atgaminamas
+0{reproduction}[,ri:pr&#601;'d&#652;k&#643;n]E{n}I{1}atgaminimas;l{(L{ekon.}L{t. p.})}reprodukcijaI{2}kopija, reprodukcijaI{3}L{biol.}dauginimas(is), veisimas(is)
+0{reproductive}[,ri:pr&#601;'d&#652;kt&#618;v]E{a}E{attr}I{1}L{spec.}atgaminamasis, atgaminimo; reprodukavimoI{2}L{biol.}reprodukcinis;F{reproductive organs}vaisos/dauginimosi/reprodukcijos organai;F{highly reproductive}vislus
+0{reprogram}[,ri:'pr&#601;ugr&aelig;m]E{v}L{komp.}perprogramuoti, pakartotinai programuoti
+0{reprographics, reprography}[,ri:pr&#601;'gr&aelig;f&#618;ks, r&#618;'pr&#596;gr&#601;f&#618;]E{n}reprografija
+0{reproof^{1}}[r&#618;'pru:f]E{n}priekaištas; (pa)peikimas;F{a glance of reproof}priekaištingas žvilgsnis
+0{reproof^{2}}[,ri:'pru:f]E{v}vėl impregnuotil{(lietpaltįL{ir pan.})}
+0{reprove}[r&#618;'pru:v]E{v}prikaišioti, prikišti; (pa)peikti; (pa)barti
+0{reproving}[r&#618;'pru:v&#618;&#331;]E{a}priekaištingas
+0{reprovingly}[r&#618;'pru:v&#618;&#331;l&#618;]E{adv}priekaištingai
+0{reptant}['rept&#601;nt]E{a}A{=R{repent^{1}}}
+0{reptile}['repta&#618;l]S{&rArr;}E{n}L{zool.}roplys, šliaužikasI{2}L{prk.}šliužas, palaižūnasS{&rArr;}E{a}I{1}ropojantis, šliaužiojantisI{2}L{prk.}žemas, parsidavėliškas
+0{reptilian}[rep't&#618;l&#618;&#601;n]S{&rArr;}E{n}L{zool.}roplys, reptilijaS{&rArr;}E{a}I{1}roplių; roplinisI{2}L{prk.}L{šnek.}A{=R{reptile}}2
+0{republic}[r&#618;'p&#652;bl&#618;k]E{n}I{1}respublika;F{the Republic of Lithuania}Lietuvos Respublika I{2}l{(lygiateisė)}bendruomenė;F{the republic of letters}literatūrinis pasaulis
+0{republican}[r&#618;'p&#652;bl&#618;k&#601;n]S{&rArr;}E{a}I{1}respublikinisI{2}X{Republican}L{amer.}respublikonųS{&rArr;}E{n}I{1}respublikonasl{(respublikinės santvarkos šalininkas)}I{2}X{Republican}L{amer.}respublikonasl{(partijos narys)}
+0{republication}[,ri:p&#652;bl&#618;'ke&#618;&#643;n]E{n}pakartotinis (iš)leidimas; pakartotinai išleista knyga, naujas leidimas
+0{republish}[,ri:'p&#652;bl&#618;&#643;]E{v}iš naujo (iš)leisti
+0{repudiate}[r&#618;'pju:d&#618;e&#618;t]E{v}I{1}atstumti, atmesti; nepripažinti;F{he repudiateed the accusation}jis atmetė kaltinimąI{2}atsisakyti, išsižadėti;F{to repudiate one’s former friends}išsižadėti senų draugųI{3}atsisakyti mokėtil{(skolą)}, anuliuotil{(skolas, sutartį)}I{4}skirtis, išsiskirtil{(su žmona)}
+0{repudiation}[r&#618;,pju:d&#618;'e&#618;&#643;n]E{n}I{1}nepripažinimasI{2}atsisakymas, išsižadėjimasI{3}atsisakymas mokėtil{(skolą)};l{(skolų)}anuliavimasI{4}skyrimasis, išsiskyrimasl{(su žmona)}
+0{repugnance, -cy}[ r&#618;'p&#652;gn&#601;ns, -s&#618;]E{n}I{1}bjaurėjimasis, pasibjaurėjimas, antipatija, nepalankumasl{(for, to, against)}I{2}prieštaravimas, nesuderinamumasl{(between, of)}
+0{repugnant}[r&#618;'p&#652;gn&#601;nt]E{a}I{1}bjaurus, atstumiantis, nepakenčiamasl{(to)}I{2}prieštaraujantis; nesuderinamasl{(with, to)}; priešiškas
+0{repulse}[r&#618;'p&#652;ls]S{&rArr;}E{n}I{1}atrėmimas;F{to suffer a repulse}pralaimėtiI{2}atmetimas,l{(neigiamas)}atsakymas; atstūmimasS{&rArr;}E{v}I{1}atremtil{(priešą)}I{2}atmestil{(pasiūlymąL{ir pan.})}; atstumtil{(siūlytojąL{ir pan.})};F{to repulse a request}atmesti prašymą, nepatenkinti prašymo
+0{repulsion}[r&#618;'p&#652;l&#643;n]E{n}I{1}bjaurėjimasis, pasibjaurėjimas, antipatijaI{2}atrėmimasI{3}L{fiz.}stūma;F{mutual repulsion}atsistūmimas
+0{repulsive}[r&#618;'p&#652;ls&#618;v]E{a}I{1}atstumiantis, bjaurus, šlykštusI{2}atremiantis, atmetantisI{3}L{fiz.}:X{repulsive force}stūmos jėga
+0{repulsively}[r&#618;'p&#652;ls&#618;vl&#618;]E{adv}atgrasiai
+0{repulsiveness}[r&#618;'p&#652;ls&#618;vn&#618;s]E{n}atgrasumas
+0{repurchase}[,ri:'p&#601;:t&#643;&#601;s]L{kom.}S{&rArr;}E{n}atpirkimas, išpirkimasS{&rArr;}E{v}atpirktil{(parduotą prekę)}
+0{reputable}['repjut&#601;bl]E{a}gerbiamas; garbingas;F{reputable profession}garbinga profesija
+0{reputation}[,repju'te&#618;&#643;n]E{n}reputacija; geras vardas;F{a person of reputation}gerbiamas žmogus;F{a person of no reputation}įtartina asmenybė;F{a scientist of worldwide reputation}pasaulinio garso mokslininkas;F{to have a reputation for wit}garsėti sąmojingumu;F{to live up to one’s reputation}pateisinti savo reputaciją
+0{repute}[r&#618;'pju:t]S{&rArr;}E{n}bendroji nuomonė, reputacija, vardas;F{to know by repute}žinoti iš nuogirdų;F{of bad repute}prastos reputacijos;F{to be held in high repute}būti geros reputacijos, turėti gerą vardą;F{writers of repute}žinomi rašytojaiS{&rArr;}E{v}l{(L{ppr.}E{pass})}laikyti, manyti;F{he is well reputed}apie jį gerai kalbama/atsiliepiama;F{he is reputed to be rich}jis laikomas turtuoliu
+0{reputed}[r&#618;'pju:t&#618;d]E{a}E{attr}I{1}geros reputacijos, gero vardo; žinomasI{2}manomas, laikomas, spėjamas;F{the reputed father of the child}manomas/spėjamas vaiko tėvas
+0{reputedly}[r&#618;'pju:t&#618;dl&#618;]E{adv}visų manymu
+0{req.}L{sutr.}X{request}prašymas; paklausimas;F{required}reikalingas, būtinas
+0{reqmts}L{sutr.}X{requirements}reikalavimai; poreikiai
+0{request}[r&#618;'kwest]S{&rArr;}E{n}I{1}prašymas; pageidavimas,l{(mandagus)}(pa)reikalavimas;F{at/by smb’s request}kieno prašymu/pageidavimu;F{at the request of the public}publikos pageidavimu;F{on request}paprašius; pageidaujant;F{to make a request}X{a)}kreiptis su prašymu;X{b)}paduoti užsakymą/paraiškąI{2}L{kom.}paklausa;F{in great request}paklausus, labai reikalaujamas; populiarusI{3}L{komp.}užklausa; paraiškaS{&rArr;}E{v}I{1}prašyti;l{(mandagiai)}reikalauti;F{your presence is requested immediately}jus prašo tuoj pat atvykti;F{your help is requested}prašoma jūsų pagalbos; F{I must request you to obey orders}prašau jus vykdyti įsakymusI{2}pageidautil{(ką atlikti per radiją)}
+0{requiem}['rekw&#618;&#601;m, -&#618;em]E{n}I{1}L{muz.}rekviem, requiemI{2}L{bažn.}gedulingosios mišiosl{(L{t. p.}X{requiem mass})}
+0{requiescat}[,rekw&#618;'esk&aelig;t]L{lot.}E{n}L{bažn.}ilsėkis ramybėjel{(malda už mirusįjį)}
+0{require}[r&#618;'kwa&#618;&#601;]E{v}I{1}(pa)reikalauti, įsakytiI{2}reikėti, būti reikalingam;F{he requires medical care}jam reikia medicinos priežiūros;F{when required}kada reikės
+0{required}[r&#618;'kwa&#618;&#601;d]E{a}reikalingas, būtinas;F{to reach the required standard}pasiekti reikiamą lygį;F{required studies}L{amer.}privalomieji kursail{(universitete)}
+0{requirement}[r&#618;'kwa&#618;&#601;m&#601;nt]E{n}I{1}reikalavimas, būtina sąlyga;F{university entrance requirements}stojimo į universitetą reikalavimai;F{what are his requirements?}kokios jo sąlygos? I{2}poreikis, (pa)reikalavimas;F{to meet the requirements}atitikti reikalavimus, (pa)tenkinti poreikiusI{3}L{amer.}privalomieji kursail{(universitete)}
+0{requisite}['rekw&#618;z&#618;t]S{&rArr;}E{n}tai, kas reikalinga/būtina;F{the requisites for a long journey}visa, ko reikia ilgai kelionei;F{sports requisites}sporto reikmenysS{&rArr;}E{a}reikalingas, būtinas
+0{requisition}[,rekw&#618;'z&#618;&#643;n]S{&rArr;}E{n}I{1}oficialus reikalavimas, įsakymasI{2}paraiška, (pa)reikalavimas; paklausa;F{requisition form}paraiškos blankas;F{to be in requisition}turėti paklausąI{3}l{(ypačL{kar.})}rekvizavimas, rekvizicija;F{to put in requisition, to bring/call into requisition}X{a)}rekvizuoti;X{b)}naudoti(s)S{&rArr;}E{v}I{1}rekvizuotiI{2}pateikti paraišką; reikalauti
+0{requital}[r&#618;'kwa&#618;tl]E{n}atpildas; at(si)lyginimas, atsiskaitymas
+0{requite}[r&#618;'kwa&#618;t]E{v}I{1}at(si)lyginti, at(si)mokėtil{(for – už; with – kuo)};F{to requite like for like}atsilyginti tuo pačiuI{2}(at)keršyti;E{pass}gauti atpildą
+0{reran}[,ri:'r&aelig;n]E{past}A{L{žr.}R{rerun}}E{v}
+0{reread}[,ri:'ri:d]E{v}(reread[,ri:'red]) iš naujo (per)skaityti
+0{reredos}[,r&#618;&#601;d&#596;s]E{n}L{bažn.}altoriaus dekoratyvinis pano
+0{rerefine}[,ri:r&#618;'fa&#618;n]E{v}L{tech.}regeneruotil{(panaudotą alyvą)}
+0{re-release}[,ri:r&#618;'li:s]E{v}pakartotinai (iš)leistil{(filmąL{ir pan.})}
+0{reroof}[,ri:'ru:f]E{v}perdengti stogą
+0{reroute}[,ri:'ru:t]E{v}(pa)keisti maršrutą/trasą; peradresuoti
+0{rerun}S{&rArr;}E{n}['ri:r&#652;n]I{1}pakartotinis rodymasl{(kino filmo, televizijos laidos)}; senas filmasI{2}l{(įvykioL{ir pan.})}pasikartojimasl{(of)}I{3}pakartotinės lenktynės/varžybosS{&rArr;}E{v}[,ri:'r&#652;n](reran; rerun)I{1}pakartotinai rodytil{(filmą)}I{2}iš naujo lenktyniauti
+0{res.}L{sutr.}X{reserve}atsarga, rezervas;F{reserved}rezervuotas; atsarginisX{residence}gyvenamoji vietaX{residue}likutisX{resigned}atsistatydinęs
+0{resale}['ri:seil, ri:'se&#618;l]E{n}perpardavimas
+0{resat}[,ri:'s&aelig;t]E{past}l{ir}E{pII}A{L{žr.}R{resit}}
+0{reschedule}[,ri:'&#643;edju:l]E{v}I{1}nukelti, atidėtil{(vėlesniam laikui)}I{2}L{fin.}perstruktūrinti, atidėtil{(skoląL{ir pan.})}
+0{rescind}[r&#618;'s&#618;nd]E{v}L{teis.}panaikinti, anuliuoti; nutrauktil{(sutartįL{ir pan.})}
+0{rescission}[r&#618;'s&#618;&#658;n]E{n}L{teis.}panaikinimas, anuliavimas
+0{rescript}['ri:skr&#618;pt]E{n}I{1}L{ist.}reskriptas I{2}įsakas; raštas
+0{rescue}['reskju:]S{&rArr;}E{n}(iš)gelbėjimas;F{to come to the rescue}ateiti į pagalbą, padėti;F{rescue party [team]gelbėjimo ekspedicija[būrys/brigada]S{&rArr;}E{v}I{1}(iš)gelbėti;F{to rescue a drunkard}padėti girtuokliui mesti gertiI{2}L{teis.}išvaduoti smurtul{(suimtąjį)}I{3}L{teis.}atsiimti smurtul{(turtą)}
+0{rescuer}['reskju:&#601;]E{n}(iš)gelbėtojas
+0{research}[r&#618;'s&#601;:t&#643;]S{&rArr;}E{n}I{1}l{(L{džn.}E{pl})}(mokslinis) tyri(nėji)mas, nagrinėjimasl{(into, on)}; mokslo tiriamasis darbasl{(L{t. p.}X{research work})};F{to be engaged in research}dirbti mokslinį darbą;F{market research}rinkos tyrimasI{2}rūpestingas ieškojimasl{(after, for)}I{3}E{attr}:X{research establishment}mokslinio tyrimo institutas;F{research library}mokslinė bibliotekaX{research satellite}mokslinis palydovasS{&rArr;}E{v}I{1}tirti, tyrinėti; nagrinėti, studijuotiI{2}teikti daug informacijos, faktinės medžiagosl{(apie knygąL{ir pan.})}
+0{research-based}[r&#618;'s&#601;:t&#643;be&#618;st]E{a}tyrimais grįstas
+0{researcher}[r&#618;'s&#601;:t&#643;&#601;]E{n}tyrėjas, tyrinėtojas
+0{research-oriented}[r&#618;'s&#601;:t&#643;'&#596;:r&#618;&#601;nt&#618;d]E{a}linkęs į tyrinėjimus, tyrinėjimams skirtas, tyrinėjimams pirmenybę teikiantis
+0{reseat}[,ri:'si:t]E{v}I{1}vėl (pa)sodinti, persodinti;E{refl}vėl atsisėstiI{2}padaryti naująl{(kėdės)}sėdynęI{3}įrengti naujas sėdėjimo vietasl{(teatreL{ir pan.})}I{4}L{tech.}pritrinti, priderinti
+0{resect}[r&#618;'sekt]E{v}L{med.}padaryti rezekciją, operacija pašalinti dalį organo
+0{resection}[r&#618;'sek&#643;n]E{n}L{med.}rezekcija
+0{reseda}['res&#618;d&#601;]E{n}L{bot.}razeta
+0{reseed}[,ri:'si:d]E{v}L{ž. ū.}atsėti
+0{reselect}[,ri:s&#618;'lekt]E{v}L{polit.}perrinkti
+0{resell}[,ri:'sel]E{v}(resold) perparduoti
+0{resemblance}[r&#618;'zembl&#601;ns]E{n}panašumas;F{to bear/show resemblance}būti panašiam, panašėtil{(to – į)}
+0{resemble}[r&#618;'zembl]E{v}būti panašiam;F{to resemble each other}būti panašiems vienam į kitą
+0{resent}[r&#618;'zent]E{v}piktinti(s); į(si)žeisti;F{I resent the way he treats me}mane piktina jo elgesys su manimi
+0{resentful}[r&#618;'zentfX{&#601;}l]E{a}I{1}pasipiktinęs; įsižeidęsl{(at, about – dėl)}; (pilnas) apmaudoI{2}lengvai įsižeidžiantis
+0{resentfully}[r&#618;'zentfX{&#601;}ll&#618;]E{adv}su pasipiktinimu, su apmaudu
+0{resentfulness}[r&#618;'zentfX{&#601;}ln&#618;s]E{n}pasipiktinimas, nuoskauda
+0{resentment}[r&#618;'zentm&#601;nt]E{n}pasipiktinimas, apmaudas; įsižeidimas;F{to have no resentment}l{(against)}nejausti apmaudol{(kam)}
+0{reservation}[,rez&#601;'ve&#618;&#643;n]E{n}I{1}išlyga, sąlyga;l{(nutylėta, slapta)}abejonė;F{without reservation}be išlygų, besąlygiškai;F{with reservation}l{(of)}išskyrus;F{with the mental reservation}slapčial{ar}vienas sau galvodamas;F{to have serious reservations}l{(about)}turėti rimtų abejoniųl{(dėl)}I{2}išankstinis užsakymasl{(vietų viešbutyjeL{ir pan.})}I{3}iš anksto užsakyta/rezervuota vietal{(viešbutyje, restorane, laiveL{ir pan.})}I{4}rezervavimas, išsaugojimasl{(L{t. p.}L{teis.})};l{(teisės)}išlaikymasI{5}l{(magistralės)}skiriamoji juostal{(L{t. p.}X{central reservation})}I{6}L{amer.}rezervacijaI{7}l{(ypačL{amer.})}draustinis, rezervatas
+0{reserve}[r&#618;'z&#601;:v]S{&rArr;}E{n}I{1}atsarga, rezervasl{(L{t. p.}L{kar.})};F{to keep a reserve}turėti atsargą;F{a body of reserve}L{kar.}rezervinis pulkasI{2}rezervatas, draustinis;F{nature reserve}gamtos draustinisI{3}išlyga, sąlyga; apribojimas;F{without reserve}be išlygų, visiškai;l{darL{žr.}}4I{4}slapumas; santūrumas, atsargumas;F{without reserve}atvirai, nieko neslepiant;l{darL{žr.}}3I{5}l{(L{ppr.}E{pl})}L{ekon.}ištekliai, resursai, atsargos;F{bank [currency] reserves}L{fin.}banko [valiutų] rezervaiI{6}L{fin.}rezervinis/atsargos fondasI{7}L{sport.}atsarginis žaidėjasI{8}E{attr}atsarginis, rezervinis;F{reserve price}L{fin.}žemiausia/minimali kainal{(aukcione)};F{reserve currency}rezervinė valiutaS{&rArr;}E{v}I{1}taupyti, palikti, saugoti;E{refl}tausoti savo jėgasl{(for – kam)};F{she reserved her fiercist criticism}l{(for)}ji pasiliko aštriausius žodžiusl{(kam)}I{2}rezervuoti; iš anksto už(si)sakyti;F{to reserve a seat}X{a)}rezervuoti/už(si)sakyti vietą;X{b)}iš anksto pirkti/už(si)sakyti bilietąI{3}(pa)skirti, lemti;F{a great future is reserved for you}jūsų laukia didelė ateitisI{4}atidėtil{(ateičiai)}I{5}L{teis.}pasilikti, išlaikytil{(teisę)}
+0{reserved}[r&#618;'z&#601;:vd]E{a}I{1}slapus, santūrus, užsidaręsI{2}l{(iš anksto)}užsakytas, rezervuotas;F{reserved seat}X{a)}rezervuota vieta;X{b)}vietaženklis, plackartė;X{c)}iš anksto pirktas bilietasl{(į teatrąL{ir pan.})}I{3}rezervinis, atsarginis;F{reserved list}L{kar.}atsargos karininkų sąrašasS{&loz;}X{all rights reserved}visos teisės priklauso autoriuil{(įrašas knygojeL{ir pan.})}
+0{reservedly}[r&#618;'z&#601;:v&#618;dl&#618;]E{adv}santūriai, atsargiai
+0{reservist}[r&#618;'z&#601;:v&#618;st]E{n}L{kar.}atsarginis, rezervistas
+0{reservoir}['rez&#601;vwa:]L{pr.}E{n}I{1}rezervuaras; baseinas; vandens saugykla/telkinysI{2}l{(žinių, energijosL{ir pan.})}išteklius, atsarga, šaltinisI{3}L{aut.}l{(stabdžių skysčio)}bakelis, rezervuaras
+0{reset}S{&rArr;}E{v}[,ri:'set](reset)I{1}vėl nustatyti, pasuktil{(laikrodį)}; vėl įrengti/įstatyti/įtaisytiI{2}atitaisytil{(sulaužytą kaulą)}I{3}L{poligr.}perrinktiS{&rArr;}E{n}['ri:set]L{spec.}pakartotinė keltis
+0{resettle}[,ri:'setl]E{v}I{1}perkelti, apgyvendinti kitur; persikelti, apsigyventi kiturI{2}vėl, iš naujo apgyvendintil{(gyvenvietę)}
+0{resettlement}[,ri:'setlm&#601;nt]E{n}I{1}per(si)kėlimas, apgyvendinimasl{(kitoje vietoje)}I{2}l{(pabėgėlių, imigrantų)}integravimas;l{(buvusių kaliniųL{ir pan.})}įsiliejimas į visuomenę, įsidarbinimas
+0{reshape}[,ri:'&#643;e&#618;p]E{v}I{1}įgyti naują/kitą formą; keistisl{(L{t. p.}E{refl})}I{2}perpavidalinti, naujai apipavidalinti; suteikti naują/kitą formą
+0{reship}[,ri:'&#643;&#618;p]E{v}I{1}iš naujo pakrauti laivą; perkrauti/perkelti į kitą laivąI{2}vėl sėsti į laivą, vėl išplaukti
+0{reshuffle}S{&rArr;}E{v}[,ri:'&#643;&#652;fl]I{1}perpašyti, pakartotinai supašyti/sumaišytil{(kortas)}I{2}L{polit.}sukeisti, pergrupuotiS{&rArr;}E{n}['ri:&#643;&#652;fl]I{1}perpašymasl{(kortų)}I{2}L{polit.}sukeitimas, pergrupavimas;F{Cabinet reshuffle}ministrų kabineto pertvarkymas
+0{reside}[r&#618;'za&#618;d]E{v}I{1}gyventi, būtil{(in, at – kur)}I{2}priklausyti, būti patikėtaml{(apie teisesL{ir pan.}; in – kam)}I{3}slypėtil{(in)}
+0{residence}['rez&#618;dX{&#601;}ns]E{n}I{1}gyvenamoji/buvimo vieta, buveinė; rezidencija;F{in residence}X{a)}(gyvenantis) rezidencijoje;X{b)}(gyvenantis) universiteto patalposel{(apie studentus)}I{2}buvimas, gyvenimasl{(tam tikroje vietoje)};F{to take up (one’s) residence}apsigyventi;F{to have one’s residence}gyventiI{3}gyvenimol{(kur)}laikas/trukmė
+0{residency}['rez&#618;d&#601;ns&#618;]E{n}I{1}A{=R{residence}}1, 2I{2}L{amer.}L{med.}ordinatūra
+0{resident}['rez&#618;dX{&#601;}nt]S{&rArr;}E{n}I{1}l{(nuolatinis)}gyventojasI{2}l{(viešbučio)}svečias, gyventojasI{3}L{amer.}ordinatoriusS{&rArr;}E{a}I{1}gyvenantisl{(kur)};F{resident doctor/physician}gydytojas, gyvenantis prie ligoninės;F{the resident population}nuolatiniai gyventojaiI{2}neiškeliaujantis, neišskrendantisl{(apie paukščius)}I{3}būdingasl{(in)};F{privileges resident in a class}klasinės privilegijosI{4}L{komp.}esantis operatyvinėje atmintyje; rezidentinisS{&loz;}X{resident minister}diplomatinis atstovasl{(L{t. p.}X{minister resident})}
+0{residential}[,rez&#618;'den&#643;l]E{a}I{1}gyvenamasisl{(apie miesto rajoną)};F{residential hotel}viešbutis nuolatiniams gyventojamsI{2}susijęs su gyvenamąja vieta;F{residential qualification}sėslumo cenzasI{3:}X{residential rental}L{amer.}buto mokestis;F{residential treatment facility}L{amer.}psichiatrinė ligoninė
+0{residentiary}[,rez&#618;'den&#643;X{&#601;}r&#618;]E{a}I{1}susijęs su gyvenamąja vieta; gyvenamosios vietosI{2}L{bažn.}privalantis gyventi savo parapijoje
+0{residua}[r&#618;'z&#618;dju&#601;]E{pl}A{L{žr.}R{residuum}}
+0{residual}[r&#618;'z&#618;dju&#601;l]S{&rArr;}E{n}I{1}L{mat.},L{chem.}liekana, likutisI{2}L{teis.}autoriaus honoraras už kiekvieną filmo, tel. programosL{ir pan.}pakartotinį rodymąS{&rArr;}E{a}I{1}likęs, liekamasis, liktinis;F{residual value}L{ekon.}likutinė vertėI{2}likęs neišaiškintasl{(apie skaičiavimo klaidą)}I{3}L{mat.}likęs atėmus
+0{residuary}[r&#618;'z&#618;dju&#601;r&#618;]E{a}likęs, pasilikęs;F{residuary legatee}L{teis.}turto, likusio sumokėjus skolas ir mokesčius, paveldėtojas
+0{residue}['rez&#618;dju:]E{n}I{1}L{chem.}likutis, liekana; nuosėdosI{2}L{teis.}palikimo dalis, likusi apmokėjus skolas ir mokesčiusI{3}L{chem.}radikalas
+0{residuum}[r&#618;'z&#618;dju&#601;m]E{n}(E{pl}-dua)A{=R{residue}}1, 2
+0{resign}[r&#618;'za&#618;n]E{v}I{1}atsisakytil{(pareigų, teisės)}; atsistatydintiI{2}atsižadėti, nustotil{(viltiesL{ir pan.})}I{3}užleisti, atiduotil{(pareigas, teises; to)}I{4}E{refl}susitaikyti, nusileistil{(to)}; rezignuoti;F{to resign one’s mind}l{(to)}apsiprasti su mintimi;F{to resign oneself to one’s fate}susitaikyti su likimu, nusilenkti likimui;F{we must resign ourselves to doing without it}mes turime priprasti apsieiti be toI{5}L{šach.}pasiduoti
+0{re-sign}[,ri:'sa&#618;n]E{v}iš naujo pasirašyti
+0{resignation}[,rez&#618;g'ne&#618;&#643;n]E{n}I{1}pareigų atsisakymas; atsistatydinimas, išėjimas į atsargąI{2}atsistatydinimo raštas/pareiškimas;F{to hand/send in one’s resignation}paduoti prašymą atsistatydintiI{3}susitaikymas; nuolankumas, rezignacija;F{to accept one’s fate with resignation}nuolankiai susitaikyti su likimuI{4}L{šach.}pasidavimas
+0{resigned}[r&#618;'za&#618;nd]E{a}I{1}nuolankus, paklusnus; susitaikęsl{(to)}I{2}atsistatydinęs
+0{resile}[r&#618;'za&#618;l]E{v}I{1}būti tampriam, atsitiesti, atšoktiI{2}atsisakytil{(reikalavimųL{ir pan.})}; atsitrauktil{(from)}I{3}atgautil{(jėgas)}
+0{resilience, -cy}[r&#618;'z&#618;l&#618;&#601;ns, -s&#618;]E{n}I{1}(su)gebėjimas greitai atkurti/atgauti fizines ir dvasines jėgasI{2}stangrumas, tamprumas, tampra, tamprusis slankumasI{3}L{tech.}tamprioji deformacija; smūginis tąsumas
+0{resilient}[r&#618;'z&#618;l&#618;&#601;nt]E{a}I{1}stangrus, tamprus, elastingasI{2}(su)gebantis greit atsigauti/atsikurti; nenusimenantis, džiugusI{3}lankstusl{(apie reikalavimusL{ir pan.})}
+0{resin}['rez&#618;n]S{&rArr;}E{n}sakai, derva; F{synthetic resin}sintetinė derva; plastikas, plastinė masėS{&rArr;}E{v}sakuoti, dervuoti
+0{resinous}['rez&#618;n&#601;s]E{a}dervingas, sakingas;F{resinous peat}dervingosios durpės, dervadurpės
+0{resist}[r&#618;'z&#618;st]E{v}I{1}priešintis, pasipriešinti;F{to resist changes}priešintis pasikeitimamsI{2}spirtis, atsispirti, nepasiduoti;F{to resist temptation}spirtis/atsispirti/nepasiduoti pagundaiI{3}būti atspariaml{(karščiuiL{ir pan.})}I{4}atremti, atmuštil{(priešą)}, priešintisI{5}l{(L{ppr.}L{neig.}sakiniuose)}susilaikyti;F{I can’t resist laughing [a cigarette]negaliu susilaikyti nesijuokęs [nerūkęs]
+0{resistance}[r&#618;'z&#618;st&#601;ns]E{n}I{1}pasipriešinimas, priešinimasis;F{to offer resistance, to put up resistance}priešintis;F{to take/follow the line/path of least resistance}rinktis mažiausio pasipriešinimo būdąI{2}l{(organizmo)}atsparumasI{3}L{spec.}atsparumas, priešinimasis, pasipriešinimas;F{wear/abrasive resistance, resistance to wear/abration}L{tech.}dylamasis atsparumas, atsparumas dilimui;F{rolling resistance}L{tech.}pasipriešinimas riedėjimui;F{resistance to pests}L{ž. ū.}atsparumas kenkėjamsI{4}X{Resistance}L{polit.}rezistencija, pasipriešinimo judėjimasl{(L{t. p.}X{resistance movement})}I{5}L{el.}varžaI{6}A{=R{resistor}}
+0{resistant}[r&#618;'z&#618;st&#601;nt]E{a}I{1}kuris priešinasil{(pakitimamsL{ir pan.})}I{2}atsparus, rezistentiškasl{(to)}
+0{resistible}[r&#618;'z&#618;st&#601;bl]E{a}atremiamas
+0{resistive}[r&#618;'z&#618;st&#618;v]E{a}I{1}galintis priešintisI{2}L{el.}turintis varžą; varžos
+0{resistivity}[,r&#618;z&#618;s't&#618;v&#601;t&#618;]E{n}L{el.}savitoji/specifinė varža
+0{resistless}[r&#618;'z&#618;stl&#601;s]E{a}L{psn.}I{1}neįveikiamas; nesulaikomasI{2}nesugebantis priešintis, nesipriešinantis
+0{resistor}[r&#618;'z&#618;st&#601;]E{n}L{el.}varžas, rezistorius;F{regulating resistor}reguliavimo varžas
+0{resit}S{&rArr;}E{v}[,ri:'s&#618;t](resat) perlaikytil{(egzaminą)}S{&rArr;}E{n}['ri:s&#618;t]l{(egzamino)}perlaikymas
+0{re-skilling}[,r&#618;:'sk&#618;l&#618;&#331;]E{n}perkvalifikavimasl{(ypač bedarbių)}
+0{resold}[,ri:'s&#601;uld]E{past}l{ir}E{pII}A{L{žr.}R{resell}}
+0{resole}[,ri:'s&#601;ul]E{v}pakaltil{(naujus)}puspadžius
+0{resoluble}[r&#618;'z&#596;ljubl]E{a}išskaidomasl{(into)}
+0{resolute}['rez&#601;lu:t]E{a}ryžtingas; tvirtai nusistatęs, tvirtas
+0{resolutely}['rez&#601;lu:tl&#618;]E{adv}ryžtingai, tvirtai
+0{resoluteness}['rez&#601;lu:tn&#618;s]E{n}ryžtingumas, tvirtumas
+0{resolution}[,rez&#601;'lu:&#643;n]E{n}I{1}ryžtingumas; ryžtas, pasiryžimas;F{to make a firm resolution to do smth}tvirtai pasiryžti ką daryti;F{New Year resolution}naujametis pasižadėjimasI{2}sprendimas; nutarimas; rezoliucija;F{to take/make a resolution}nuspręsti, nutarti; F{to pass/adopt/carry resolution}priimti nutarimą/rezoliucijąI{3}l{(problemos, konfliktoL{ir pan.})}(iš)sprendimasI{4}su(si)skaidymasl{(į sudėtines dalis; into)}I{5}L{fiz.}skyra, iš(si)skyrimas; skiriamoji geba;l{(jėgos, vektoriaus)}skaidymas(is)I{6}L{med.}išsiskaidymas; uždegiminių reiškinių pasibaigimasI{7}L{muz.}atomazga, perėjimas į konsonansą
+0{resolvable}[r&#618;'z&#596;lv&#601;bl]E{a}I{1}išsprendžiamasI{2}suskaidomasl{(into)}
+0{resolve}[r&#618;'z&#596;lv]S{&rArr;}E{n}I{1}apsisprendimas;F{to make a resolve not to go}apsispręsti neiti;F{to make good resolves}turėti gerų ketinimųI{2}L{poet.}ryžtingumas, ryžtas;F{of great resolve}drąsus ir ryžtingasS{&rArr;}E{v}I{1}pasiryžti, ryžtis; apsispręsti;F{I resolved to tell the truth}pasiryžau sakyti tiesąI{2}išspręsti, nuspręsti, nutarti; nuspręsti balsavimuI{3}išsklaidytil{(abejonesL{ir pan.})}I{4}skaidyti(s), su(si)skaidyti, (su)skiltil{(into)}I{5}L{med.}iš(si)skaidyti; rezorbuotisI{6}L{muz.}baigtis konsonansuI{7}E{refl}virstil{(into)};F{the water resolves itself into steam}vanduo virsta garais
+0{resolved}[r&#618;'z&#596;lvd]E{a}ryžtingas, tvirtas;F{to be resolved}tvirtai apsispręsti
+0{resolvent}[r&#618;'z&#596;lv&#601;nt]E{n}I{1}L{chem.}tirpiklis I{2}L{med.}l{(uždegimo produktų)}išsiskaidymą skatinanti priemonė
+0{resonance}['rez&#601;n&#601;ns]E{n}rezonansas
+0{resonant}['rez&#601;n&#601;nt]S{&rArr;}E{a}I{1}aidintis, skambantisl{(with)}; skambusI{2}l{(gerai)}rezonuojantis;F{resonant hall}salė su gera akustikaI{3}L{fiz.}rezonansinisS{&rArr;}E{n}L{fon.}balsingasis/sonorinis priebalsis, sonantas
+0{resonate}['rez&#601;ne&#618;t]E{v}rezonuoti;F{a hall resonating with laughter}salė, skambanti nuo juoko
+0{resonator}['rez&#601;ne&#618;t&#601;]E{n}L{spec.}rezonatorius
+0{resorption}[r&#618;'z&#596;:p&#643;n]E{n}I{1}įsiurbimas, sugėrimasI{2}L{fiziol.}rezorbcija
+0{resort}[r&#618;'z&#596;:t]S{&rArr;}E{n}I{1}l{(priemonės)}panaudojimas;F{without resort to force [violence]nesiimant/nepavartojant jėgos [smurto]I{2}išeitis,l{(vienintelis)}išsigelbėjimasI{3}lankymas(is); lankoma vietaI{4}poilsiavietė, poilsiavimo vieta; kurortasl{(L{t. p.}X{health/holiday resort})};F{summer resort}vasarvietėI{5}L{amer.}viešbutis atostogaujantiemsS{&loz;}X{as a last resort, in the last resort}blogiausiu atveju; kaip paskutinė išeitis;F{to have a wholesome resort}l{(for)}prisibijotil{(ko)}S{&rArr;}E{v}I{1}griebtis, imtisl{(to – ko)};F{to resort to force/compulsion}griebtis jėgos, pavartoti jėgąI{2}dažnai lankytis/būti
+0{re-sort}[,ri:'s&#596;:t]E{v}perrūšiuoti
+0{resound}[r&#618;'zaund]E{v}I{1}skardėti, aidėti, skambėtil{(with)}; skardentiI{2}rezonuoti; (pa)kartoti, atlieptil{(garsą)}I{3}garsėti; garsinti, šlovinti;F{to resound smb’s praises}girti, garbinti ką
+0{resounding}[r&#618;'zaund&#618;&#331;]E{a}I{1}skardus;F{resounding phrase}skambi frazėI{2}didžiulis;F{resounding success}didžiulis pasisekimas;F{resounding defeat}visiškas pralaimėjimas
+0{resoundingly}[r&#618;'zaund&#618;&#331;l&#618;]E{adv}garsiai, skardžiai
+0{resource}[r&#618;'s&#596;:s, r&#618;'z&#596;:s]S{&rArr;}E{n}I{1}l{(L{ppr.}E{pl})}ištekliai, resursai, atsargos; išgalės; lėšos;F{natural resources}gamtos ištekliai/turtai;F{to be at the end of one’s resources}išsemti/išnaudoti visas galimybesI{2}pramoga, malonus užsiėmimas;F{resources for learning}mokymo(si) priemonės;F{reading is a great resource in illness}skaitymas – geras užsiėmimas sergantI{3}sumanumas, išradingumas;F{full of resource}išradingasS{&rArr;}E{v}parūpinti lėšų, finansuotil{(programąL{ir pan.})}
+0{resourceful}[r&#618;'s&#596;:sfX{&#601;}l, r&#618;'z&#596;:sf_{ C]_{E{a}sumanus, išradingas}}
+0{resourcefully}[r&#618;'s&#596;:sf&#601;l&#618;]E{adv}sumaniai, išradingai
+0{resourcefulness}[r&#618;'s&#596;:sfX{&#601;}ln&#618;s, r&#618;'z&#596;:sf]E{n}sumanumas, išradingumas}
+0{resp.}L{sutr.}X{respective}atitinkamas;F{respectively}atitinkamaiX{respondent}atsakovas
+0{respect}[r&#618;'spekt]S{&rArr;}E{n}I{1}pagarba, pagarbumas;F{out of respect}iš pagarbos, gerbiantl{(for)};F{to hold in respect}gerbti;F{to pay one’s respects}(pa)reikšti pagarbąl{(to)};F{to pay one’s last respect to smb}atiduoti kam paskutinę pagarbą;F{to have respect for one’s promise}laikytis žodžioI{2}E{pl}linkėjimai;F{my best respects for him!}perduokite jam mano geriausius linkėjimusI{3}atžvilgis;F{to have/pay respect}l{(to)}atsižvelgti, imti domėn;F{in all respects, in every respect}visais atžvilgiais;F{in no respects}jokiu atžvilgiu/atveju;F{without respect}l{(to)}nekreipiant dėmesio, nepaisant;F{in respect}l{(of)}l{(ko)}atžvilgiu;F{with respect}l{(to)}dėl;F{in respect that...}atsižvelgiant į tai, kad...S{&loz;}X{respect of persons}neobjektyvumas;F{without respect of persons}nepaisant asmenų, objektyviai;F{with (all due) respect...}nepaisant pagarbos...l{(prieštaraujant kam)}S{&rArr;}E{v}I{1}gerbtiI{2}paisyti, imti domėn; atsižvelgti
+0{respectability}[r&#618;,spekt&#601;'b&#618;l&#601;t&#618;]E{n}I{1}garbumas; garbingumas, respektabilumasI{2}garbus žmogus; garbūs asmenys
+0{respectable}[r&#618;'spekt&#601;bl]E{a}I{1}garbingas, garbus; respektabilus; orusI{2}gerbiamas; gerbtinasI{3}padorus, tinkamas; neblogasI{4}didokas, gerokasl{(apie kiekįL{ir pan.})}
+0{respectably}[r&#618;'spekt&#601;bX{&#601;}l&#618;]E{adv}gana gerai, padoriai
+0{respecter}[r&#618;'spekt&#601;]E{n}gerbėjas, šalininkasS{&loz;}X{he [disease] is no respecter of persons}jis – objektyvus žmogus, jam [ligai] visi lygūs
+0{respectful}[r&#618;'spektfX{&#601;}l]E{a}pagarbus, gerbiantis;F{at a respectful distance}nemažu atstumu, tolokai
+0{respectfully}[r&#618;'spektf&#601;l&#618;]E{adv}pagarbiai;F{yours respectfully}su pagarbal{(laiško pabaigoje)}
+0{respectfulness}[r&#618;'spektfX{&#601;}ln&#618;s]E{n}pagarbumasl{(to, towards)}
+0{respecting}[r&#618;'spekt&#618;&#331;]E{prep}dėl, apie
+0{respective}[r&#618;'spekkt&#618;v]E{a}E{attr}atitinkamas;F{in their respective places}kiekvienas savo vietoje;F{to go their respective ways}kiekvienam eiti savo keliu
+0{respectively}[r&#618;'spekt&#618;vl&#618;]E{adv}atitinkamai, nurodyta tvarka
+0{respiration}[,resp&#601;'re&#618;&#643;n]E{n}I{1}kvėpavimasI{2}įkvėpimas ir iškvėpimas
+0{respirator}['resp&#601;re&#618;t&#601;]E{n}respiratorius; dujokaukė
+0{respiratory}['resp&#601;r&#601;tr&#618;, r&#618;'sp&#618;r&#601;tX{&#601;}r&#618;]E{a}L{med.}kvėpavimo, kvėpuojamasis, respiracinis
+0{respire}[r&#618;'spa&#618;&#601;]E{v}I{1}kvėpuotiI{2}atsikvėpti; atgauti kvapą/dvasią
+0{respite}['respa&#618;t, 'resp&#618;t]S{&rArr;}E{n}I{1}atokvėpis, atsikvėpimas;F{without a moment’s respite}be atvangosI{2}l{(nuosprendžio vykdymo, mokėjimo)}atidėjimasS{&rArr;}E{v}I{1}atidėtil{(ypač nuosprendžio vykdymą)}I{2}leisti atsikvėpti
+0{resplendence}[r&#618;'splend&#601;ns, -s&#618;]E{n}L{ret.}tviskėjimas, blizgėjimas; prašmatnumas
+0{resplendent}[r&#618;'splend&#601;nt]E{a}L{knyg.}blizgantis, žvilgantis, tvaskus; prašmatnusl{(apie išvaizdą)};F{to be resplendent}l{(with)}tviskėti, žvilgėti, žėrėti
+0{resplendently}[r&#618;'splend&#601;ntl&#618;]E{adv}puošniai, prašmatniai
+0{respond}[r&#618;'sp&#596;nd]E{v}I{1}atsakyti;F{to respond with a letter}atsakyti laišku;F{to respond with a blow}smogti atsakomąjį smūgįI{2}reaguoti, atsiliepti, pasiduotil{(įtakaiL{ir pan.}; to)};F{to respond to treatment}būti išgydomam
+0{respondent}[r&#618;'sp&#596;nd&#601;nt]S{&rArr;}E{a}I{1}atsakantis; reaguojantisI{2}atsiliepiantis, atjauslusI{3}L{teis.}stojantis atsakovuS{&rArr;}E{n}I{1}respondentasl{(atsakantis į anketosL{ir pan.}klausimus)}I{2}L{teis.}atsakovas I{3}L{biol.}atsako reakcija
+0{response}[r&#618;'sp&#596;ns]E{n}I{1}atsakymas;F{in response}l{(to)}atsakant, atsakydamasl{(į)};F{in response to a signal}pagal signalą, į signaląI{2}atsiliepimas, reagavimas; reakcija;F{response of vehicle}L{tech.}automobilio valdomumasI{3}atgarsis;l{(skaitytojųL{ir pan.})}atsiliepimasI{4}L{bažn.}pamaldų dalis, kai giedama/skaitoma litanija
+0{responsibility}[r&#618;,sp&#596;ns&#601;'b&#618;l&#601;t&#618;]E{n}I{1}atsakomybė; atsakingumas;F{on one’s own responsibility}savo atsakomybe/iniciatyva/atsakymu;F{to assume/take responsibility}prisiimti atsakomybęl{(for – už)}I{2}pareiga, įsipareigojimasI{3}L{amer.}mokumasI{4}L{teis.}pakaltinamumas
+0{responsible}[r&#618;'sp&#596;ns&#601;bl]E{a}I{1}atsakingas; atskaitingas;F{responsible post}atsakingas postas;F{to be responsible for smth}X{a)}būti atsakingam, atsakyti už ką;X{b)}būti ko iniciatoriumi/autoriumi;F{they are responsible for increased output}jų dėka buvo padidinta produkcijos gamyba;F{I am responsible}l{(for)}man tenka atsakomybėl{(už)}I{2}patikimasI{3}L{amer.}mokusI{4}L{teis.}pakaltinamas
+0{responsibly}[r&#618;'sp&#596;ns&#601;bX{&#601;}l&#618;]E{adv}atsakingai, protingai
+0{responsive}[r&#618;'sp&#596;ns&#618;v]E{a}I{1}atsiliepiantis, reaguojantis, pasiduodantis;F{to be responsive to the needs of the customer}atsiliepti/reaguoti į pirkėjo poreikius;F{responsive audience}gyvai reaguojanti auditorijaI{2}atsakomasis, atliepiamasisI{3}atjauslus, jautrusI{4}L{fiziol.}reaktyvus
+0{responsively}[r&#618;'sp&#596;ns&#618;vl&#618;]E{adv}jautriai
+0{responsiveness}[r&#618;'sp&#596;ns&#618;vn&#618;s]E{n}jautrumas
+0{respray}[,ri:'spre&#618;]E{v}perdažytil{(automobilį; pulverizatoriumi)}
+0{rest^{1}}[rest]S{&rArr;}E{n}I{1}ramybė; poilsis, ilsėjimasis; miegas;F{at rest}X{a)}ramybėje;X{b)}nejudamas;X{c)}L{euf.}miręs;F{to take/have rest}pailsėti, ilsėtis; atsipūsti;F{to go/retire to rest}eiti miegoti;F{to put/set smb’s mind at rest}nuraminti ką;F{to set a question at rest}išspręsti klausimą; F{without rest}be poilsio, be atvangosI{2}nejudamumas;F{to bring to rest}sustabdytil{(vežimą, automobilįL{ir pan.})};F{to come to rest}sustotiI{3}L{euf.}mirtis;F{he has gone to his rest}jis mirė;F{to lay to rest}(pa)laidotiI{4}poilsio vietaI{5}atrama; stovas, pastovasI{6}L{tech.}suportasI{7}L{muz.}pauzėI{8}L{lit.}cezūraS{&loz;}X{to lay/put smth to rest}galutinai atmesti/paneigtil{(kaltinimus, gandusL{ir pan.})};F{give it a rest!}L{šnek.}pakaks!, nustok!S{&rArr;}E{v}I{1}ilsėtis, poilsiautiI{2}nesijaudinti;F{not to rest until...}nenusiraminti tol, kol...I{3}leisti pailsėti, paiX{µ}sinti;F{rest your men for an hour}leiskite pailsėti žmonėms valandėlęI{4}(pa)liktil{(be pakitimų)};F{let the matter rest}palikim taip, kaip yra;F{to give smth a rest}palikti ką ramybėje, liautisl{(ką darius)}I{5}laikyti(s), remtis, gulėtil{(on, upon)}; at(si)remtil{(against, on)}; F{to rest on oars}laikyti irklus virš vandensI{6}būti įsmeigtam/sutelktam, sustotil{(apie žvilgsnį, dėmesį; on, upon)}I{7}būti; priklausytil{(on, upon – nuo)};F{the fault rests with you}tai yra jūsų kaltėI{8}dėti vilčių, tikėtil{(in)}I{9}L{euf.}gulėtil{(palaidotam)}, ilsėtis;F{may he rest in peace!}tegu ilsisi ramybėje!I{10}L{teis.}l{(savanoriškai)}baigti parodymų pateikimąl{(svarstant bylą)}I{11}L{ž. ū.}l{(leisti)}pūdymuoti
+0{rest^{2}}S{&rArr;}E{n}I{1}X{(the rest)}likutis, liekana, kas likę; likusieji, kiti;F{and (all) the rest of it}ir visa kita;F{for the rest}dėl visa kita; o dėl visų kitųI{2}L{fin.}atsargos/rezervinis fondasS{&rArr;}E{v}likti;F{you may rest assured}galite būti tikras;F{it rests with you to decide}jums paliekama spręsti
+0{restart}S{&rArr;}E{v}[,ri:'sta:t]I{1}iš naujo pradėti; atnaujintiI{2}vėl paleistil{(variklį)}S{&rArr;}E{n}[,ri:sta:t]I{1}L{tech.}kartotinis paleidimasI{2}L{sport.}pakartotinis startasl{(L{aut.}lenktynėse)}; nauja atakal{(futbole)}
+0{restate}[,ri:'ste&#618;t]E{v}vėl pareikšti; naujaip/kitaip formuluoti
+0{restatement}[,ri:'ste&#618;tm&#601;nt]E{n}I{1}pakartotinis pareiškimas; patvirtinimasI{2}nauja formuluotėI{3}L{amer.}teisės normų sąvadas
+0{restaurant}['restX{&#601;}r&#596;nt]L{pr.}E{n}restoranas;F{restaurant car}vagonas restoranas
+0{restaurant-car}['rest&#601;r&#596;ntka:]E{n}vagonas restoranas
+0{restaurateur}[,restX{&#601;}r&#601;'t&#601;:]L{pr.}E{n}restorano savininkas/laikytojas
+0{rest-cure}['resX{t}kju&#601;]E{n}gydymas poilsiu/ramybe
+0{rest-day}['restde&#618;]E{n}poilsio diena
+0{restful}['restfX{&#601;}l]E{a}I{1}raminamasis; raminantisI{2}ramus, tylus
+0{restfully}['restfX{&#601;}ll&#618;]E{adv}ramiai
+0{restfulness}['restfX{&#601;}ln&#618;s]E{n}ramumas
+0{rest-harrow}['rest,h&aelig;r&#601;u]E{n}L{bot.}dirvenis
+0{rest-home}['resth&#601;um]E{n}senelių ir invalidų namai; poilsio namai sveikstantiems
+0{rest-house}['resthaus]E{n}I{1}L{ind.}viešbutis keliautojamsI{2}L{ret.}poilsio namai
+0{resting-place}['rest&#618;&#331;ple&#618;s]E{n}I{1}poilsio vietaI{2}L{euf.}kapail{(L{t. p.}X{last resting-place})}I{3}laiptų aikštelė
+0{restitution}[,rest&#618;'tju:&#643;n]E{n}I{1}l{(turto)}(su)grąžinimasI{2}l{(nuostolių)}padengimas;F{to make restitution}atlyginti žalą, padengti nuostolįI{3}L{teis.}l{(teisių)}atkūrimas, restitucija
+0{restive}['rest&#618;v]E{a}I{1}sunkiai suvaldomas; nartusl{(apie arklį)}I{2}neramus, sunerimęs
+0{restively}['rest&#618;vl&#618;]E{adv}neramiai, nepaklusniai, narčiai
+0{restiveness}['rest&#618;vn&#618;s]E{n}neramumas, nepaklusnumas
+0{restless}['restl&#601;s]E{a}I{1}neramus; nenustygstantis;F{restless soul}maištinga dvasiaI{2}nerimstantis, sunerimęs;F{to get/grow restless}sunerimti; imti nekantrauti
+0{restlessly}['restl&#618;sl&#618;]E{adv}neramiai
+0{restlessness}[,restl&#601;sn&#618;s]E{n}I{1}neramumasI{2}nerimavimas; nekantrumas
+0{restock}[,ri:'st&#596;k]E{v}papildyti atsargas; vėl ap(si)rūpinti
+0{restoration}[,rest&#601;'re&#618;&#643;n]E{n}I{1}restauracija; restauravimas;F{the Restoration}L{ist.}Restauracijal{(1660 m. Anglijoje)}I{2}atstatymas, atkūrimas; rekonstrukcijaI{3}l{(turto, teritorijos)}grąžinimas
+0{restorative}[r&#618;'st&#596;r&#601;t&#618;v]S{&rArr;}E{a}stiprinamasis; stiprinantis, grąžinantis jėgasS{&rArr;}E{n}L{med.}stiprinamasis vaistas; tonizuojamoji/atgaivinimo priemonė;L{juok.}tonizuojamasis gėrimas
+0{restore}[r&#618;'st&#596;:]E{v}I{1}(su)grąžinti;F{to restore smb’s sight}grąžinti kam regėjimą; F{a victory that restored the team’s confidence}pergalė, grąžinusi komandai pasitikėjimąI{2}atkurti;E{pass}atgautil{(jėgasL{ir pan.})};F{to restore order}(vėl) įvesti tvarką;F{to restore smb to life}prikelti ką gyventi;F{to be restored to health}pasveiktiI{3}atstatyti, rekonstruoti; atnaujintiI{4}restauruotil{(paveiksląL{ir pan.})}I{5}atgaivinti, atkurtil{(papročius, tradicijasL{ir pan.})}
+0{restorer}[r&#618;'st&#596;:r&#601;]E{n}restauratorius
+0{restrain}[r&#618;'stre&#618;n]E{v}I{1}l{(L{džn.}E{refl})}su(si)laikyti, su(si)turėti;F{to restrain one’s temper}slopinti susierzinimą; susivaldytiI{2}(su)varžyti, (ap)ribotil{(kainas, infliacijąL{ir pan.})}I{3}suimti, sulaikyti; izoliuotil{(ypač pamišėlius)}
+0{restrained}[r&#618;'stre&#618;nd]E{a}I{1}santūrus; nuosaikusI{2}prislopintas
+0{restraint}[r&#618;'stre&#618;nt]E{n}I{1}l{(L{džn.}E{pl})}(ap)ribojimas, (su)varžymas;F{the restraints of poverty}skurdo varžtai;F{without restraint}X{a)}laisvai, nesivaržant;X{b)}nesulaikomaiI{2}susilaikymas, susivaldymas; santūrumas;F{to advocate restraint}propaguoti saikingumąI{3}sulaikymas; uždarymasl{(į kalėjimąL{ir pan.})};F{to put under restraint}uždaryti į beprotnamį
+0{restrict}[r&#618;'str&#618;kt]E{v}I{1}(ap)riboti; (su)varžyti;F{to restrict to a diet}priversti laikytis dietosI{2}E{refl},E{pass}ribotis, apsiribotil{(to – kuo)};F{the damage is restricted to the left side of the brain}pakenkta tik kairioji smegenų pusė
+0{restricted}[r&#618;'str&#618;kt&#618;d]E{a}I{1}(ap)ribotas; skirtas siauram ratui;F{restricted (document)}(dokumentas) tarnybiniam naudojimuisi;F{restricted area}uždraustoji/draudžiamoji zona I{2}ankštas
+0{restriction}[r&#618;'str&#618;k&#643;n]E{n}(ap)ribojimas; (su)varžymas;F{without restriction}neribotai;F{to lift speed restrictions}panaikinti greičio apribojimus;F{restrictions of trade}L{kom.}prekybos suvaržymai
+0{restrictive}[r&#618;'str&#618;kt&#618;v]E{a}(ap)ribojantis, (ap)ribojamasis; (su)varžantis;F{restrictive speed}ribotas greitis
+0{restring}[,ri:'str&#618;&#331;]E{v}(restrung)I{1}L{muz.}iš naujo sustyguotiI{2}perstyguotil{(raketę)}I{3}suvertil{(karoliusL{ir pan.})}į naują vėrinį
+0{restroom}['restrum]E{n}I{1}poilsio kambarysI{2}L{amer.}tualeto kambarysl{(viešbutyje, teatreL{ir pan.})}
+0{restructure}[,ri:'str&#652;kt&#643;&#601;]E{v}reorganizuoti, pertvarkyti
+0{restrung}[,ri:'str&#652;&#331;]E{past}l{ir}E{pII}A{L{žr.}R{restring}}
+0{restyle}S{&rArr;}E{n}[,ri:sta&#618;l]nauja šukuosenaS{&rArr;}E{v}[ri:'sta&#618;l]:X{to restyle smb’s hair}padaryti kam naują šukuoseną
+0{result}[r&#618;'z&#652;lt]S{&rArr;}E{n}I{1}rezultatas, padarinys; pasekmė;F{the election results}rinkimų rezultatai;F{without result}bergždžiai, veltui;F{as a result}todėl;F{as a result (of)}dėlI{2}L{mat.}skaičiavimo rezultatas, gautoji sumaS{&loz;}X{to get a result}L{šnek.}laimėtil{(rungtynes)}S{&rArr;}E{v}I{1}išeiti, išplaukti, būtil{(ko)}padariniul{(from)};F{nothing has resulted from my efforts}iš mano pastangų nieko neišėjoI{2}baigtisl{(in – kuo)}; F{heavy rains resulted in floods}liūtys sukėlė potvynį;F{the game resulted in a draw}L{sport.}žaidimas baigėsi lygiosiomis
+0{resultant}[r&#618;'z&#652;lt&#601;nt]S{&rArr;}E{a}I{1}išplaukiantis, kylantisl{(dėl)}I{2}L{fiz.}atstojamasis, lygiai veikiantisS{&rArr;}E{n}I{1}L{fiz.}atstojamojil{(L{t. p.}X{resultant force})}I{2}L{mat.}rezultantas
+0{resume}[r&#618;'zju:m]E{v}I{1}at(si)naujinti; vėl pradėti, toliau daryti, tęstil{(po pertraukos)};F{to resume relations [talks]atnaujinti santykius [derybas];F{to resume a story}toliau pasakotil{(po pertraukos)}I{2}atgauti, atsiimti, susigrąžinti;F{he resumeed his seat}jis vėl atsisėdo į savo vietąI{3}reziumuoti, (su)sumuoti
+0{resumé}['rezjume&#618;]L{pr.}E{n}I{1}santrauka, reziumė; suvestinėI{2}l{(ypačL{amer.})}trumpa autobiografija, trumpi anketiniai duomenys
+0{resumption}[r&#618;'z&#652;mp&#643;n]E{n}I{1}l{(veiklos)}atnaujinimasl{(po pertraukos)}I{2}susigrąžinimas, atgavimas, atsiėmimas
+0{resumptive}[r&#618;'z&#652;mpt&#618;v]E{a}(su)sumuojantis, apibendrinantis
+0{resurface}[,ri:'s&#601;:f&#618;s]E{v}I{1}iš naujo kloti/aptraukti/padengti;F{to resurface a road}keisti kelio dangą, iš naujo (iš)asfaltuoti keliąI{2}vėl išplaukti į vandens paviršiųl{(apie povandeninį laivą)}
+0{resurgence}[r&#618;'s&#601;:d&#658;X{&#601;}ns]E{n}L{knyg.}atgimimas, atgijimas
+0{resurgent}[r&#618;'s&#601;:d&#658;X{&#601;}nt]E{a}atgyjantis, atsigaunantis, atgimstantis
+0{resurrect}[,rez&#601;'rekt]E{v}I{1}atgaivintil{(senus papročiusL{ir pan.})}I{2}atkasti, iškastiI{3}L{rel.}pri(si)kelti
+0{resurrection}[,rez&#601;'rek&#643;n]E{n}I{1}atgaivinimas; atnaujinimasI{2}atkasimas, iškasimasI{3}X{(the Resurrection)}L{rel.}prisikėlimasS{&loz;}X{resurrection pie}pyragas iš liekanų
+0{resuscitate}[r&#618;'s&#652;s&#618;te&#618;t]E{v}atgaivintil{(L{t. p.}L{prk.})}; grąžinti sąmonę; atgyti, atgauti sąmonę
+0{resuscitation}[r&#618;,s&#652;s&#618;'te&#618;&#643;n]E{n}atgaivinimas
+0{ret}[ret]E{v}mirkytil{(linus, kanapesL{ir pan.})}
+0{ret., retd}L{sutr.}X{retired}atsistatydinęs, išėjęs į pensiją; atsargosX{returned}grąžintas; išrinktasl{(į parlamentą)}
+0{retail}S{&rArr;}E{n}['ri:te&#618;l]I{1}mažmeninis pardavimas;F{by retail}mažmenomisI{2}E{attr}mažmeninis;F{retail price [trade]mažmeninė kaina [prekyba];F{retail dealer}mažmenininkasS{&rArr;}E{v}[ri:'te&#618;l, r&#618;'te&#618;l]I{1}pardavinėtil{ar}būti pardavinėjamam mažmenomisI{2}L{knyg.}(iš)pasakotil{(naujienas, gandus)}S{&rArr;}E{adv}['ri:te&#618;l]mažmenomis
+0{retailer}[ri:'te&#618;l&#601;]E{n}I{1}mažmenininkas, prekiautojas mažmenomis; krautuvininkasI{2}liežuvautojas, gandonešisl{(L{t. p.}X{retailer of gossip})}
+0{retain}[r&#618;'te&#618;n]E{v}I{1}išlaikyti, išsaugoti; (už)laikyti;F{he retains his place in the team}jis išlaiko savo vietą komandoje;F{a sponge retains water}kempinė laiko vandenįI{2}(iš)laikyti atmintyje, atmintiI{3}(pa)samdytil{(iš anksto apmokant; ypač advokatui)}
+0{retained}[r&#618;'te&#618;nd]E{a}:X{retained earnings}L{fin.}nepaskirstytasis pelnas;F{retained object}L{gram.}neveikiamosios rūšies veiksmažodžio tiesioginis papildinys
+0{retainer}[r&#618;'te&#618;n&#601;]E{n}I{1}L{teis.}kliento susitarimas su advokatul{(dėl bylos vedimo)}I{2}L{teis.}honoraro avansas advokatuiI{3}rankpinigiail{(už butąL{ir pan.})}I{4}L{ist.}tarnas; vasalasI{5}L{tech.}l{(guolio)}separatorius, skyriklisI{6}L{tech.}stabdiklis, fiksatorius; laikiklis;F{retainer ring}fiksuojamasis žiedas
+0{retaining}[r&#618;'te&#618;n&#618;&#331;]E{a}laikantysis, išlaikantis;F{retaining wall}L{stat.}atraminė sienelė;F{retaining fee}A{=R{retainer}}2
+0{retake}S{&rArr;}E{v}[,ri:'te&#618;k](retook; retaken[,ri:'te&#618;kX{&#601;}n])I{1}vėl užimti, atsiimtil{(miestąL{ir pan.})}I{2}perfotografuoti, perfilmuotiI{3}perlaikytil{(egzaminą)}S{&rArr;}E{n}['ri:te&#618;k]I{1}perfotografavimas, perfilmavimasI{2}perlaikymasl{(egzamino)}
+0{retaliate}[r&#618;'t&aelig;l&#618;e&#618;t]E{v}I{1}at(si)mokėti/atsiteisti/atsakyti tuo pačiul{(L{ppr.}už pikta piktu)}, at(si)keršytiI{2}L{teis.}pareikšti priešieškinįl{(upon)}I{3}naudoti represalijas
+0{retaliation}[r&#618;,t&aelig;l&#618;'e&#618;&#643;n]E{n}I{1}at(si)mokėjimas, at(si)keršijimas; atpildas I{2}represalijos, atsakomieji veiksmai
+0{retaliatory}[r&#618;'t&aelig;l&#618;&#601;tX{&#601;}r&#618;]E{a}I{1}atsakomasis; at(si)mokantis tuo pačiuI{2}represinis, baudžiamasis
+0{retard}S{&rArr;}E{n}['ri:ta:d]E{n}L{amer.}L{sl.}L{niek.}dvokla, beprotėlisS{&rArr;}E{v}[r&#618;'ta:d]I{1}(su)lėtinti, (su)trukdyti, sustabdyti; (už)delstiI{2}L{ret.}(už)gaišti; vėluotis, vėlintis
+0{retardation}[,ri:ta:'de&#618;&#643;n]E{n}I{1}(su)trukdymas, (su)stabdymasl{(augimoL{ir pan.})}; (už)delsimasI{2}(su)gaišimas; vėlinimasisI{3}kliūtisI{4}L{spec.}retardacija; atsilikimas
+0{retarded}[r&#618;'ta:d&#618;d]E{a}protiškai atsilikęsl{(L{t. p.}X{mentally retarded})}
+0{retarder}[r&#618;'ta:d&#601;]E{n}I{1}kliūtisI{2}L{chem.}lėtiklis; stabdiklisI{3}L{tech.}lėtintuvas
+0{retardment}[r&#618;'ta:dm&#601;nt]E{n}A{=R{retardation}}
+0{retch}[ret&#643;]E{v}žiaukčioti, raugėti
+0{retell}[,ri:'tel]E{v}(retold) atpasakoti, perpasakoti
+0{retention}[r&#618;'ten&#643;n]E{n}I{1}išlaikymas, išsaugojimas; (už)laikymas;F{snow retention}sniego sulaikymasI{2}išlaikymas atmintyjeI{3}L{med.}l{(šlapimoL{ir pan.})}susilaikymas
+0{retentive}[r&#618;'tent&#618;v]E{a}I{1}išlaikantis; (už)laikantis, sulaikantis;F{retentive of moisture}gerai sulaikantis drėgmęI{2}gerasl{(apie atmintį)}; turintis gerą atmintį
+0{rethink}S{&rArr;}E{n}['ri:&theta;&#618;&#331;k]persvarstymas, peržiūrėjimasS{&rArr;}E{v}[,ri:'&theta;&#618;&#331;k](rethought[,ri:'&theta;&#596;:t]) pergalvoti, persvarstytil{(nutarimą, nuomonęL{ir pan.})}
+0{reticence}['ret&#618;sX{&#601;}ns]E{n}I{1}uždarumas, slapumas;F{without reticence}atviraiI{2}(nu)tylėjimasl{(about, on)}I{3}santūrumas
+0{reticent}['ret&#618;sX{&#601;}nt]E{a}I{1}užsidaręs, slapus; tylus; nutylintis;F{to be reticent about/on smth}nutylėti, slėpti kąI{2}santūrus
+0{reticle}['ret&#618;kl]E{n}l{(optinio prietaiso)}skalė
+0{reticula}[r&#618;'t&#618;kjul&#601;]E{pl}A{L{žr.}R{reticulum}}
+0{reticular}[r&#618;'t&#618;kjul&#601;]E{a}I{1}tinklinisI{2}painus
+0{reticulate}S{&rArr;}E{a}[r&#618;'t&#618;kjul&#601;t]tinklinis, tinkliškasS{&rArr;}E{v}[r&#618;'t&#618;kjule&#618;t]I{1}dengti tinkluI{2}daryti tinklinį raštą
+0{reticulation}[r&#618;,t&#618;kju'le&#618;&#643;n]E{n}l{(audinioL{ir pan.})}tinklinis raštas; tinklas
+0{reticule}['ret&#618;kju:l]E{n}L{psn.},L{juok.}rankinukas, ridikiulis
+0{reticulum}[r&#618;'t&#618;kjul&#601;m]E{n}(E{pl}-la)I{1}L{biol.}tinklelis I{2}L{anat.}tinklainisl{(atrajotojų skrandžio dalis)}
+0{retina}['ret&#618;n&#601;]E{n}(E{pl}retinas, -ae[-i:])L{anat.}tinklainė
+0{retinal}['ret&#618;nX{&#601;}l]E{a}L{anat.}tinklainės, tinklaininis
+0{retinue}['ret&#618;nju:]E{n}palyda, palydovai
+0{retire}[r&#618;'ta&#618;&#601;]S{&rArr;}E{v}I{1}pasitrauktil{(iš pareigų)}; išeiti, išleistil{(į atsargą, pensiją)}; atsistatydinti;F{to be compulsorily retired}būti priverstam pasitraukti iš pareigų;F{to retire on a pension}išeiti į pensijąI{2}pasišalinti, išeiti;F{to retire from the competition due to a leg injury}pasitraukti iš varžybų dėl kojos traumosI{3}skirtis, atsiskirti, nutolti, likti vienam; F{to retire into oneself}užsidaryti savyjeI{4}L{knyg.}eiti gultil{(L{t. p.}X{to retire for the night, to retire to bed})}I{5}L{kar.}į(si)trauktiI{6}L{fin.}išimti iš apyvartos; išpirktil{(obligaciją, vekselį)}S{&rArr;}E{n}L{kar.}įsakymas trauktis; pasitraukimo signalas
+0{retired}[r&#618;'ta&#618;&#601;d]E{a}I{1}atsistatydinęs; išėjęs į pensiją; atsargos, dimisijos;F{retired pay}atsargos karininko pensijaI{2}vienišas, atsiskyręs; nuošalus
+0{retiree}[r&#618;,ta&#618;&#601;'ri:]E{n}L{amer.}I{1}pensininkasI{2}L{kar.}atsargos karininkas
+0{retirement}[r&#618;'ta&#618;&#601;m&#601;nt]E{n}I{1}atsistatydinimas; pasitraukimas, išėjimas į pensiją/atsargą;F{retirement age}pensinis amžiusX{retirement pension}valstybinė pensijaI{2}vienuma; atsiskyrimas; nuošalumasI{3}L{kar.}traukimasis, atsitraukimas
+0{retiring}[r&#618;'ta&#618;&#601;r&#618;&#331;]E{a}I{1}drovus, santūrus; mėgstantis vienumąI{2}išeinantisl{(L{džn.}į pensiją)}; pensinis;F{the retiring members of the committee}nariai, išeinantys iš komiteto
+0{retl}L{sutr.}X{retail}mažmeninė prekyba
+0{retold}[,ri:'t&#601;uld]E{past}l{ir}E{pII}A{L{žr.}R{retell}}
+0{retook}[,ri:'tuk]E{past}A{L{žr.}R{retake}}
+0{retool}[,ri:'tu:l]E{v}I{1}rekonstruotil{(gamyklą, pramonęL{ir pan.})}I{2}L{amer.}pertvarkyti, reorganizuoti
+0{retort^{1}}[r&#618;'t&#596;:t]S{&rArr;}E{n}at(si)kirtimas; replika, griežtas/sąmojingas atsakymasS{&rArr;}E{v}I{1}at(si)kirsti, atšauti; griežtai/sąmojingai atsakytiI{2}atsakyti tuo pačiu, atremtil{(priekaištusL{ir pan.})}
+0{retort^{2}}L{chem.}S{&rArr;}E{n}I{1}retortaI{2}L{tech.}konverteris;L{metal.}mufelisS{&rArr;}E{v}varyti, distiliuoti
+0{retortion}[r&#618;'t&#596;:&#643;n]E{n}I{1}už(si)lenkimas atgalI{2}L{dipl.}retorsija
+0{retouch}S{&rArr;}E{n}[,ri:t&#652;t&#643;]retušavimas; retušasS{&rArr;}E{v}[,ri:'t&#652;t&#643;]I{1}retušuotiI{2}dailinti, taisyti; dažytil{(blakstienas, plaukus)}
+0{retoucher}[,ri:'t&#652;t&#643;&#601;]E{n}retušuotojas
+0{retrace}[r&#618;'tre&#618;s]E{v}I{1}grįžtil{(nueitu keliu)};F{to retrace one’s steps}(su)grįžti atgal tuo pačiu keliuI{2}atsektil{(atgal iki pradžios)}I{3}pakartotil{(kieno)}kelionės maršrutąI{4}atkurti atmintyje, prisiminti
+0{retract}[r&#618;'tr&aelig;kt]E{v}I{1}atsisakyti, atsiimtil{(žodžiusL{ir pan.})}, išsiginti, išsižadėti, atsižadėti; atšauktiI{2}į(si)traukti; atitraukti, atsitraukti;F{cats can retract their claws}katės gali įtraukti nagus
+0{retractable}[r&#618;'tr&aelig;kt&#601;bl]E{a}įtraukiamas;F{retractable landing gear}L{av.}įtraukiamoji važiuoklė
+0{retractile}[r&#618;'tr&aelig;kta&#618;l]E{a}L{zool.}įtraukiamas
+0{retraction}[r&#618;'tr&aelig;k&#643;n]E{n}I{1}išsižadėjimas, atsižadėjimas, atsisakymasl{(savo žodžiųL{ir pan.})}; atšaukimasI{2}įtraukimas; atitraukimas, atsitraukimas; su(si)traukimas
+0{retractive}[ri'tr&aelig;kt&#618;v]E{a}I{1}įtraukiamasI{2}L{anat.}sutraukiamasis
+0{retractor}[r&#618;'tr&aelig;kt&#601;]E{a}I{1}L{med.}retraktorius,l{(žaizdų)}plėstuvasI{2}L{anat.}sutraukiamasis raumuo
+0{retrain}[,ri:'tre&#618;n]E{v}per(si)kvalifikuoti
+0{retranslate}[,ri:tr&aelig;nz'le&#618;t]E{v}I{1}vėl išverstiI{2}daryti atvirkštinį vertimą
+0{retransmit}[,ri:tr&aelig;nz'm&#618;t]E{v}retransliuoti; vėl transliuoti
+0{retread}S{&rArr;}E{n}['ri:tred]I{1}L{aut.}naujas protektorius, padanga su nauju protektoriumiI{2}L{amer.}atnaujinimasl{(seno spektaklioL{ir pan.})}I{3}L{amer.}perkvalifikuotas žmogusS{&rArr;}E{v}[,ri:'tred]I{1}uždėti naują protektorių, atnaujinti protektoriųI{2}(retrod; retrodden) iš naujo pramintil{(taką)}
+0{retreat}[r&#618;'tri:t]S{&rArr;}E{n}I{1}atsitraukimas; pasitraukimas;F{to intercept the retreat}l{(of)}atkirsti kelią atsitraukimui, neleisti atsitraukti;F{to make good one’s retreat}X{a)}sėkmingai atsitraukti;X{b)}L{prk.}sėkmingai išsisuktiI{2}L{kar.}atsitraukimo signalas;F{to beat a retreat}X{a)}duoti signalą trauktis;X{b)}L{prk.}trauktis, pasišalintil{(skubiai, gėdingai)}I{3}L{kar.}vakarinis signalasI{4}vienuma, nuošalybė; atsiskyrimasI{5}l{(žodžioL{ir pan.})}išsižadėjimasI{6}prieglobstis, prieglauda; slaptavietėS{&rArr;}E{v}I{1}atsitrauktil{(L{t. p.}L{kar.})};F{the flood waters are slowly retreating}potvynio vandenys pamažu traukiasiI{2}trauktis, pasitraukti, pasišalinti; nueiti; F{to retreat into oneself}užsisklęsti, pasidaryti užsisklendusiamI{3}išsižadėtil{(žodžioL{ir pan.}; from)}I{4}L{šach.}atitrauktil{(figūrą)}
+0{retreating}[r&#618;'tri:t&#618;&#331;]E{a}:X{retreating forehead}atlaši/nuolaidi kakta;F{retreating chin}nusklembtas smakras
+0{retrench}[r&#618;'trent&#643;]E{v}I{1}(su)mažintil{(išlaidas)}, taupytiI{2}trumpinti, daryti kupiūrasl{(tekste)}I{3}L{kar.}apsikasti
+0{retrenchment}[r&#618;'trent&#643;m&#601;nt]E{n}I{1}l{(išlaidųL{ir pan.})}(su)mažinimas; taupymasI{2}l{(teksto)}(su)trumpinimasI{3}L{kar.}L{ist.}retranšementas, apsikasimas
+0{retrial}[,ri:'tra&#618;&#601;l]E{n}L{teis.}bylos peržiūrėjimas; pakartotinis bylos svarstymas/nagrinėjimas
+0{retribution}[,retr&#618;'bju:&#643;n]E{n}L{knyg.}atpildas, pelnyta bausmė;F{divine retribution}Dievo bausmė
+0{retributive}[r&#618;'tr&#618;bjut&#618;v]E{a}L{knyg.}atpildo, baudžiamasis
+0{retrievable}[r&#618;'tri:v&#601;bl]E{a}atgaunamasl{(apie sumą)}; atitaisomasl{(apie klaidąL{ir pan.})}
+0{retrieval}[r&#618;'tri:vl]E{n}I{1}(susi)grąžinimas, atgavimasI{2}atitaisymas;F{beyond/past retrieval}neatitaisomasI{3}L{komp.}l{(informacijos)}paieška, išrinkimasl{(L{t. p.}X{data retrieval})}
+0{retrieve}[r&#618;'tri:v]S{&rArr;}E{v}I{1}susigrąžinti; atgauti, vėl (at)rasti;F{to retrieve one’s losses}susigrąžinti nuostoliusI{2}atitaisytil{(klaidą)}I{3}reabilituoti, atgauti, atkurtil{(reputaciją, garbę)}I{4}išgelbėtil{(padėtį)}I{5}L{medž.}(su)rasti ir atneštil{(nušautą paukštį/žvėrį; apie šunį)}I{6}L{komp.}išrinktil{(duomenis)}S{&rArr;}E{n}:X{beyond/past retrieve}negrąžinamai, nepataisomai
+0{retriever}[r&#618;'tri:v&#601;]E{n}I{1}medžioklinis šuoI{2}ką nors (su)renkantis žmogus, rinkėjas
+0{retro}['retr&#601;u]E{a}retrol{(apie stilių)}; netolimos praeities, buvęs
+0{retro-}['retr&#601;X{u}-]E{pref}I{1}retro-l{(žymint atgalinę kryptį)};F{retrospective}retrospektyvusI{2}retro-, už-l{(žymint buvimą už ko nors)};F{retrobulbar}retrobulbarinis, užakinis
+0{retroaction}[,retr&#601;u'&aelig;k&#643;n]E{n}I{1}atvirkštinis veiksmasI{2}L{teis.}l{(įstatymo)}atgalinis veikimas, retroaktyvumas
+0{retroactive}[,retr&#601;u'&aelig;kt&#618;v]A{=R{retrospective}}E{a}2
+0{retrod}[,ri:'tr&#596;d]E{past}A{L{žr.}R{retread}}E{v}2
+0{retrodden}[,ri:'tr&#596;dn]E{pII}A{L{žr.}R{retread}}E{v}2
+0{retroengine}[,retr&#601;u'end&#658;&#618;n]E{n}L{tech.}stabdymo (raketinis) variklis
+0{retrofit}[,retr&#601;ufit]E{v}modifikuoti, naujai įrengtil{(jau pagamintas mašinas, lėktuvąL{ir pan.})}
+0{retroflex}['retr&#601;fleks]E{a}L{fon.}retrofleksinis
+0{retrograde}['retr&#601;gre&#618;d]S{&rArr;}E{a}I{1}nukreiptas atgal; atgaleigis; atžagariasI{2}retrogradinis, atžagareiviškas; reakcinisI{3}L{kar.}atsitraukiamasisS{&rArr;}E{v}A{=R{retrogress}}
+0{retrogress}[,retr&#601;'gres]E{v}I{1}trauktis atgalI{2}regresuoti; blogėti
+0{retrogression}[,retr&#601;'gre&#643;n]E{n}I{1}atgalinis judėjimasI{2}atžanga, regresas, smukimas
+0{retrogressive}[,retr&#601;'gres&#618;v]E{a}I{1}grįžtantis atgalI{2}regresuojantis; reakcingas
+0{retropack}[,retr&#601;up&aelig;k]E{n}L{kosm.}stabdymo įrenginys
+0{retro-rocket}[,retr&#601;u'r&#596;k&#618;t]E{n}papildomasis raketinis variklisl{(grįžti į Žemės atmosferą)}
+0{retrospect}['retr&#601;spekt]E{n}žvilgsnis atgal, į praeitį;F{in retrospect}retrospektyviai
+0{retrospection}[,retr&#601;'spek&#643;n]E{n}retrospekcija, žvelgimas atgal, į praeitį; praeities apmąstymas
+0{retrospective}[,retr&#601;'spekt&#618;v]S{&rArr;}E{n}retrospekcinė parodal{(L{t. p.}X{retrospective exhibition/show})}S{&rArr;}E{a}I{1}retrospektyvus; retrospekcinis, praeitiesI{2}L{teis.}turintis atgalinį poveikį, taikomas atgaline datal{(apie įstatymą)}
+0{retroussé}[r&#601;'tru:se&#618;]L{pr.}E{a}riestas, atkragęsl{(apie nosį)}
+0{retroversion}[,retr&#601;u'v&#601;:&#643;n]E{v}I{1}pasisukimas atgalI{2}atžanga, regresasI{3}L{med.}retroversija
+0{retry}[,ri:'tra&#618;]E{v}peržiūrėti, pakartotinai svarstyti/nagrinėtil{(bylą)}
+0{retsina}[ret'si:n&#601;]E{n}graikiškas vynas, turintis sakų prieskonį
+0{rettery}['ret&#601;r&#618;]E{n}L{ž. ū.}linmarka, marka
+0{retube}[,ri:'tju:b]E{v}keisti vamzdį
+0{retune}[,ri:'tju:n]E{v}I{1}L{muz.}iš naujo (su)derintiI{2}L{rad.},L{tel.}perjungtil{(stotį, kanalą)}I{3}L{aut.}perreguliuotil{(variklį)}
+0{return}[r&#618;'t&#601;:n]S{&rArr;}E{n}I{1}(su)grįžimas;F{on my return to Lithuania I...}grįžęs į Lietuvą, aš...I{2}grąžinimas; atidavimas;F{return of prisoners}belaisvių grąžinimasI{3}atsakymasl{(tuo pačiu)}; atsilyginimas;F{in return}X{a)}atsilyginant; mainais;X{b)}atsakant;F{return match/game}L{sport.}atsakomasis susitikimas, revanšasI{4}apyvarta; pelnas, pajamos; įplaukos;F{to make good returns}duoti gerą pelną;F{tax return}mokesčių deklaracija; mokestinės pajamos;F{return on investment}įplaukos iš investuoto kapitalo;F{diminishing returns}mažėjančios įplaukos; mažėjantis pelnasI{5}oficiali ataskaita; raportasI{6}E{pl}rinkimų rezultataiI{7}bilietas ten ir atgal, grįžtamasis bilietasl{(L{t. p.}X{return ticket})};F{day return ticket}bilietas grįžti tą pačią dienąI{8}L{teatr.}bilietas, grąžintas paskutinę minutęI{9}L{archit.}sparnas, priestatasI{10}E{pl}L{kom.}grąžintos/neparduotos prekės;L{fin.}grąžinti vekseliaiS{&loz;}X{many happy returns (of the day)!}sveikinu gimimo dieną!, geriausių linkėjimų gimimo dieną!S{&rArr;}E{v}I{1}(su)grįžti;F{to return home}grįžti namo;F{he returned to his old habits}jis grįžo prie savo senų įpročiųI{2}grąžinti, atiduoti;F{to return smth to its place}padėti ką atgal į vietą;F{to return a ball}atmušti/grąžinti kamuolį/kamuoliukąl{(žaidžiant futbolą/tenisąL{ir pan.})}I{3}atsakytil{(tuo pačiu)}; atsilyginti;F{to return like for like}atsilyginti/atsimokėti tuo pačiu;F{to return a bow}X{a)}atsakyti į sveikinimąl{(nusilenkiant)};X{b)}L{prk.}palaikytil{(kieno)}iniciatyvą;F{to return smb’s love/affection}atsakyti meile į meilę;F{to return thanks}X{a)}atsidėkoti;X{b)}sukalbėti maldąl{(po pietų)};X{c)}atsakyti į tostą;F{to return smb’s lead}X{a)}eiti tos pačios spalvos korta;X{b)}L{prk.}palaikyti kieno iniciatyvąI{4}pasikartotil{(apie ligą, priepuolius)}I{5}L{ekon.}duoti pelnol{(apie investicijasL{ir pan.})}I{6}pranešti; oficialiai pareikšti;F{to return details of one’s income}deklaruoti pajamas;F{to return a verdict of guilty}L{teis.}pripažinti kaltuI{7}l{(L{ppr.}E{pass})}(iš)rinktil{(į parlamentą)}I{8}L{kar.}smogti atsakomąjį smūgį
+0{returnable}[r&#618;'t&#601;:n&#601;bl]S{&rArr;}E{a}grąžintinas, grąžinamasis;F{hats are not returnable}skrybėlės nekeičiamosl{(užrašas parduotuvėje)}S{&rArr;}E{n}E{pl}grąžinamoji taral{(buteliai, stiklainiaiL{ir pan.})}
+0{returnee}[,r&#618;t&#601;:'ni:]E{n}I{1}sugrįžėlis, parvykėlisl{(iš kelionės, iš tremtiesL{ir pan.})}; sugrįžėlis į savo dalinįl{(iš ligoninės)}I{2}pašauktasis į tikrąją karo tarnybąl{(iš atsargos)}
+0{returner}[r&#618;'t&#601;:n&#601;]E{n}sugrįžėlis į darbąl{(po ilgų atostogųL{ir pan.})}
+0{retype}[,ri:'ta&#618;p]E{v}perrašyti, perspausdintil{(mašinėle)}
+0{reunification}[,ri:ju:n&#618;f&#618;'ke&#618;&#643;n]E{n}su(si)jungimasl{(ypač padalytos šalies)}
+0{reunify}[,ri:'ju:n&#618;fa&#618;]E{v}(vėl) sujungti, suvienytil{(ypač padalytą šalį)}
+0{reunion}[ri:'ju:n&#618;&#601;n]E{n}I{1}l{(pakartotinis)}susijungimas; sujungimasl{(iš naujo)}I{2}l{(bendraklasių, šeimos)}susirinkimas, susitikimas;F{to hold a reunion}susirinkti visiems kartul{(po ilgo išsiskyrimo)}
+0{reunite}[,ri:ju:'na&#618;t]E{v}I{1}vėl su(si)jungti/su(si)vienytil{(with)}I{2}su(si)rinkti
+0{re-up}[,ri:'&#652;p]E{v}L{amer.}L{kar.}L{sl.}likti tarnautil{(pasibaigus tarnybos laikui)}
+0{reusable}[,ri:'ju:z&#601;bl]E{a}L{spec.}tinkamas vėl naudoti
+0{reuse}S{&rArr;}E{v}[,ri:'ju:z]pakartotinai panaudotil{(medžiagasL{ir pan.})}S{&rArr;}E{n}[,ri:'ju:s]pakartotinis naudojimas
+0{Reuters}['r&#596;&#618;t&#601;z]E{n}Roiteriol{(žinių)}agentūra
+0{rev}[rev]L{šnek.}S{&rArr;}E{n}l{(variklio)}apsisukimas, sūkis, apsisukimų/sūkių skaičiusl{(per minutę)};F{rev counter}A{=R{revolution}}A{R{counter}}S{&rArr;}E{v}sukti(s)S{o}1{rev up}X{a)}didinti apsisukimų/sūkių skaičių;X{b)}padidinti, suaktyvinti; padidėti
+0{rev.}L{sutr.}X{revenue}pajamosX{review}apžvalgaX{revised}patikrintas, ištaisytas
+0{revalorization}[,ri:v&aelig;l&#601;ra&#618;'ze&#618;&#643;n]E{n}L{fin.}revalorizacija, vertės keitimas
+0{revalorize}[,ri:'v&aelig;l&#601;ra&#618;z]E{v}L{fin.}revalorizuoti
+0{revaluation}[ri:,v&aelig;lju:'e&#618;&#643;X{&#601;}n]E{n}revalvacija, valiutos kurso padidinimas
+0{revalue}[ri:'v&aelig;lju:]E{v}perkainoti, pervertintil{(iš naujo;L{t. p.}L{ekon.},L{fin.})}
+0{revamp}S{&rArr;}E{n}['ri:v&aelig;mp]perdirbtas literatūros kūrinysS{&rArr;}E{v}[,ri:'v&aelig;mp]pertaisyti, pataisyti, peržiūrėti;F{to revamp a play}perdirbti pjesę
+0{revanchism}[r&#618;'v&aelig;nX{t}&#643;&#618;zm]L{pr.}E{n}revanšizmas
+0{revanchist}[r&#618;'v&aelig;nX{t}&#643;&#618;st]L{pr.}S{&rArr;}E{n}revanšistasS{&rArr;}E{a}revanšistinis
+0{Rev(d)}L{sutr.}X{Reverend}šventasisl{(dvasininko titulas)}; kunigasl{(prieš pavardę)}
+0{reveal^{1}}[r&#618;'vi:l]E{v}I{1}atskleisti;F{to reveal a secret}atskleisti paslaptįI{2}parodyti; iškelti aikštėn;F{to reveal itself}pasirodyti, išeiti aikštėn;F{to reveal oneself to be}pasirodyti esantl{(kuo)}
+0{reveal^{2}}E{n}L{stat.}angokraštis;l{(lango, durų)}ketvirtis
+0{revealing}[r&#618;'vi:l&#618;&#331;]E{a}I{1}atskleidžiantis, pamokantis, įdomus; atvirasl{(apie pareiškimąL{ir pan.})}I{2}per daug apnuoginantisl{(apie drabužį)}
+0{reveille}[r&#618;'v&aelig;l&#618;]L{pr.}E{n}L{kar.}rytinis trimitas, signalas keltis
+0{revel}['revl]S{&rArr;}E{n}I{1}linksminimasis; puotavimasI{2}l{(L{džn.}E{pl})}linksmybės; pramogosl{(puotos metu)}S{&rArr;}E{v}X{(-ll-)}I{1}l{(triukšmingai)}linksmintis, ūžauti, puotautiI{2}mėgautisl{(in)}S{o}1{revel away}praūžtil{(laiką, pinigus)}
+0{revelation}[,rev&#601;'le&#618;&#643;n]E{n}I{1}atskleidimas, atidengimas; reveliacijaI{2}netikėtas atradimasl{(ko nors nepaprasta, geraL{ir pan.})}I{3}L{rel.}ap(si)reiškimas;F{the Revelations}L{bibl.}Apokalipsė
+0{revelatory}[,rev&#601;'le&#618;tr&#618;, 'rev&#601;l&#601;tr&#618;]E{a}keliantis viešumon/aikštėn, demaskuojamasis
+0{reveller}['rev&#601;l&#601;]E{n}puotautojas, ūžautojas, triukšmadarys
+0{revelry}['revlr&#618;]E{n}puotavimas, ūžavimas, linksminimasis
+0{revenge}[r&#618;'vend&#658;]S{&rArr;}E{n}I{1}kerštas, (at)keršijimas;F{to take (one’s) revenge on/upon smb}atkeršyti kam;F{in revenge}iš keršto, keršijant;F{to be out for revenge}stengtis atsikeršytiI{2}revanšas;F{to have [to get] one’s revenge}revanšuotis [atsirevanšuoti];F{to give smb his revenge}duoti kam atsiloštiS{&rArr;}E{v}(at)keršyti;F{to revenge an insult}atkeršyti už įžeidimą;E{refl},E{pass}at(si)keršytil{(on, upon – kam; for – už)}
+0{revengeful}[r&#618;'vend&#658;fX{&#601;}l]E{a}kerštingas
+0{revenger}[r&#618;'vend&#658;&#601;]E{n}keršytojas
+0{revenue}['rev&#601;nju:]E{n}I{1}l{(valstybės)}biudžeto pajamos; pajamos; įplaukos;F{total revenue}bendrosios įplaukosl{(gautos už realizuotą produkciją)};F{source of revenue}pajamų šaltinisI{2}E{pl}pajamų straipsniaiI{3}valstybinių mokesčių departamentas/skyriusI{4}E{attr}mokesčių, muitų;F{revenue officer}mokesčių valdybos tarnautojas; muitininkas;F{revenue stamp}žyminis ženklas;F{revenue ship/vessel}muitinės laivas
+0{reverb}['ri:v&#601;:b, r&#618;'v&#601;:b]E{n}(reverberationL{sutr.})L{muz.}dirbtinis garso fonasl{(darant įrašus)}
+0{reverberant}[r&#618;'v&#601;:b&#601;r&#601;nt]E{a}L{poet.}atliepiantis, atmušantisl{(garsąL{ir pan.})}; aidus, skardus
+0{reverberate}[r&#618;'v&#601;:b&#601;re&#618;t]E{v}I{1}(nu)aidėtil{(L{t. p.}L{prk.})}I{2}L{fiz.}at(si)mušti, at(si)spindėtiI{3}L{metal.}lydytil{(atšvaitinėje krosnyje)}
+0{reverberating}[r&#618;'v&#601;:b&#601;re&#618;t&#618;&#331;]E{a}I{1}aidintis; dundantisI{2}L{prk.}nuaidėjęs, išgarsėjęs;F{reverberating fame}plačiai pasklidusi šlovėI{3}atsimušantis;F{reverberating furnace}L{metal.}atšvaitinė krosnis
+0{reverberation}[r&#618;,v&#601;:b&#601;'re&#618;&#643;n]E{n}I{1}aidas, atgarsisl{(L{t. p.}L{prk.})}I{2}griaudimas, dundėjimasI{3}L{fiz.}at(si)mušimas, at(si)spindėjimas; aidėjimas, reverberacijaI{4}L{metal.}lydymasl{(atšvaitinėje krosnyje)}
+0{reverberatory}[r&#618;'v&#601;:b&#601;r&#601;tX{&#601;}r&#618;]E{a}atspindžio; atsispindėjęs;F{reverberatory furnace}L{metal.}atšvaitinė krosnis
+0{revere}[r&#618;'v&#618;&#601;]E{v}garbinti, gerbti
+0{reverence}['revX{&#601;}r&#601;ns]S{&rArr;}E{n}I{1}didelė pagarba, pagarbumas; nuolankumas;F{to hold in reverence, to regard with reverence}gerbti, garbintiI{2}L{psn.}nusilenkimas, reveransasI{3:}X{your reverence}L{psn.},L{air.}šventasis tėvel{(kreipimasis į kunigą)};F{his reverence}L{juok.}garbusis, šventasisS{&rArr;}E{v}L{psn.}gerbti, garbinti
+0{reverend}['revX{&#601;}r&#601;nd]S{&rArr;}E{a}I{1}X{Reverend}L{bažn.}šventas(is)l{(apie dvasininką)};F{Reverend Mother}l{(moterų vienuolyno)}vyresniojiI{2}L{psn.}(didžiai) gerbiamasS{&rArr;}E{n}kunigas;l{(protestantų)}pastorius
+0{reverent}['revX{&#601;}r&#601;nt]E{a}pagarbus
+0{reverential}[,rev&#601;'ren&#643;l]E{a}pagarbus, nuolankus; gerbiantis
+0{reverently}['revX{&#601;}r&#601;ntl&#618;]E{adv}pagarbiai
+0{reverie}['rev&#601;r&#618;]E{n}I{1}susimąstymas; svajingumasI{2}svajonės;F{to be lost in reverie}(pa)skęsti svajonėse, svajoti;F{to indulge in reverie}užsisvajoti
+0{reversal}[r&#618;'v&#601;:sl]E{n}I{1}(visiškas) pa(si)keitimas; ap(si)vertimasI{2}L{teis.}l{(sprendimo, nutarimo)}panaikinimas, atšaukimasI{3}L{tech.}reversavimas;F{the reversal of rotation}sukimosi krypties keitimasl{(priešinga kryptimi)}
+0{reverse}[r&#618;'v&#601;:s]S{&rArr;}E{n}I{1}X{(the reverse)}tai, kas atvirkščia/priešinga;F{quite the reverse, very much the reverse}visiškai atvirkščiai;F{to go into reverse}pasukti priešinga linkmeI{2}l{(medalio, monetosL{ir pan.})}antroji/atvirkščioji pusėI{3}permainingumas; nesėkmė; pablogėjimas;F{the reverses of fortune}likimo smūgiai;F{to have/experience reverses}turėti nuostoliųI{4}pralaimėjimasl{(L{t. p.}L{kar.})}I{5}L{kar.}užnugaris; F{to take in the reverse}pulti iš užnugarioI{6}L{aut.}atbulinė eigaI{7}L{tech.}reversavimas; reversinis mechanizmas; eigos (pa)keitimo mechanizmas;F{reverse of the engine}variklio reversasS{&rArr;}E{a}E{attr}atvirkščias, priešingas, atvirkštinis; atbulas, atbulinis;F{reverse side}atvirkščioji pusė;F{reverse motion}judėjimas į priešingą pusę;F{reverse fire}L{kar.}ugnis iš užnugario;F{reverse gear}L{aut.}atbulinė eigaS{&rArr;}E{v}I{1}apversti, perversti; perstatytiI{2}(pa)keisti (į priešingą);F{to reverse a policy}iš pagrindų (pa)keisti politiką;F{positions are reversed}padėtis susikeitėI{3}L{teis.}panaikinti, atšauktiI{4}L{tech.}keisti kryptįI{5}L{aut.}važiuoti atbuline eiga
+0{reverse-engineer}[r&#618;,v&#601;:send&#658;&#618;'n&#618;&#601;]E{v}atlikti apgrąžą; analizuojant nustatyti, iš ko ir kaip gaminys pagamintas
+0{reversible}[r&#618;'v&#601;:s&#601;bl]E{a}I{1}grįžtamasis;F{reversible process}grįžtamasis procesasI{2}abipusisl{(apie audeklą)}I{3}L{tech.}reversinis;F{reversible plough}apverčiamasis plūgasI{4}L{teis.}panaikinamas, atšaukiamas
+0{reversion}[r&#618;'v&#601;:&#643;n]E{n}I{1}grįžimasl{(į ankstesnę padėtįL{ir pan.})}I{2}L{biol.}atavizmasl{(L{t. p.}X{reversion to type})}I{3}L{teis.}reversija, turto grąžinimasl{(pirmutiniam savininkui ar jo įpėdiniams)}
+0{reversionary}[r&#618;'v&#601;:&#643;n&#601;r&#618;]E{a}I{1}grįžtamasis; reversinisI{2}L{biol.}atavistinisI{3}L{teis.}grąžinamas, grįžtamasl{(apie turtą, teisę)}
+0{revert}[r&#618;'v&#601;:t]E{v}I{1}(su)grįžtil{(į ankstesnę padėtį; prie anksčiau pasakytos minties)}I{2}L{teis.}grįžti buvusiam savininkuiI{3}L{ret.}pasukti atgal;F{to revert the eyes}X{a)}pažvelgti atgal;X{b)}nusisukti, nusukti akis
+0{revet}[r&#618;'vet]E{v}L{stat.}apmūryti, apdaryti, aptaisyti, išklotil{(plytelėmisL{ir pan.})}
+0{revetment}[r&#618;'vetm&#601;nt]E{n}L{stat.}apmušalas, aptaisymas, apdaras;F{bank revetment}kranto danga/sutvirtinimas;F{mattress revetment}paklotė
+0{review}[r&#618;'vju:]S{&rArr;}E{n}I{1}apžvalga; apžvelgimas;F{to pass in review}apžvelgti,l{darL{žr.}}6I{2}apžiūra, peržiūra; patikrinimasI{3}recenzija, atsiliepimas;F{review copy}egzempliorius, atsiųstas recenzuoti;F{to get a good review}gauti gerą atsiliepimąI{4}žurnalasI{5}L{teatr.}reviu, apžvalgaI{6}L{kar.}apžiūra; paradas;F{to pass in review}priimti paradą,l{darL{žr.}}1I{7}L{teis.}peržiūrėjimas;F{his case is under review}jo byla peržiūrimaI{8}L{amer.}L{mok.}kartojimasS{&rArr;}E{v}I{1}apžvelgtiI{2}apžiūrėti; peržiūrėti, patikrintil{(L{t. p.}L{teis.})}I{3}recenzuoti; daryti kritinę apžvalgąI{4}L{kar.}priimti paradąl{(L{t. p.}X{review troops})}I{5}L{amer.}L{mok.}kartoti, peržiūrėti
+0{reviewer}[r&#618;'vju:&#601;]E{n}recenzentas, kritikas; apžvalgininkas
+0{revile}[r&#618;'va&#618;l]E{v}plūsti, keikti; užgaulioti
+0{revise}[r&#618;'va&#618;z]S{&rArr;}E{n}L{poligr.}antroji korektūra, patikraS{&rArr;}E{v}I{1}peržiūrėti, persvarstyti; reviduoti;F{to revise a decision}peržiūrėti/persvarstyti nutarimą/sprendimąI{2}taisyti, tikslinti; tikrintiI{3}L{mok.}kartotil{(medžiagą)};F{to revise for an examination}ruoštis egzaminui
+0{revised}[r&#618;'va&#618;zd]E{a}ištaisytas, peržiūrėtas;F{revised estimate}patikslintas apskaičiavimas; F{the Revised Version}pataisytas Biblijos leidimasl{(1870–84 m.)};F{revised edition}A{=R{revision}}2
+0{reviser}[r&#618;'va&#618;z&#601;]E{n}patikros korektorius
+0{revision}[r&#618;'v&#618;&#658;n]E{n}I{1}peržiūrėjimas, persvarstymas;F{constitutional revision}konstitucijos pakeitimasI{2}peržiūrėtas ir pataisytas leidimasI{3}L{mok.}l{(medžiagos)}(pa)kartojimas
+0{revisionism}[r&#618;'v&#618;&#658;X{&#601;}n&#618;zm]E{n}L{polit.}revizionizmas
+0{revisionist}[r&#618;'v&#618;&#658;X{&#601;}n&#618;st]L{polit.}S{&rArr;}E{n}revizionistas S{&rArr;}E{a}revizionistinis
+0{revisit}[,ri:'v&#618;z&#618;t]E{n}I{1}vėl aplankytiI{2}iš naujo peržiūrėtil{(pasiūlymąL{ir pan.})}
+0{revisory}[r&#618;'va&#618;z&#601;r&#618;]E{a}revizijos, revizinis
+0{revitalization}[,ri:va&#618;t&#601;la&#618;'ze&#618;&#643;n]E{n}l{(ekonomikosL{ir pan.})}atgaivinimas; pagyvinimas
+0{revitalize}[ri:'va&#618;tX{&#601;}la&#618;z]E{v}atgaivinti; pagyvinti
+0{revival}[r&#618;'va&#618;vl]E{n}I{1}atgimimas, atgijimas; pagyvėjimas;F{Revival of Learning}L{ist.}Renesansas;F{Revival Style}L{archit.}Renesanso stiliusI{2}atgaivinimas; atnaujinimas;F{a revival of traditions}tradicijų atgaivinimas;F{revival of a will}L{teis.}testamento atnaujinimas
+0{revivalism}[r&#618;'va&#618;v&#601;l&#618;zm]E{n}L{rel.}tikėjimo atgaivinimas
+0{revive}[r&#618;'va&#618;v]E{v}I{1}atgimti; atgyti, atsigauti; pagyvėtiI{2}atgaivinti; atkurti;F{to revive an old custom}atgaivinti seną paprotįI{3}atnaujinti;F{to revive a play}atnaujinti pastatymą
+0{revivification}[r&#618;,v&#618;v&#618;f&#618;'ke&#618;&#643;n]E{n}I{1}atgaivinimas; atgijimasI{2}L{chem.}redukcija; regeneracija
+0{revivify}[r&#618;'v&#618;v&#618;fa&#618;]E{v}I{1}atgaivinti; pagyvintiI{2}L{chem.}redukuoti(s)
+0{revocable}['rev&#601;k&#601;bl]E{a}L{ret.}atšaukiamas; panaikinamas
+0{revocation}[,rev&#601;'ke&#618;&#643;n]E{n}L{teis.}atšaukimas, panaikinimasl{(įstatymoL{ir pan.})}
+0{revoke}[r&#618;'v&#601;uk]E{v}I{1}atšaukti, panaikintil{(įstatymą, nutarimąL{ir pan.})};F{to revoke a driving licence}atimti vairuotojo teisesI{2}atsiimtil{(pažadą)}I{3}paskelbti renonsąl{(turint reikalingos spalvos kortą)}
+0{revolt}[r&#618;'v&#601;ult]S{&rArr;}E{n}I{1}sukilimas, maištas;F{in revolt}sukilęs, maištaujantis; apimtas sukilimo,l{darL{žr.}}2;F{to rise in revolt}sukiltiI{2}pasibjaurėjimas;F{in revolt}pasibjaurėjęs, pasipiktinęs,l{darL{žr.}}1S{&rArr;}E{v}I{1}sukilti, maištautil{(against)}I{2}piktinti, (su)kelti pasibjaurėjimą;F{we were revolted by their cruelty}jų žiaurumas sukėlė mūsų pasipiktinimąI{3}bjaurėtis, piktintisl{(at, from, against)}
+0{revolted}[r&#618;'v&#601;ult&#618;d]E{a}sukilęs
+0{revolting}[r&#618;'v&#601;ult&#618;&#331;]E{a}I{1}(pa)piktinantis, (su)keliantis pasipiktinimąI{2}atstumiantis; bjaurus;F{to smell revolting}turėti labai blogą kvapą, dvokti
+0{revolution^{1}}[,rev&#601;'lu:&#643;n]E{n}I{1}revoliucija;F{impending revolution}artėjanti revoliucija;F{revolution in modern physics}dabartinės fizikos revoliucijaI{2}perversmas;F{palace revolution}rūmų perversmas
+0{revolution^{2}}E{n}I{1}sukimasis;F{the Earth’s revolution round the Sun}Žemės sukimasis apie SaulęI{2}L{tech.}l{(mašinosL{ir pan.})}pilnas apsisukimas; sūkis;F{revolution control}sukimosi dažnio reguliavimas;F{revolution counter}apsisukimų skaitiklisI{3}periodiškas kartojimasis;F{the revolution of the seasons}metų laikų kaita
+0{revolutionary^{1}}[,rev&#601;'lu:&#643;&#601;nX{&#601;}r&#618;]S{&rArr;}E{n}revoliucionieriusS{&rArr;}E{a}revoliucinis; revoliucingas;F{revolutionary discoveries}atradimai, sukeliantys perversmą moksle
+0{revolutionary^{2}}E{a}sukamasis
+0{revolutionise}[,rev&#601;'lu:&#643;&#601;na&#618;z]E{v}revoliucionizuoti, pakeisti iš pamatų, iš pagrindų pakeisti, iš pagrindų keisti, padaryti perversmą
+0{revolutionism}[,rev&#601;'lu:&#643;n&#618;zm]E{n}revoliucingumas
+0{revolutionist}[,rev&#601;'lu:&#643;n&#618;st]E{n}revoliucionierius
+0{revolutionize}[,rev&#601;'lu:&#643;&#601;na&#618;z]E{n}revoliucionizuoti, revoliucinti; iš pagrindų (pa)keisti
+0{revolve}[r&#618;'v&#596;lv]E{v}I{1}sukti(s);F{the Earth revolves around the Sun}Žemė sukasi apie SaulęI{2}periodiškai grįžti/kartotisI{3}L{prk.}suktisl{(galvojeL{ir pan.}; around)}; (ap)svarstyti, (ap)galvotil{(L{t. p.}X{revolve in the mind})}
+0{revolver}[r&#618;'v&#596;lv&#601;]E{n}I{1}revolverisI{2}L{tech.}būgnas
+0{revolving}[r&#618;'v&#596;lv&#618;&#331;]E{a}I{1}apsisukantis; (pa)sukamasisI{2}L{fin.}atnaujinamasis; apyvartinisl{(apie kapitalą)};F{revolving credit}atnaujinamasis/kartojamasis kreditas
+0{revue}[r&#618;'vju:]L{pr.}E{n}L{teatr.}reviu, apžvalga;F{a students’ revue}studentų humoro pobūvis/vakaras
+0{revulsion}[r&#618;'v&#652;l&#643;n]E{n}I{1}l{(jausmų, nuomonės)}staigus pasikeitimas;F{to undergo a revulsion}smarkiai/ryškiai pasikeistiI{2}pasibjaurėjimas;F{to feel revulsion}l{(at)}pasibjaurėtil{(kuo)}I{3}L{med.}atitraukimas
+0{revulsive}[r&#618;'v&#652;ls&#618;v]L{med.}S{&rArr;}E{a}atitraukiantis, atitraukiamasisS{&rArr;}E{n}atitraukiančioji/slūgdančioji priemonė
+0{reward}[r&#618;'w&#596;:d]S{&rArr;}E{n}I{1}atpildas; apdovanojimasI{2}atlygis, atlyginimasl{(už pagalbą policijaiL{ir pan.})};F{in reward}l{(for)}atsilyginantl{(už)}S{&rArr;}E{v}I{1}atlyginti, atmokėti; apdovanotiI{2}būti vertaml{(dėmesioL{ir pan.})}
+0{rewarding}[r&#618;'w&#596;:d&#618;&#331;]E{a}teikiantis pasitenkinimą; praturtinantisl{(apie patirtįL{ir pan.})};F{rewarding book}knyga, kurią verta perskaityti, vertinga knyga;F{financially rewarding}pelningas
+0{rewind}[,ri:'wa&#618;nd]E{v}(rewound) atsukti atgal, atsisukti atgall{(apie magnetinę juostelę)}
+0{rewire}[,ri:'wa&#618;&#601;]E{n}pakeisti elektros instaliaciją; nutiesti naujus elektros laidus
+0{reword}[,ri:'w&#601;:d]E{v}I{1}išreikšti kitais žodžiais; keisti formuluotęI{2}pakartotil{(tuos pačius žodžius)}
+0{rework}[,ri:'w&#601;:k]E{v}perdirbti, pertaisyti, atnaujinti
+0{reworking}[,ri:'w&#601;:k&#618;&#331;]E{n}L{muz.},L{lit.}nauja versijal{(of – ko)}
+0{rewound}[,ri:waund]E{past}l{ir}E{pII}A{L{žr.}R{rewind}}
+0{rewrite}S{&rArr;}E{n}['ri:ra&#618;t]I{1}perrašymasI{2}L{amer.}perrašytas tekstasS{&rArr;}E{v}[,ri:'ra&#618;t](rewrote[,ri:'r&#601;ut]; rewritten[,ri:'r&#618;tn])I{1}perrašytiI{2}perdirbti
+0{rewriter}[,ri:'ra&#618;t&#601;]E{n}L{amer.}redaktorius
+0{Rex}[reks]E{n}L{knyg.}karalius;F{Rex v Smith}L{teis.}karaliusl{(valstybė kaip viena iš bylos šalių)}prieš Smitą
+0{Reykjavik}['re&#618;kj&#601;vi:k]E{n}Reikjavikasl{(Islandijos sostinė)}
+0{Reynard}['ren&#601;d, 'rena:d]E{n}lapės pravardžiavimasl{(pasakose)}
+0{Rf}L{sutr.}X{rutherfordium}L{chem.}raderfordis, rezerfordas, kurčiatovis
+0{r.f.}L{sutr.}X{radio frequency}radijo dažnis
+0{RFD}L{sutr.}X{rural free delivery}l{(JAV)}nemokamas korespondencijos pristatymas kaime
+0{RGS}L{sutr.}X{Royal Geographical Society}l{(D. Britanijos)}Karališkoji geografų draugija
+0{R.H.}L{sutr.}X{Royal Highness}karališkoji didenybė
+0{Rh}L{sutr.}X{rhesus (factor)}L{med.}rezus faktoriusX{rhodium}L{chem.}rodis
+0{r.h.}L{sutr.}X{right hand}dešinysis
+0{rhapsode}['r&aelig;ps&#601;ud]E{n}L{gr.}L{ist.}rapsodas
+0{rhapsodic(al)}[r&aelig;p's&#596;d&#618;k(l)]E{a}I{1}rapsodijos, rapsodiškasI{2}egzaltuotas; iškilmingas, pompastiškas
+0{rhapsodize}['r&aelig;ps&#601;da&#618;z]E{v}I{1}kalbėti/rašyti pompastiškail{(about, on)}I{2}kurti/dainuoti rapsodijas
+0{rhapsody}['r&aelig;ps&#601;d&#618;]E{n}I{1}iškilminga/pompastiška kalba, garbinimas; ekstazėI{2}L{muz.}rapsodijaI{3}L{lit.}rapsodas
+0{r.h.b.}L{sutr.}X{right halfback}L{sport.}dešinysis saugas
+0{rhea}[r&#618;&#601;]E{n}L{zool.}nandùl{(Pietų Amerikos strutis)}
+0{rheme}[ri:m]E{n}L{kalb.}rema
+0{Rhenish}['ren&#618;&#643;]L{psn.}S{&rArr;}E{a}ReinoS{&rArr;}E{n}reinvynis
+0{rhenium}['ri:n&#618;&#601;m]E{n}L{chem.}renis
+0{rheostat}['ri:&#601;st&aelig;t]E{n}L{el.}reostatas;F{slide rheostat}slankvaržė
+0{rhesus}['ri:s&#601;s]E{n}I{1}L{zool.}rezus, bengališkoji makakal{(L{t. p.}X{rhesus monkey})}I{2:}X{rhesus factor}L{biol.}rezus faktorius
+0{rhetoric}['ret&#601;r&#618;k]E{n}retorikal{(L{t. p.}L{prk.})};F{empty rhetoric}tušti žodžiai
+0{rhetorical}[r&#618;'t&#596;r&#618;kl]E{a}I{1}retorinis; retoriškas;F{rhetorical question}retorinis klausimasI{2}pompastiškas, išpūstasl{(apie stiliųL{ir pan.})}
+0{rhetorician}[,ret&#601;'r&#618;&#643;n]E{n}I{1}retorikas, oratorius; gražbylysI{2}L{ist.}retorius
+0{rheum}[ru:m]L{psn.}E{n}I{1}traiškanos;l{(burnos)}gleivės, snarglysI{2}sloga, slanktas; kataras
+0{rheumatic}[ru:'m&aelig;t&#618;k]S{&rArr;}E{a}I{1}L{med.}reumatinis; reumatiškas;F{rheumatic fever}sąnarių reumatizmas/reumatasI{2}sergantis reumatuS{&rArr;}E{n}reumatikas
+0{rheumaticky}[ru:'m&aelig;t&#618;k&#618;]E{a}L{šnek.}reumatiškas
+0{rheumatics}[ru:'m&aelig;t&#618;ks]E{n}L{šnek.}sausgėla, reumatas
+0{rheumatism}['ru:m&#601;t&#618;zm]E{n}L{med.}reumatas
+0{rheumatoid}['ru:m&#601;t&#596;&#618;d]E{a}L{med.}reumatoidinis, reumatiškas;F{rheumatoid arthritis}reumatoidinis artritas
+0{rheumatology}[,ru:m&#601;'t&#596;l&#601;d&#658;&#618;]E{n}reumatologija
+0{rheumy}['ru:m&#618;]E{a}L{knyg.}traiškanotas
+0{Rhine}[ra&#618;n]E{n}Reinasl{(upė)}
+0{rhinestone}['ra&#618;nst&#601;un]E{n}netikras briliantas
+0{rhinitis}[ra&#618;'na&#618;t&#618;s]E{n}L{med.}rinitas, nosies gleivinės uždegimas
+0{rhino}['ra&#618;n&#601;u]E{n}(E{pl}rhinos[-z])L{sutr.}L{šnek.}A{=R{rhinoceros}}
+0{rhinoceros}[ra&#618;'n&#596;sX{&#601;}r&#601;s]E{n}L{zool.}raganosis;F{rhinoceros beetle}raganosisl{(vabalas)}
+0{rhinoplasty}['ra&#618;n&#601;u,pl&aelig;st&#618;]E{n}L{med.}rinoplastika, nosies plastika
+0{rhizome}['ra&#618;z&#601;um]E{n}L{bot.}šakniastiebis
+0{rhizopod}['ra&#618;z&#601;p&#596;d]E{n}L{zool.}šakniakojis
+0{Rhode}[r&#601;ud]E{n}:X{Rhode Island}Rod Ailandasl{(JAV valstija)};F{Rhode Island red}rodailendasl{(vištų veislė)}
+0{Rhodes}[r&#601;udz]E{n}Rodasl{(Graikijos sala)}
+0{Rhodesia}[r&#601;u'di:&#658;&#601;]E{n}L{ist.}Rodezijal{(šalis)}
+0{rhodium}['r&#601;ud&#618;&#601;m]E{n}L{chem.}rodis
+0{rhododendron}[,r&#601;ud&#601;'dendr&#601;n]E{n}L{bot.}rododendras
+0{rhodonite}['r&#601;ud&#601;na&#618;t]E{n}L{min.}rodonitas
+0{rhomb}[r&#596;m]E{n}L{geom.}rombas
+0{rhombi}['r&#596;mba&#618;]E{pl}A{L{žr.}R{rhombus}}
+0{rhombic}['r&#596;mb&#618;k]E{a}L{geom.}rombinis, rombo
+0{rhomboid}['r&#596;mb&#596;&#618;d]L{geom.}S{&rArr;}E{n}romboidas, lygiagretainisS{&rArr;}E{a}romboidinis, romboidiškas; rombiškas
+0{rhombus}['r&#596;mb&#601;s]E{n}(E{pl}rhombuses, -bi)L{geom.}rombas
+0{rhotacism}['r&#601;ut&#601;s&#618;zm]E{n}L{kalb.}rotacizmas
+0{RHS}L{sutr.}X{Royal Historical Society}l{(D. Britanijos)}Karališkoji istorikų draugijaX{Royal Horticultural Society}l{(D. Britanijos)}Karališkoji sodininkystės draugija
+0{rhubarb}['ru:ba:b]E{n}I{1}L{bot.}rabarbaras I{2}L{teatr.}aktorių tariamas žodis minios klegesiui pavaizduotiI{3}L{amer.}L{šnek.}vaidai, kivirčas
+0{rhumb}[r&#652;m]E{n}L{jūr.}rumbas
+0{rhyme}[ra&#618;m]S{&rArr;}E{n}L{lit.}I{1}rimas;F{double/female/feminine rhyme}moteriškas(is) rimas;F{single/male/masculine rhyme}vyriškas(is) rimas;F{rhyme royal}septynių eilučių strofal{(rimavimo schema ababbcc)}I{2}rimavimasI{3}rimuotas eilėraštisS{&loz;}X{without rhyme or reason}be jokios prasmės; nei iš šio, nei iš to;F{neither rhyme nor reason}jokio ryšio, jokios prasmėsS{&rArr;}E{v}I{1}rimuoti(s)l{(with, to)}I{2}eiliuoti, rašyti rimuotus eilėraščius
+0{rhymed}[ra&#618;md]E{a}rimuotas
+0{rhymer, rhymester}['ra&#618;m&#601;, 'ra&#618;mst&#601;]E{n}L{menk.}eiliakalys, eiliadirbys
+0{rhythm}['r&#618;X{&#601;}m]E{n}I{1}ritmas;F{rhythm of dancing [of the heart]šokio [širdies] ritmasI{2}ritmingumas, ritmiškumas; periodiškumas;F{rhythm of the seasons}metų laikų kaita
+0{rhythmic(al)}['r&#618;m&#618;k(l)]E{a}I{1}ritminis; ritmingas, ritmiškasI{2}ciklinis, cikliškas, periodinis
+0{rhythmically}['r&#618;m&#618;kX{&#601;}ll&#618;]E{adv}ritmiškai
+0{rhythmicity}[r&#618;'m&#618;s&#601;t&#618;]E{n}biologiniai ritmai, bioritmai
+0{rhythmic(s)}['r&#618;m&#618;k(s)]E{n}ritmikal{(mokslas)}
+0{RI}L{sutr.}X{religious instruction}tikybal{(mokomasis dalykas)}X{Rhode Island}Rod Ailandasl{(JAV valstija)}
+0{rial}[r&#618;'a:l, 'ri:a:l]E{n}rialasl{(kai kurių arabų šalių piniginis vienetas)}
+0{rib}[r&#618;b]S{&rArr;}E{n}I{1}L{anat.}šonkaulis;F{short rib}netikrasis/laisvasis šonkaulis;F{to dig/poke smb in the ribs}bakstelėti kam į pašonęI{2}L{kul.}šoninė, krūtininėl{(mėsa)}I{3}briauna; kraštelis;F{reinforcing/stiffening rib}L{tech.}standumo briaunaI{4}stulpelis, rumbelisl{(mezgant)}I{5}l{(skėčio)}virbasI{6}l{(paukščio plunksnos)}spaiglysI{7}L{bot.}l{(lapo)}gyslelėI{8}L{jūr.}špantasI{9}L{archit.},L{av.}nerviūraS{&loz;}X{to stick to one’s ribs}L{šnek.}būti maistingaml{(apie maistą)}S{&rArr;}E{v}I{1}L{šnek.}erzinti, išjuokti, juoktisl{(iš)}I{2}L{spec.}tvirtinti, stiprinti
+0{RIBA}L{sutr.}X{Royal Institute of British Architects}Britanijos architektų institutas
+0{ribald}['r&#618;bX{&#601;}ld]S{&rArr;}E{n}blevyzga, nepraustaburnis; storžievisS{&rArr;}E{a}nepraustaburniškas, nešvankus; grubus, šiurkštus, storžieviškas
+0{ribaldry}['r&#618;bX{&#601;}ldr&#618;]E{n}blevyzgojimas, nešvankios kalbos; nepadorus elgesys
+0{riband}['r&#618;b&#601;nd]A{=R{ribbon}}E{n}
+0{ribband}['r&#618;b&#601;nd]E{n}L{jūr.}triumo lenta, ribanda
+0{ribbed}[r&#618;bd]E{a}I{1}briaunotas; rantytasI{2}rumbuotas, rumbėtas
+0{ribbing}['r&#618;b&#618;&#331;]E{n}I{1}L{kuop.}šonkauliaiI{2}stulpeliail{(mezgimo būdas)}I{3}pajuokavimas, paerzinimasI{4}L{archit.},L{stat.}nerviūros
+0{ribbon}['r&#618;b&#601;n]S{&rArr;}E{n}I{1}kaspinas; juosta;F{typewriter ribbon}rašomosios mašinėlės juostelėI{2}E{pl}skutai;F{torn to ribbons}suplėšytas į skutus;F{ribbons of mist}rūko kuokštaiI{3}E{pl}L{šnek.}vadžios, vadelės;F{to handle/take the ribbons}laikyti/paimti vadelesI{4}ordino kaspinas; pasižymėjimo ženklas;F{blue ribbon}X{a)}Keliaraiščio ordino kaspinas;X{b)}L{amer.}apdovanojimas; pagrindinis prizas;X{c)}blaivininko ženklelis;F{red ribbon}Pirties ordino kaspinasS{&rArr;}E{v}I{1}puošti kaspinaisI{2}plėšyti į skutus
+0{riboflavin}[,ra&#618;b&#601;u'fle&#618;v&#618;n]E{n}riboflavinasl{(vitaminas B2)}
+0{ribonucleic}[,ra&#618;b&#601;nju:'kli:&#618;k]E{a}:X{ribonucleic acid}ribonukleino rūgštis
+0{rib-tickling}[,r&#618;b,t&#618;kl&#618;&#331;]E{a}L{šnek.}juokingas
+0{rice}[ra&#618;s]S{&rArr;}E{n}I{1}L{bot.}ryžisI{2}L{kuop.}ryžiaiS{&rArr;}E{v}(su)grūstil{(virtas bulves)}
+0{ricefield}['ra&#618;sfi:ld]E{n}ryžių plantacija
+0{rice-milk}['ra&#618;sm&#618;lk]E{n}ryžių košė
+0{rice-paper}['ra&#618;s,pe&#618;p&#601;]E{n}I{1}ryžinis popieriusI{2}L{kul.}ryžių paplotėlis
+0{ricer}['ra&#618;s&#601;]E{n}L{amer.}l{(bulvių)}grūstuvas
+0{rice-water}['ra&#618;s,w&#596;:t&#601;]E{n}ryžių nuoviras
+0{rice-weevil}['ra&#618;s,wi:vX{&#618;}l]E{n}L{zool.}ryžinis straubliukas
+0{rich}[r&#618;t&#643;]S{&rArr;}E{a}I{1}turtingas;F{to grow/get rich}(pra)turtėtiI{2}gausus;F{rich harvest}gausus derlius;F{citrus fruit are rich in vitamin C}citrusai turi daug vitamino CI{3}prabangus, puikus;F{rich wine}rinktinis vynasI{4}riebus;F{rich milk}riebus pienas;F{rich dish}maistingas valgisI{5}derlingas, trąšusl{(apie dirvą)}I{6}aštrus, stiprusl{(apie skonį, kvapą)}I{7}sodrusl{(apie spalvas, toną, kalbą)}; tirštasl{(apie dažus)}I{8}sultingasl{(apie vaisius)}I{9}įdomus, juokingasl{(apie įvykį, mintį)}; vertingasl{(apie pasiūlymąL{ir pan.})};F{that’s rich}(tai) įdomu/juokingaS{&loz;}X{that’s rich coming from him [her,}etc.]l{(L{džn.}L{iron.})}keista girdėti iš jo [josL{ir pan.}];F{to strike it rich}S{&cong;}atrasti aukso gyslą, staiga praturtėtiS{&rArr;}E{n}X{(the rich)}L{kuop.}turtuoliai, turtingieji
+0{Richard}['r&#618;t&#643;&#601;d]E{n}Ričardasl{(vardas)};F{Richard the Lionheart}Ričardas Liūtaširdis
+0{riches}['r&#618;t&#643;&#618;z]E{n}E{pl}turtai, lobiai; turtas
+0{richly}['r&#618;t&#643;l&#618;]E{adv}I{1}turtingai, prabangiaiI{2}visai, visiškaiI{3}sodriail{(nuspalvintas)}I{4}gausiai
+0{Richmond}['r&#618;t&#643;m&#601;nd]E{n}Ričmondas
+0{richness}['r&#618;t&#643;n&#618;s]E{n}I{1}turtingumas; prabangumasI{2}gausumasI{3}l{(spalvųL{ir pan.})}sodrumas, gyvumasI{4}l{(maisto)}riebumasI{5}l{(vaisiaus)}sultingumasI{6}trąšumas, derlingumas
+0{Richter}['r&#618;kt&#601;]E{n}:X{Richter scale}Richterio skalėl{(žemės drebėjimo intensyvumui vertinti)}
+0{rick^{1}}[r&#618;k]S{&rArr;}E{n}kūgis, stirta S{&rArr;}E{v}krauti į kūgį/stirtą
+0{rick^{2}}E{v}l{(lengvai)}patempti, iš(si)narinti
+0{rickets}['r&#618;k&#618;ts]E{n}L{med.}rachitas
+0{rickettsia}[r&#618;'kets&#618;&#601;]E{n}L{biol.}riketsijal{(mikrobų gentis)}
+0{rickety}['r&#618;k&#618;t&#618;]E{a}I{1}iškleręs, išklibęsl{(apie baldus, vežimą)}I{2}pašlijęs; sukežęs, silpnasI{3}rachitinis, rachitiškas
+0{rickrack}['r&#618;kr&aelig;k]E{n}banguotas apvadasl{(drabužio apdailai)}
+0{ricksha(w)}['r&#618;k&#643;&#596;:]E{n}rikša
+0{ricky-tick}[,r&#618;k&#618;'t&#618;k]E{a}L{amer.}L{šnek.}išėjęs iš mados, nemadingas
+0{ricochet}['r&#618;k&#601;&#643;e&#618;]L{pr.}S{&rArr;}E{n}rikošetas;F{in a ricochet}rikošetuS{&rArr;}E{v}rikošetuoti, atšokti/atsimušti rikošetu
+0{ricrac}['r&#618;kr&aelig;k]E{n}A{=R{rickrack}}
+0{rictus}['r&#618;kt&#601;s]E{n}išsišiepimas; grimasa
+0{rid}[r&#618;d]E{v}(rid, ridded) (iš)vaduoti, (iš)gelbėtil{(of – nuo)};E{refl}atsikratytil{(of – ko)};F{to be rid}l{(of)}būti atsikračiusiaml{(ko)};F{to get rid}l{(of)}atsikratyti, nusikratyti; išsivaduoti, ištrūkti
+0{ridable}['ra&#618;d&#601;bl]E{a}jojamas(is)
+0{riddance}['r&#618;dX{&#601;}ns]E{n}nusikratymas, atsikratymas; pašalinimas;F{to make a good riddance}laimingail{(kuo)}nusikratytiS{&loz;}X{good riddance (to bad rubbish)!}L{šnek.}juo geriau, kad nusikratėme!; laimingos kelionės!L{iron.}
+0{ridden}['r&#618;dn]E{pII}A{L{žr.}R{ride}}E{v}
+0{-ridden}[-,r&#618;dn]l{(L{sudurt.}žodžiuose)}l{(ko)}apimtas, pagautas;l{(ko)}valioje;F{fear-ridden}baimės apimtas/pagautas;F{science-ridden}atsidavęs/pasiskyręs mokslui
+0{riddle^{1}}['r&#618;dl]S{&rArr;}E{n}mįslėl{(L{t. p.}L{prk.})};F{fo ask a riddle}užminti mįslę;F{the riddle of the Sphinx}sfinkso mįslėS{&rArr;}E{v}I{1}kalbėti mįslėmis/mįslingaiI{2}spėti, mintil{(mįslę)}
+0{riddle^{2}}S{&rArr;}E{n}kretilas, rėtisS{&rArr;}E{v}I{1}sijoti per kretilą, kretiluotiI{2}(pa)daryti panašų į rėtį, suskylėti, išvarpytil{(kulkomis; with)}I{3}E{pass}būtil{(ko)}apimtam/kankinamam; būtil{(ko)}gausiai, knibždėte knibždėtil{(with)}
+0{ride}[ra&#618;d]S{&rArr;}E{n}I{1}pasijodinėjimas; pasivažinėjimas;F{to go for a ride}pasijodinėti, pasivažinėti;F{to take smb for a ride, to give smb a ride}X{a)}pavežti, pavažinėti, pajodinėti ką;X{b)}L{šnek.}(ap)mulkinti, apsukti;X{c)}L{amer.}L{šnek.}užmušti, pribaigti kąI{2}išvyka, kelionė;F{a train ride from Klaipėda}kelionė traukiniu iš KlaipėdosI{3}kelias, alėjal{(ypač jojimui)}I{4}L{prk.}kelias;F{he’ll have a difficult ride to the Presidency}jo kelias į prezidentus bus sunkusS{&loz;}X{to be in for a bumpy/rough ride}L{šnek.}prisidaryti daug bėdųS{&rArr;}E{v}(rode, ridden)I{1}joti; jodinėti; jodinti; sėdėti apsižergus; F{to ride full speed}joti šuoliais;F{to ride a ford}perjoti per brastą;F{to ride a race}dalyvauti arklių lenktynėse;F{to ride a horse to death}nujodyti/nuvaryti arklįI{2}važiuotil{(autobusu, dviračiu, traukiniu, laivuL{ir pan.})};F{to ride a bicycle to school}važiuoti dviračiu į mokykląI{3}patraukti, pasileisti; nukreipti, pasuktil{(at – į)}I{4}plaukti; slystil{(bangomis)};F{to ride the current}plaukti pasroviuiI{5}stovėti išmetus inkarąl{(apie laivą)}I{6}būti tinkamam jotil{(apie gruntą)}I{7}apimti, užvaldytil{(apie jausmus)}I{8}E{pass}graužti, kamuotiI{9}svertil{(apie žokėjų)}I{10}L{šnek.}juoktisl{(iš ko)}, erzintiI{11}L{šnek.}nesikišti, palikti savieigai;F{let it ride}S{&cong;}tegu sau, tiek to, tuščia jol{(nereaguojant į nemalonią pastabąL{ir pan.})}I{12}priklausytil{(on – nuo)}S{o}1{ride about/around}važinėti;1{ride away}nujoti;1{ride down}X{a)}pavyti jojant;X{b)}parmušti, sujodinėti;X{c)}l{(ypačL{amer.})}nusileistil{(liftu)};1{ride out}X{a)}išlauktil{(nuleidus inkarą)}; laimingai išlaikytil{(audrą; apie laivą)}; X{b)}įveiktil{(krizę)}; išsigauti, išsikrapštytil{(iš bėdų)};1{ride up}lipti, užsismauktil{(aukštyn; apie drabužį)}S{&loz;}X{to ride high}X{a)}džiūgauti, šokinėtil{(dėl pasisekimo, pergalės)}; turėti pasisekimą;X{b)}L{knyg.}būti aukštai dangujel{(apie mėnulį)};F{to ride the whirlwind/storm}įveiktil{(pasipriešinimąL{ir pan.})}
+0{ride-off}['ra&#618;d&#596;f]E{n}kliūtis, užtvaral{(jojimo varžybose)}
+0{rider}['ra&#618;d&#601;]E{n}I{1}jojėjas, jojikas; raitelis, raitininkasI{2}važiuotojasl{(dviračiuL{ir pan.})}, dviratininkas, motociklininkasI{3}papildomas punktas, papildymas;l{(dokumento)}priedas, pataisaI{4}išvada;L{teis.}atskira nuomonėI{5}L{mat.}papildomas uždavinys mokinio žinioms patikrinti; papildoma teorema, padedanti įrodyti pirmąjąI{6}E{pl}L{jūr.}ridersai
+0{riderless}['ra&#618;d&#601;l&#601;s]E{a}be raiteliol{(apie arklį, netekusį raitelio)}
+0{ridge}[r&#618;d&#658;]S{&rArr;}E{n}I{1}l{(gyvulio, kalno, vagosL{ir pan.})}ketera, gūbrys; kalvagūbris, kalno viršūnė; kalnų virtinė; takoskyraI{2}l{(stogo)}kraigas, šelmuoI{3}povandeninė uolaI{4}kraštas, briauna; rumbas, rumbelisI{5}l{(odos)}raukšlėI{6}L{meteor.}:X{ridge of high pressure}aukšto slėgio ruožasS{&rArr;}E{v}I{1}(su)raukšlėti; raukšlėtis, šiauštisl{(apie jūrą)}I{2}L{ž. ū.}vagoti
+0{ridged}[r&#618;d&#658;d]E{a}I{1}keterotas, gūbriuotas; (iš)vagotasI{2}kraiginis, kraigo;F{ridged tile}kraiginė čerpė
+0{ridger}['r&#618;d&#658;&#601;]E{n}L{ž. ū.}vagotuvas
+0{ridgy}['r&#618;d&#658;&#618;]E{a}A{=R{ridged}}
+0{ridicule}['r&#618;d&#618;kju:l]S{&rArr;}E{n}I{1}išjuokimas, pajuokimas; pajuoka;F{to hold up to ridicule}laikyti pajuokos objektuI{2}juokingumasS{&rArr;}E{v}išjuokti, pajuokti, apjuokti
+0{ridiculous}[r&#618;'d&#618;kjul&#601;s]E{a}juokingas; absurdiškas, kvailas
+0{ridiculously}[r&#618;'d&#618;kjul&#601;sl&#618;]E{adv}juokingai, kvailai, absurdiškai
+0{ridiculousness}[r&#618;'d&#618;kjul&#601;sn&#618;s]E{n}absurdiškumas, kvailumas
+0{riding^{1}}['ra&#618;d&#618;&#331;]S{&rArr;}E{n}jojimas; jodinėjimasS{&rArr;}E{a}jojamas(is);F{riding horse}jojamasis arklys;F{riding hall}jodykla, maniežas;F{riding crop}jojiko šmaikštis/vytinis
+0{riding^{2}}E{n}raidingasl{(Jorkšyro grafystės administracinis vienetas iki 1974 m.)}
+0{riding-breeches}['ra&#618;d&#618;&#331;,bri:t&#643;&#618;z]E{n}E{pl}pūstinės kelnėsl{(jojimui)}
+0{riding-habit}['ra&#618;d&#618;&#331;,h&aelig;b&#618;t]E{n}amazonėl{(moteriškas jojamasis drabužis)}
+0{riding-light}['ra&#618;d&#618;&#331;la&#618;t]E{n}L{jūr.}inkaro šviesa
+0{riding-master}['ra&#618;d&#618;&#331;,ma:st&#601;]E{n}jojimo mokytojas
+0{riding-school}['ra&#618;d&#618;&#331;sku:l]E{n}jojimo mokykla
+0{Riesling}['r&#618;:sl&#618;&#331;]E{n}rislingasl{(vynas)}
+0{rif}[r&#618;f]L{amer.}L{šnek.}S{&rArr;}E{n}I{1}atleidimasl{(iš darbo)}I{2}nukrypimasl{(nuo temos)}l{S{&rArr;}}E{v}atleistil{(iš darbo)}
+0{rife}[ra&#618;f]E{a}E{predic}I{1}įprastas, įprastinis; paplitęs;F{to be [grow/wax] rife}būti [tapti] įprastiniam;F{to run rife}greit plistil{(apie ligąL{ir pan.})}I{2}gausus, pilnas;F{his language is rife with maxims}jo kalba pilna sentencijų
+0{riff}[r&#618;f]E{n}l{(džiazoL{ir pan.})}ritminė figūra
+0{riffle}['r&#618;fl]S{&rArr;}E{n}L{amer.}I{1}l{(upės)}slenkstisI{2}vilnelės, bangelėsI{3}L{tech.}griovelis, vagelėS{&rArr;}E{v}perverstil{(knygos lapus, popieriusL{ir pan.};L{t. p.}X{riffle through})}
+0{riffraff}['r&#618;fr&aelig;f]S{&rArr;}E{n}visuomenės padugnės/atmatosS{&rArr;}E{a}L{šnek.}niekam tikęs, prastas
+0{rifle^{1}}['ra&#618;fl]S{&rArr;}E{n}I{1}šautuvas; graižtvinis ginklasI{2}E{pl}L{kar.}šauliai;F{rifle company}šaulių kuopaS{&rArr;}E{v}I{1}šaudytil{(iš šautuvo)}I{2}(į)sriegtil{(ginklo vamzdį)}
+0{rifle^{2}}E{v}I{1}(iš)griozti, (iš)naršytil{(through)}I{2}apiplėšti, apvogti; pagrobti
+0{rifle-green}['ra&#618;flgri:n]E{a}tamsiai žalias
+0{rifleman}['ra&#618;flm&#601;n]E{n}(E{pl}-men[-m&#601;n])L{kar.}šaulys
+0{rifle-range}['ra&#618;flre&#618;nd&#658;]E{n}L{kar.}I{1}šaudyklaI{2}šautuvo šūvio nuotolis
+0{rifle-shot}['ra&#618;fl&#643;&#596;t]E{n}L{kar.}I{1}šautuvo šūvisI{2}A{=R{rifle-range}}2I{3}šaulys
+0{rifling}['ra&#618;fl&#618;&#331;]E{n}l{(šautuvo)}graižtva
+0{rift}[r&#618;ft]S{&rArr;}E{n}I{1}plyšys, proplaiša; įskilimas;F{a rift in the clouds}debesų properšaI{2}L{prk.}l{(santykių)}nutraukimas, atsiskyrimas; nesantaika;F{a rift in the lute}nereikšminga aplinkybė, vedanti į nesutarimus; nesantaikos/ligos pradžiaI{3}tarpeklisI{4}L{amer.}l{(upės)}rėva, slenkstisI{5}L{geol.}skirumasS{&rArr;}E{v}skelti, skaldyti; skilti
+0{rig^{1}}[r&#618;g]S{&rArr;}E{n}I{1}L{jūr.}l{(burlaivio)}įranga, rangautas ir takelažasI{2}L{šnek.}apranga, eilutė, kostiumas, drabužiai; žmogaus išvaizda;F{in full rig}išsipustęs, išsipuošęsI{3}gręžimo bokštasl{(L{t. p.}X{boring rig})}I{4}L{tech.}įrengimai, įranga, įtaisinysI{5}L{amer.}ekipažasI{6}L{amer.}L{šnek.}sunkvežimisS{&rArr;}E{v}l{(L{ppr.}E{pass})}ap(si)rūpinti takelažu ir įranga, įrengtil{(burlaivį, takelažą)}S{o}1{rig out}l{(L{ppr.}E{refl},E{pass})}ap(si)rengti, ap(si)taisyti;1{rig up}(paskubomis) įrengti/suręsti/pastatyti
+0{rig^{2}}S{&rArr;}E{n}I{1}(su)klastojimas, apgaudinėjimas; gudrybėI{2}spekuliacinis prekių supirkimasS{&rArr;}E{v}(su)klastoti; apgaudinėti;F{to rig the market}dirbtinai kelti/mažinti kainas;F{to rig an election}falsifikuoti rinkimų rezultatus
+0{Riga}['ri:g&#601;]E{n}Rygal{(Latvijos sostinė)}
+0{rigamarole}['rig&#601;m&#601;r&#601;ul]E{n}L{amer.}A{=R{rigmarole}}
+0{rigger}['r&#618;g&#601;]E{n}I{1}L{jūr.}takelažininkasI{2}naftos gręžimo platformos darbininkasI{3}L{amer.}lėktuvų surinkėjas
+0{rigging}['r&#618;g&#618;&#331;]E{n}I{1}L{jūr.}takelažas, laivavirvės;F{rigging house/loft}takelažinėI{2}įranga, reikmenys; įrengimas,I{3}L{šnek.}drabužiai, apranga
+0{right^{1}}[ra&#618;t]S{&rArr;}E{n}I{1}teisė;F{right to work}teisė į darbą;F{performing right}X{a)}teisė statytil{(filmą, pjesę)};X{b)}teisė atliktil{(dainąL{ir pan.})};F{right of common}teisė bendrai naudotil{(ypač žemę)};F{rights and duties}teisės ir pareigos;F{as of right}kaip teisėtai priklauso/pridera;F{in one’s own right}teisėtai; kaip būdamasl{(kas)}, nepriklausomail{(nuo kitų)};F{under a right in international law}pagal tarptautinės teisės normas;F{to be within one’s rights}turėti teisęl{(ką daryti)}I{2}teisybė, teisingumas;F{by rights}pagal teisybę;F{by right or wrong}visomis teisybėmis ir neteisybėmis;F{to do smb right}deramai ką įvertinti, elgtis su kuo teisingai;F{you are in the right}tavo/jūsų teisybė;F{he doesn’t know right from wrong}jis neskiria, kas gera ir kas blogaI{3}pagrindas, teisė;F{to have a right to be angry}turėti pagrindo pyktiI{4}l{(L{ppr.}E{pl})}tikroji padėtis, tikrovėI{5}E{pl}tvarka;F{to put/set to rights}padaryti tvarką, sutvarkyti; atkurti normalią būsenąS{&loz;}X{Mr. Right}tinkamiausias jaunikis, žadėtasis;F{Miss Right}tinkamiausia nuotaka, žadėtoji;F{to do right by smb}padaryti kam geraS{&rArr;}E{a}I{1}teisingas; teisus; taisyklingas, tikslus;F{right use of words}taisyklingas žodžių vartojimas;F{to be right}X{a)}būti teisiaml{(about)};X{b)}būti teisingaml{(apie atsakymą)};F{half right}iš dalies teisus;F{you were right to come}jūs gerai padarėte, kad atėjote;F{what’s the right time?}kiek tiksliai dabar laiko?;F{so you’re a student, is that right?}tai tu studentas, tiesa?;F{that’s right!; right you are!}tu/jūs teisus!I{2}kaip tik tas, kuris reikalingas; tinkamas, savo vietoje;F{the right size}l{(avalynėsL{ir pan.})}reikiamas numeris;F{the right man in the right place}žmogus savo vietoje, tinkamas tam reikalui;F{when the time is right}kai bus tinkamas laikasI{3}tiesus; statusl{(apie kampą)};F{right line}tiesėI{4}sveikas; tvarkingas;F{right enough}X{a)}neblogas, patenkinamas;X{b)}kaip ir buvo laukiama;F{to put/set smth right}(pa)taisyti, ištaisyti ką; atitaisyti, pataisytil{(sveikatą)};F{the engine isn’t quite right}variklis nelabai gerai dirba;F{right let’s go!}pasiruošęs? Eikime!;F{not in the right head}L{šnek.}S{&cong;}ne visi namie, galvoj pasimaišę;F{are you right now?}ar jums dabar gerai/patogu?I{5}L{šnek.}tikras;F{a right idiot}tikras idiotas/kvailysI{6}L{šnek.}pasiruošęs;S{&loz;}X{all right}=X{all-right;}F{right you are!, right oh!}L{šnek.}X{a)}gerai!, sutinku;X{b)}tikrai!, tavo/jūsų tiesa!;F{to set/put oneself right with smb}X{a)}įsigyti kieno palankumą;X{b)}susitaikyti su kuoS{&rArr;}E{adv}I{1}teisingai;F{to get it right}suprasti teisingai;F{to get/do a sum right}gerai išspręsti uždavinįI{2}tinkamai, reikiamai, prideramaiI{3}tiesiai, tiesiog;F{go right ahead}eik(ite) tiesiai į priekįI{4}kaip tik, tiksliai;F{right in the middle}kaip tik viduryje, pačiame viduryje;F{right here}X{a)}kaip tik čia;X{b)}šiuo momentu;F{right now}šiuo momentu; šią akimirkąI{5}pilnutinai, visiškai;F{right to the end}ligi pat galoI{6}L{šnek.}tuojau (pat), tučtuojaul{(L{t. p.}X{right away/off})};F{I’ll be right back}aš tuoj grįšiuI{7}didžiail{(tituluose)};F{the Right Honourable}didžiai gerbiamasl{(apie perąL{ir pan.})}I{8}L{psn.},L{šiaur.}labai;F{I know right well}aš labai gerai žinauS{&loz;}X{right on!}L{amer.}L{šnek.}puiku!, tinka!;F{come right in}L{amer.}įeikiteS{&rArr;}E{v}I{1}ištaisyti, atitaisyti;F{to right a wrong}atitaisyti (padarytą) skriaudąI{2}iš(si)tiesinti; pasitaisyti, reabilituotisl{(L{t. p.}E{refl})}I{3}ginti teises;F{to right the oppressed}užstoti engiamuosius
+0{right^{2}}S{&rArr;}E{n}I{1}dešinė; dešinioji pusė/ranka; smūgis dešine ranka;F{one’s right arm [eye]dešinė ranka [akis];F{to the right}dešinėn;F{on the right}dešinėje, iš dešinės;F{a hard right}staigus posūkis į dešinęI{2}X{(the Right)}L{kuop.}L{polit.}dešinieji;F{the hard right}radikalusis/kraštutinis dešiniųjų sparnasS{&rArr;}E{a}I{1}dešinys(is);F{to the right hand}į dešinę, dešinėn;F{on/at the right hand}dešinėje;F{right shoe}dešinės kojos batasI{2}l{(L{džn.}X{Right})}L{polit.}dešinys(is)S{&rArr;}E{adv}į dešinę;F{right and left}iš dešinės ir iš kairės, iš visų pusių; kairėn ir dešinėn, į visas puses;F{right turn/face}L{kar.}dešinėn!S{&loz;}X{right, left and centre,}L{amer.}X{right and left}S{&cong;}į kairę ir į dešinę, į visas pusesl{(švaistyti pinigusL{ir pan.})}
+0{right-about}['ra&#618;t&#601;baut]S{&rArr;}E{a}:X{right-about turn/face}X{a)}posūkis aplinkl{(į dešinę pusę)};X{b)}L{prk.}staigus posūkisS{&rArr;}E{n}:X{to send (to the) right-abouts}X{a)}išvyti, išprašyti;X{b)}L{kar.}priversti pasukti atgall{ar}atsitraukti
+0{right-angle}[ra&#618;t'&aelig;&#331;gX{&#601;}l]E{a}statmenai susikertantis, statusis, stačiakampis
+0{right-angled}['ra&#618;t,&aelig;&#331;gld]E{a}stačiakaX{§}pis; status
+0{right-down}['ra&#618;tdaun]E{a}L{šnek.}tikras, paskutinis; visiškas;F{right-down liar}paskutinis melagis
+0{righteous}['ra&#618;t&#643;&#601;s]S{&rArr;}E{a}I{1}doras, teisingasI{2}teisėtasl{(apie jausmus)};F{righteous indignation}teisėtas pasipiktinimas S{&rArr;}E{n}X{(the righteous)}L{kuop.}dorieji, teisingieji
+0{righteously}['ra&#618;t&#643;&#601;sl&#618;]E{adv}teisėtai, teisingai
+0{righteousness}['ra&#618;t&#643;&#601;sn&#618;s]E{n}teisingumas, teisėtumas
+0{right-foot}['ra&#618;tfut]E{a}dešinės kojos, dešinės pėdos
+0{rightful}['ra&#618;tfX{&#601;}l]E{a}E{attr}teisėtas; teisėtai priklausantis;F{rightful heir}teisėtas įpėdinis
+0{rightfully}['ra&#618;tfX{&#601;}ll&#618;]E{adv}teisingai, teisėtai, deramai
+0{right-hand}['ra&#618;th&aelig;nd]E{a}E{attr}dešinys(is);F{right-hand man}X{a)}kaimynas iš dešinėsl{(rikiuotėje)};X{b)}L{prk.}dešinioji ranka, geras/ištikimas pagalbininkas
+0{right-handed}['ra&#618;t'h&aelig;nd&#618;d]E{a}I{1}dešiniarankisI{2}(skirtas) dešinei rankai; (atliktas) dešine ranka
+0{right-hander}[,ra&#618;t'h&aelig;nd&#601;]E{n}I{1}smūgis dešine rankaI{2}dešiniarankis
+0{right-hemisphere}[ra&#618;t'hem&#618;sf&#618;&#601;]E{a}dešiniojo pusrutulio
+0{rightism}[,ra&#618;t&#618;zm]E{n}L{polit.}dešiniųjų politika/principai
+0{rightist}['ra&#618;t&#618;st]L{polit.}S{&rArr;}E{n}dešinysis, dešiniosios partijos narysS{&rArr;}E{a}dešiniųjų; dešiniosios partijos
+0{rightly}['ra&#618;tl&#618;]E{adv}I{1}teisingai; tiksliaiI{2}teisėtai;F{rightly indignant}teisėtai pasipiktinęs;F{and rightly so}ir ne be pagrindoI{3}reikiamai, deramaiI{4}L{šnek.}tikrai;F{I don’t rightly know}aš tikrai, iš tikrųjų nežinau
+0{right-minded}['ra&#618;t'ma&#618;nd&#618;d]E{a}sveikai galvojantis, sveikų/teisingų pažiūrų
+0{rightmost}['ra&#618;tm&#601;ust]E{a}labiausiai į dešinę
+0{rightness}['ra&#618;tn&#618;s]E{n}dorumas, tikslumas, teisingumas, tinkamumas
+0{righto, right-oh}[,ra&#618;t'&#601;u]E{int}L{šnek.}gerai!, sutinku!
+0{right-of-centre}[,ra&#618;t&#601;v'sent&#601;]E{a}L{polit.}į dešinę nuo centro
+0{right-of-way}[,ra&#618;t&#601;v'we&#618;]E{n}I{1}l{(eismo)}pirmumo teisė;F{right-of-way signal}signalas „užleisti kelią“ I{2}perėjimo/pervažiavimo per svetimą žemę teisėI{3}L{glžk.}nusavinimo ruožas
+0{right-on}[,ra&#618;t'&#596;n]E{a}L{šnek.}puikus; šiuolaikinis; politiškai teisingas
+0{right-size}[,ra&#618;t'sa&#618;z]E{v}l{(ypačL{amer.})}sumažintil{(valdymo aparatą)}iki reikiamo lygio
+0{right-thinking}[,ra&#618;t'&theta;&#618;&#331;k&#618;&#331;]E{a}A{=R{right-minded}}
+0{right-to-left}[ra&#618;ttu:left]E{adv}iš dešinės į kairę
+0{rightward}['ra&#618;tw&#601;d]E{a}esantis dešinėje, pasuktas į dešinę; dešinysis
+0{rightwards}['ra&#618;tw&#601;dz]E{adv}dešinėn
+0{right-wing}[,ra&#618;t'w&#618;&#331;]E{a}L{polit.}dešinysis, dešiniojo sparno
+0{right-winger}[,ra&#618;t'w&#618;&#331;&#601;]E{n}I{1}L{polit.}l{(partijos)}dešiniojo sparno narys, dešinysis; konservatoriusI{2}L{sport.}dešiniojo sparno žaidėjas, dešinysis sparninis
+0{righty-ho}['ra&#618;t&#618;h&#601;u]E{int}L{šnek.}sutinku!, gerai!
+0{rigid}['r&#618;d&#658;&#618;d]E{a}I{1}kietas, standus, nelankstus; tvirtas; nejudamas;F{rigid joint/coupling}L{tech.}standusis sujungimasI{2}griežtas, nepalenkiamas; tikslusI{3}stingus; konservatyvus;F{his mind has become rather rigid}jis tapo gana konservatyvusI{4}sustiręs, pastėręsl{(iš baimės)}S{&loz;}X{to bore smb rigid}įgristi kam iki gyvo kaulo;F{to shake smb rigid}labai ką sukrėsti
+0{rigidity}[r&#618;'d&#658;&#618;d&#601;t&#618;]E{n}I{1}kietumas, standumas; tvirtumas;F{the rigidity of her bearing}jos laikysenos nelankstumasI{2}griežtumas
+0{rigidly}['r&#618;d&#658;&#618;dl&#618;]E{adv}kietai, griežtai
+0{rigidness}['r&#618;d&#658;&#618;dn&#618;s]E{n}kietumas, griežtumas
+0{rigmarole}['r&#618;gm&#601;r&#601;ul]E{n}I{1}raizganos, pinklės, pinklybėI{2}raizgalynė, tauškalai
+0{rigor^{1}}['r&#618;g&#601;, 'ra&#618;g&#596;:]E{n}L{med.}sustingimas;F{rigor mortis}lavono sustingimas
+0{rigor^{2}}['r&#618;g&#601;]E{n}L{amer.}A{=R{rigour}}
+0{rigorism}['r&#618;g&#601;r&#618;zm]E{n}I{1}l{(elgesio)}griežtumas; rigorizmasI{2}didelil{(stiliaus)}reikalavimai
+0{rigorous}['r&#618;gX{&#601;}r&#601;s]E{a}I{1}griežtas, rūstus, negailestingasI{2}tikslus; kruopštus;F{rigorous scientific method}tikslus mokslinis metodasI{3}atšiaurusl{(apie klimatą)}
+0{rigorously}['r&#618;g&#601;r&#601;sl&#618;]E{adv}griežtai
+0{rigorousness}['r&#618;g&#601;r&#601;sn&#618;s]E{n}griežtumas
+0{rigour}['r&#618;g&#601;]E{n}I{1}griežtumas, rūstumas;F{to be punished with the full rigour of the law}būti nubaustam visu įstatymo griežtumuI{2}tikslumas; kruopštumasI{3}l{(klimato)}atšiaurumas; darganaI{4}l{(L{džn.}E{pl})}negandos
+0{rig-out}['r&#618;gaut]E{n}L{šnek.}apranga, kostiumas
+0{rile}[ra&#618;l]E{v}L{šnek.}I{1}(su)pykti, (su)erzinti;F{it riles me that...}mane pykdo/erzina tai, kad...I{2}drumstil{(vandenį)}
+0{Riley}['ra&#618;l&#618;]E{n}:X{to lead the life of Riley}L{šnek.}smagiai/nerūpestingai gyventil{(švaistantis pinigais)}
+0{rill}[r&#618;l]E{n}I{1}L{poet.}upokšnis; versmė, šaltinisI{2}A{=R{rille}}
+0{rille}[r&#618;l]E{n}L{astr.}Mėnulio paviršiaus kanalas
+0{rim}[r&#618;m]S{&rArr;}E{n}I{1}apvadas, apkraštys, kraštasI{2}l{(kepurės, indoL{ir pan.})}lankas; graižtasI{3}l{(akinių)}rėmeliaiI{4}ratlankisl{(L{t. p.}X{wheel rim})}I{5}L{tech.}žiedas; apgauba; antbriaunisI{6}L{jūr.}vandens paviršiusS{&rArr;}E{v}I{1}apvesti apvaduL{ir pan.}I{2}L{knyg.}(ap)supti, (ap)juostil{(apie kalnus, mišką)}I{3}uždėti ratlankįL{ir pan.}; įrėmintiI{4}L{sport.}liesti krepšio lankelįl{(bet neįkristi)}
+0{rime^{1}}[ra&#618;m]L{poet.}S{&rArr;}E{n}šerkšnas, šarmaS{&rArr;}E{v}aptraukti šerkšnu
+0{rime^{2}}L{psn.}A{=R{rhyme}}E{n},E{v}
+0{rimer}['ra&#618;m&#601;]E{n}A{=R{reamer}}
+0{rimless}['r&#618;ml&#601;s]E{a}be rėmų/graižų, be lanko;F{rimless glasses}akiniai be rėmelių, pensnė
+0{-rimmed}l{(L{sudurt.}žodžiuose)}su rėmeliais;F{goldrimmed spectacles}akiniai auksiniais rėmeliais
+0{rimose}['ra&#618;m&#601;us]E{a}plyšiuotas, suskilęs
+0{rimy}['ra&#618;m&#618;]E{a}apšerkšnijęs, apšarmojęs
+0{rind}[ra&#618;nd]S{&rArr;}E{n}I{1}l{(stora)}žievė, žievelėI{2}l{(sūrioL{ir pan.})}pluta, luobaS{&rArr;}E{v}(nu)lupti žievę/žievelę/luobą
+0{rinderpest}['r&#618;nd&#601;pest]E{n}L{vet.}galvijų maras
+0{ring^{1}}[r&#618;&#331;]S{&rArr;}E{n}I{1}l{(L{įv. reikšm.})}žiedas;F{split ring}žiedas raktams;F{she wasn’t wearing a (wedding) ring}ji nenešiojo (vestuvinio) žiedo;F{Saturn’s rings}L{astr.}Saturno žiedai;F{packing/seal ring}L{tech.}sandarinimo žiedas;F{ring lubrication/oiling}L{tech.}žiedinis tepimasI{2}ratas, apskritimas;F{to form a ring}sustoti ratu;F{rings of smoke}dūmų ratiliukai;F{dark rings round one’s eyes}tamsūs ratilai apie akisI{3}l{(akinių)}rėmeliaiI{4}cirko arena;l{(bokso)}ringasI{5}X{(the Ring)}boksas I{6}L{ekon.}ringas, įmonininkų susitarimas kartu kontroliuoti rinkąI{7}klanas, gauja;F{spy ring}šnipų tinklas;F{political ring}politinė klikaI{8}l{(svogūnoL{ir pan.})}griežinysI{9}l{(medžio)}metinė rievėI{10}X{(the Ring)}L{kuop.}bukmekeriaiI{11}L{tech.}flanšas, apkabaI{12}L{archit.}l{(arkos)}archivoltasS{&loz;}X{to run/make rings round smb}L{šnek.}smarkiai aplenkti ką;S{&cong;}nušluostyti kam nosį, suraityti ką;F{to keep/hold the ring}būti neutraliamS{&rArr;}E{v}I{1}apjuosti/apsupti/apvesti ratul{(L{ppr.}X{ring about/round})}I{2}(į)verti grandį į nosįl{(gyvuliui)}I{3}(už)mauti žiedą, žieduotiI{4}užmesti žiedąl{(žaidimuose)}S{&loz;}X{to ring the rounds}aplenkti
+0{ring^{2}}S{&rArr;}E{n}I{1}skambėjimas, skambesys; skambinimas;F{to give several rings at the door}paskambinti keletą kartų prie durųI{2}l{(telefonoL{ir pan.})}skambutis;F{to give smb a ring}paskambinti kam telefonuI{3}panašumasl{(į tiesąL{ir pan.})};F{it has a ring of truth about it}tai skamba patikimai, tai panašu į tiesąS{&rArr;}E{v}(rang; rung)I{1}skambėti;F{telephone rang}suskambėjo telefonas;F{his promises ring hollow}jo pažadai skamba neįtikimaiI{2}skambinti;F{you must ring the hospital at once}jūs turite tuoj pat paskambinti į ligoninę;F{to ring at the door}skambinti prie durų;F{to ring the alarm}skelbti aliarmąI{3}iššaukti/iškviesti skambučiul{(for)};F{to ring for tea}skambinti, kad atneštų arbatosI{4}skardėti, aidėti, skambėti;F{the air rang with shouts}oras skardėjo nuo šauksmųI{5}spengti, ūžtil{(ausyse)}S{o}1{ring down}:X{to ring the curtain down}X{a)}l{(skambučiu)}duoti signalą nuleisti uždangą;X{b)}L{prk.}l{(on)}užbaigtil{(ką)}, padaryti galąl{(kam)};1{ring in}X{a)}(pa)skambinti telefonul{(į darbovietę)};X{b)}pažymėti varpų skambėjimul{(ko pradžią)};F{to ring in the New Year}švęsti Naujuosius metus;X{c)}L{šnek.}įvesti, pristatyti;1{ring off}padėtil{(telefono)}ragelį;1{ring out}X{a)}nuskambėti; nuskambinti;X{b)}palydėti varpų skambesiu;1{ring round}apskambintil{(telefonu)};1{ring up}X{a)}paskambintil{(telefonu)};X{b)}išmušti mokamą sumąl{(kasos aparatu)};X{c):}X{to ring the curtain up}X{a)}l{(skambučiu)}duoti signalą pakelti uždangą;X{b)}L{prk.}pradėtil{(on – ką)}
+0{ring-binder}['r&#618;&#331;ba&#618;nd&#601;]E{n}segtuvas su žiedais
+0{ringbolt}['r&#618;&#331;b&#601;ult]E{n}L{tech.}ąsinis varžtas
+0{ringdove}['r&#618;&#331;d&#652;v]E{n}L{zool.}I{1}keršulis, laukinis karvelisI{2}karvelis purplelis
+0{ringed}[r&#618;&#331;d]E{a}I{1}pažymėtas/apvestas rateliuI{2}žieduotas; su žiedu;L{prk.}susižiedavęsl{(su)}; vedęs; ištekėjusiI{3}žiedinis, žiedo pavidalo
+0{ringer}['r&#618;&#331;&#601;]E{n}I{1}skambintojas; varpininkasI{2}L{šnek.}pirmarūšis daiktas; puikus žmogusI{3}L{šnek.}tiksli kopijal{(L{t. p.}X{dead ringer})};F{he is a ringer for his father}jis – gyvas tėvasI{4}L{amer.}L{šnek.}arklys/sportininkas, neteisėtai dalyvaujantis varžyboseI{5}L{tech.}l{(elektrinis, telefono)}skambutis
+0{ring-fence}['r&#618;&#331;fens]S{&rArr;}E{n}aptvaras, tvoral{(supanti iš visų pusių)}S{&rArr;}E{v}I{1}aptvertiI{2}L{fin.}nuspręstil{(lėšų)}paskirtį
+0{ring-finger}['r&#618;&#331;,f&#618;&#331;g&#601;]E{n}bevardis pirštas
+0{ringing^{1}}['r&#618;&#331;&#618;&#331;]S{&rArr;}E{n}I{1}skambėjimas; skambinimasl{(visais varpais)}I{2}spengimas, spengesysl{(ausyse)}S{&rArr;}E{a}skambus, skardus; skambantis;F{ringing phrases}skambios frazės;F{ringing frost}spiginantis/smarkus šaltis
+0{ringing^{2}}E{n}l{(paukščių)}žiedavimas
+0{ringleader}['r&#618;&#331;,li:d&#601;]E{n}gaujos vadas/vadeiva, pradėjėjas, kurstytojas
+0{ringlet}['r&#618;&#331;l&#601;t]E{n}I{1}garbanaI{2}L{psn.}žiedelis
+0{ringletted, ringlety}['r&#618;&#331;l&#618;t&#618;d, -t&#618;]E{a}garbanotas, (su)raitytas
+0{ringmaster}['r&#618;&#331;,ma:st&#601;]E{n}arenos inspektorius
+0{ring-net}['r&#618;&#331;net]E{n}I{1}žiedinis tinklasI{2}gaubiamasis tinklelisl{(peteliškėms gaudyti)}
+0{ring-pull}['r&#618;&#331;pul]E{n}ištraukimo žiedasl{(skardinei praimti)}
+0{ring-road}['r&#618;&#331;r&#601;ud]E{a}žiedinis keliasl{(aplink miestą)}
+0{ringside}['r&#618;&#331;sa&#618;d]E{n}I{1}pirmosios eilės aplink ringą/arenąL{ir pan.};F{our commentator at the ringside}mūsų komentatorius tiesiogiai iš bokso varžybųI{2}patogi vieta apžvelgtil{(parodąL{ir pan.})};F{ringside view}stebėjimas/reginys iš arti
+0{ring-tailed}['r&#618;&#331;te&#618;ld]E{a}I{1}rainauodegis, su dryžuota uodegaI{2}riestauodegis
+0{ringworm}['r&#618;&#331;w&#601;:m]E{n}L{med.}trichofilijal{(grybelių sukeliama odos liga)}
+0{rink}[r&#618;&#331;k]S{&rArr;}E{n}čiuožyklaS{&rArr;}E{v}čiuožti ratukinėmis pačiūžomis
+0{rinky-dink}L{amer.}L{šnek.}S{&rArr;}E{n}[,r&#618;&#331;k&#618;'d&#618;&#331;k]I{1}užsigulėjusios, prastos kokybės prekėsI{2}senamadis žmogusS{&rArr;}E{a}['r&#618;&#331;k&#618;d&#618;&#331;k]pigus ir prastas
+0{rinse}[r&#618;ns]S{&rArr;}E{n}skalavimas, plovimas;F{to give a rinse}(pa)skalauti, praskalauti, praplautiI{2}losjonas; plaukų dažaiS{&rArr;}E{v}I{1}nu(si)plautiI{2}praplauti, (pra)skalauti; išskalautil{(L{džn.}X{rinse out})};F{to rinse one’s mouth}išsiskalauti gerklęI{3}pasidažytil{(plaukus)}S{o}1{rinse down}užgertil{(maistą; with – kuo)}
+0{rinsing}['r&#618;ns&#618;&#331;]E{n}I{1}skalavimas, plovimasI{2}E{pl}paplavos, pamazgosI{3}E{pl}likučiai, paskutiniai lašai
+0{Rio de Janeiro}[,ri:&#601;ud&#601;d&#658;&#601;'n&#618;&#601;r&#601;u]E{n}Rio de Žaneirasl{(miestas)}
+0{riot}['ra&#618;&#601;t]S{&rArr;}E{n}I{1}riaušės, maištas;F{prison riot}kalinių riaušės;F{riot gear}l{(policininkų, kalėjimo darbuotojų)}apsauginė aprangaI{2}L{teis.}tvarkos ardymas, ramybės drumstimas;F{Riot Act}įstatymas dėl visuomenės tvarkos ir rimties apsaugos;F{to read the riot act}X{a)}perspėtil{(demonstrantus, triukšmadariusL{ir pan.}, kad skirstytųsi)};X{b)}L{juok.}išbarti,S{&cong;}duoti garo;F{riot call}L{amer.}pastiprinimo iškvietimas maištui malšintiS{&loz;}X{to run riot}X{a)}šėlti, smarkautil{(apie demonstrantusL{ir pan.})};X{b)}duoti laisvęl{(vaizduoteiL{ir pan.})};X{c)}vešliai augti, (išsi)keroti;F{a riot of colour}spalvų margumynasS{&rArr;}E{v}I{1}kelti riaušes; maištautiI{2}siausti, šėltiI{3}švaistytil{(turtąL{ir pan.})}; ūžauti, lėbauti
+0{rioter}['ra&#618;&#601;t&#601;]E{n}riaušininkas, maištininkas
+0{riotous}['ra&#618;&#601;t&#601;s]E{a}I{1}maištaujantis, maištingas; triukšmingasI{2}ne(su)valdomas, šėlstantis, siautėjantis; siautulingasI{3}linksmas, juokingasl{(apie filmą, spektaklįL{ir pan.})}I{4}palaidasl{(apie gyvenimą)}
+0{riotously}['ra&#618;&#601;t&#601;sl&#618;]E{adv}siautulingai
+0{riotousness}['ra&#618;&#601;t&#601;sn&#618;s]E{n}siautulingumas
+0{rip^{1}}[r&#618;p]S{&rArr;}E{n}plyšys, proplėša; prapjova, įpjovaS{&rArr;}E{v}I{1}(iš)plėšti, įplėšti, (su)plėšyti, ardyti;F{to rip open}atplėštil{(vokąL{ir pan.})}I{2}plyšti, irti; skiltiI{3}prapjauti, perpjauti, perkirpti, perskrostil{(L{t. p.}X{rip up})}I{4}skelti; skaldytil{(malkas)}I{5}lėkti, dumtil{(L{t. p.}X{rip along})};F{to let her/it rip}L{šnek.}leisti visu greičiul{(automobilį, valtįL{ir pan.})}I{6}į(si)rėžti, už(si)pultil{(into)}S{o}1{rip apart}suplėšyti/sudaužyti į gabalus;1{rip down}nuplėštil{(paveikslą, skelbimąL{ir pan.})};1{rip off}X{a)}atplėšti, nuplėšti;X{b)}L{šnek.}nuplėšti, nuluptil{(daug pinigų)};X{c)}L{šnek.}nuglemžti; pagrobti;1{rip out}X{a)}išplėšti;X{b)}riktelėti; drėbtelėti, leptelėtil{(keiksmažodį)};1{rip up}X{a)}suplėšyti, suardyti; atplėšti;X{b)}suaitrinti; įskaudintil{(žaizdą)}S{&loz;}X{to let things rip}nesikišti, nevaržyti;F{to let rip}L{šnek.}įniršti, pašėlti; supyktil{(at, about)}
+0{rip^{2}}E{n}I{1}kuinasI{2}L{šnek.}paleistuvis
+0{rip^{3}}E{n}A{=R{riptide}}
+0{RIP}L{sutr.}X{requiesca(n)t in pace}L{lot.}tegu ilsisi ramybėje
+0{riparian}[ra&#618;'p&#604;&#601;r&#618;&#601;n]L{teis.}S{&rArr;}E{a}pakrantėsS{&rArr;}E{n}pakrantės ruožo savininkas
+0{ripcord}['r&#618;pk&#596;:d]E{n}l{(parašiuto, aerostato)}ištraukimo virvė
+0{ripe}[ra&#618;p]E{a}I{1}prinokęs, pribrendęs, išsirpęs, prisirpęsI{2}subrendęs; brandus;F{ripe scholar}subrendęs mokslininkasI{3}išlaikytas, atsigulėjęsl{(apie sūrį, vyną)}I{4}pasirengęs, pasiruošęs, paruoštasl{(for)};F{ripe to hear the truth}pasiruošęs išklausyti tiesą;F{the time is ripe}l{(for)}atėjo laikas, pribrendo reikalasl{(kam)}I{5}aštrus, nemalonusl{(apie kvapą)}I{6}nešvankusl{(apie kalbąL{ir pan.})}S{&loz;}X{to live to a ripe old age}sulaukti senyvo amžiaus
+0{ripen}['ra&#618;pX{&#601;}n]E{v}I{1}bręstil{(L{t. p.}L{prk.})}; nokti, sirpti;F{their friendship ripened into love}jų draugystė peraugo į meilęI{2}nokinti, sirpinti; brandintiI{3}išlaikytil{(sūrįL{ir pan.})}
+0{ripeness}['ra&#618;pn&#618;s]E{n}brandumas, subrendimas, prinokimas; branda
+0{ripoff}['r&#618;p&#596;f]E{n}L{šnek.}apiplėšimas, suktybė; nulupimasl{(didelės kainos)}
+0{riposte}[r&#618;'p&#596;st]S{&rArr;}E{n}I{1}atsakomasisl{(fechtuotojo)}dūrisI{2}sumanus atsakymas, atsikirtimas;F{to make a riposte}duoti atkirtį, atsikirstiS{&rArr;}E{v}I{1}atremti/atmušti smūgįl{(fechtuojant)}I{2}sumaniai atsakyti, atkirsti
+0{ripper}['r&#618;p&#601;]E{n}I{1}plėšytojas, ardytojasI{2}žudikasl{(ypač apie pamišėlį)}I{3}A{=R{ripsaw}}
+0{ripping}['r&#618;p&#618;&#331;]L{šnek.}L{psn.}S{&rArr;}E{a}puikus, nepaprastasS{&rArr;}E{adv}nepaprastai
+0{ripple^{1}}['r&#618;pl]S{&rArr;}E{n}I{1}l{(vandens)}raibuliavimas, ribėjimas, šaršas; r(a)ibuliai, vilnelėsI{2}čiurlenimasI{3}nuvilnijimas;F{a ripple of laughter}sidabrinis juokas;F{a ripple of applause went round the hall}plojimų banga nusirito per salęI{4}atgarsis, atsiliepimas;F{this measure will send ripples through the economy}ši priemonė atsilieps ekonomikaiI{5}l{(plaukų)}garbanotumasI{6}L{kul.}įvairių spalvų ledai, ledai asortiI{7}L{spec.}pulsacija S{&rArr;}E{v}I{1}vilnyti; raibuliuoti, ribėti; ribintiI{2}čiurlentiI{3}nuvilnyti, nusiristil{(apie juokąL{ir pan.})}I{4}garbanoti(s)l{(apie plaukus)}
+0{ripple^{2}}S{&rArr;}E{n}l{(linų)}šepetys, šukuočiai, karštuvaiS{&rArr;}E{v}šukuoti, karštil{(linus)}
+0{ripply}['r&#618;pl&#618;]E{a}I{1}raibuliuojantis; vilnėtas, vilnytasI{2}čiurlenantis
+0{riprap}['r&#618;pr&aelig;p]E{n}L{stat.}l{(akmeninė)}apsaugos danga
+0{rip-roaring}['r&#618;pr&#596;:r&#618;&#331;]E{a}L{šnek.}triukšmingas, siautulingasS{&loz;}X{rip-roaring success}didžiulis pasisekimas;F{rip-roaring drunk}nusilakęs, nusitašęs
+0{ripsaw}['r&#618;ps&#596;:]E{n}L{tech.}išilginis pjūklas
+0{ripstop}['r&#618;pst&#596;p]E{a}E{attr}toliau neirstantisl{(apie audinį irL{pan.})}
+0{riptide}['r&#618;pta&#618;d]E{n}L{spec.}l{(bangų)}grūstis; potvynio bangos
+0{RISC}L{sutr.}X{reduced instruction set computer}kompiuteris, atliekantis tik tam tikras operacijas
+0{rise}[ra&#618;z]S{&rArr;}E{n}I{1}kilimas; iškilimas, pakilimas;F{high [low] rise}L{fon.}aukštutinis [žemutinis] pakilimas;F{to be on the rise}X{a)}kilti;X{b)}didėti;F{the rise to power}atėjimas į valdžią;F{to look down from the rise}žvelgti nuo kalvos I{2}l{(atlyginimoL{ir pan.})}(pa)didinimas;l{(kainų)}(pa)kėlimas; (pa)aukštinimasI{3}l{(mokesčių, avarijų, įtakosL{ir pan.})}(iš)augimas, (pa)didėjimasI{4}l{(saulės, mėnulio)}(pa)tekėjimasI{5}atsiradimas, pradžia;F{the rise of a new talent}naujo talento atsiradimas;F{the rise of fascism in Italy}fašizmo atsiradimas ItalijojeI{6}l{(upės)}ištaka, pradžia;F{to give rise}l{(to)}X{a)}prasidėtil{(apie upę)};X{b)}sukeltil{(padarinį, ginčąL{ir pan.})}; duoti progos, būti pretekstuI{7}l{(žuvų)}kilimas į vandens paviršių, kibimasI{8}L{tech.},L{stat.}l{(arkos)}pakyla; nusvirimas; įlinkis, nuosvyraS{&loz;}X{to take/get a rise out of smb}(su)erzinti, (iš)vesti iš kantrybės kąS{&rArr;}E{v}(rose; risen['r&#618;zn])I{1}(pa)kilti;F{to rise in waves}banguoti, vilnyti;F{to rise from the table}pakilti nuo stalo;F{smoke rose from the chimney}dūmai kilo iš dūmtraukioI{2}iškilti;F{to rise to a height}l{(of)}iškilti ligil{(kokio)}aukščio;F{to rise above smth}iškilti virš ko, būti aukščiau kol{(L{t. p.}L{prk.})}I{3}(pa)tekėtil{(apie saulę)}I{4}(pa)didėti, augti, kiltil{(apie kainas, lygįL{ir pan.})};F{the divorce rate has risen steadily since 1980}skyrybų skaičius nuolat didėja nuo 1980 m.I{5}tapti įtakingam/autoritetingaml{(visuomenėje)};F{to rise in the world}klestėti, susidaryti padėtįl{(visuomenėje)}I{6}sukilti, pakiltil{(against – prieš)};F{to rise in arms}sukilti su ginklu rankoseI{7}nutraukti darbą, baigtisl{(apie sesiją, kongresąL{ir pan.})};F{Parliament will rise tomorrow}parlamento sesija baigsis rytojI{8}kilti, prasidėtil{(apie ginčąL{ir pan.}; out of; apie upę; in, from)}I{9}kiltil{(apie tešlą)}I{10}pasirodyti reikiamo lygio, susidorotil{(su padėtimiL{ir pan.}; to)}I{11}reaguotil{(to – į)}; F{to rise to it}leistis išprovokuojamamI{12}L{ret.}keltisl{(iš lovos)}; prisikelti;F{to rise from the dead/grave}prisikelti iš numirusiųjųS{o}1{rise up}X{a)}pakiltil{(apie balioną, lėktuvą, paukštįL{ir pan.})};X{b)}iškiltil{(apie pastatą, kalną)};X{c)}sukiltil{(against – prieš)}S{&loz;}X{to rise to the bait/fly}S{&cong;}pakliūti/užkibti ant meškerės; reaguoti į pastabą/iššūkį;F{his gorge/stomach rises}jam šlykštu, jis jaučia pasibjaurėjimą;F{to rise in applause}sutikti ovacija;F{rise and shine!}L{šnek.}kelki(tė)s! ir būk(ite) žvalūsl{(žadinant)};F{all rise}prašom atsistoti, teismas eina!
+0{riser}['ra&#618;z&#601;]E{n}I{1}tas, kas keliasi;F{he is an early riser}jis anksti keliasiI{2}L{stat.}laiptų popakopisI{3}L{tech.}vertikalusis vamzdis, statvamzdisI{4}L{glžk.}padėklas
+0{risibility}[,r&#618;z&#601;'b&#618;l&#601;t&#618;]E{n}jukumas, palinkimas juoktis
+0{risible}['r&#618;z&#601;bl]E{a}I{1}jukus, linkęs juoktisI{2}juokingas, sukeliantisl{(tik)}juokąl{(apie pasiūlymąL{ir pan.})}I{3}L{anat.}juoko
+0{rising}['ra&#618;z&#618;&#331;]S{&rArr;}E{n}I{1}sukilimasI{2}(iš)kilimas, pakilimas; (pa)didėjimasI{3}l{(saulės)}(pa)tekėjimasI{4}kėlimasis, atsikėlimasI{5}spuogelis; auglys, votisS{&rArr;}E{a}I{1}(pa)kylantis, iškylantis;F{the rising wind}kylantis vėjasI{2}tampantis įtakingas/žinomas;F{he’s a rising star}jis – kylanti žvaigždėI{3}augantis; didėjantis;F{the rising generation}augančioji karta;F{rising thirty}arti trisdešimties metų;F{rising crime [unemployment]didėjantis nusikalstamumas [nedarbas]I{4}(pa)tekantisl{(apie saulę, mėnulį)}
+0{risk}[r&#618;sk]S{&rArr;}E{n}I{1}rizika, pavojus;F{at one’s own risk}savo (paties) rizika;F{at the risk of one’s life}rizikuojant savo gyvybe;F{to be at risk}būti pavojuje; grėsti pavojui;F{to run/take a risk}rizikuoti;F{interest rate risk}L{fin.}rizika dėl palūkanų normos svyravimų;F{risk asset ratio}L{fin.}aktyvų rizikos santykis;F{it’s not worth the risk}neverta rizikuoti;F{there is the risk of his catching cold}jis rizikuoja peršalti;F{risk level}rizikos laipsnisI{2}rizikos objektasl{(apie žmogų)};F{good risk}patikimas žmogus;F{security risk}nepatikimas žmogusI{3}apdraustas asmuo/daiktasS{&rArr;}E{v}I{1}rizikuoti;F{to risk one’s head/life}rizikuoti gyvybeI{2}drįsti;F{to risk failure}nebijoti nesėkmės
+0{riskiness}['r&#618;sk&#618;n&#618;s]E{n}rizikingumas, pavojingumas
+0{risk-taker}['r&#618;sk,te&#618;k&#601;]E{n}rizikuotojas;F{he’s always been a risk-taker}jis visada mėgdavo rizikuoti
+0{risk-taking}['r&#618;sk,te&#618;k&#618;&#331;]E{n}rizikavimas
+0{risky}['r&#618;sk&#618;]E{a}rizikingas, pavojingas
+0{risotto}[r&#618;'z&#596;t&#601;u]L{it.}E{n}(E{pl}-os[-&#601;uz]) rizotasl{(karštas ryžių patiekalas)}
+0{risqué}['r&#618;ske&#618;, 'ri:ske&#618;]L{pr.}E{a}rizikingas, ne visai padorus, dviprasmiškasl{(apie sąmojį, juoką, anekdotą)}
+0{rissole}['r&#618;s&#601;ul]E{n}I{1}kotletas, muštinisI{2}L{amer.}pyragėlis su mėsos/žuvies įdaru
+0{Rita}['ri:t&#601;]E{n}Rital{(vardas)}
+0{rite}[ra&#618;t]E{n}I{1}apeigos; ritualasI{2}ceremonija;F{the rites of hospitality}svetingumo papročiai/ceremonijosS{&loz;}X{the last rites}L{bažn.}paskutinis patepimas
+0{ritual}['r&#618;t&#643;u&#601;l]S{&rArr;}E{n}I{1}ritualas; apeigos;F{the courtship ritual}L{zool.}tuoktuvių ritualasI{2}L{bažn.}apeigų knyga, ritualasS{&rArr;}E{a}E{attr}I{1}apeiginis, ritualinisI{2}įprastinis, tradicinis
+0{ritualistic}[,r&#618;t&#643;u&#601;'l&#618;st&#618;k]E{a}ritualinis, apeiginis
+0{ritz}[r&#618;ts]E{n}L{šnek.}prašmatnumas, liuksusas
+0{ritzy}['r&#618;ts&#618;]E{a}L{šnek.}prašnatnus, ištaigingas
+0{riv.}L{sutr.}X{river}upė
+0{rival}['ra&#618;vl]S{&rArr;}E{n}I{1}konkurentas, varžovas;F{without a rival}X{a)}neturintis konkurento;X{b)}be konkurencijos; neprilygstamasI{2}L{kar.}priešininkasS{&rArr;}E{a}konkuruojantis; varžovų;F{rival firms}konkuruojančios firmosS{&rArr;}E{v}X{(-ll-)}konkuruoti, varžytis;F{to rival smb/smth in popularity}varžytis su kuo populiarumu;F{few can rival his style}jo stilius beveik neturi sau lygių
+0{rivalry}['ra&#618;vX{&#601;}lr&#618;]E{n}konkurencija, lenktyniavimas, varžybos
+0{rive}[ra&#618;v]E{v}(rived; rived, riven['r&#618;vX{&#601;}n])L{knyg.},L{psn.}I{1}skaldyti, skelti; plėšti, plėšytil{(L{t. p.}L{prk.})}I{2}skilti; plyštil{(L{t. p.}L{prk.}apie širdį)}S{o}1{rive away/off}nuplėšti, atplėšti; atplyšti
+0{riven}['r&#618;vX{&#601;}n]E{a}L{knyg.}suskaldytas, suskilęs;F{a community riven by religious differencies}bendruomenė, skaldoma dėl religinių skirtumų
+0{river}['r&#618;v&#601;]E{n}upėl{(L{t. p.}L{prk.})};F{the river of cars}automobilių srautas;F{to cross the river}X{a)}persikelti per upę;X{b)}L{prk.}įveikti kliūtį;X{c)}mirti;F{rivers of blood}kraujo upės;F{up the river}upe aukštyn, prieš srovę;F{river name}upėvardisS{&loz;}X{to sell smb down the river}išduotil{(grupę pasitikinčių žmonių)};F{to send smb up the river}L{amer.}L{šnek.}pasodinti į kalėjimą
+0{riverbank}['r&#618;v&#601;b&aelig;&#331;k]E{n}upės pakrantė, paupys
+0{river-basin}['r&#618;v&#601;,be&#618;sn]E{n}upės baseinas; upynas
+0{riverbed}['r&#618;v&#601;bed]E{n}upės vaga
+0{riverfront}['r&#618;v&#601;fr&#652;nt]E{n}apstatyta upės pakrantė
+0{river-horse}['r&#618;v&#601;h&#596;:s]E{n}I{1}hipopotamas, begemotasI{2}L{mit.}vandenis
+0{riverine}['r&#618;v&#601;ra&#618;n]E{a}upės, upinis; paupio, paupinis
+0{riverside}['r&#618;v&#601;sa&#618;d]E{n}I{1}paupys, pakrantėI{2}E{attr}paupinis, paupio, pakrantės
+0{rivet}['r&#618;v&#618;t]S{&rArr;}E{n}kniedėS{&rArr;}E{v}I{1}(pri)kniedyti, užkniedytiI{2}l{(L{ppr.}E{pass})}L{prk.}prikaustytil{(žvilgsnį, dėmesį)}; įsmeigtil{(akis, žvilgsnį)}S{&loz;}X{to be riveted to the spot}sustingti vietojel{(nustebus, išsigandus)}
+0{riveter}['r&#618;v&#618;t&#601;]E{n}I{1}kniedytojasI{2}L{tech.}kniedytuvas
+0{riveting}['r&#618;v&#618;t&#618;&#331;]E{a}jaudinantis, žavintis, labai įdomus
+0{Riviera}[,r&#618;v&#618;'&#604;&#601;r&#601;]L{pr.}E{n}Rivjeral{(kurortų rajonas prie Viduržemio jūros)}
+0{rivière}[ri:'vj&#604;&#601;]L{pr.}E{n}karoliai, vėrinys
+0{rivulet}['r&#618;vjul&#618;t]E{n}upelis, upokšnis
+0{Riyadh}[r&#618;'ja:d]E{n}Rijadasl{(Saudo Arabijos sostinė)}
+0{riyal}[r&#618;'a:l]E{n}A{=R{rial}}
+0{rly.}L{sutr.}X{railway}geležinkelis
+0{RM}L{sutr.}X{Royal Marines}l{(D. Britanijos)}jūrų pėstininkai
+0{rm.}L{sutr.}X{room}kambarys, patalpa
+0{RMA}L{sutr.}X{Royal Military Academy}l{(D. Britanijos)}karo akademija
+0{RMT}L{sutr.}X{National Union of Rail, Maritime, and Transport Workers}Nacionalinė transporto priemonių ir jūrininkystės darbuotojų profesinė sąjunga
+0{RN}L{sutr.}X{registered nurse}diplomuota med. sesuoX{Royal Navy}l{(D. Britanijos)}karo jūrų laivynas
+0{Rn}L{sutr.}X{radon}L{chem.}radonas
+0{RNA}L{sutr.}X{ribonucleic acid}ribonukleino rūgštis, RNR
+0{roach^{1}}[r&#601;ut&#643;]E{n}(E{pl}roach)L{zool.}kuoja, mekšrasS{&loz;}X{as sound as a roach}S{&cong;}sveikas kaip ridikas/jautis
+0{roach^{2}}I{1}(cockroachL{sutr.})L{amer.}L{šnek.}tarakonas I{2}L{sl.}papirosgalis su hašišu
+0{road}[r&#601;ud]E{n}I{1}kelias; plentas;F{country road}lauko kelias, šunkelis;F{main road}magistralė;F{road building}kelių tiesimas;F{road races}l{(dviračių)}plento lenktynės;F{road sense}mokėjimas elgtis kelyje;F{on the road}X{a)}kelyje, kelionėje;X{b)}tinkamas eksploatuoti, eksploatuojamasl{(apie susisiekimo priemonę)};X{c)}gastrolėse;F{to be off the road}būti nevažinėjamam/nenaudojamaml{(apie transporto priemonę)};F{to be in the road, to get in smb’s road}stovėti skersai kelio; kliudyti, trukdyti;F{get out of my road}pasitrauk(ite) man iš kelio;F{„road up“}„Darbai“l{(kelio ženklas)};F{it takes two hours by road}dvi valandos kelio automobiliuI{2}gatvė, gatvės grindinys;F{to cross the road}pereiti per gatvę/keliąI{3}L{amer.}geležinkelisI{4}L{prk.}keliasl{(į pasisekimąL{ir pan.})}; kursasl{(į)};F{there is no royal road to learning}nėra lengvo kelio į mokslą;F{he’s already on the road}jis jau sveikstaI{5}l{(L{ppr.}E{pl})}L{jūr.}reidas;F{road time}stovėjimo reide laikasS{&loz;}X{one for the road}paskutinė/atsisveikinimo taurėl{(geriama prieš išvykstant)};F{further down the road}ateityje;F{to take to the road}tapti klajūnu/valkata; iškeliauti;F{to hit the road}L{šnek.}leistis į kelionę
+0{roadbed}['r&#601;udbed]E{n}I{1}kelio sankasaI{2}geležinkelio balastas
+0{roadblock}['r&#601;udbl&#596;k]S{&rArr;}E{n}I{1}l{(kelio)}užtvaral{(L{t. p.}L{kar.})}; kelių policijos postasI{2}L{kar.}pasalaI{3}L{amer.}kliūtis, sunkumasS{&rArr;}E{v}L{amer.}sudaryti kliūtį
+0{roadbook}['r&#601;udbuk]E{n}automobilių kelių atlasas
+0{road-building}[,r&#601;ud'b&#618;ld&#618;&#331;]E{n}kelių tiesimas
+0{roadhog}['r&#601;udh&#596;g]E{n}L{šnek.}neatsargus automobilistas, eismo taisyklių pažeidėjas
+0{roadholding}['r&#601;udh&#601;uld&#618;&#331;]E{n}L{aut.}eismo stabilumas
+0{roadhouse}['r&#601;udhaus]E{n}L{amer.}pakelės užkandinė/smuklė/bufetas
+0{roadie}['r&#601;ud&#618;]E{n}L{šnek.}gastroliuojančios muzikantų grupės administratorius
+0{road-kill}['r&#601;udk&#618;l]E{n}L{amer.}I{1}gyvūno užmušimas transporto priemoneI{2}kelyje užmuštas gyvūnas
+0{roadless}['r&#601;udl&#601;s]E{a}be kelių, bekelė
+0{roadman}['r&#601;udm&#601;n]E{n}(E{pl}-men[-m&#601;n])l{(L{tik v.})}kelio darbininkas, kelininkas
+0{road-mender}['r&#601;udmend&#601;]E{n}kelių taisymo darbininkas, kelininkas
+0{road-metal}['r&#601;udmetl]E{n}l{(akmenų)}skalda
+0{roadroller}['r&#601;udr&#601;ul&#601;]E{n}sunkus kelių volas, plentvolis
+0{roadshow}['r&#601;ud&#643;&#601;u]E{n}I{1}gastrolinis spektaklisI{2}reklaminė/propagandinė išvyka/kelionėI{3}L{rad.},L{tel.}tiesioginė laidal{(ypač iš kelių skirtingų vietų)}
+0{roadside}['r&#601;udsa&#618;d]S{&rArr;}E{n}pakelė, šalikelė; kelkraštis;F{by the roadside}pakelėjeS{&rArr;}E{a}pakelės
+0{roadsign}['r&#601;udsa&#618;n]E{n}kelio ženklas
+0{roadstead}['r&#601;udsted]E{n}L{jūr.}reidas
+0{roadster}['r&#601;udst&#601;]E{n}I{1}kelioninis dviratisI{2}L{ret.}rodsterisl{(atviras dvivietis automobilis)}I{3}L{jūr.}laivas, stovintis reide
+0{road-test}['r&#601;udtest]E{v}I{1}(iš)bandyti automobilį natūraliomis sąlygomisI{2}L{amer.}išbandytil{(sumanymą)}
+0{road-train}['r&#601;udtre&#618;n]E{n}automobilių kortežas; automobilių kolona
+0{roadway}['r&#601;udwe&#618;]E{n}važiuojamoji kelio dalis; grindinys, kelias;F{single-lane roadway}vienjuostis kelias
+0{roadwork}['r&#601;udw&#601;:k]E{n}treniravimasis bėgant keliu
+0{roadworks}['r&#601;udw&#601;:ks]E{n}E{pl}kelio darbai
+0{roadworthiness}['r&#601;ud,w&#601;:&#618;n&#618;s]E{n}tinkamumas važiuoti
+0{roadworthy}['r&#601;udw&#601;:&#618;]E{a}tinkamas važinėti/eksploatuotil{(apie automobilį)}
+0{roam}[r&#601;um]S{&rArr;}E{n}klajojimas, bastymasisS{&rArr;}E{v}klajoti, bastytis; klaidžiotil{(apie akis; over)}
+0{roamer}['r&#601;um&#601;]E{n}bastūnas, klajūnas
+0{roan}[r&#601;un]S{&rArr;}E{n}keršas arklys S{&rArr;}E{a}keršas, keršai/palšai margas
+0{roar}[r&#596;:]S{&rArr;}E{n}I{1}riaumojimas; kauksmas, staugimas;F{to give a roar}suriaumoti; sustaugtiI{2}šniokštimas, ūžimasI{3}gaudesys, dundesys, griaudimasI{4}kvatojimas;F{to set in a roar}sukelti garsų juokąS{&rArr;}E{v}I{1}riaumoti, mauroti; kaukti, staugtil{(L{t. p.}L{prk.}apie variklį, vėjąL{ir pan.})};F{we heard the lion roar}girdėjome liūtą riaumojantI{2}ūžauti, šniokšti, audrotil{(apie jūrą, audrą)}I{3}dundėti, griaudėti, griaustil{(apie perkūniją, patrankas)}I{4}garsiai juoktis;F{to roar with laughter}plyšti juokais, smarkiai kvatotiI{5}prunkšti, šnarpštil{(apie arklį)}S{o}1{roar out}išrėktil{(įsakymąL{ir pan.})};1{roar past}prašvilptil{(apie automobilį)}
+0{roarer}['r&#596;:r&#601;]E{n}I{1}L{šnek.}rėksnys, išverstagerklisI{2}L{vet.}dusulingas arklys
+0{roaring}['r&#596;:r&#618;&#331;]S{&rArr;}E{n}I{1}A{=R{roar}}I{2}L{vet.}l{(arklių)}dusulysS{&rArr;}E{a}E{attr}triukšmingas, smarkus, audringas; dundantis;F{roaring fire}smarki ugnis;F{roaring success}didžiulis pasisekimasS{&loz;}X{to do a roaring trade}l{(in)}sėkmingai prekiautil{(kuo)}S{&rArr;}E{adv}L{šnek.}labai, smarkiai;F{roaring drunk}baisiai girtas
+0{roast}[r&#601;ust]S{&rArr;}E{n}I{1}kepsnys;l{(didelis)}mėsos gabalasl{(kepti)}I{2}griežta kritika, (su)kritikavimasI{3}L{amer.}piknikasl{(su keptu maistu)}I{4}L{tech.}l{(plytų, keramikos)}(iš)degimasS{&rArr;}E{a}E{attr}keptas;F{roast pork}kiaulienos kepsnys;F{roast beef}rostbifasS{&rArr;}E{v}I{1}kepti, kepintiI{2}skrudinti, degintil{(kavos pupeles, žemės riešutusL{ir pan.})}I{3}E{refl}kepintis, degintisl{(saulėje)}; šildytisl{(prieš ugnį)}I{4}L{šnek.}sukritikuoti; išpeikti, išjuoktiI{5}L{tech.}(iš)degti, deginti
+0{roaster}['r&#601;ust&#601;]E{n}I{1}žarijų krosnelėI{2}paršiukas, gaidžiukasl{(kepsniui)}I{3}L{šnek.}didelė kaitral{(lauke)}I{4}L{tech.}degimo krosnis
+0{roasting}['r&#601;ust&#618;&#331;]S{&rArr;}E{n}kepimas;F{roasting tin}/L{amer.}X{pan}l{(kepamoji)}skardaS{&loz;}X{to give smb a roasting}L{šnek.}išbarti, išdirbti kąS{&rArr;}E{a}I{1}L{šnek.}kepinantis; labai karštasl{(L{t. p.}X{roasting hot})}I{2}L{kul.}skirtas kepti
+0{roasting-jack}['r&#601;ust&#618;&#331;d&#658;&aelig;k]E{n}iešmasl{(mėsai pamauti)}
+0{rob}[r&#596;b]E{v}I{1}(ap)grobti, (api)plėšti; plėšikautiI{2}atimti;F{to rob smb off his rights}atimti kam teisesI{3}E{pass}L{sport.}L{šnek.}nepelnytai pralaimėtiS{&loz;}X{to rob blind}išvilioti, išgauti apgaulel{(pinigus)}
+0{robber}['r&#596;b&#601;]E{n}plėšikas, banditas
+0{robbery}['r&#596;b&#601;r&#618;]E{n}(api)plėšimas; plėšikavimas;l{(L{prk.}L{t. p.})}pernelyg aukšta kaina;F{daylight/}L{amer.}X{highway robbery}S{&cong;}apiplėšimas vidury dienos
+0{robe}[r&#601;ub]S{&rArr;}E{n}I{1}l{(ypačL{amer.})}chalatasI{2}l{(L{džn.}E{pl})}mantija; platus drabužis;F{the long robe}teisėjo mantija; kunigo sutana; F{gentlemen of the (long) robe}L{kuop.}teisėjai, juristaiI{3}L{amer.}gūnia, kojų apdangalas/užtiesalasl{(važiuojant;L{t. p.}X{lap robe})}I{4}L{amer.}suknelėI{5}L{poet.}rūbas, apdarasL{prk.}S{&rArr;}E{v}l{(L{ppr.}E{pass},E{refl})}ap(si)siausti, ap(si)rengti
+0{Robert}['r&#596;b&#601;t]E{n}Robertasl{(vardas)}
+0{Roberta}[r&#601;'b&#601;:t&#601;]E{n}Robertal{(vardas)}
+0{robin}['r&#596;b&#618;n]E{n}I{1}L{zool.}liepsnelėl{(L{t. p.}X{robin redbreast})}I{2:}X{ragged robin}L{bot.}šilkažiedė gaisrenaI{3:}X{round robin}X{a)}peticija su parašais, išdėstytais ratul{(norint nuslėpti, kas pasirašė pirmasis)};X{b)}L{sport.}varžybos ratų sistemaS{&loz;}X{the first robin}S{&cong;}pirmoji kregždėl{(pavasario pranašas)}
+0{Robin}['r&#596;b&#618;n]E{n}Robinas;F{Robin Hood}Robinas Hudas
+0{robot}['r&#601;ub&#596;t]E{n}I{1}robotas; automatasI{2}automatinis kelių/gatvių eismo signalasI{3}E{attr}automatinis;F{robot bomb}L{av.}valdomoji bomba;F{robot pilot}L{av.}autopilotas, automatinis pilotas;F{robot plane}nepilotuojamas lėktuvas
+0{robotic}[r&#601;u'b&#596;t&#618;k]E{a}roboto; automatinis, automatiškas
+0{robotics}[r&#601;u'b&#596;t&#618;ks]E{n}robotų technika
+0{robotize}['r&#601;ub&#601;ta&#618;z]E{v}robotizuoti; automatinti
+0{robust}[r&#601;'b&#652;st]E{a}I{1}stiprus, tvirtas, sveikatingas;F{robust health}stipri sveikataI{2}smarkus, energingasI{3}sunkus, reikalaujantis pastangų
+0{robusta}[r&#601;'b&#652;st&#601;]E{n}robustal{(kavos rūšis)}
+0{robustly}[r&#601;'b&#652;stl&#618;]E{adv}tvirtai
+0{robustness}[r&#601;'b&#652;stn&#618;s]E{n}tvirtumas
+0{roc}[r&#596;k]E{n}rokasl{(paukštis; arabų pasakose)}
+0{rocambole}['r&#596;k&#601;mb&#601;ul]E{n}L{bot.}porinis česnakas
+0{Rochester}['r&#596;t&#643;&#618;st&#601;]E{n}Ročesterisl{(L{lit.}personažas)}
+0{rock^{1}}[r&#596;k]E{n}I{1}uola;F{as solid/steady as a rock}tvirtas kaip uolaI{2}uolienaI{3}X{(the Rock)}Gibraltarasl{(sąsiauris)}I{4}uolos nuolauža;L{amer.}akmuoI{5}tvirta/patikima atramaI{6}nesėkmės priežastis;F{the rock on which we split}mūsų nesėkmės/nesutarimo priežastisI{7}saldukas, ledinukasI{8}l{(L{ppr.}E{pl})}L{šnek.}briliantai, brangenybėsI{9}L{sl.}krekasl{(narkotikas)}S{&loz;}X{on the rocks}X{a)}su ledaisl{(apie gėrimą)};X{b)}sunkioje padėtyje, galintis greit sužlugti/bankrutuoti;F{to go/run upon the rocks}X{a)}sudužti; (iš)irtil{(apie vedybas)};X{b)}bankrutuoti;F{to see rocks ahead}matyti kylančius pavojus;F{to be between a rock and a hard place}S{&cong;}būti tarp kūjo ir priekalo
+0{rock^{2}}S{&rArr;}E{n}L{muz.}rokas;F{hard rock}sunkusis rokas;F{rock concert}roko koncertasS{&rArr;}E{v}šokti/griežti roką
+0{rock^{3}}E{v}I{1}supti(s); svyruoti, siūbuoti;F{the waves rocked the boat}bangos supo valtįI{2}užsupti, užlinguoti, užliūliuotil{(L{t. p.}X{rock to sleep})};F{rocked in security}nerūpestingas, neįtariantis pavojausI{3}sudrebinti;l{(L{prk.}L{t. p.})}sukrėsti;F{to rock the world}sukrėsti/sudrebinti pasaulį;F{to rock with laughter}raitytis iš juoko
+0{rockabilly}['r&#596;k&#601;,b&#618;l&#618;]E{n}roko ritmu atliekama liaudies muzika
+0{rock-and-roll}[,r&#596;kn'r&#601;ul]E{n}A{=R{rock’n’roll}}
+0{rock-bottom}[,r&#596;k'b&#596;t&#601;m]S{&rArr;}E{n}I{1}akmeninis pagrindasI{2}žemutinė riba;F{to hit/reach rock-bottom}pasiekti žemiausią ribąS{&rArr;}E{a}E{attr}labai žemas, mažiausiasl{(apie kainas)}

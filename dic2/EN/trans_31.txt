@@ -1,0 +1,1000 @@
+0{mandrill}['m&aelig;ndr&#618;l]E{n}L{zool.}mandrilasl{(beždžionė)}
+0{manducate}['m&aelig;ndjuke&#618;t]E{v}L{psn.}kramtyti, gromuliuoti
+0{mane}[me&#618;n]E{n}I{1}l{(arklio, liūto)}karčiaiI{2}L{šnek.}gaurail{(apie žmogaus galvos plaukus)}
+0{man-eater}['m&aelig;n,i:t&#601;]E{n}I{1}žmogėdraI{2}L{šnek.}vyrų širdžių ėdikėI{3}L{zool.}pjūklažuvė
+0{man-eating}['m&aelig;n,i:t&#618;&#331;]E{a}žmones ėdantis
+0{manège}[m&aelig;'ne&#618;&#658;]L{pr.}E{n}I{1}maniežas, jodyklaI{2}jodinėjimo menas/meistriškumas
+0{manes}['me&#618;ni:z, 'ma:ne&#618;z]L{lot.}E{n}vėlės; vėlė
+0{maneuver}[m&#601;'nu:v&#601;]L{amer.}A{=R{manoeuvre}}E{n},E{v}
+0{maneuverable}[m&#601;'nu:vX{&#601;}r&#601;bl]E{a}L{amer.}A{=R{manoeuvrable}}
+0{manful}['m&aelig;nfX{&#601;}l]E{a}vyriškas; drąsus, ryžtingas
+0{manfully}['m&aelig;nfX{&#601;}l&#618;]E{adv}vyriškai; drąsiai, ryžtingai
+0{manganese}['m&aelig;&#331;g&#601;ni:z]E{n}L{chem.}manganas
+0{manganic}[m&aelig;&#331;'g&aelig;n&#618;k]E{a}L{chem.}mangano
+0{mange}[me&#618;nd&#658;]E{n}L{vet.}susas, niežai
+0{mangel(-wurzel)}['m&aelig;&#331;gl(,w&#601;:zl)]E{n}pašariniai runkeliai
+0{manger}['me&#618;nd&#658;&#601;]E{n}I{1}ėdžiosI{2}L{jūr.}bangų kreiptuvasS{&loz;}X{dog in the manger}S{&cong;}kaip šuo ant šieno; nei pats ėda, nei kitam duoda
+0{mangetout}[,ma:n&#658;'tu:]E{n}šparaginiai žirniai
+0{mangle^{1}}['m&aelig;&#331;gl]S{&rArr;}E{n}I{1}l{(ypačL{amer.})}skalbinių gręžimo ir lyginimo įtaisasI{2}L{tech.}kalandras S{&rArr;}E{v}perleisti per gręžimo ir lyginimo įtaisąl{(skalbinius)}
+0{mangle^{2}}E{v}I{1}kapotiI{2}(su)knežinti, (su)žalotiI{3}(su)darkyti, iškraipytil{(citatą, tekstąL{ir pan.})}
+0{mango}['m&aelig;&#331;g&#601;u]E{n}(E{pl}mango(e)s[-z])I{1}L{bot.}mangamedisl{(L{t. p.}X{mango tree})}I{2}mangol{(vaisius)}
+0{mangold}['m&aelig;&#331;gX{&#601;}ld]E{n}A{=R{mangel(-wurzel)}}
+0{mangosteen}['m&aelig;&#331;g&#601;sti:n]E{n}L{bot.}mangostanas
+0{mangrove}['m&aelig;&#331;gr&#601;uv]E{n}L{bot.}mangrovė
+0{mangy}['me&#618;nd&#658;&#618;]E{a}I{1}nušašęs; nususęsl{(L{t. p.}L{prk.})}I{2}skurdus, vargingasI{3}nusidėvėjęsl{(apie drabužiusL{ir pan.})}
+0{manhandle}['m&aelig;n,h&aelig;ndl]E{v}I{1}kilnoti/traukti/tampyti/pergabentiL{ir pan.}rankomisl{(nenaudojant mašinų)}I{2}šiurkščiai/brutaliai elgtisl{(su)}
+0{Manhattan}[m&aelig;n'h&aelig;tn]E{n}Manhatanasl{(Niujorko miesto dalis)}
+0{manhole}['m&aelig;nh&#601;ul]E{n}liukas, landa, angal{(nusileisti prie kanalizacijos/drenažo vamzdžiųL{ir pan.})}; šulinys;F{flushing manhole}valomasis kanalizacijos šulinys
+0{manhood}['m&aelig;nhud]E{n}I{1}vyrystė, brandus amžius;F{to reach manhood}pasiekti vyrystę, (su)vyriškėtiI{2}vyriškumas, drąsumasI{3}L{kuop.}L{knyg.}l{(šalies)}vyrija, vyrai;F{manhood suffrage}rinkimų teisė visiems suaugusiems vyrams
+0{man-hour}['m&aelig;nau&#601;]E{n}žmogaus darbo valandal{(apskaitos vienetas)}
+0{manhunt}['m&aelig;nh&#652;nt]E{n}gaudynėsl{(pabėgėlio, nusikaltėlio)}
+0{mania}['me&#618;n&#618;&#601;]E{n}I{1}L{med.}manijal{(L{t. p.}L{prk.})}I{2}nenormalus potraukis, silpnybėl{(for)}
+0{maniac}['me&#618;n&#618;&aelig;k]S{&rArr;}E{n}I{1}L{šnek.}beprotis, pamišėlisI{2}L{med.},L{psich.}maniakasS{&rArr;}E{a}I{1}L{šnek.}pamišęsI{2}L{med.}maniakinis
+0{maniacal}[m&#601;'na&#618;&#601;kl]E{a}maniakiškas; pamišėliškas;F{maniacal laughter}maniakiškas juokas
+0{manic}['m&aelig;n&#618;k]E{a}I{1}apimtas manijos, maniakinisI{2}L{šnek.}maniakiškas, kaip maniakas
+0{manic-depressive}[,m&aelig;n&#618;kd&#618;'pres&#618;v]E{n}L{med.}sergantysis maniakine-depresine psichoze
+0{manicure}['m&aelig;n&#618;kju&#601;]S{&rArr;}E{n}I{1}manikiūrasI{2}A{=R{manicurist}}S{&rArr;}E{v}daryti manikiūrą
+0{manicurist}['m&aelig;n&#618;kju&#601;r&#618;st]E{n}manikiūrininkasl{(L{džn.}moteris)}
+0{manifest}['m&aelig;n&#618;fest]S{&rArr;}E{a}akivaizdus, aiškusS{&rArr;}E{v}I{1}aiškiai/akivaizdžiai (pa)rodyti;E{refl}pasireikštiI{2}(pa)skelbti; išleisti manifestąI{3}įrodytiI{4}ap(si)reikšti, pasirodytil{(apie dvasią)}I{5}L{jūr.}įrašyti į laivo krovinio deklaracijąS{&rArr;}E{n}L{av.},L{jūr.}l{(laivo, lėktuvo)}krovinio deklaracija, manifestas
+0{manifestation}[,m&aelig;n&#618;f&#601;'ste&#618;&#643;n]E{n}I{1}pasireiškimas; apraiška; akivaizdus pavyzdysI{2}manifestacijaI{3}paskelbimasI{4}l{(dvasios)}apsireiškimas
+0{manifestly}['m&aelig;n&#618;festl&#618;]E{adv}aiškiai, akivaizdžiai
+0{manifesto}[,m&aelig;n&#618;'fest&#601;u]E{n}(E{pl}manifesto(e)s[-z]) manifestas
+0{manifold}['m&aelig;n&#618;f&#601;uld]S{&rArr;}E{n}I{1}L{tech.}vamzdynas; kolektorius;F{inlet/induction}L{aut.}įleidimo kolektoriusI{2}įvairovėI{3}kopijal{(per kalkę)}S{&rArr;}E{a}L{knyg.}daugeriopas, visokeriopas, įvairiopasS{&rArr;}E{v}(pa)daugintil{(dokumentą kopijomis)}
+0{manikin}['m&aelig;n&#618;k&#618;n]E{n}I{1}manekenasl{(modelis, figūra)}I{2}L{psn.}žmogelis, neūžauga; nykštukas
+0{Manila}[m&#601;'n&#618;l&#601;]E{n}Manila, abaka, Manilos kanapių virvė, vyniojamasis popierius, manilinis cigaras
+0{Manil(l)a}[m&#601;'n&#618;l&#601;]E{n}I{1}Manilal{(Filipinų sostinė)}I{2}manilinės kanapėsl{(L{t. p.}X{Manil(l)a hemp})}I{3}manilinis cigarasI{4}manilinis/vyniojamasis popieriusl{(L{t. p.}X{Manil(l)a paper})}
+0{manioc}['m&aelig;n&#618;&#596;k]E{n}L{bot.}manijokas; tapijoka
+0{manipulate}[m&#601;'n&#618;pjule&#618;t]E{v}I{1}manipuliuoti; (puikiai) valdytil{(mašiną)}I{2}sumaniai (pa)veikti;F{he knows how to manipulate his supporters}jis žino, kaip paveikti savo šalininkusI{3}klastoti, daryti machinacijasI{4}L{med.}gydyti manualiniu būdu
+0{manipulation}[m&#601;,n&#618;pju'le&#618;&#643;n]E{n}I{1}manipuliavimas, manipuliacija;l{(darbo operacijų)}valdymasI{2}machinacija, (su)klastojimasI{3}L{med.}gydymas manualiniu būdu
+0{manipulative}[m&#601;'n&#618;pjul&#601;t&#618;v]E{a}I{1}manipuliacinis; mokantis manipuliuotiI{2}L{med.}manualinisl{(apie gydymo būdą)}
+0{manipulator}[m&#601;'n&#618;pjule&#618;t&#601;]E{n}I{1}manipuliatoriusl{(L{t. p.}L{tech.})}I{2}motoristas, mašinistas
+0{Manitoba}[,m&aelig;n&#618;'t&#601;ub&#601;]E{n}Manitobal{(Kanados provincija)}
+0{mankind}E{n}I{1}[,m&aelig;n'ka&#618;nd]žmonijaI{2}['m&aelig;nka&#618;nd]L{ret.}vyrai, vyriškoji lytis
+0{manky}['m&aelig;&#331;k&#618;]E{a}L{šnek.}prastas; nešvarus
+0{manlike}['m&aelig;nla&#618;k]E{a}I{1}vyriškasI{2}panaši į vyrąl{(apie moterį)}
+0{manliness}['m&aelig;nl&#618;n&#618;s]E{n}vyriškumas
+0{manly}['m&aelig;nl&#618;]E{a}I{1}vyriškas, drąsusI{2}panaši į vyrąl{(apie moterį)}
+0{man-made}['m&aelig;n'me&#618;d]E{a}dirbtinis; žmogaus padarytas;F{man-made noise}L{rad.}dirbtiniai/pramoniniai trukdymai;F{man-made fibre}dirbtinis pluoštas
+0{manna}['m&aelig;n&#601;]E{n}I{1}L{bibl.}mana;F{like manna from heaven}L{prk.}kaip mana iš dangausI{2}manal{(medicinoje vartojami išdžiovinti sakai)}I{3}L{bot.}monažolė, malnal{(L{t. p.}X{manna grass})}
+0{manned}[m&aelig;nd]E{a}žmonių valdomas, pilotuojamas;F{the first manned spacecraft}pirmasis pilotuojamas kosminis laivas
+0{mannequin}['m&aelig;n&#618;k&#618;n]E{n}I{1}manekenasl{(modelis)}I{2}manekenėl{(demonstruojanti drabužius)}
+0{manner}['m&aelig;n&#601;]E{n}I{1}būdas; metodas;F{in this manner}šiuo būdu;F{manner of thought}galvosena, galvojimo būdasI{2}l{(kalbos, veikimo)}maniera, būdasI{3}E{pl}elgimasis, elgsena; (geros) manieros;F{to have no manners}nemokėti elgtis, būti blogų manierų;F{it’s bad manners to point at people}nemandagu rodyti pirštais į žmonesI{4}E{pl}papročiaiI{5}l{(dailininko, rašytojo)}maniera, kūrybos būdas, stiliusI{6}L{psn.}rūšis;F{what manner of man is he?}kas jis per žmogus?; koks jis žmogus?S{&loz;}X{all manner of...}visokie...;F{after a manner}kaip nors;F{not by any manner of means, by no manner of means}jokiu būdu;F{in a manner}tam tikru mastu; tam tikra prasme;F{in a manner of speaking}tam tikra prasme, iš dalies;F{no manner of...}joks...;F{to have no manner of right}neturėti jokios teisės;F{as if to the manner born}tarsi būtų gimęs tam
+0{mannered}['m&aelig;n&#601;d]E{a}manieringas, įmantrusl{(apie stilių; apie artistą)}
+0{-mannered}[-'m&aelig;n&#601;d]l{(L{sudurt.}žodžiuose)}kokių manierų:X{well-mannered}gerų manierų;F{ill-mannered}blogų manierų
+0{mannerism}['m&aelig;n&#601;r&#618;zm]E{n}I{1}manieringumasI{2}įpročiai, manierosI{3}X{Mannerism}L{men.}manierizmas
+0{manneristic}[,m&aelig;n&#601;'r&#618;st&#618;k]E{a}manieringas
+0{mannerless}['m&aelig;n&#601;l&#601;s]E{a}blogai išauklėtas, nemandagus
+0{mannerly}['m&aelig;n&#601;l&#618;]L{ret.}S{&rArr;}E{a}mandagus, išauklėtas, gerų manierųS{&rArr;}E{adv}mandagiai
+0{mannikin}['m&aelig;n&#618;k&#618;n]E{n}A{=R{manikin}}
+0{manning}['m&aelig;n&#618;&#331;]E{n}l{(laivoL{ir pan.}komandos, personalo)}(su)komplektavimas; kadrai;F{manning table}etatai, etatų sąrašas
+0{mannish}['m&aelig;n&#618;&#643;]E{a}I{1}L{menk.}panaši į vyrą, nemoteriškal{(apie moterį)}I{2}vyriškas, būdingas vyrui
+0{manoeuvrable}[m&#601;'nu:vr&#601;bl]E{a}manevringas; lengvai valdomas
+0{manoeuvre}[m&#601;'nu:v&#601;]L{pr.}S{&rArr;}E{n}I{1}manevrasl{(L{t. p.}L{prk.})};F{freedom of manoeuvre}laisvė manevruotiI{2}E{pl}L{kar.},L{jūr.}manevrai;F{to be on manoeuvres}būti manevruoseS{&rArr;}E{v}I{1}L{kar.},L{jūr.}daryti/vykdyti manevrus; manevruotiI{2}L{prk.}manevruoti; apsukriai elgtis/siektil{(ko)};F{to manoeuvre smb into an akward position}(sugebėti) pastatyti ką į keblią padėtį;F{it was a well-organized plan to manoeuvre the President out of office}tai buvo gerai organizuotas planas išstumti prezidentą iš pareigų
+0{man-of-the-match}['m&aelig;n&#601;v&#601;'m&aelig;t&#643;]E{n}rungtynių didvyris
+0{man-of-war}[,m&aelig;n&#601;v'w&#596;:]E{n}(E{pl}men-of-war)l{(ypačL{ist.})}karo laivas
+0{manometer}[m&#601;'n&#596;m&#618;t&#601;]E{n}manometras
+0{man-on-man}['m&aelig;n&#596;n'm&aelig;n]E{a}:X{man-on-man coverage}L{sport.}dengimas asmeniškai
+0{manor}['m&aelig;n&#601;]E{n}I{1}L{ist.}dvarasI{2}dvaro rūmai (t. p.X{manor house})
+0{manorial}[m&#601;'n&#596;:r&#618;&#601;l]E{a}dvaro
+0{man-o’-war}[,m&aelig;n&#601;'w&#596;:]E{n}A{=R{man-of-war}}
+0{manpower}['m&aelig;n,pau&#601;]E{n}I{1}darbo jėga;F{manpower resources}žmonių resursaiI{2}darbuotojai, personalas
+0{manque}['m&#596;&#331;ke&#618;]L{pr.}E{a}nevykęs, nevykėlisl{(apie artistą, mokytojąL{ir pan.})}
+0{manrope}['m&aelig;nr&#601;up]E{n}L{jūr.}lejeris
+0{mansard}['m&aelig;nsa:d]E{n}L{archit.}mansarda
+0{manse}[m&aelig;ns]E{n}l{(škotų)}pastoriaus namas
+0{manservant}['m&aelig;n,s&#601;:v&#601;nt]E{n}(E{pl}menservants)l{(L{tik v.})}tarnas
+0{Mansfield}['m&aelig;nsfi:ld]E{n}I{1}Mansfildasl{(miestas)}I{2:}X{Katherine Mansfield}Katerina Mansfildl{(anglų rašytoja)}
+0{man-shaped}[m&aelig;n&#643;e&#618;pt]E{a}žmogaus pavidalo
+0{-manship}[-m&#601;n&#643;&#618;p]E{suff}l{žymint meistriškumą, mokėjimą ką daryti:}X{authormanship}rašytojo meistriškumas;F{lipmanship}mokėjimas kalbėti/postringauti
+0{mansion}['m&aelig;n&#643;n]E{n}didžiulis namas, rūmai
+0{mansion-house}['m&aelig;n&#643;nhaus]E{n}I{1}dvaro rūmaiI{2}rezidencija;F{the Mansion-house}Londono lordo mero rezidencija
+0{man-size(d)}['m&aelig;nsa&#618;z(d)]E{a}E{attr}L{šnek.}I{1}didžiulis, suaugusio žmogausl{(ypač reklamoje)}I{2}L{amer.}sunkusl{(apie darbą)}
+0{manslaughter}['m&aelig;n,sl&#596;:t&#601;]E{n}I{1}žmogžudystėI{2}L{teis.}nužudymas dėl neatsargumo, netyčinis nužudymas
+0{mantel}['m&aelig;ntl]E{n}A{=R{mantelpiece}}
+0{mantelet}['m&aelig;ntl&#618;t]E{n}I{1}L{ist.}mantilijal{(berankovis apsiaustas)}I{2}L{kar.}L{ist.}skydas
+0{mantelpiece}['m&aelig;ntlpi:s]E{n}židinio atbraila
+0{mantelshelf}['m&aelig;ntl&#643;elf]E{n}A{=R{mantelpiece}}
+0{mantilla}[m&aelig;n't&#618;l&#601;]L{isp.}E{n}mantilijal{(moteriškas apsiautalas)}
+0{mantis}['m&aelig;nt&#618;s]E{n}(E{pl}mantis, mantises)L{zool.}maldininkasl{(vabzdys;L{t. p.}X{praying mantis})}
+0{mantle}['m&aelig;ntl]S{&rArr;}E{n}I{1}L{ist.}mantijal{(drabužis)}I{2}L{prk.}L{knyg.}l{(sniego, tamsos)}skraistė, dangaI{3}L{knyg.}atsakomybė;F{to take on,}l{ar}X{to assume, the mantle}l{(of)}prisiimti atsakomybęI{4}L{tech.}apvalkalas, dangtis, gaubtasI{5}l{(dujinio žibinto)}kaitinimo tinklelisI{6}L{zool.},L{geol.}mantijaS{&rArr;}E{v}I{1}apsiausti, apdengti, apklotiI{2}pasidengti/apsitraukti sluoksniu; putotil{(apie vyną)}I{3}(pa)rausti, (už)kaistil{(apie veidą)}
+0{mantlet}['m&aelig;ntl&#618;t]E{n}A{=R{mantelet}}
+0{man-to-man}[,m&aelig;nt&#601;'m&aelig;n]S{&rArr;}E{a}atvirasS{&rArr;}E{adv}atvirai, kaip vyras su vyru
+0{mantrap}['m&aelig;ntr&aelig;p]E{n}žabangos, pinklės, spąstail{(brakonieriamsL{ir pan.})}
+0{manual}['m&aelig;nju&#601;l]S{&rArr;}E{n}I{1}žinynas, vadovas; vadovėlis;F{instruction manual}mašinos eksploatavimo vadovas;F{technical manual}techniko žinynasI{2}L{kar.}statutasI{3}L{muz.}manualas, vargonų klaviatūra groti rankomisS{&rArr;}E{a}I{1}fizinis; fizinio darbo;F{manual labour/work}fizinis darbas;F{manual worker}fizinio darbo darbininkasI{2}rankinis, rankų; rankinio valdymo;F{manual alphabet}kurčnebylių abėcėlė;F{manual control}rankinis valdymas
+0{manually}['m&aelig;nju&#601;l&#618;]E{adv}rankomis, rankiniu būdu
+0{manufactory}[,m&aelig;nju'f&aelig;ktX{&#601;}r&#618;]E{n}L{psn.}fabrikas; dirbtuvė, cechas
+0{manufacture}[,m&aelig;nju'f&aelig;kt&#643;&#601;]S{&rArr;}E{n}I{1}gamyba;F{of home manufacture}vietinės gamybosI{2}E{pl}(pramonės) gaminiai, fabrikataiI{3}l{(neteisingų žiniųL{ir pan.})}falsifikavimasS{&rArr;}E{v}I{1}gaminti;F{to manufacture shoes [steel]gaminti batus [plieną];F{bile is manufactured by the liver}tulžį gamina kepenysI{2}L{prk.}falsifikuoti; išgalvoti, pramanyti;F{to manufacture evidence}sufalsifikuoti įrodymus
+0{manufacturer}[,m&aelig;nju'f&aelig;kt&#643;X{&#601;}r&#601;]E{n}I{1}fabrikantas, gamyklininkasI{2}gamintojas; apdirbamosios pramonės firma
+0{manufacturing}[,m&aelig;nju'f&aelig;kt&#643;X{&#601;}r&#618;&#331;]S{&rArr;}E{n}I{1}gamyba; gaminimas, apdirbimasI{2}apdirbamoji pramonėS{&rArr;}E{a}gamybinis; pramoninis
+0{manumission}[,m&aelig;nju'm&#618;&#643;n]E{n}L{ist.}I{1}išlaisvinimasl{(iš vergovės)}; suteikimas laisvėsl{(baudžiauninkui)}I{2}paleidžiamasisl{(iš baudžiavos)}raštas
+0{manumit}[,m&aelig;nju'm&#618;t]E{v}L{ist.}paleisti į laisvę; išlaisvintil{(iš vergovės)}
+0{manure}[m&#601;'nju&#601;]S{&rArr;}E{n}mėšlas, trąšos;F{liquid manure}skystos trąšosS{&rArr;}E{v}tręšti mėšlu, mėžti
+0{manuscript}['m&aelig;njuskr&#618;pt]S{&rArr;}E{n}rankraštis; manuskriptasS{&rArr;}E{a}rankraštinis
+0{Manx}[m&aelig;&#331;ks]S{&rArr;}E{a}I{1}(iš) Meno salosI{2:}X{Manx cat}L{zool.}katė beuodegėS{&rArr;}E{n}I{1}L{ist.}Meno salos gyventojų kalbaI{2}X{(the Manx)}L{kuop.}Meno salos gyventojai
+0{Manxman}['m&aelig;&#331;ksm&#601;n]E{n}(E{pl}-men[-m&#601;n])l{(L{tik v.})}Meno salos gyventojas
+0{many}['men&#618;]S{&rArr;}E{a},E{pron}(more; most) daugelis, daugybė; daug;F{many people think so}daugelis (žmonių) taip galvoja;F{many of our staff are...}daugelis mūsų darbuotojų yra...;F{how many?}kiek?;F{as many}tiek pat;F{for many a long day}ilgą laiką, seniai;F{as many as three years}ištisus trejus metus;F{not so many as}mažiau neguS{&loz;}X{to be one too many}L{juok.}būti nereikalingam;F{to be one too many for smb}L{šnek.}X{a)}būti stipresniam/gudresniam/pranašesniam už ką;X{b)}būti kam per sunkuS{&rArr;}E{n}I{1}daugelis, daug kas; daugybė;F{a good many}gana daug, gerokas skaičius;F{a great many}labai didelis skaičius, labai daugI{2}X{(the many)}dauguma;F{in favour of the many}daugumos labui
+0{many-celled}['men&#618;seld]E{a}daugialąstis
+0{many-coloured}['men&#618;'k&#652;l&#601;d]E{a}daugiaspalvis, įvairiaspalvis
+0{manyfold}['men&#618;f&#601;uld]E{adv}daug kartų
+0{many-sided}['men&#618;'sa&#618;d&#618;d]E{a}daugiapusis, įvairiapusis; daugiašonis
+0{many-stage}['men&#618;'ste&#618;d&#658;]E{a}daugiapakopis, daugialaipsnis
+0{Maori}['maur&#618;]E{n}I{1}(E{pl}Maoris, Maori) maorisl{(Naujosios Zelandijos gyventojas)}I{2}maorių kalba
+0{map}[m&aelig;p]S{&rArr;}E{n}I{1}žemėlapisI{2}mėnlapis, žvaigždėlapisI{3}planas;F{street map of Vilnius}Vilniaus (gatvių) planasS{&loz;}X{off the map}X{a)}nesamas; užmirštas, pasenęs;X{b)}sunkiai pasiekiamas, tolimas;F{on the map}X{a)}esamas;X{b)}užimantis svarbią padėtį; žinomas;F{to put smth on the map}išgarsinti, padaryti žinomąl{(vietą)};F{to wipe smth off the}mapS{&cong;}nušluoti nuo žemės paviršiausS{&rArr;}E{v}I{1}pažymėti/nubrėžti žemėlapyje; braižyti žemėlapįI{2}padaryti vietovės nuotraukąS{o}1{map out}(su)planuoti;F{to map out one’s time}paskirstyti savo laiką
+0{maple}['me&#618;pl]E{n}I{1}L{bot.}klevas;F{Norway [silver] maple}paprastasis [sidabrinis] klevasI{2}E{attr}klevo, klevinis
+0{maple-leaf}['me&#618;pl'li:f]E{n}klevo lapasl{(L{t. p.}Kanados emblema)}
+0{mapping}['m&aelig;p&#618;&#331;]E{n}I{1}žymėjimas žemėlapyje; žemėlapių braižymas; kartografijaI{2}topografinė nuotrauka
+0{map-reading}['m&aelig;p,ri:d&#618;&#331;]E{n}naudojimasis žemėlapiu/planul{(ypač nustatant kelią)}
+0{Maquis}[m&aelig;'ki:]L{pr.}E{n}l{(E{pl}Maquis)}L{ist.}makil{(Prancūzijos partizanų pavadinimas antrajame pasauliniame kare)}
+0{mar}[ma:]E{v}sugadinti, sudarkytiS{&loz;}X{to make or mar}S{&cong;}kas bus, tas bus
+0{Mar}L{sutr.}X{March}kovasl{(mėnuo)}
+0{mar.}L{sutr.}X{married}vedęs; ištekėjusi
+0{marabou(t)}[,m&aelig;r&#601;bu:]E{n}L{zool.}marabul{(Afrikos paukštis)}
+0{maracas}[m&#601;'r&aelig;k&#601;z]E{n}E{pl}marakasl{(mušamasisL{muz.}instrumentas)}
+0{maraschino}[,m&aelig;r&#601;'ski:n&#601;u]E{n}maraskinasl{(vyšnių likeris/antpilas)}
+0{marasmus}[m&#601;'r&aelig;zm&#601;s]E{n}marazmas; išsekimas, nusilpimas, nusialinimas
+0{marathon}['m&aelig;r&#601;&theta;n]S{&rArr;}E{n}L{sport.}maratonasl{(L{t. p.}L{prk.})}; maratono bėgimasl{(L{t. p.}X{marathon race})}S{&rArr;}E{a}E{attr}ilgas ir sekinantis
+0{maraud}[m&#601;'r&#596;:d]E{v}plėšikauti, grobti, marodieriauti
+0{marauder}[m&#601;'r&#596;:d&#601;]E{n}plėšikas, marodierius
+0{marauding}[m&#601;'r&#596;:d&#618;&#331;]S{&rArr;}E{n}plėšikavimas, marodieriavimasS{&rArr;}E{a}E{attr}plėšikaujantis, plėšikiškas
+0{marble}['ma:bl]S{&rArr;}E{n}I{1}marmurasI{2}marmuro skulptūra/statula;E{pl}marmuro skulptūrų kolekcijaI{3}stiklo rutuliukasl{(žaislas)};E{pl}stiklo rutuliukail{(vaikų žaidimas)}S{&loz;}X{to have all one’s marbles}L{šnek.}būti dar tvirtaml{(apie seną žmogų)};F{to lose one’s marbles}L{šnek.}suvaikėti S{&rArr;}E{a}E{attr}I{1}marmurinisI{2}baltas kaip marmuras; šaltas, bejausmis;F{marble heart}akmeninė širdisS{&rArr;}E{v}dažyti imituojant marmurą
+0{marbled}['ma:bld]E{a}marmuriškas, imituojantis marmurą, dengtas marmuru
+0{marbling}['ma:bl&#618;&#331;]E{n}marmuro imitacija
+0{marc}[ma:k]E{n}I{1}l{(vaisių)}išspaudos, išgniaužosI{2}degtinė iš vynuogių/obuolių išspaudų
+0{marcasite}['ma:k&#601;sa&#618;t]E{n}L{min.}markazitas
+0{marcel}[ma:'sel]S{&rArr;}E{n}karštas plaukų garbanojimasS{&rArr;}E{v}garbanoti plaukus
+0{March}[ma:t&#643;]E{n}kovasl{(mėnuo)}
+0{march^{1}}[ma:t&#643;]S{&rArr;}E{n}I{1}L{kar.}maršas, žygis, žygiuotė;F{on the march}X{a)}žygyje;X{b)}L{prk.}stiprėjantis;F{march formation}žygio tvarka;F{march in review}paradinis maršasI{2}l{(protesto, taikos)}žygisI{3}l{(įvykių, laikoL{ir pan.})}eiga, bėgimas; ėjimas pirmyn/toliau;l{(moksloL{ir pan.})}pažanga, pasiekimaiI{4}L{muz.}maršas;F{dead/funeral march}gedulingas maršasI{5}L{sport.}žingsniavimas, žygiavimasS{&loz;}X{to steal a march on smb}įgyti pirmenybę prieš kąl{(L{ppr.}slapta, neteisėtai)}S{&rArr;}E{v}I{1}žygiuoti, marširuotiI{2}(iš)vesti (į žygį); įvestil{(kariuomenę)}I{3}žengti, žingsniuoti;F{march forward!, quick march!}žengte marš!I{4}priversti eiti, nutempti, nuvestiS{o}1{march ahead}žengti pirmyn;1{march off}išžygiuoti, išeiti; išvestil{(kariuomenę)};1{march on}eiti/judėti pirmyn;F{time marches on}laikas negailestingai bėga/eina;1{march out}išžygiuoti, išeiti;1{march past}pražygiuoti, praeiti iškilmių/parado maršu
+0{march^{2}}S{&rArr;}E{n}l{(L{ppr.}E{pl})}L{ist.}marka, pasienis; pasienio zonal{(ypač tarp Anglijos ir Škotijos/Velso)}S{&rArr;}E{v}L{ret.}ribotisl{(with, upon)}
+0{marcher}['ma:t&#643;&#601;]E{n}žygiuotojas; žygio dalyvis
+0{marching}['ma:t&#643;&#618;&#331;]S{&rArr;}E{n}I{1}žygiavimas, marširavimas; žingsniavimasI{2}E{attr}žygio; žygio metu;F{marching fire}šaudymas žygiuojantl{(atakos metu)};F{marching order}X{a)}žygio tvarka;X{b)}žygio apranga;F{marching orders}X{a)}įsakymas išžygiuoti;X{b)}L{šnek.}atleidimas iš darbo;F{to give smb his/her marching orders}L{šnek.}atleisti, išvyti kąS{&rArr;}E{a}žygiuojantis, marširuojantis
+0{marchioness}[,ma:&#643;&#601;'nes]E{n}markizėl{(Anglijoje)}
+0{marchpane}['ma:t&#643;pe&#618;n]E{n}A{=R{marzipan}}
+0{march-past}['ma:t&#643;pa:st]E{n}pražygiavimas, praėjimas iškilmių/parado maršu; paradas
+0{Marconi}[ma:'k&#601;un&#618;]E{n}Markonis
+0{Marcus}['ma:k&#601;s]E{n}Morkus, Markasl{(vardas)}
+0{Mardi Gras}[,ma:d&#618;'gra:]E{n}Užgavėnės
+0{mare^{1}}[m&#604;&#601;]E{n}kumelė; asilėS{&loz;}X{mare’s nest}iliuzija, apgaulė;F{to find a mare’s nest}S{&cong;}pataikyti kaip pirštu į dangų; skaudžiai apsigauti;F{the grey mare is the better horse}S{&cong;}moteris laiko tris namų kampus
+0{mare^{2}}['ma:re&#618;]L{lot.}E{n}(E{pl}-ria, mares) jūra;L{astr.}Mėnulio jūra;F{mare clausum}šalies teritoriniai vandenys;F{mare libelum}atvira jūra
+0{Margaret}['ma:gX{&#601;}r&#618;t]E{n}Margarita, Margaret(a)l{(vardas)}
+0{margarine}[,ma:d&#658;&#601;'ri:n]E{n}margarinas
+0{marge^{1}}[ma:d&#658;]L{poet.}A{=R{margin}}E{n}1l{ir}2
+0{marge^{2}}E{n}L{šnek.}A{=R{margarine}}
+0{margin}['ma:d&#658;&#618;n]S{&rArr;}E{n}I{1}kraštas, pakraštys; riba;F{margin of error}L{spec.}paklaidos ribaI{2}l{(puslapio)}paraštėI{3}l{(pinigų, laikoL{ir pan.})}atsarga;F{margin of safety}atsparumo/stiprumo atsarga; saugumo koeficientas, patikimumasI{4}l{(balsų)}skirtumasl{(rinkimuose)}I{5}L{kom.}marža; skirtumas; garantinė įmoka; pelnasS{&rArr;}E{v}I{1}palikti paraštesI{2}daryti pastabas paraštėseI{3}palikti atsargąI{4}L{kom.}įmokėti garantinę sumą
+0{marginal}['ma:d&#658;&#618;nl]E{a}I{1}parašytas paraštėjeI{2}nežymus, nedidelis;F{marginal increase}l{(in)}nežymusl{(ko)}padidėjimasI{3}ribinis; kraštinis, kraštutinis;F{marginal costs}L{ekon.}ribiniai kaštaiI{4}mažai rentabilusl{(apie žemę)}
+0{marginalia}[,ma:d&#658;&#618;'ne&#618;l&#618;&#601;]E{n}E{pl}I{1}pastabos paraštėseI{2}L{poligr.}marginalijos
+0{marginalize}['ma:d&#658;&#618;n&#601;la&#618;z]E{v}I{1}nušalinti, nustumti į šalį; sumenkintil{(kieno vaidmenįL{ir pan.})}I{2}L{knyg.}daryti pastabasl{(knygos paraštėse)}
+0{marginally}['ma:d&#658;&#618;n&#601;l&#618;]E{adv}nežymiai; minimaliai
+0{Margot}['ma:g&#601;u]E{n}Margo
+0{margrave}['ma:gre&#618;v]E{n}L{ist.}markgrafas
+0{marguerite}[,ma:g&#601;'ri:t]E{n}L{bot.}I{1}baltagalvė skaistažiedėI{2}bobramunis, ramunė
+0{maria}['ma:r&#618;&#601;]E{pl}A{L{žr.}R{mare^{2}}}
+0{Maria}[m&#601;'ra&#618;&#601;, m&#601;'r&#618;&#601;]E{n}Marijal{(vardas)}S{&loz;}X{Black Maria}L{sl.}kalėjimo automobilis
+0{Marian}['meX{&#601;}r&#618;&#601;n]E{n}Mariana
+0{Marianne}[,meX{&#601;}r&#618;'&aelig;n]E{n}Mariana
+0{marigold}['m&aelig;r&#618;g&#601;uld]E{n}L{bot.}I{1}serentisI{2}medetka;F{marsh marigold}puriena
+0{marihuana, marijuana}[,m&aelig;r&#618;'X{h}wa:n&#601;]L{isp.}E{n}marihuanal{(narkotikas)}
+0{marimba}[m&#601;'r&#618;mb&#601;]E{n}marimbal{(L{muz.}instrumentas)}
+0{Marina}[m&#601;'ri:n&#601;]E{n}Marinal{(vardas)}
+0{marina}[m&#601;'ri:n&#601;]E{n}valčių prieplauka
+0{marinade}[,m&aelig;r&#618;'ne&#618;d]S{&rArr;}E{n}marinadasS{&rArr;}E{v}A{=R{marinate}}
+0{marinate}['m&aelig;r&#618;ne&#618;t]E{v}marinuoti
+0{marine}[m&#601;'ri:n]S{&rArr;}E{n}I{1}laivynasI{2}jūrų pėstininkas;F{Marine Corps}L{amer.}jūrų pėstininkaiI{3}L{men.}jūros peizažas, marinaS{&loz;}X{tell that to the marines!}L{šnek.}S{&cong;}nemuilink akių!; sakyk tai kam nori, tik ne manS{&rArr;}E{a}I{1}jūrų, jūrinis;F{marine disaster}nelaimė jūroje;F{marine painter}marinistasI{2}laivo, laivinis;F{marine stores}X{a)}vartoti laivo reikmenys;X{b)}laivo atsargos
+0{mariner}['m&aelig;r&#618;n&#601;]E{n}L{knyg.}jūrininkas, jūreivis;F{master mariner}l{(prekybinio laivo)}kapitonas;F{mariner’s compass}laivo kompasas
+0{marionette}[,m&aelig;r&#618;&#601;'net]E{n}marionetė
+0{marital}['m&aelig;r&#618;tl]E{a}I{1}santuokinis, vedybinis;F{marital status}L{ofic.}šeimyninė padėtis;F{marital rights and duties}sutuoktinių teisės ir pareigosI{2}vyro
+0{maritime}['m&aelig;r&#618;ta&#618;m]E{a}I{1}jūrų, jūrinis; laivybos, navigacijos;F{maritime affairs}jūrininkystėI{2}pajūrio, pajūrinis;F{maritime pine}L{bot.}pajūrinė pušis
+0{marjoram}['ma:d&#658;X{&#601;}r&#601;m]E{n}L{bot.}mairūnas;F{wild marjoram}raudonėlis
+0{mark^{1}}[ma:k]E{n}markėl{(piniginis vienetas)}
+0{mark^{2}}S{&rArr;}E{n}I{1}žymė, ženklas; dėmė;F{bite marks}kandimo žymės;F{as a mark}l{(of)}kaipl{(pagarbosL{ir pan.})}ženklasI{2}markė; fabriko ženklasI{3}požymis, orientyrasI{4}randas, rumbas; apgamas, intapasI{5}taikinys;F{to hit [to miss] the mark}pataikyti [nepataikyti] į taikinįl{(L{t. p.}L{prk.})};F{far from,}l{ar}X{wide of, the mark}X{a)}pro šalį;X{b)}L{prk.}nevietoje, neteisingasI{6}riba; norma; lygis;F{above the mark}virš priimtos/nustatytos normos;F{up to the mark}X{a)}reikiamo/gero lygio;X{b)}geros sveikatos;F{within the mark}normos riboseI{7}garsumas;F{to make one’s mark}pasižymėti; išgarsėti;F{of mark}garsus, žinomasl{(apie žmogų)}I{8}pažymal{(žodyneL{ir pan.})}I{9}pažymys, balas;F{full mark}aukščiausias balas/įvertinimas;F{to give marks}vertintiI{10}L{sport.}startas; F{to get off the mark}startuoti;F{on your’s mark s!}pasiruošti!I{11}L{psn.}kryželisl{(vietoj parašo)}I{12}L{ist.}markaS{&loz;}X{(God) save the mark}jei taip galima pasakyti; saugok Dieve;F{soft/easy mark}L{amer.}L{sl.}l{(nusikaltėlio, sukčiaus)}auka; lengvatikis/patiklus žmogus;F{on [off] the mark}visiškai teisingas [neteisingas];F{to be quick off the mark}L{šnek.}greitai suprasti/susiorientuoti;F{to leave one’s mark}l{(on)}palikti neišdildomą įspūdįl{(kam)}S{&rArr;}E{v}I{1}žymėti, dėti ženklą, ženklintiI{2}pažymėti, paminėti;F{to mark the anniversary}l{(of)}paminėti metines;F{he marked his approval by a nod}jis išreiškė pritarimą linktelėjimuI{3}palikti žymę/dėmę/randąI{4}markiruoti; (pa)žymėtil{(prekės)}kainąI{5}(iš)taisyti (ir įvertinti pažymiu)l{(rašomąjį)}I{6}apibūdinti; išskirtiI{7}užrašytil{(akis/taškus žaidime)}I{8}L{sport.}dengti, saugotil{(žaidėją)}I{9}susektil{(žvėrį)}S{o}1{mark down}X{a)}už(si)rašyti, pa(si)žymėti;F{the teacher marked him down as absent}mokytojas pažymėjo jį kaip nesantį;X{b)}sumažinti pažymį;X{c)}pažymėti sumažintąl{(prekės)}kainą; nuleisti kainą;1{mark off}X{a)}pažymėti;X{b)}atidalyti, atriboti; atskirtil{(from)};1{mark out}X{a)}nužymėti, paženklinti;X{b)}išskirtil{(as; for)};1{mark up}pažymėti pakeltąl{(prekės)}kainą; pakelti kainąS{&loz;}X{mark you!}atsiminkite!; žinokite!
+0{Mark}[ma:k]E{n}Markasl{(vardas)}
+0{markdown}['ma:kdaun]E{n}L{kom.}kainos nuleidimas
+0{marked}[ma:kt]E{a}I{1}turintis tam tikras žymes/ženklus; (pa)žymėtas, (pa)ženklintasI{2}pastebimas, ženklus, žymus;F{marked difference}žymus skirtumas;F{marked disadvantage}aiški žala; aiškiai nepalanki padėtis;F{a marked man}X{a)}sekamas/persekiojamas žmogus;X{b)}žymus/žinomas žmogus
+0{markedly}['ma:k&#618;dl&#618;]E{adv}smarkiai, žymiai; ryškiai
+0{marker}['ma:k&#601;]E{n}I{1}žymėtojas, ženklintojasI{2}L{sport.}taškų skaičiuotojas/žymėtojasI{3}skirtukasl{(knygojeL{ir pan.})}I{4}ženklas, rodyklė;F{directional marker}krypties rodyklėI{5}paminklinė lentaI{6}žymeklisl{(spalvotas pieštukas svarbioms teksto vietoms išryškinti;L{t. p.}X{marker pen})}I{7}L{ž. ū.}ženklintuvasS{&loz;}X{not a marker}l{(to, on)}L{sl.}niekas palygintil{(su)};S{&cong;}nė kojos pirštelio nevertas;F{to put down a marker}užsibrėžtil{(ateičiai)}
+0{market}['ma:k&#618;t]S{&rArr;}E{n}I{1}turgus, turgavietė, prekyvietė;F{flea market}sendaikčių turgusI{2}rinka; pardavimas; prekyba;F{black/grey market}juodoji rinka;F{to be in/on the market}būti parduodamam;F{to glut the market}užversti rinką prekėmis;F{to put on the market}pasiūlyti/pateikti pardavimui;F{to come onto the market}patekti į rinką;F{hours of market}prekiavimo valandos;F{market share}rinkos dalis/dalyvisI{3}rinkos kainos; konjunktūra;F{the market rose}kainos rinkoje pakilo;F{stiff [sensitive] market}L{ekon.}pastovi [nepastovi] rinka;F{seller’s market}pardavėjams palanki konjunktūral{(paklausa viršija pasiūlą)}I{4}L{fin.}birža;F{to play the market}spekuliuoti biržojeI{5}paklausal{(for)};F{to find a market}neužsigulėti, turėti paklausąI{6}L{amer.}maisto produktų ir namų apyvokos reikmenų parduotuvėS{&loz;}X{to bring one’s eggs/hogs/goods to the wrong,}l{ar}X{to a bad, market}apsirikti, nepasisekti;F{to price oneself out of the market}užsiprašyti per daugl{(už prekes, paslaugas)};F{to be on the long side of the market}palaikyti prekes, laukiant kainų pakilimoS{&rArr;}E{v}I{1}vežti į turgų; pirkti/parduoti turgujeI{2}pardavinėti, prekiauti; realizuotiI{3}L{amer.}eiti apsipirkti, vaikščioti po parduotuves
+0{marketability}[,ma:k&#618;t&#601;'b&#618;l&#618;t&#618;]E{n}tinkamumas pardavimui
+0{marketable}['ma:k&#618;t&#601;bl]E{a}I{1}perkamas, paklausus;F{marketable output}turinti paklausą produkcija I{2}prekinis; tinkamas parduoti;F{marketable grain}prekiniai grūdai
+0{market-based}['ma:k&#618;tbe&#618;st]E{a}rinka grįstas
+0{market-day}['ma:k&#618;tde&#618;]E{n}turgaus diena
+0{market-determined}['ma:k&#618;td&#618;'t&#601;:m&#618;nd]E{a}rinkos sąlygojamas
+0{marketeer}[,m‚:k&#618;'t&#618;&#601;]E{n}rinkos agentas/prekių realizavimo specialistas
+0{marketer}['ma:k&#618;t&#601;]E{n}turgaus prekiautojas/pardavėjas
+0{market-garden}[,ma:k&#618;t'ga:dn]E{n}daržininkystės ūkis
+0{marketing}['ma:k&#618;t&#618;&#331;]E{n}I{1}L{ekon.}marketingas, rinkodaraI{2}prekiavimas, prekyba;F{to do the marketing}L{amer.}eiti apsipirkti
+0{market-led}['ma:k&#618;t'led]E{a}rinkos sąlygojamas, rinkosl{(apie produktusL{ir pan.})}
+0{market-maker}['ma:k&#618;tme&#618;k&#601;]E{n}L{fin.}fondų biržos darbuotojas, superkantis ir parduodantis vertybinius popierius
+0{market-orientated}['ma:k&#618;t'&#596;:r&#618;&#601;nte&#618;t&#618;d]E{a}į rinką orientuotas
+0{market-oriented}['ma:k&#618;t'&#596;:r&#618;&#601;nt&#618;d]E{a}rinkai pirmenybę teikiantis
+0{market-place}['ma:k&#618;tple&#618;s]E{n}prekyvietė, turgavietė; turgus
+0{marketplace}['m‚:k&#618;tple&#618;s]E{n}I{1}rinkaI{2}prekyvietė, turgavietė; turgus
+0{market-research}['ma:k&#618;tr&#618;'s&#601;:t&#643;]E{n}rinkos tyrimas
+0{market-square}['ma:k&#618;tskw&#604;&#601;]E{n}turgaus aikštė
+0{marking}['ma:k&#618;&#331;]E{n}I{1}l{(paukščio punksnųL{ir pan.})}spalvų derinysI{2}ženklas, žymėI{3}ženklinimas, žymėjimas; markiravimasI{4}L{mok.}l{(rašiniųL{ir pan.})}(iš)taisymas, vertinimasI{5}L{jūr.}l{(farvaterio, kranto)}aptvaras; takelažo markė
+0{markka}['ma:k&#601;]E{n}markėl{(Suomijos piniginis vienetas)}
+0{marksman}['ma:ksm&#601;n]E{n}(E{pl}-men[-m&#601;n])l{(L{tik v.})}taiklus šaulys, snaiperis
+0{marksmanship}['ma:ksm&#601;n&#643;&#618;p]E{n}taiklus šaudymas
+0{mark-up}['ma:k&#652;p]E{n}L{kom.}savikainos ir pardavimo kainos skirtumas; antkainis
+0{marl}[ma:l]S{&rArr;}E{n}L{geol.}mergelis, klintmolisS{&rArr;}E{v}tręšti mergeliu
+0{marlin(e)spike}['ma:l&#618;nspa&#618;k]E{n}L{jūr.}smeigtasl{(takelažo darbams)}
+0{Marlowe}['ma:l&#601;u]E{n}:X{Christopher Marlowe}Kristoferis Marloul{(anglų rašytojas)}
+0{marmalade}['ma:m&#601;le&#618;d]E{n}marmeladasl{(ypač apelsinų, citrinų)}
+0{Marmara, Marmora}['ma:m&#601;r&#601;]E{n}:X{the Sea of Marmara}Marmuro jūra
+0{marmoreal}[ma:'m&#596;:r&#618;&#601;l]E{a}L{poet.}marmurinis
+0{marmoset}['ma:m&#601;zet]E{n}l{L{zool.}mažų beždžionių rūšis (P. ir Centr. Amerikoje)}
+0{marmot}['ma:m&#601;t]E{n}L{zool.}švilpikas
+0{marocain}['m&aelig;r&#601;ke&#618;n]E{n}L{tekst.}marokenas
+0{maroon^{1}}[m&#601;'ru:n]S{&rArr;}E{n}kaštoninė spalvaS{&rArr;}E{a}kaštoninis
+0{maroon^{2}}S{&rArr;}E{n}I{1}L{ist.}maronasl{(pabėgęs iš vergovės negras, Gvinėjoje ir Vest Indijoje)}I{2}L{ret.}žmogus, išlaipintas negyvenamoje salojeS{&rArr;}E{v}I{1}išlaipinti negyvenamoje salojeI{2}l{(L{ppr.}E{pass})}būti paliktam keblioje/sunkioje padėtyje, likimo valiai
+0{marplot}['ma:pl&#596;t]E{n}L{knyg.}l{(planoL{ir pan.})}ardytojas, (su)trukdytojas
+0{marque}[ma:k]E{n}l{(automobilio)}markė
+0{marquee}[ma:'ki:]E{n}I{1}didelė palapinėI{2}L{amer.}L{stat.}viršdurio nuosvyra
+0{Marquesas}[ma:'ke&#618;s&aelig;s]E{n}:X{the Marquesas Islands}Markizo salos
+0{marquess}['ma:kw&#618;s]E{n}A{=R{marquis}}
+0{marquetry}['ma:k&#618;tr&#618;]E{n}marketri, medžio inkrustacija
+0{marquis}['ma:kw&#618;s]E{n}markizas
+0{marquise}[ma:'ki:z]E{n}markizė
+0{marquisette}[,ma:k&#618;'zet]E{n}L{tekst.}markizetas
+0{marriage}['m&aelig;r&#618;d&#658;]E{n}I{1}santuoka; vedybos;F{marriage of convenience}santuoka iš išskaičiavimo;F{to give in marriage}išleisti už vyro;F{to take in marriage}vesti;F{to ask in marriage}pasipiršti;F{uncle by marriage}vyro/žmonos dėdėI{2}vestuvės, jungtuvėsI{3}glaudi sąjunga/vienybė;F{the marriage of art and science}meno ir mokslo vienybėI{4}L{tech.}marijažasl{(L{t. p.}kortų)}I{5}E{attr}santuokinis, vedybinis;F{marriage licence}leidimas vesti;F{marriage bonds}santuokos saitai;F{marriage certificate/lines}santuokos liudijimas
+0{marriageable}['m&aelig;r&#618;d&#658;&#601;bl]E{a}galintis vesti/tekėti, subrendęs; (sulaukęs) santuokinio amžiausl{(L{t. p.}X{of marriageable age})}
+0{married}['m&aelig;r&#618;d]S{&rArr;}E{a}I{1}susituokęs; vedęs; ištekėjusi;F{married couple}sutuoktinių poraI{2}santuokinisI{3}atsidavęsl{(to – kam)}S{&rArr;}E{n}E{pl}jaunavedžiail{(neseniai susituokę;L{ppr.}X{young marrieds})}
+0{marrow}['m&aelig;r&#601;u]E{n}I{1}čiulpai, kaulų smegenysl{(L{t. p.}X{bone marrow})};F{chilled/frozen to the marrow}sušalęs iki gyvo kauloI{2}esmėI{3}L{bot.}agurotisl{(L{t. p.}X{vegetable marrow})}
+0{marrowbone}['m&aelig;r&#601;ub&#601;un]E{n}I{1}kaulas su čiulpaisI{2}esmėI{3}E{pl}L{juok.}keliai;F{to bring smb down to his marrowbones}paklupdyti ką, priversti ką pasiduoti;F{to go/get down on one’s marrowbones}atsiklauptiI{4}E{pl}L{šnek.}kumščiai
+0{marrowfat}['m&aelig;r&#601;uf&aelig;t]E{n}L{bot.}cukriniai žirniail{(L{t. p.}X{marrowfat pea})}
+0{marrowy}['m&aelig;r&#601;u&#618;]E{a}I{1}čiulpų, kaulų smegenų; pripildytas smegenųI{2}turiningas
+0{marry}['m&aelig;r&#618;]E{v}I{1}vestil{(žmoną)}; (iš)tekėti; su(si)tuokti;F{she married into a wealthy family}ji nutekėjo į turtingą šeimąI{2}apvesdinti, ištekintil{(to;L{t. p.}X{marry off})}I{3}sutuoktiI{4}su(si)jungtil{(with)}S{o}1{marry up}pritaikytiS{&loz;}X{marry in haste and repent at leisure}vesdamas paskubėsi, ilgai gailėsies
+0{Mars}[ma:z]E{n}L{astr.},L{mit.}Marsas
+0{Marseillaise}[,ma:se&#618;'je&#618;z]L{pr.}E{n}Marselietėl{(Prancūzijos himnas)}
+0{Marseilles}[ma:'se&#618;lz]E{n}Marselisl{(Prancūzijos miestas)}
+0{marsh}[ma:&#643;]E{n}pelkė, liūnas;F{marsh gas}pelkių dujos, metanas
+0{marshal}['ma:&#643;l]S{&rArr;}E{n}I{1}X{Marshal}L{kar.}maršalasI{2}maršalka; ceremonimeistrasI{3}teismo pareigūnasl{(L{t. p.}X{judge’s marshal})}I{4}L{amer.}L{ist.}teismo vykdytojasl{(atitinka šerifą Anglijoje)}I{5}L{amer.}policijos skyriaus viršininkasI{6}L{amer.}gaisrininkų komandos viršininkasS{&rArr;}E{v}X{(-ll-)}I{1}telkti, rinkti; išdėstyti tam tikra tvarkal{(faktus)}; suskirstyti;F{to marshal papers}sutvarkyti popieriusI{2}(su)rikiuotil{(kareivius, procesiją;L{t. p.}L{prk.})};F{to marshal one’s thoughts}surikiuoti savo mintisI{3}iškilmingai (į)vesti/palydėtil{(into)};F{he was marshalled to his place}jį iškilmingai nuvedė į vietąI{4}L{glžk.}rūšiuoti prekinius vagonus
+0{marshalling-yard}['ma:&#643;&#601;l&#618;&#331;,ja:d]E{n}L{glžk.}rūšiavimo stotis; manevrinė stotis
+0{marsh-harrier}[,ma:&#643;'h&aelig;r&#618;&#601;]E{n}L{zool.}nendrinė lingė
+0{marshland}['ma:&#643;l&aelig;nd]E{n}pelkynas
+0{marshmallow}[,ma:&#643;'m&aelig;l&#601;u]E{n}I{1}L{bot.}vaistinė svilarožėI{2}zefyrasl{(konditerijos gaminys)}
+0{marshy}['ma:&#643;&#618;]E{a}pelkinis, pelkių; pelkėtas, balotas
+0{marsupial}[ma:'sju:p&#618;&#601;l]L{zool.}S{&rArr;}E{n}sterblinis gyvūnasS{&rArr;}E{a}sterblinis
+0{mart}[ma:t]E{n}I{1}turgus; mugėI{2}prekybos centrasI{3}varžytinių salėl{(L{t. p.}X{auction mart})}
+0{marten}['ma:t&#618;n]E{n}I{1}L{zool.}kiaunė;F{pine marten}miškinė kiaunėI{2}kiaunena
+0{Martha}['ma:&theta;&#601;]E{n}Morta, Martal{(vardas)}
+0{martial}['ma:&#643;l]E{a}E{attr}I{1}karinis, karo;F{martial law}karo padėtis;F{martial bearing}kariška laikysenaI{2}karingas;F{martial spirit}kovos dvasia;F{martial arts}kovos menail{(karatė, dziudo, kunfuL{ir kt.})}
+0{Martian}['ma:&#643;n]S{&rArr;}E{n}marsietisS{&rArr;}E{a}Marso, marsiečių
+0{martin}['ma:t&#618;n]E{n}I{1}X{Martin}Martynas, Martinasl{(vardas)}I{2}L{zool.}kregždė;F{house martin}langinė kregždė
+0{martinet}[,ma:t&#618;'net]E{n}I{1}griežtos disciplinos šalininkasI{2}pedantas
+0{martingale}['ma:t&#618;&#331;ge&#618;l]E{n}I{1}pastatytos sumos padvigubinimas pralošusI{2}L{jūr.}martinštagasl{(L{t. p.}X{martingale stay})}
+0{Martini}[ma:'ti:n&#618;]E{n}martinisl{(kokteilis iš džino ir vermuto)}
+0{Martinique}[,ma:t&#618;'ni:k]E{n}Martinikal{(sala)}
+0{Martinmas}['ma:t&#618;nm&#601;s]E{n}L{bažn.}Martyno dienal{(lapkričio 11-oji)}
+0{martlet}['ma:tl&#618;t]E{n}I{1}L{zool.}L{psn.}čiurlys; kregždėI{2}L{her.}fantastinis paukštisl{(be kojų)}
+0{martooni}[m‚:'tu:n&#618;]E{n}L{amer.}L{šnek.}A{=R{Martini}}
+0{martyr}['ma:t&#601;]S{&rArr;}E{n}kankinys; kentėtojas;F{to make a martyr of oneself}dėtis kankiniu;F{he was a martyr to gout}jį kankino podagraS{&rArr;}E{v}l{(L{ppr.}E{pass})}(nu)kankinti, pasmerkti kančioms/mirčiai
+0{martyrdom}['ma:t&#601;d&#601;m]E{n}I{1}kankinystė, kankinio gyvenimas/mirtisI{2}kančia
+0{martyred}['ma:t&#601;d]E{a}E{attr}kankinio, daug iškentėjusiol{(apie išvaizdąL{ir pan.})}
+0{martyrize}['ma:t&#601;ra&#618;z]E{v}kankinti
+0{marvel}['ma:vl]S{&rArr;}E{n}I{1}stebuklas;F{it is a marvel that...}stebuklas, kad...;F{he’s a perfect marvel}jis nepaprastas žmogusI{2}L{psn.}nustebimas, nuostabaS{&rArr;}E{v}X{(-ll-)}stebėtis; žavėtisl{(at)}
+0{marvel(l)ous}['ma:vX{&#601;}l&#601;s]E{a}nuostabus, žavingas;F{marvel(l)ous idea}puiki mintis
+0{marvellously}['ma:vX{&#601;}l&#601;sl&#618;]E{adv}nuostabiai, puikiai
+0{marvie, marvy}['ma:v&#618;]E{int}L{amer.}L{šnek.}nuostabu!, žavu!
+0{Marx}[ma:ks]E{n}:X{Karl Marx}Karlas Marksasl{(vokiečių filosofas)}
+0{Marxism}['ma:ks&#618;zm]E{n}marksizmas
+0{Marxist}['ma:ks&#618;st]S{&rArr;}E{n}marksistasS{&rArr;}E{a}marksistinis; Markso
+0{Mary}['m&#604;&#601;r&#618;]E{n}Marija, Merė, Meril{(vardas)};F{Blessed Virgin Mary}Švenčiausioji Panelė Marija;F{Hail Mary}Sveika Marijal{(katalikų malda)}S{&loz;}X{bloody mary}degtinė su pomidorų sultimis;F{little mary}L{šnek.}pilvas
+0{Maryland}['mer&#618;l&#601;nd]E{n}Merilendasl{(JAV valstija)}
+0{marzipan}['ma:z&#618;p&aelig;n]E{n}marcipanas
+0{masc.}L{sutr.}X{masculine}L{gram.}vyriškosios giminės
+0{mascara}[m&aelig;'ska:r&#601;]E{n}dažai blakstienoms/antakiams dažyti
+0{mascon}['m&aelig;sk&#596;n]E{n}(mass concentrationL{sutr.}) maskonasl{(Mėnulio gravitacinė anomalija)}
+0{mascot}['m&aelig;sk&#601;t]E{n}talismanas
+0{masculine}['m&aelig;skjul&#618;n]S{&rArr;}E{n}L{gram.}I{1}vyriškoji giminėI{2}vyriškosios giminės žodisS{&rArr;}E{a}I{1}vyriškas; vyrų, vyroI{2}panaši į vyrąl{(apie moterį)}I{3}L{gram.}vyriškojil{(apie giminę)}; vyriškosios giminės
+0{masculinity}[,m&aelig;skju'l&#618;n&#601;t&#618;]E{n}vyriškumas; vyrystė
+0{masculinize}['m&aelig;skjul&#618;na&#618;z]E{v}(su)vyriškinti, daryti tinkamą vyrams
+0{maser}['me&#618;z&#601;]E{n}L{fiz.}mazeris
+0{mash}[m&aelig;&#643;]S{&rArr;}E{n}I{1}mentalas, misal{(alui daryti)}I{2}l{(sėlenųL{ir pan.})}lesalas, ėdalas; kratinys, jovalasl{(L{t. p.}L{prk.})}I{3}L{šnek.}l{(bulvių)}tyrė, košėS{&rArr;}E{v}I{1}(su)trinti, (su)grūstil{(į košę,L{t. p.}X{mash up})}I{2}sumęsti, sumaišytil{(salyklą)}
+0{masher^{1}}['m&aelig;&#643;&#601;]E{n}grūstukasl{(bulvėms)}; spaudyklė, spaustuvasl{(vaisiams)}
+0{masher^{2}}E{n}l{(L{tik v.})}L{šnek.}I{1}dabita, puošeivaI{2}donžuanas, širdžių ėdikasI{3}L{amer.}L{sl.}mergininkas, mergišius
+0{mask}[ma:sk]S{&rArr;}E{n}I{1}kaukėl{(L{t. p.}L{prk.})};F{stocking mask}ant galvos užmauta nailoninė kojinėl{(nusikaltėlio kaukė)};F{with the mask off}demaskuotas;F{to throw off one’s mask}L{prk.}nusimesti kaukę, parodyti savo tikrąjį veidąI{2}žmogus su kauke; maskarado dalyvisI{3}dujokaukėI{4}lapės snukisl{(kaip medžioklės trofėjus)}S{&rArr;}E{v}I{1}(už)maskuotil{(L{t. p.}L{prk.})}; (pa)slėpti;F{to mask the guns}L{kar.}užmaskuoti patrankas;F{to mask one’s real feelings}slėpti savo jausmusI{2}užsidėti kaukę; dalyvauti maskarade
+0{masked}[ma:skt]E{a}užmaskuotas; kaukėtas, su kauke;F{masked ball}kaukių balius
+0{masochism}['m&aelig;s&#601;k&#618;zm]E{n}mazochizmas
+0{mason}['me&#618;sn]S{&rArr;}E{n}I{1}mūrininkas; akmentašys;F{mason’s float}trintuvė;F{mason’s rule}tiesiklisI{2}X{Mason}masonasS{&rArr;}E{v}statyti iš akmens/plytų
+0{Mason-Dixon}[,me&#618;sn'd&#618;ksn]E{n}L{amer.}:X{Mason-Dixon line}Meisono Diksono linija; linija, skirianti pietinę ir šiaurinę JAV dalis
+0{Masonic}[m&#601;'s&#596;n&#618;k]E{a}masonų, masoniškas
+0{masonry}['me&#618;snr&#618;]E{n}I{1}l{(plytų, akmenų)}mūrinys, mūrasI{2}mūrininkystė; mūrijimasI{3}X{Masonry}masonai
+0{masque}[ma:sk]E{n}L{teatr.}L{ist.}maska
+0{masquerade}[,m&aelig;sk&#601;'re&#618;d]S{&rArr;}E{n}I{1}maskaradasI{2}L{prk.}apsimetimas, maskaradasS{&rArr;}E{v}maskuotis, apsimesti, dėtisl{(as)}
+0{Mass}[m&aelig;s]E{n}L{rel.}mišios;F{high Mass}iškilmingos mišios;F{to say/celebrate Mass}laikyti mišias
+0{mass}S{&rArr;}E{n}I{1}masėl{(L{t. p.}L{fiz.})};F{mass unit}L{fiz.}masės vienetasI{2}daugybė, galybė;F{in the mass}visumoje;F{he is a mass of bruises}ant jo kūno vienos mėlynės;F{we still had masses of time to spare}mes dar turėjome daugybę laisvo laikoI{3}didžioji dalis, didžiuma, daugumal{(of – ko)}I{4}X{(the masses)}E{pl}liaudies masėsS{&rArr;}E{a}E{attr}masinis; masiškas;F{mass meeting}masinis mitingas;F{on a mass scale}masiškai;F{mass communication}visuomenės informavimo priemonės, žiniasklaidaS{&rArr;}E{v}telkti(s), rinkti(s)l{(į krūvą)}I{2}L{kar.}(su)telkti, (su)koncentruoti
+0{Mass.}L{sutr.}X{Massachusetts}Masačūsetsasl{(JAV valstija)}
+0{Massachusetts}[,m&aelig;s&#601;'t&#643;u:s&#618;ts]E{n}Masačusetsasl{(JAV valstija)}
+0{massacre}['m&aelig;s&#601;k&#601;]S{&rArr;}E{n}I{1}žudynės, skerdynės;F{massacre of St. Bartholomew}L{ist.}Baltramiejaus naktisI{2}L{šnek.}sutriuškinimasS{&rArr;}E{v}I{1}(nu)žudyti, skerstil{(žmones)}I{2}L{šnek.}sutriuškinti
+0{massage}['m&aelig;sa:&#658;]L{pr.}S{&rArr;}E{n}masažasS{&rArr;}E{v}I{1}masažuotiI{2}klastotil{(duomenis, parodymusL{ir pan.})}
+0{massed}[m&aelig;st]E{a}I{1}vešlusI{2}sutelktinis, sukoncentruotasl{(ypačL{kar.})}; jungtinisl{(apie chorą, orkestrąL{ir pan.})}
+0{masseur}[m&aelig;'s&#601;:]L{pr.}E{n}l{(L{tik v.})}masažistas, masažuotojas
+0{masseuse}[m&aelig;'s&#601;:z]L{pr.}E{n}masažistė, masažuotoja
+0{massicot}['m&aelig;s&#618;k&#596;t]E{n}L{spec.}masikotas, švino oksidasl{(geltoni dažai)}
+0{massif}['m&aelig;si:f]E{n}kalnų masyvas
+0{massive}['m&aelig;s&#618;v]E{a}I{1}masyvus; stambus, sunkus;F{massive heart attack}sunkus širdies priepuolisI{2}didžiulis;F{massive efforts}didžiulės pastangosI{3}masinisI{4}L{kar.}sutelktinis, sukoncentruotas, masinis
+0{massively}['m&aelig;s&#618;vl&#618;]E{adv}stipriai, plačiai, solidžiai
+0{massiveness}['m&aelig;s&#618;vn&#618;s]E{n}masyvumas
+0{mass-produce}[,m&aelig;spr&#601;'dju:s]E{v}gaminti masiškai/serijomis
+0{mass-production}[,m&aelig;spr&#601;'d&#652;k&#643;X{&#601;}n]E{n}masinė gamyba
+0{massy}['m&aelig;s&#618;]E{a}L{psn.}masyvus; sunkus
+0{mast^{1}}[ma:st]S{&rArr;}E{n}l{(laivo, vėliavos, radijo)}stiebas;F{mast cover/cloth}L{jūr.}rangauto apvalkalasS{&loz;}X{to serve/sail before the mast}tarnauti paprastu jūrininkuS{&rArr;}E{v}statyti stiebą; pakelti į stiebą
+0{mast^{2}}E{n}l{(kiaulių)}mitalas, penasl{(iš gilių, kaštonųL{ir pan.})}
+0{mastectomy}[m&aelig;'stekt&#601;m&#618;]E{n}L{med.}krūties pašalinimas
+0{-masted}[-'ma:st&#618;d]l{(L{sudurt.}žodžiuose)}-stiebis;F{threemasted}tristiebis
+0{master}['ma:st&#601;]S{&rArr;}E{n}l{(L{tik v.})}I{1}šeimininkas, savininkas; ponas;F{master of the house}namo šeimininkas; šeimos galva;F{to be master of smth}turėti, valdyti ką;F{to be master of oneself}valdytis, tvardytis;F{to be one’s own master}būti sau šeimininku, būti savarankiškam/nepriklausomam;F{such master such servant}S{&cong;}koks ponas, toks ir tarnas;F{master and servant}darbdavys ir samdomas darbuotojasI{2}didelis menininkas, meistras;F{old masters}X{a)}senieji tapytojai/meistrai;X{b)}senųjų meistrų paveikslaiI{3}meistras; kvalifikuotas darbininkas;F{master of the subject}dalyko žinovas/ specialistas;F{to make oneself master of smth}gerai įsisavinti/įvaldyti ką;F{master of sports}sporto meistrasI{4}mokytojas;F{form master}klasės auklėtojas/vadovasI{5}X{Master}koledžo direktorius/vedėjasI{6}l{(prekinio)}laivo kapitonasl{(L{t. p.}X{master mariner})}I{7}magistrasl{(mokslo laipsnis)};F{master’s (degree)}magistro laipsnis;F{Master of Arts}humanitarinių mokslų magistras I{8}X{Master}ponaitisl{(kreipiantis į jaunuolį)}I{9}l{(filmo, įrašoL{ir pan.})}(pirmasis) originalasl{(L{t. p.}X{master copy})}I{10}E{attr}pagrindinis, vadovaujantis;F{master cylinder}L{tech.}pagrindinis cilindras;F{master plan}generalinis planasS{&loz;}X{master of ceremonies}X{a)}ceremonimeistras; tvarkytojasl{(iškilmėse)};X{b)}konferansjė;F{Master of the Horse}štalmeisterisl{(karaliaus dvare)}S{&rArr;}E{a}I{1}kvalifikuotas; profesionalusI{2}pirminis, originalol{(apie įrašą, sąrašąL{ir pan.})}I{3}pagrindinis;F{master index}pagrindinis indeksasS{&rArr;}E{v}I{1}įveikti; susidoroti; suvaldytil{(arklį; jausmus)}I{2}įsisavinti, (gerai) išmokti, įvaldytiI{3}vadovauti, valdyti, tvarkyti
+0{master-at-arms}[,ma:st&#601;(r)&#601;t'a:mz]E{n}L{jūr.}laivo policijos viršila
+0{masterclass}['ma:st&#601;kla:s]E{n}žymaus specialisto užsiėmimas
+0{masterful}['ma:st&#601;fX{&#601;}l]E{a}I{1}valdingas, viršininkiškasI{2}tvirtas, ryžtingasI{3}meistriškas
+0{masterfully}['ma:st&#601;fX{&#601;}l&#618;]E{adv}valdingai
+0{masterfulness}['ma:st&#601;fX{&#601;}ln&#618;s]E{n}valdingumas
+0{master-key}['ma:st&#601;ki:]E{n}visraktis
+0{masterliness}['ma:st&#601;l&#618;n&#618;s]E{n}meistriškumas
+0{masterly}['ma:st&#601;l&#618;]S{&rArr;}E{a}meistriškasl{(apie sugebėjimus, analizęL{ir pan.})}; tobulasS{&rArr;}E{adv}meistriškai
+0{mastermind}['ma:st&#601;ma&#618;nd]S{&rArr;}E{n}I{1}didelio proto žmogus; minčių valdovasI{2}tikrasis organizatorius/įkvėpėjasl{(slaptas, neoficialus)}S{&rArr;}E{v}sumanyti, suorganizuotil{(ypač slapta)}
+0{masterpiece}['ma:st&#601;pi:s]E{n}šedevras
+0{mastership}['ma:st&#601;&#643;&#618;p]E{n}I{1}meistriškumas; puikus mokėjimasI{2}viešpatavimas; valdymasI{3}L{knyg.}mokytojavimas, mokytojo pareigos
+0{masterstroke}['ma:st&#601;str&#601;uk]E{n}I{1}meistriškas darbasI{2}L{prk.}meistriškas ėjimas/veiksmas; gudrus žingsnis
+0{master-switch}['ma:st&#601;sw&#618;t&#643;]E{n}L{el.}pagrindinis jungiklis
+0{masterwork}['ma:st&#601;w&#601;:k]E{n}šedevras
+0{mastery}['ma:stX{&#601;}r&#618;]E{n}I{1}meistriškumas;l{(dalyko)}puikus mokėjimas;F{the mastery of technique}technikos įvaldymasI{2}viešpatavimas, vyravimas;F{man’s mastery over his environment}žmogaus vyravimas aplinkoje
+0{masthead}['ma:sthed]E{n}I{1}l{(laikraščio)}pavadinimas, data, adresasL{ir kt.}l{(pirmojo puslapio viršuje)}I{2}L{jūr.}stiebo viršūnė/topas;F{masthead light}topo šviesa
+0{mastic}['m&aelig;st&#618;k]E{n}I{1}mastika; vaškas grindimsI{2}mastikmedžio dervaI{3}mastikmedisl{(L{t. p.}X{mastic tree})}I{4}gelsva spalva
+0{masticate}['m&aelig;st&#618;ke&#618;t]E{v}I{1}kramtytiI{2}L{spec.}plastikuoti
+0{mastication}[,m&aelig;st&#618;'ke&#618;&#643;n]E{n}I{1}kramtymasI{2}L{spec.}plastikacija, plastikavimas
+0{masticator}['m&aelig;st&#618;ke&#618;t&#601;]E{n}L{tech.}mastikatorius
+0{masticatory}['m&aelig;st&#618;k&#601;tX{&#601;}r&#618;]E{a}kramtomasis
+0{mastiff}['m&aelig;st&#618;f]E{n}mastifasl{(anglų dogas)}
+0{masting}['ma:st&#618;&#331;]E{n}L{jūr.}rangautas
+0{mastitis}[m&aelig;s'ta&#618;t&#618;s]E{n}L{med.}mastitas, krūties uždegimas
+0{mastoid}['m&aelig;st&#596;&#618;d]E{n}L{anat.}spenelinė atauga;F{mastoid process}smilkinkaulio smegeninė atauga
+0{masturbate}['m&aelig;st&#601;be&#618;t]E{v}masturbuoti
+0{masturbation}[,m&aelig;st&#601;'be&#618;&#643;n]E{n}masturbacija
+0{mat^{1}}[m&aelig;t]S{&rArr;}E{n}I{1}demblys; kilimėlisI{2}paklotasl{(L{t. p.}L{stat.})}; patiesalas, paklotėl{(ant stalo po karštu indu, lempaL{ir pan.})}I{3}kas nors susivėlusio;F{a mat of hair}susivėlę plaukai; kaltūnasS{&loz;}X{to leave smb on the mat}atsisakyti priimtil{(svečiąL{ir pan.})};F{to have smb on the mat}prigriebti, išbarti ką;F{on the mat}L{šnek.}bėdoje; keblioje padėtyjeS{&rArr;}E{v}I{1}(iš)kloti demblius/kilimėlius; (pa)dengti dembliais/kilimėliaisI{2}sudraikyti, supinklioti; su(si)veltil{(apie plaukus)}
+0{mat^{2}}S{&rArr;}E{a}matinis, nepoliruotas, blausus;F{mat face}matinė veido spalvaS{&rArr;}E{n}I{1}pasportas, kartoninis rėmelisI{2}matinė apdaila, matinis paviršiusS{&rArr;}E{v}daryti matinį/blausų
+0{MAT}L{sutr.}X{Master of Arts in Teaching}pedagogikos mokslų magistras
+0{mat.}L{sutr.}X{matinee}dieninis spektaklis/koncertasX{matrix}matricaX{maturity}l{(mokėjimo)}terminas
+0{matador}['m&aelig;t&#601;d&#596;:]E{n}matadoras
+0{match^{1}}[m&aelig;t&#643;]E{n}I{1}degtukas;F{to strike a match}užbrėžti degtuką;F{to put a match}l{(to)}prikišti degtukąl{(prie)}I{2}L{kar.}dagtis
+0{match^{2}}S{&rArr;}E{n}I{1}poral{(for – kam)}; atitikimas, suderinimasl{(between)};F{to be a good match for smth}tikti/derėti prie koI{2}rungtynės, varžybos, susitikimas, mačasI{3}lygiavertis partneris/varžovas;F{he is more than a match for me}jis stipresnis/miklesnisL{ir pan.}už mane;F{he has not his match}jis neturi sau lygaus, jam niekas neprilygstaI{4}partija, poral{(sutuoktiniui)};F{to be a good match for smb}būti kam gera pora;F{to make a match}vesti; ištekėti;F{to make a match of it}susituoktiS{&loz;}X{slanging/shouting match}plūdimasis, apsižodžiavimasS{&rArr;}E{v}I{1}parinkti į porą; (pri)derinti, suderintil{(L{t. p.}X{match up})};F{to match colours}parinkti spalvas;F{well [ill] matched couple}gera [bloga] poraI{2}tikti į porą; derintis, derėti (prie), atitikti;F{these colours don’t match}šios spalvos nedera I{3}(su)priešintil{(against)};F{to match one’s strength against smb}eiti imtynių, imtisl{(su)};F{we must match cunning with cunning}į gudrybę reikia atsakyti gudrybeI{4}lygintis, prilygtil{(žaidimeL{ir pan.})}; rungtyniauti;F{nobody can match him}niekas negali su juo lygintisI{5}L{tech.}(su)derinti; suleisti, (su)lygintiI{6}L{psn.}apvesdinti; išleisti už vyro; (su)pirštil{(with)}S{o}1{match up}priderinti; prilygtil{(to)}
+0{matchable}['m&aelig;t&#643;&#601;bl]E{a}deramas, pritinkamas
+0{matchboard}['m&aelig;t&#643;b&#596;:d]E{n}L{stat.}įlaidinė lenta
+0{matchbook}['m&aelig;t&#643;buk]E{n}popierinių degtukų paketėlis
+0{matchbox}['m&aelig;t&#643;b&#596;ks]E{n}degtukų dėžutė
+0{matchless}['m&aelig;t&#643;l&#601;s]E{a}nepalyginamas, neprilygstamas
+0{matchlock}['m&aelig;t&#643;l&#596;k]E{n}L{kar.}L{ist.}dagtinė spyna;F{matchlock gun}dagtinis šautuvas
+0{matchmaker}['m&aelig;t&#643;,me&#618;k&#601;]E{n}piršlys
+0{matchmaking}['m&aelig;t&#643;,me&#618;k&#618;&#331;]E{n}piršlybos; piršimas
+0{match-point}[,m&aelig;t&#643;'p&#596;&#618;nt]E{n}L{sport.}taškas, lemiantis mačo baigtį
+0{matchstick}[,m&aelig;t&#643;st&#618;k]E{n}degtuko šiaudelis;F{matchstick men/figures}linijomis nubraižyti žmogeliukai
+0{matchwood}['m&aelig;t&#643;wud]E{n}I{1}mediena, tinkama degtukams gamintiI{2}smulkiai suskaldyta medienaS{&loz;}X{to make matchwood}l{(of)}sumušti/sudaužyti į šipulius
+0{mate^{1}}[me&#618;t]L{šach.}S{&rArr;}E{n}matasS{&rArr;}E{v}duoti matą
+0{mate^{2}}S{&rArr;}E{n}I{1}draugas, bičiulis;F{room mate}kambario draugas;F{what’s the time, mate ?}kiek laiko, drauguži? I{2}partneris, porininkas;F{running mate}L{amer.}kandidatas į viceprezidentusI{3}patinas, patelėI{4}vyras, žmonaI{5}pagalbininkas, padėjėjasI{6}L{jūr.}kapitono padėjėjas, šturmanasl{(prekybos laivyne)}I{7}l{(ypačL{amer.})}vienas iš porosl{(apie pirštinęL{ir pan.})}S{&rArr;}E{v}I{1}poruotis, susiporuoti; tuokti(s)I{2}(su)kergti; poruotiI{3}sugretinti, lygintiI{4}L{tech.}sujungti; sukibtil{(apie krumpliaračius)}
+0{maté}['m&aelig;te&#618;]L{isp.}E{n}matėl{(arbata iš paragvajinio bugienio lapų)}
+0{matelot}['m&aelig;tl&#601;u]L{pr.}E{n}L{jūr.}L{sl.}jūreivis
+0{matelote}['m&aelig;tl&#601;ut]L{pr.}E{n}matlotasl{(žuvies patiekalas su raudono vyno padažu)}
+0{mater}['me&#618;t&#601;]E{n}L{sl.}motina, motušė
+0{material}[m&#601;'t&#618;&#601;r&#618;&#601;l]S{&rArr;}E{n}I{1}medžiaga;F{materials science}medžiagotyra;F{building materials}statybinės medžiagosI{2}duomenys, medžiagal{(knygai, filmuiL{ir pan.}; for)};F{teaching material}mokymo medžiagaI{3}audeklas, medžiaga;F{curtain material}medžiaga užuolaidomsI{4}E{pl}reikmenys;F{writing materials}rašymo reikmenysS{&rArr;}E{a}I{1}materialinis, materialus, medžiaginis;F{material well-being}materialinė/medžiaginė gerovėI{2}daiktinis, daiktiškasI{3}esminis, svarbus;F{material evidence}L{teis.}X{a)}esminiai parodymai;X{b)}daiktiniai įrodymai
+0{materialisation}[m&#601;'t&#618;&#601;r&#618;&#601;la&#618;'ze&#618;&#643;n]E{n}tapimas realiu, materializacija
+0{materialise}[m&#601;'t&#618;&#601;r&#618;&#601;la&#618;z]E{v}materializuoti, materializuotis, įgyvendinti, realizuoti, realizuotis, pasirodyti, įkūnyti, įsikūnyti
+0{materialism}[m&#601;'t&#618;&#601;r&#618;&#601;l&#618;zm]E{n}I{1}L{filos.}materializmas;F{historical materialism}istorinis materializmasI{2}verteiviškumas, materializmas
+0{materialist}[m&#601;'t&#618;&#601;r&#618;&#601;l&#618;st]S{&rArr;}E{n}materialistas S{&rArr;}E{a}materialistinis;F{materialist conception of history}materialistinis istorijos supratimas
+0{materialistic}[m&#601;,t&#618;&#601;r&#618;&#601;'l&#618;st&#618;k]E{a}materialistinis
+0{materiality}[m&#601;,t&#618;&#601;r&#618;'&aelig;l&#601;t&#618;]E{n}I{1}materialumas, daiktiškumasI{2}L{teis.}svarbumas, esmingumas
+0{materialization}[m&#601;,t&#618;X{&#601;}r&#618;&#601;la&#618;'ze&#618;&#643;X{&#601;}n]E{n}materializacija, materializavimas, šmėkla, vaiduoklis
+0{materialize}[m&#601;'t&#618;&#601;r&#618;&#601;la&#618;z]E{v}I{1}materializuoti(s); (su)daiktinti; daiktėtiI{2}įgyvendinti; į(si)kūnyti, realizuoti(s);F{the strike failed to materialize}streikas neįvyko
+0{materially}[m&#601;'t&#618;&#601;r&#618;&#601;l&#618;]E{adv}I{1}materialiaiI{2}iš esmės
+0{matériel}[m&#601;,t&#618;&#601;r&#618;'el]L{pr.}E{n}materialinė dalisl{(techniniai įrengimai ir lėšos)}
+0{maternal}[m&#601;'t&#601;:nl]E{a}I{1}motinos; motiniškasI{2}iš motinos pusėsl{(apie gimines)}
+0{maternally}[m&#601;'t&#601;:n&#601;l&#618;]E{adv}motiniškai, kaip motina
+0{maternity}[m&#601;'t&#601;:n&#601;t&#618;]E{n}I{1}motinystėI{2}E{attr}:X{maternity home/hospital}gimdymo namai;F{maternity nurse}akušerė;F{maternity leave}motinystės atostogos;F{maternity clothes}nėščių moterų drabužiai
+0{matey}['me&#618;t&#618;]L{šnek.}S{&rArr;}E{a}draugiškas, draugingas;F{they’re very matey}jie dideli draugaiS{&rArr;}E{n}drauguži, žmogaul{(vyrui kreipiantis į vyrą)}
+0{mat-grass}['m&aelig;tgra:s]E{n}L{bot.}briedgaurė
+0{math}[m&aelig;&theta;]E{n}L{amer.}A{=R{maths}}
+0{math.}L{sutr.}X{mathematical}matematinis;F{mathematics}matematika
+0{mathematical}[,m&aelig;&theta;&#601;'m&aelig;t&#618;kl]E{a}I{1}matematinis, matematikosI{2}matematiškas, labai tikslus;F{mathematical precision}matematinis/matematiškas tikslumas
+0{mathematically}[m&aelig;&theta;&#618;'m&aelig;t&#618;kX{&#601;}ll&#618;]E{adv}matematiškai
+0{mathematician}[,m&aelig;&theta;&#601;m&#601;'t&#618;&#643;n]E{n}matematikas; gabus matematikai žmogus
+0{mathematics}[,m&aelig;&theta;&#601;'m&aelig;t&#618;ks]E{n}matematika
+0{maths}[m&aelig;&theta;s]E{n}L{sutr.}L{šnek.}A{=R{mathematics}}
+0{Matilda}[m&#601;'t&#618;ld&#601;]E{n}I{1}Matildal{(vardas)}I{2}X{matilda}L{austral.}L{sl.}manta
+0{matin}['m&aelig;t&#618;n]E{n}I{1}L{poet.}rytmetinisl{(paukščių)}čiulbėjimasI{2}E{pl}L{bažn.}rytmetinės pamaldos; ankstyvosios mišios
+0{matinée}['m&aelig;t&#618;ne&#618;]L{pr.}E{n}I{1}dieninis spektaklis/koncertas/seansasI{2}E{attr}:X{matinée idol}artistas, turintis didelį pasisekimą tarp moterų
+0{mating}['me&#618;t&#618;&#331;]E{n}I{1}suporavimas; kergimasI{2}poravimasis;F{mating call}l{(tetervinųL{ir pan.})}tuoktuvės
+0{mating-place}['me&#618;t&#618;&#331;ple&#618;s]E{n}L{spec.}tuokvietė
+0{matlo(w)}['m&aelig;tl&#601;u]E{n}A{=R{matelot}}
+0{matrass}['m&aelig;tr&#601;s]E{n}L{chem.}kolba su ilgu kaklu
+0{matriarch}['me&#618;tr&#618;a:k]E{n}I{1}genties vyriausiojil{(matriarchalinėje visuomenėje)}I{2}šeimos vyriausioji/galva; matrona
+0{matriarchal}[,me&#618;tr&#618;'a:kl]E{a}matriarchalinis, matriarchato
+0{matriarchy}['me&#618;tr&#618;a:k&#618;]E{n}matriarchatas
+0{matrices}['me&#618;tr&#618;si:z]E{pl}A{L{žr.}R{matrix}}
+0{matricide}['me&#618;tr&#618;sa&#618;d]E{n}I{1}motinžudysI{2}motinžudystė
+0{matriculate}[m&#601;'tr&#618;kjule&#618;t]S{&rArr;}E{v}oficialiai priimtil{ar}būti priimtam į aukštąją mokyklą; imatrikuliuotiS{&rArr;}E{n}priimtasis į aukštąją mokyklą
+0{matriculation}[m&#601;,tr&#618;kju'le&#618;&#643;n]E{n}I{1}imatrikuliacija, oficialus priėmimas į aukštąją mokykląI{2}L{ist.}stojamasis egzaminas į aukštąją mokykląl{(L{t. p.}X{matriculation examination})}
+0{matrilineal}[,m&aelig;tr&#618;'l&#618;n&#618;&#601;l]E{a}L{knyg.}nustatomas iš motinos pusėsl{(apie kilmęL{ir pan.})}
+0{matrimonial}[,m&aelig;tr&#618;'m&#601;un&#618;&#601;l]E{a}L{knyg.}santuokinis, vedybinis, matrimonialinis
+0{matrimony}['m&aelig;tr&#618;m&#601;n&#618;]E{n}L{knyg.}santuoka; moterystė
+0{matrix}['me&#618;tr&#618;ks]E{n}(E{pl}matrixes, -rices)I{1}L{spec.}matrica, formaI{2}L{biol.}l{(audinio)}tarpląstelinė medžiagaI{3}L{prk.}terpė; lopšysI{4}L{stat.}rišiklis, rišamoji medžiagaI{5}L{geol.}motininė/gyslinė uolienaI{6}l{(nago)}guolisI{7}L{anat.}L{psn.}gimda
+0{matron}['me&#618;tr&#601;n]E{n}I{1}garbinga ištekėjusi moteris; šeimos motina, matrona;F{matron of honour}svočiaI{2}vyresnioji medicinos sesuo; sesuo šeimininkėI{3}l{(mokyklosL{ir pan.})}ūkvedė
+0{matronly}['me&#618;tr&#601;nl&#618;]E{a}I{1}būdingas/derantis garbingai moteriai; orus, solidusI{2}L{euf.}storoka, apkūnil{(apie merginą)}
+0{MATS}L{sutr.}X{Military Air Transport Service}karinė oro transporto tarnyba
+0{matt(e)}[m&aelig;t]A{=R{mat^{2}}}E{a}
+0{matted^{1}}['m&aelig;t&#618;d]E{a}I{1}susivėlęsl{(apie plaukus)}; susipynęsl{(apie augalus)}I{2}išklotas dembliais/kilimėliais
+0{matted^{2}}E{a}matinis
+0{matter}['m&aelig;t&#601;]S{&rArr;}E{n}I{1}dalykas, klausimas; reikalas;F{it is a matter of common knowledge}tai visiems žinoma;F{it is no,}l{ar}X{not a, laughing matter}tai ne juokai, nėra ko čia juoktis;F{a matter of dispute/opinion}ginčijamas dalykas/klausimas;F{a matter of taste [habit,}etcX{]skonio [įpročioL{ir pan.}] dalykas;F{money matters}piniginiai reikalai;F{matters arising}klausimai, neįrašyti į darbotvarkę;F{as matters stand}taip susiklosčius aplinkybėms;F{that’s the end of the matter}viskas baigta, viskasI{2}bėda; sunkumas;F{what’s the matter?}kas yra?, kas atsitiko?;F{what’s the matter with you?}L{šnek.}kas jums?;F{there is something the matter with the engine}kažkas negerai su varikliu, kažkas atsitiko varikliuiI{3}medžiaga;F{grey matter}X{a)}pilkoji smegenų medžiaga;X{b)}L{šnek.}smegenys, protasI{4}L{filos.}materija I{5}l{(knygosL{ir pan.})}turinys; esmė;F{matter and style}turinys ir formaI{6}proga, pretekstasl{(of, for)}I{7}L{med.}pūliaiI{8}L{poligr.}rankraštis;F{printed matter}spausdiniaiS{&loz;}X{in the matter of...}kai dėl...;F{for that matter, for the matter of that}X{a)}kai dėl to; tuo atžvilgiu;X{b)}tiesą sakant;F{no matter}vis tiek, nesvarbu;F{no matter what}nieko nepaisant; kad ir kas būtų;F{no matter how...}kad ir kaip...;F{that’s the end of the matter, there’s an matter to the matter}viskas baigta, tail{(kieno)}paskutinis žodisS{&rArr;}E{v}I{1}turėti reikšmės, būti svarbiam; reikšti;F{it doesn’t matter}tai neturi reikšmės, nesvarbu;F{all that matter s is that..., the only thing that matters...}svarbiausia tai, kad...I{2}pūliuoti
+0{matter-of-course}['m&aelig;t&#601;r&#601;v'k&#596;:s]E{a}savaime suprantamas; natūralus
+0{matter-of-fact}['m&aelig;t&#601;r&#601;X{v}'f&aelig;kt]E{a}I{1}sausas, proziškas, be vaizduotėsl{(apie žmogų)}I{2}abejingas; dalykiškas
+0{matter-of-factly}['m&aelig;t&#601;&#596;vf&aelig;ktl&#618;]E{adv}dalykiškai, sausai, proziškai
+0{mattery}['m&aelig;t&#601;r&#618;]E{a}I{1}L{ret.}pūlingasI{2}L{psn.}reikšmingas
+0{Matthew}['m&aelig;&theta;ju:]E{n}Motiejus, Matjus; Matasl{(vardas;L{t. p.}L{bibl.})}
+0{Matthias}[m&#601;'&theta;a&#618;&#601;s]E{n}Matijasl{(vardas)}
+0{matting}['m&aelig;t&#618;&#331;]E{n}I{1}L{kuop.}plaušinės, dembliaiI{2}medžiaga dembliams/plaušinėms/kilimėliams gaminti
+0{mattins}['m&aelig;t&#618;nz]E{n}E{pl}A{=R{matin}}2
+0{mattock}['m&aelig;t&#601;k]E{n}kaplys, kauptukas; kirtiklis, kirstuvas
+0{mattoid}['m&aelig;t&#596;&#618;d]E{n}L{spec.}psichopatas, paranoikas
+0{mattress}['m&aelig;tr&#618;s]E{n}I{1}matracas; čiužinysI{2}L{stat.}fašinų čiužinys; paklotas
+0{maturate}['m&aelig;t&#643;ure&#618;t]E{v}I{1}bręstiI{2}L{med.}pritvinktil{(apie votį)}; iškiltil{(apie spuogą)}; pūliuoti
+0{maturation}[,m&aelig;t&#643;u're&#618;&#643;n]E{n}I{1}(su)brendimasI{2}L{med.}pritvinkimas; (su)pūliavimas
+0{mature}[m&#601;'t&#643;u&#601;]S{&rArr;}E{a}I{1}subrendęs; pribrendęs;F{mature student}subrendęs studentasl{(vyresnis kaip 25 m. amžiaus)}I{2}brandusl{(L{t. p.}L{prk.})}I{3}subrendęs, išlaikytasl{(apie sūrį, vynąL{ir pan.})}I{4}gerai apgalvotas;F{on mature reflection}gerai apgalvojus/apmąsčiusI{5}L{kom.}apmokėtinasl{(suėjus terminui)}S{&rArr;}E{v}I{1}(su)bręsti; (iš)nokti, prinoktiI{2}(su)brandintil{(L{t. p.}L{prk.})}I{3}išlaikytil{(vynąL{ir pan.})}I{4}L{kom.}sueitil{(apie mokėjimo terminą)}
+0{maturely}[m&#601;'t&#643;u&#601;l&#618;]E{adv}brandžiai
+0{maturity}[m&#601;'t&#643;u&#601;r&#601;t&#618;]E{n}I{1}subrendimas; branda, brandumasl{(L{t. p.}L{prk.})}I{2}užbaigtumasI{3}L{kom.}l{(vekselio mokėjimoL{ir pan.})}terminas;F{at maturity}suėjus terminui
+0{matutinal}[,m&aelig;tju:'ta&#618;nl]E{a}L{knyg.}I{1}rytinisI{2}ankstus
+0{maty}['me&#618;t&#618;]A{=R{matey}}E{a},E{n}
+0{matzo}['m&aelig;ts&#601;X{u}]E{n}macasl{(žydų velykinis valgis – neraugintos tešlos paplotėlis)}
+0{maud}[m&#596;:d]E{n}I{1}l{(škotų kalniečių)}vilnonis languotas apsiaustas, pledasI{2}kelioninis pledas
+0{maudlin}['m&#596;:dl&#618;n]S{&rArr;}E{a}sentimentalus; verksnus, linkęs verktil{(apie girtą žmogų)}S{&rArr;}E{n}sentimentalumas
+0{Maugham}[m&#596;:m]E{n}:X{William Somerset Maugham}Viljamas Somersetas Moemasl{(anglų rašytojas)}
+0{maul}[m&#596;:l]S{&rArr;}E{n}kūlė, tvoklėS{&rArr;}E{v}I{1}(su)maitoti, (su)žaloti, (ap)draskyti; kankintil{(katęL{ir pan.})}I{2}(su)darkyti; grubiai elgtisI{3}sukritikuoti, sutaršyti
+0{mauler}['m&#596;:l&#601;]E{n}I{1}žalotojas; kankintojasI{2}L{sport.}L{sl.}boksininkas
+0{maun}[m&#596;:n]E{n}L{dial.}pintinė
+0{maunder}['m&#596;:nd&#601;]E{v}judėti/veikti vangiai, be tiksloS{o}1{maunder about/along}slankioti;1{maunder on}kalbėti padrikai; vapėti, bambėti, murmėti
+0{maundy}['m&#596;:nd&#618;]E{n}L{bažn.}I{1}išmaldos dalijimas elgetomsl{(per Didįjį ketvirtadienį)}I{2}X{Maundy}E{attr}X{Maundy week}Didžioji savaitė;F{Maundy Thursday}Didysis ketvirtadienis
+0{Maurice}['m&#596;r&#618;s]E{n}Moris(as)l{(vardas)}
+0{Mauritania}[,m&#596;:r&#618;'te&#618;n&#618;&#601;]E{n}Mauritanijal{(Afrikos šalis)}
+0{Mauritian}[m&#601;'r&#618;&#643;&#618;&#601;n]E{n}Mauricijaus salos gyventojas
+0{Mauritius}[m&#601;'r&#618;&#643;&#601;s]E{n}Mauricijusl{(sala ir šalis)}
+0{mausoleum}[,m&#596;:s&#601;'l&#618;&#601;m]E{n}mauzoliejus
+0{mauve}[m&#601;uv]S{&rArr;}E{a}rausvai violetinisS{&rArr;}E{n}rausvai violetinė spalva
+0{maven}['me&#618;vn]E{n}L{amer.}L{šnek.}žinovas
+0{maverick}['m&aelig;vX{&#601;}r&#618;k]E{n}I{1}L{amer.}neįspauduotas veršiukasI{2}kitų/savarankiškų pažiūrų žmogus, originalas, kitamanis
+0{mavis}['me&#618;v&#618;s]E{n}L{poet.},L{dial.}strazdas giesmininkas
+0{maw}[m&#596;:]E{n}I{1}L{knyg.}tai, kas viską suryja,l{(plėšrūno)}ryklė, nasraiI{2}l{(paukščių)}gurklysI{3}l{(žuvų)}plaukiojamoji pūslė
+0{mawkish}['m&#596;:k&#618;&#643;]E{a}I{1}šleikštokasI{2}sentimentalus
+0{mawworm}['m&#596;:w&#601;:m]E{n}kirminas, kirmėlėl{(viduriuose)}
+0{max}[m&aelig;ks]L{amer.}L{šnek.}S{&rArr;}E{n}maksimumas; daugiausiaS{&loz;}X{to the max}baisiausiai, labaiS{&rArr;}E{v}:X{max out}stengtis kiek gali; persistengti
+0{Max}[m&aelig;ks]E{n}Maksasl{(vardas)}
+0{max}L{sutr.}X{maximum}maksimumas; maksimalus
+0{maxi}['m&aelig;ks&#618;]E{n}L{šnek.}maksi, maksi sijonas/suknelėL{ir pan.}
+0{maxilla}[m&aelig;k's&#618;l&#601;]E{n}(E{pl}-lae[-li:])L{anat.}l{(stuburinių gyvūnų)}(viršutinis) žandikaulis
+0{maxillary}[m&aelig;k's&#618;l&#601;r&#618;]E{a}L{anat.}(viršutinio) žandikaulio
+0{maxim}['m&aelig;ks&#618;m]E{n}I{1}maksima, aforizmas, sentencijaI{2}elgesio taisyklė; principas
+0{maxima}['m&aelig;ks&#618;m&#601;]E{pl}A{L{žr.}R{maximum}}E{n}
+0{maximal}['m&aelig;ks&#618;mX{&#601;}l]A{=R{maximum}}E{a}
+0{maximalist}['m&aelig;ks&#618;m&#601;l&#618;st]E{n}maksimalistas
+0{Maximilian}[,m&aelig;ks&#618;'m&#618;lj&#601;n]E{n}Maksimilijonas
+0{maximize}['m&aelig;ks&#618;ma&#618;z]E{v}I{1}maksimaliai/nepaprastai padidinti, didinti iki aukščiausio laipsnioI{2}skirti didžiausią reikšmę, maksimaliai išnaudotiI{3}L{komp.}maksimizuoti
+0{maximum}['m&aelig;ks&#618;m&#601;m]S{&rArr;}E{n}(E{pl}-ima, maximums) maksimumas; aukščiausias laipsnis;F{at the maximum}maksimaliai, daugiausiaS{&rArr;}E{a}E{attr}maksimalus, didžiausias
+0{maxi-taxi}['m&aelig;ks&#618;'t&aelig;ks&#618;]E{n}daugiavietis taksi, taksi mikroautobusas
+0{maxwell}['m&aelig;kswX{&#601;}l]E{n}L{el.}maksvelas
+0{May}[me&#618;]E{n}I{1}gegužėl{(mėnuo)}I{2}l{(L{t. p.}X{may})}L{prk.}L{poet.}gyvenimo pavasaris; jaunystė;E{pl}egzaminai gegužės mėnesįl{(Kembridžo universitete)}I{3}E{pl}irklavimo varžybos/lenktynės Kembridžel{(gegužės pabaigoje–birželio pradžioje;L{t. p.}X{May races})}I{4}E{attr}gegužės, gegužinis; Gegužės pirmosios;F{May Day}Gegužės pirmoji; Gegužės pirmosios šventė
+0{may^{1}}[me&#618;]E{v}E{mod}(might)I{1}galbūt, gali būti, galėtil{(reiškiant galimybę, abejonę)};F{he may arrive tomorrow}galbūt jis atvyks rytoj;F{the train may be late}traukinys gali vėluoti; F{I thought it might rain}maniau, kad gal lis;F{they may have seen us}gali būti, kad jie mus matėI{2}galima, galėtil{(reiškiant prašymą/leidimą)};F{may I come and see you?}ar aš galiu, ar man galima užeiti aplankyti jus?;F{one may smoke here}čia galima rūkyti;F{you may go out of the classroom}jūs galite,l{ar}jums leidžiama, išeiti iš klasėsI{3}l{L{klaus.}sakiniuoseL{vart.}klausimo griežtumui sušvelninti:}X{who might that be?}kas tai galėtų būti?I{4}E{aux}l{sudurtin. tariamosios nuosakos formoms sudaryti (tikslo/nuolaidos šalutiniuose sakiniuose ir reiškiant pageidavimą šaukiamuosiuose sakiniuose)};F{put the book here so that he may easily find it}padėk knygą čia, kad jis lengvai ją rastų;F{be that as it may}kad ir kaip ten būtų; kas bus, tas bus;F{may theirs be a happy meeting!}tebūna jų susitikimas laimingas!
+0{may^{2}}E{n}gudobelės žiedai
+0{May-apple}['me&#618;,&aelig;pl]E{n}L{bot.}podofilas
+0{maybe}['me&#618;b&#618;]E{adv}galbūt, gal;F{he was here for maybe five days}jis čia buvo gal penkias dienas
+0{maybeetle}['me&#618;,bi:tl]E{n}A{=R{maybug}}
+0{maybloom}['me&#618;blu:m]E{n}gudobelės žiedas
+0{maybug}['me&#618;b&#652;g]E{n}L{zool.}grambuolys, paprastasis karkvabalis
+0{mayday}['me&#618;de&#618;]E{n}L{av.},L{jūr.}l{(tarptautinis)}nelaimės signalasl{(perduodamas per radiją)}
+0{mayflower}['me&#618;,flau&#601;]E{n}gegužę žydinti gėlė,L{pvz.}, puriena, kartenė, gudobelė
+0{mayfly}['me&#618;fla&#618;]E{n}I{1}L{zool.}lašalas, vienadienė peteliškėI{2}panašus į lašalą dirbtinis jaukasl{(žuviai)}
+0{mayhem}['me&#618;hem]E{n}I{1}sąmyšis, chaosasI{2}L{teis.}L{ist.}tyčinis kūno sužalojimas, suluošinimas
+0{maying}['me&#618;&#618;&#331;]E{n}Gegužės šventės šventimasl{(Anglijoje)}; Gegužės pirmosios iškilmės/demonstracijaL{ir pan.}
+0{mayn’t}[me&#618;&#601;nt]L{sutr.}L{šnek.}A{=R{may not}}
+0{mayo}['me&#618;&#601;u]E{n}L{amer.}L{šnek.}A{=R{mayonnaise}}
+0{mayonnaise}[,me&#618;&#601;'ne&#618;z]L{pr.}E{n}majonezas
+0{mayor}[m&#604;&#601;]E{n}meras;F{Lord mayor}lordas meras;F{Lord mayor’s Day}lapkričio 9-ojil{(kada Londono lordas meras pradeda eiti savo pareigas)}
+0{mayoral}['m&#604;&#601;r&#601;l]E{a}mero;F{mayoral duties}mero pareigos
+0{mayoralty}['m&#604;&#601;r&#601;lt&#618;]E{n}I{1}mero pareigosI{2}mero pareigų ėjimo laikas
+0{mayoress}['m&#604;&#601;r&#618;s]E{n}I{1}mero žmonaI{2}merė
+0{maypole}['me&#618;p&#601;ul]E{n}gegužės medisl{(gėlėmis, kaspinais papuoštas stulpas, apie kurį šokama Gegužės 1-ąją Anglijoje)}S{&loz;}X{as tall as a maypole}aukštas kaip žalga, didelis kaip stulpas
+0{May-queen}['me&#618;kwi:n]E{n}mergaitė, išrinkta „gegužės karaliene“l{(per Gegužės 1-osios šventės žaidynes Anglijoje)}
+0{may’ve}['me&#618;&#601;v]A{=R{may have}}
+0{mayweed}['me&#618;wi:d]E{n}L{bot.}šunramunė, bobramunis;F{scentless mayweed}bekvapė ramunė
+0{mazarine}[,m&aelig;z&#601;'ri:n]S{&rArr;}E{n}tamsiai mėlyna spalvaS{&rArr;}E{a}tamsiai mėlynas
+0{maze}[me&#618;z]S{&rArr;}E{n}I{1}labirintas;F{the maze of tiny streets}gatvelių labirintasI{2}painiava, raizginysS{&rArr;}E{v}I{1}supainioti, suglumintiI{2}klajoti labirinte
+0{mazer}['me&#618;z&#601;]E{n}L{ist.}medinė taurėl{(su sidabriniais papuošimais)}
+0{mazurka}[m&#601;'z&#601;:k&#601;]E{n}mazurka
+0{mazy}['me&#618;z&#618;]E{a}supainiotas, painus
+0{MB}L{sutr.}X{Bachelor of Medicine}medicinos mokslų bakalauras
+0{MB, mb}L{sutr.}L{komp.}X{megabyte}megabaitas
+0{Mb}L{sutr.}X{megabar}megabarasl{(slėgio vienetas)}
+0{mb}L{sutr.}X{millibar}milibarasl{(slėgio vienetas)}
+0{MBA}L{sutr.}X{Master of Business Administration}verslo magistras
+0{MBE}L{sutr.}X{Member of the Order of the British Empire}Britanijos imperijos 5-ojo laipsnio ordino kavalierius
+0{MBO}L{sutr.}X{management buyout}firma, nuperkama jos valdančiojo personalo
+0{MC}L{sutr.}X{Master of Ceremonies}ceremonimeistras; konferansjėX{Member of Congress}l{(JAV)}Kongreso narysX{Military Cross}„Karo kryžius“l{(ordinas)}
+0{Mc, mc}L{sutr.}X{megacycle}megahercas
+0{McCoy}[m&#601;'k&#596;&#618;]E{a}:X{the real McCoy}L{šnek.}geriausias/tikras daiktas/žmogus
+0{MD}L{sutr.}X{Doctor of Medicine}medicinos daktarasX{Managing Director}menedžeris, valdytojasX{mentally deficient}protiškai atsilikęs
+0{MD, Md.}L{sutr.}X{Maryland}Merilandasl{(JAV valstija)}
+0{M./D., m.d.}L{sutr.}X{months after date}l{(po kiek)}mėnesių nuo šios datos
+0{Md}L{sutr.}X{mendelevium}L{chem.}mendelevis
+0{M-day}['emde&#618;]E{n}L{amer.}pirmoji mobilizacijos diena
+0{mdse}L{sutr.}X{merchandise}prekės
+0{me^{1}}[m&#618;, mi:]E{pron}E{pers}l{(objektinis linksnis)}manęs, man, manel{L{ir t. t.};L{šnek.}L{vart.}vietoj I};F{he saw me}jis matė mane;F{give me the book}duokite man knygą;F{listen to me, please}prašau paklausyti manęs; F{I poured me a glass of water}aš įsipyliau stiklinę vandens;F{it’s me}tai aš
+0{me^{2}}E{n}L{muz.}mil{(nata)}
+0{ME}L{sutr.}X{Managing Editor}atsakingasis redaktoriusX{Master of Education}edukologijos magistras (L{t. p.}M Ed)X{Mechanical Engineer}inžinierius mechanikasX{Middle East}Viduriniai RytaiX{Middle English}vidurinė anglų kalba
+0{ME, Me.}L{sutr.}X{Maine}Meinasl{(JAV valstija)}
+0{mea culpa}[,me&#618;&#601;'kulp&#601;]L{lot.}mano kaltė, dėl mano kaltės
+0{mead^{1}}[mi:d]E{n}midus
+0{mead^{2}}E{n}L{poet.},L{psn.}pieva
+0{meadow}['med&#601;u]E{n}pieva; lanka
+0{meadow-grass}['med&#601;ugra:s]E{n}L{bot.}miglė;F{annual [smooth-stalked] meadow-grass}vienametė [pievinė] miglė
+0{meadow-rue}['med&#601;u'ru:]E{n}L{bot.}vingiris
+0{meadow-saffron}['med&#601;u,s&aelig;fr&#601;n]E{n}L{bot.}rudeninis vėlyvis
+0{meadow-saxifrage}['med&#601;u,s&aelig;ks&#618;fr&#618;d&#658;]E{n}L{bot.}gumbuotoji uolaskėlė
+0{meadowsweet}['med&#601;uswi:t]E{n}L{bot.}I{1}pelkinė vingiorykštėI{2}lanksva
+0{meadowy}['med&#601;u&#618;]E{a}I{1}pievinis, pievųI{2}pievingas, gausus pievųl{(apie vietovę)}
+0{meager}['mi:g&#601;]E{a}L{amer.}A{=R{meagre}}
+0{meagre}['mi:g&#601;]E{a}I{1}liesas, sulysęsI{2}menkas, skurdus; nepakankamas;F{the room had a very meagre look}kambarys atrodė labai skurdžiaiI{3}pasninkinisI{4}neturiningas; ribotas
+0{meagrely}['mi:g&#601;l&#618;]E{adv}menkai, skurdžiai
+0{meagreness}['mi:g&#601;n&#618;s]E{n}menkumas, skurdumas
+0{meal^{1}}[mi:l]S{&rArr;}E{n}rupūs miltai;L{amer.}kukurūzų miltaiS{&rArr;}E{v}L{ret.}apibarstyti miltais
+0{meal^{2}}S{&rArr;}E{n}valgis; valgymas;F{evening meal}vakarienėS{&loz;}X{to make a meal}l{(of)}L{šnek.}pernelyg ilgai vargti/krapštytisl{(su)}S{&rArr;}E{v}valgyti, užkandžiauti
+0{mealies}['mi:l&#618;z]E{n}E{pl}kukurūzail{(P. Afrikoje)}
+0{meals-on-wheels}['mi:lz&#596;n'wi:lz]E{n}išvežiojami pusryčiai/pietūs/ vakarienėl{(ligoniams, seneliams)}
+0{meal-ticket}['mi:lt&#618;k&#618;t]E{n}I{1}talonas maistuiI{2}L{šnek.}duonpelnys, duondavys, maitintojas
+0{mealtime}['mi:lta&#618;m]E{n}l{(pusryčių, pietųL{ir pan.})}valgymo laikas;F{at mealtimes}valgant
+0{mealworm}['mi:lw&#601;:m]E{n}L{zool.}didysis milčius
+0{mealy}['mi:l&#618;]E{a}I{1}miltinis, miltiškasI{2}miltinas, miltuotasI{3}miltingasl{(apie bulves)}I{4}pabalęs; balzganasI{5}A{=R{mealy-mouthed}}
+0{mealy-mouthed}['mi:l&#618;'maud]E{a}I{1}saldžiakalbis, saldžiažodis, saldžialiežuvisI{2}nepasakantis tiesiai, nenuoširdus
+0{mean^{1}}[mi:n]E{a}I{1}prastas; menkas;F{no mean}neeilinis, labai geras, žymus;F{no mean abilities}nemenki gabumaiI{2}vidutinis;F{mean depth}vidutinis gylisI{3}žemas; blogas, nedoras; nemalonus;F{he’s a mean character}jis – bjaurus tipasI{4}šykštusI{5}L{amer.}piktas;L{šnek.}nesmagus, susinepatoginęs;F{to feel mean}jaustis nesmagiai/nepatogiai
+0{mean^{2}}S{&rArr;}E{n}I{1}vidurys;F{the golden/happy mean}aukso vidurysI{2}L{mat.}vidurkisS{&rArr;}E{a}E{attr}vidurinis;F{mean line}L{mat.}pusiaukampinė;F{mean time}vidurinis/saulės laikasS{&loz;}X{in the mean time/while}tuo laiku; tuo tarpu
+0{mean^{3}}E{v}(meant)I{1}ketinti, norėti; turėti omenyje;F{I didn’t mean to offend you}aš nenorėjau jūsų įžeisti;F{I mean it}aš rimtai kalbu, aš nejuokauju;F{I didn’t mean it}aš nenorėjau tol{(įžeistiL{ir pan.})};F{that’s not what I meant}aš ne tai turėjau omenyje;F{to mean mischief}X{a)}kėsintis;X{b)}pranašauti ką nors bloga;F{to mean well [ill]norėti gero [blogo]; turėti gerų ketinimų [piktų kėslų];F{what do you mean by that?}X{a)}ką jūs tuo norite pasakyti?;X{b)}kodėl jūs taip elgiatės?I{2}skirtil{(for)};F{these chairs are meant for guests}šios kėdės skirtos svečiams;F{to mean it to be used}skirti vartojimuiI{3}reikšti;F{what does all this mean?}ką visa tai reiškia?;F{money means little to me}pinigai man neturi reikšmėsI{4}E{pass}būti numanomam/manomam;F{they are meant to be good cars}manoma, kad tai geri automobiliaiI{5}E{pass}l{(L{neig.}sakinyje)}netiktil{(kokiam darbui/veiklai; for)}
+0{meander}[m&#618;'&aelig;nd&#601;]S{&rArr;}E{n}I{1}l{(upės, kelio)}vingis; vingiuotas takasI{2}L{archit.}meandral{(puošmena)}S{&rArr;}E{v}I{1}vingiuotil{(apie upę, kelią)}I{2}klaidžioti/klajoti be tikslol{(L{t. p.}X{meander along})}S{o}1{meander on}balbatuoti, postringauti
+0{meandering}[m&#618;'&aelig;nd&#601;r&#618;&#331;]E{a}I{1}vingiuojantisl{(apie kelią, upę)}I{2}padrikas, nerišlus
+0{meandrous}[m&#618;'&aelig;ndr&#601;s]E{a}vingiuotas; vingrus
+0{meanie}['mi:n&#618;]E{n}L{šnek.}nedorėlis, gobšuolis
+0{meaning}['mi:n&#618;&#331;]S{&rArr;}E{n}reikšmė; prasmė;F{a word with two meanings}žodis, turintis dvi reikšmes;F{with meaning}reikšmingai;F{life seemed to have lost its meaning}atrodė, kad gyvenimas neteko prasmės;F{yes, I get your meaning}taip, aš suprantu, ką tu nori pasakytiS{&rArr;}E{a}reikšmingas; daug reiškiantis;F{meaning smile}reikšminga šypsena
+0{meaningful}['mi:n&#618;&#331;fX{&#601;}l]E{a}I{1}reikšmingas; prasmingas;F{meaningful look/glance}reikšmingas žvilgsnis; F{meaningful contacts}naudingi kontaktai;F{my life is no longer meaningful}mano gyvenimas nebeturi prasmėsI{2}reikšminis;F{explain it in a way that is meaningful to children}paaiškinkite taip, kad vaikai suprastų
+0{meaningfully}['mi:n&#618;&#331;fX{&#601;}ll&#618;]E{adv}prasmingai, reikšmingai
+0{meaningfulness}['mi:n&#618;&#331;fX{&#601;}ln&#618;s]E{n}prasmingumas, reikšmingumas
+0{meaningless}['mi:n&#618;&#331;l&#601;s]E{a}I{1}bereikšmis; beprasmisI{2}nereikšmingas; beprasmiškas
+0{meaninglessly}['mi:n&#618;&#331;l&#618;sl&#618;]E{adv}beprasmiškai
+0{meaninglessness}['mi:n&#618;&#331;l&#618;sn&#618;s]E{n}beprasmiškumas
+0{meaningly}['mi:n&#618;&#331;l&#618;]E{adv}I{1}reikšmingaiI{2}sąmoningai, tyčia
+0{mean-looking}['mi:nluk&#618;&#331;]E{n}I{1}piktasI{2}L{šnek.}ultramadingas
+0{meanly}['mi:nl&#618;]E{adv}I{1}niekšiškai, žemaiI{2}šykščiaiI{3}menkai, prastai; vidutiniškai
+0{meanness}['mi:nnis]E{n}I{1}niekšybė; žemumasI{2}šykštumasI{3}skurdumasI{4}L{ret.}menkystė; vidutinybė
+0{means}[mi:nz]E{n}I{1}(E{pl}means) priemonė; būdas;F{a means to an end}priemonė tikslui pasiekti;F{the means of communication}susisiekimo/ryšių priemonės;F{the means and instruments of production}gamybos priemonės ir įrankiai;F{by all means}X{a)}bet kuriuo būdu; būtinai;X{b)}žinoma, prašom;F{by means of smth}pasinaudojant kuo;F{by no means}jokiu būdu;F{it is by no means cheap}tai anaiptol nepigu;F{by any means}bet kuria kaina, bet kuriuo būdu I{2}E{pl}lėšos, ištekliai, turtas;F{means of subsistence}pragyvenimo lėšos/priemonės;F{according [beyond] one’s means}pagal [ne pagal] išgales;F{man of means}pasiturintis žmogusI{3}E{attr}:X{means test}l{(pašalpos)}reikalingumo nustatymas
+0{mean-spirited}['mi:n'sp&#618;r&#618;t&#618;d]E{a}niekšiškas, žemas;F{mean-spirited fellow}niekšas
+0{means-testing}[mi:nz'test&#618;&#331;]S{&rArr;}E{n}pašalpos reikalingumo nustatymasS{&rArr;}E{a}pašalpos reikalingumo nustatymo
+0{meant}[ment]E{past}l{ir}E{pII}A{L{žr.}R{mean^{3}}}
+0{meantime}['mi:nta&#618;m]S{&rArr;}E{n}:X{in the meantime}tuo tarpu;F{for the meantime}kol kasS{&rArr;}E{adv}A{=R{meanwhile}}
+0{meanwhile}['mi:nwa&#618;l]E{adv}tuo tarpu
+0{meany}['mi:n&#618;]E{n}A{=R{meanie}}
+0{measles}['mi:zlz]E{n}I{1}L{med.}tymai;F{German measles}raudonukėI{2}L{vet.}finozė
+0{measly}['mi:zl&#618;]E{a}I{1}apkrėstas viriais/trichinomisI{2}tymų; sergantis tymaisI{3}L{šnek.}niekingas, varganas, menkas
+0{measurable}['me&#658;X{&#601;}r&#601;bl]E{a}I{1}išmatuojamas;F{in the measurable future}netolimoje ateityje; F{within measurable distance}l{(of)}netoliese, artil{(ko)}I{2}L{knyg.}gana žymus; ne ypač didelis, pakankamai didelis
+0{measurably}['me&#658;X{&#601;}r&#601;bl&#618;]E{adv}tam tikru mastu
+0{measure}['me&#658;&#601;]S{&rArr;}E{n}I{1}matas, matavimo priemonė/vienetas;F{linear [liquid, square,}E{etc.}X{] measures}ilgio [skysčio, plotoL{ir pan.}] mataiI{2}saikas;F{full measure}X{a)}geras saikas;X{b)}L{prk.}visa, kas priklauso;F{dry measures}biralų saikaiI{3}mastas, laipsnis, matas;F{to set measures}l{(to)}apriboti;F{beyond measure, out of measure}pernelyg, nepaprastai, labai;F{in a large measure}dideliu mastu;F{in some measure}tam tikru mastu, iš dalies;F{made to measure}padarytas/pasiūtas pagal užsakymą;F{to take smb’s measure}X{a)}imti kieno matą;X{b)}L{prk.}perprasti, įvertinti kąI{4}priemonė;F{to take (drastic) measures}imtis (griežtų) priemoniųI{5}l{(degtinėsL{ir pan.})}dozė, porcijal{(of)}I{6}L{mat.}daliklisI{7}L{muz.}taktasI{8}L{lit.}pėda, metrasI{9}L{parl.}įstatymo projektasI{10}L{psn.}šokis;F{to tread a measure}atliktil{(šokio)}figūrąI{11}E{pl}L{geol.}l{(tam tikros geologinės formacijos)}sluoksnynas;l{(sluoksnių)}svitaI{12}L{poligr.}skilties plotisS{&loz;}X{for good measure}priedo;F{measure for measure}S{&cong;}akis už akį, dantis už dantį;F{to get the measure of smb}perprasti, permanyti kąS{&rArr;}E{v}I{1}(iš)matuotil{(L{t. p.}X{measure up})}; atmatuotil{(L{t.L{p.}}X{measure off})}; seikėti, saikuotiI{2}imti matąl{(siuvant drabužį)}I{3}nustatyti, įvertintil{(būdą, pobūdį, padėtįL{ir pan.})};F{to measure smb with one’s eye}nužvelgti ką nuo galvos iki kojųI{4}būtil{(tam tikro ilgio/pločioL{ir pan.})};F{the house measures 60 feet long}namas yra 60 pėdų ilgioI{5}lyginti;E{refl}išbandyti jėgas, lygintisl{(with, against – su)}I{6}priderinti, suderintiI{7}L{poet.}nueitil{(nuotolį)}S{o}1{measure out}atmatuoti, atseikėtil{(dalant, skirstant)};1{measure up}l{(to)}X{a)}pasiektil{(lygį)}, prilygti;X{b)}atitiktil{(reikalavimusL{ir pan.})};F{to measure up to one’s task}susidoroti su iškeltu uždaviniu
+0{measured}['me&#658;&#601;d]E{a}I{1}išmatuotas; dozuotas, atseikėtas; tikslus;F{measured mile}matavimo myliaI{2}apgalvotasI{3}ritmingas, vienodas
+0{measureless}['me&#658;&#601;l&#601;s]E{a}L{poet.}neišmatuojamas; beribis
+0{measurement}['me&#658;&#601;m&#601;nt]E{n}I{1}(iš)matavimasI{2}l{(L{ppr.}E{pl})}matai, matmenys; matų sistema;F{to make/take measurements}išmatuoti;F{to take smb’s measurements}imti matusl{(siuvant drabužį)}I{3}įvertinimas, nustatymas
+0{measurer}['me&#658;&#601;r&#601;]E{n}matuoklis, matuojamasis prietaisas
+0{measuring-tape}['me&#658;&#601;r&#618;&#331;te&#618;p]E{n}matavimo juosta
+0{meat}[mi:t]E{n}I{1}mėsa;F{canned/tinned meat}mėsos konservai;F{variety meat}mėsos subproduktaiI{2}l{(vaisiaus)}mėsa, minkštimas;l{(riešuto)}branduolysI{3}L{prk.}turinys; esmėl{(of)};F{full of meat}turiningasI{4}L{amer.}L{šnek.}mėgstamas užsiėmimasI{5}L{psn.}maistas; valgis;F{meat and drink}valgis ir gėrimas;F{at meat}valgant;F{after meat}po valgioS{&loz;}X{easy meat}lengvas laimikis, lengva auka;F{the meat and potatoes}L{amer.}L{šnek.}l{(diskusijųL{ir pan.})}svarbiausias dalykas;F{to be meat and drink to smb}(su)teikti kam didelį malonumą, nesudaryti kam sunkumų;F{one man’s meat is another man’s poison}S{&cong;}katei juokai, pelei verksmai; kas vienam naudinga, kitam kenksminga
+0{meatball}['mi:tb&#596;:l]E{n}mėsos kukulis
+0{meat-chopper}['mi:t,t&#643;&#596;p&#601;]E{n}mėsai malti mašinėlė, mėsmalė
+0{meat-eating}['mi:ti:t&#618;&#331;]E{a}mėsėdis
+0{meat-grinder}['mi:t,gra&#618;nd&#601;]E{n}L{amer.}A{=R{meat-chopper}}
+0{meatloaf}['mi:tl&#601;uf]E{n}l{(kepaliuko formos)}maltos mėsos kepsnys
+0{meatman}['mi:tm&#601;n]E{n}(E{pl}-men[-m&#601;n])l{(L{tik v.})}mėsininkas
+0{meat-packing}['mi:tp&aelig;k&#618;&#331;]E{n}L{amer.}fasuotos/šaldytos mėsos gamyba
+0{meat-safe}['mi:tse&#618;f]E{n}šaldytuvas mėsai, refrižeratorius
+0{meatus}[m&#618;'e&#618;t&#601;s]E{n}(E{pl}meatuses, meatus)L{anat.}landa
+0{meaty}['mi:t&#618;]E{a}I{1}mėsingas; mėsiškasI{2}turiningas
+0{Mecca}['mek&#601;]E{n}I{1}Mekal{(musulmonų šventasis miestas)}I{2}X{mecca}L{prk.}meka
+0{mechanic}[m&#618;'k&aelig;n&#618;k]E{n}I{1}mechanikas;F{dental mechanic}dantų technikasI{2}amatininkas; dirbtuvės darbininkas
+0{mechanical}[m&#618;'k&aelig;n&#618;kl]S{&rArr;}E{a}I{1}mašininis, mašinų;F{mechanical engineering}mašinų gamybaI{2}mechaninis;F{mechanical engineer}inžinierius mechanikas;F{mechanical means}l{(darbų)}mechanizavimo priemonės;F{mechanical failure}mechaninis gedimasI{3}L{prk.}mechaniškas, mašinalusI{4}L{filos.}mechanistinisS{&rArr;}E{n}E{pl}l{(mašinos)}mechanizmai
+0{mechanically}[m&#618;'k&aelig;n&#618;kX{&#601;}l&#618;]E{adv}mechaniškai, mašinaliai
+0{mechanically-minded}[m&#618;,k&aelig;n&#618;kl&#618;'ma&#618;nd&#618;d]E{a}nusimanantis apie mašinas
+0{mechanician}[,mek&#601;'n&#618;&#643;n]E{n}I{1}konstruktorius mašinų gamintojasI{2}L{ret.}mechanikas
+0{mechanics}[m&#618;'k&aelig;n&#618;ks]E{n}I{1}mechanikaI{2}mechanizmas, technikal{(of)}
+0{mechanisation}[,mek&#601;na&#618;'ze&#618;&#643;n]E{n}mechanizacija
+0{mechanise}['mek&#601;na&#618;z]E{v}mechanizuoti, motorizuoti
+0{mechanism}['mek&#601;n&#618;zm]E{n}I{1}mechanizmasl{(L{t. p.}L{prk.})}; įranga, įrenginys;F{defense mechanism}L{fiziol.}apsauginis mechanizmasI{2}l{(atlikimo)}technika I{3}L{filos.}mechanicizmas
+0{mechanist}['mek&#601;n&#618;st]E{n}L{filos.}mechanistas
+0{mechanistic}[,mek&#601;'n&#618;st&#618;k]E{a}L{filos.}mechanistinis
+0{mechanization}[,mek&#601;na&#618;'ze&#618;&#643;n]E{n}mechanizacija, mechanizavimas
+0{mechanize}['mek&#601;na&#618;z]E{v}mechanizuoti
+0{M. Econ.}L{sutr.}X{Master of Economics}ekonomikos magistras
+0{med}[med]E{a}L{šnek.}medicinos
+0{Med}[med]E{n}l{(X{the Med})}L{šnek.}Viduržemio jūros rajonas
+0{med.}L{sutr.}X{medical}medicinos, medicininis;F{medicine}medicinaX{medium}vidurys; vidurinis
+0{medal}['medl]E{n}medalis; ordinas;F{Medal of Honor}L{amer.}L{kar.}garbės ordinasS{&loz;}X{the reverse of the medal}S{&cong;}atvirkščioji medalio pusė
+0{medalist}['medX{&#601;}l&#618;st]E{n}L{amer.}A{=R{medallist}}
+0{medalled}['medld]E{a}I{1}apdovanotas medaliu/ordinuI{2}papuoštas medaliais/ordinais
+0{medallion}[m&#618;'d&aelig;l&#618;&#601;n]E{n}medalionas
+0{medallist}['medX{&#601;}l&#618;st]E{n}1 medalių kalėjas/kūrėjasI{2}medalininkas
+0{meddle}['medl]E{v}I{1}kištis (į kitų reikalus)l{(in, with)};F{I wish you wouldn’t meddle in my affairs}tau geriau nesikišti į mano reikalusI{2}liesti tai, kas nederal{(with)};F{don’t meddle with my tools}neliesk(ite) mano įrankių
+0{meddler}['medl&#601;]E{n}mėgstantis visur kištis, įkyrus žmogus
+0{meddlesome}['medlsX{&#601;}m]E{a}įkyrus, kišantis nosį ne į savo reikalus
+0{medevac}['med&#618;v&aelig;k]E{n}(medical evacuationL{sutr.})L{amer.}L{kar.}sanitarinis sraigtasparnis
+0{media^{1}}['mi:d&#618;&#601;]E{n}I{1}E{pl}A{L{žr.}R{medium}}I{2}X{(the media)}visuomenės informavimo priemonės, žiniasklaidal{(L{t. p.}X{mass media})};F{media men}žiniasklaidos darbuotojai
+0{media^{2}}E{n}(E{pl}-ae[-i:])I{1}L{fon.}skardusis priebalsisI{2}L{anat.}l{(kraujagyslių)}vidurinis dangalas
+0{mediaeval}[,med&#618;'i:vl]E{a}A{=R{medieval}}
+0{medial}['mi:d&#618;&#601;l]E{a}I{1}vidurinis, vidurio;F{medial vowel}L{fon.}vidurinės eilės balsisI{2}vidutinis
+0{median}['mi:d&#618;&#601;n]S{&rArr;}E{a}L{spec.}vidurinis, medianinis; vidinis, medialinisS{&rArr;}E{n}I{1}L{geom.}pusiaukraštinėI{2}L{anat.}vidurinė arterijaI{3}medianal{(statistikoje)}I{4}L{amer.}juosta, skirianti priešingas eismo kryptisl{(L{t. p.}X{median strip})}
+0{mediant}['mi:d&#618;&#601;nt]E{n}L{muz.}mediantė
+0{mediastinum}[,mi:d&#618;&aelig;s'ta&#618;n&#601;m]E{n}L{anat.}tarpusienis; tarpuplautis
+0{mediate}S{&rArr;}E{a}['mi:d&#618;&#601;t]I{1}tarpinisI{2}tarpiškas, netiesioginisS{&rArr;}E{v}['mi:d&#618;e&#618;t]I{1}tarpininkauti; pasiektil{(susitarimą, sprendimą)}tarpininkaujantI{2}E{pass}kisti, keistisl{(ko įtakoje)}I{3}L{ret.}užimti tarpinę padėtį
+0{mediation}[,mi:d&#618;'e&#618;&#643;X{&#601;}n]E{n}tarpininkavimas
+0{mediatize}['mi:d&#618;&#601;ta&#618;z]E{v}L{ist.}aneksuoti/prijungtil{(teritoriją)}, paliekant buvusiam valdovui titulą ir kai kurias teises
+0{mediaton}[,mi:d&#618;'e&#618;&#643;n]E{n}I{1}tarpininkavimas;F{through the mediaton}l{(of)}tarpininkaujantI{2}L{dipl.}mediacija
+0{mediator}['mi:d&#618;e&#618;t&#601;]E{n}I{1}tarpininkasI{2}L{med.},L{muz.}mediatorius
+0{mediatorial, mediatory}[,mi:d&#618;&#601;'t&#596;:r&#618;&#601;l, 'mi:d&#618;&#601;tX{&#601;}r]E{a}tarpininkavimo, tarpiškas
+0{mediatrix}['mi:d&#618;e&#618;tr&#618;ks]E{n}(E{pl}-trices[-tr&#618;si:z]) tarpininkė
+0{medic}['med&#618;k]E{n}L{šnek.}I{1}gydytojas, medikasI{2}medicinos fakulteto studentas, medikasI{3}L{amer.}L{kar.}sanitaras
+0{medicable}['med&#618;k&#601;bl]E{a}pagydomas
+0{Medicaid}['med&#618;ke&#618;d]E{n}L{amer.}vyriausybės finansuojama medicininė pagalbal{(neturtingiesiems)}
+0{medical}['med&#618;kl]S{&rArr;}E{a}I{1}medicininis, medicinos, gydymo, sveikatos; sanitarinis;F{medical certificate}sveikatos pažymėjimas;F{medical history}X{a)}ligos istorija;X{b)}medicinos istorija;F{medical jurisprudence}teismo medicina;F{medical man}gydytojas, medikas;F{medical woman}gydytoja, medikė;F{medical service}X{a)}medicininis aptarnavimas;X{b)}sanitarinė dalisI{2}terapijos;F{medical ward}l{(ligoninės)}terapijos skyriusS{&rArr;}E{n}L{šnek.}medicininis apžiūrėjimas, sveikatos patikrinimas
+0{medically}['med&#618;kX{&#601;}l&#618;]E{adv}mediciniškai
+0{medicament}[m&#618;'d&#618;k&#601;m&#601;nt]E{n}vaistas, medikamentas
+0{medicare}['med&#618;k&#604;&#601;]E{n}L{amer.}valstybinis medicininis aptarnavimasl{(daugiau kaip 65 m. amžiaus žmonėms)}
+0{medicate}['med&#618;ke&#618;t]E{v}I{1}gydyti vaistaisI{2}prisotinti/permerkti vaistais
+0{medicated}['med&#618;ke&#618;t&#618;d]E{a}gydomasis; medicininis
+0{medication}[,med&#618;'ke&#618;&#643;n]E{n}I{1}gydymas vaistaisI{2}vaistas
+0{medicative}['med&#618;ke&#618;t&#618;v]E{a}A{=R{medicinal}}
+0{medicinal}[m&#618;'d&#618;sX{&#601;}n&#601;l]E{a}I{1}vaistinis;F{medicinal plant}vaistinis augalasI{2}gydymo; terapinis
+0{medicine}['medsX{&#601;}n]E{n}I{1}medicina;F{internal medicine}terapijaI{2}vaistas, vaistai;F{to take one’s medicine}X{a)}(iš)gerti vaistus;X{b)}L{juok.}išmaukti degtinės;X{c)}gauti pelnytą bausmę;X{d)}ištvermingai iškęsti ką nors nemalonausI{3}kerėjimas, magijaI{4}talismanas, amuletasI{5}E{attr}:X{medicine chest}namų vaistinėlė; vaistų dėžutė;F{medicine bag}sanitarinis krepšelis;F{medicine dropper}pipetė;F{medicine glass}menzūra;F{medicine ball}L{sport.}medicinbolasS{&loz;}X{to give smb a taste/dose of their own medicine}atsimokėti tuo pačiu
+0{medicine-man}['medsX{&#601;}nm&aelig;n]E{n}(E{pl}-men[-men])l{(L{tik v.})}žynys, kerėtojasl{(ypač Š. Amerikos indėnų)}
+0{medicine-woman}['medsX{&#601;}n,wum&#601;n]E{n}(E{pl}-women[-,w&#618;m&#618;n]) žynė, kerėtoja
+0{medico}['med&#618;k&#601;u]E{n}(E{pl}medicos[-z])L{šnek.}I{1}daktaras, medikasI{2}studentas medikas
+0{medieval}[,med&#618;'i:vl]E{a}viduramžių, viduramžiškas
+0{medievalism}[,med&#618;'i:v&#601;l&#618;zm]E{n}I{1}viduramžiškumasI{2}žavėjimasis viduramžiais
+0{medievalist}[,med&#618;'i:v&#601;l&#618;st]E{n}viduramžių istorijos specialistas
+0{Medina}[m&#618;'di:n&#601;]E{n}Medinal{(musulmonų šventasis miestas)}
+0{mediocre}[,mi:d&#618;'&#601;uk&#601;]E{a}vidutiniškas, vidutinis; pusėtinas
+0{mediocrity}[,mi:d&#618;'&#596;kr&#601;t&#618;]E{n}I{1}vidutiniškumasI{2}vidutinybė
+0{meditate}['med&#618;te&#618;t]E{v}I{1}(ap)mąstyti, (ap)galvotil{(on, upon)}I{2}medituotiI{3}planuoti, ketinti; kėslauti
+0{meditation}[,med&#618;'te&#618;&#643;n]E{n}I{1}apmąstymasI{2}meditacija, kontempliacija
+0{meditative}['med&#618;t&#601;t&#618;v]E{a}susimąstęs; mąslus, pasinėręs apmąstymuose
+0{meditatively}['med&#618;t&#601;t&#618;vl&#618;]E{adv}mąsliai
+0{mediterranean}[,med&#618;t&#601;'re&#618;n&#618;&#601;n]S{&rArr;}E{a}I{1}nutolęs nuo pajūriol{(apie žemę)}I{2}tarpžeminis, tarpužemiol{(apie jūrą)}I{3}X{Mediterranean}Viduržemio jūros (baseino)S{&rArr;}E{n}:X{the M}. Viduržemio jūra
+0{medium}['mi:d&#618;&#601;m]S{&rArr;}E{n}(E{pl}mediums, -dia)I{1}vidurys, vidurkis;F{happy medium}aukso vidurysI{2}priemonė, būdas;F{through/by the medium of ...}per ..., sul{ko}pagalba,l{kuo};F{through the medium of the press}per spaudąI{3}E{pl}A{L{žr.}R{media^{1}}}I{4}L{spec.}terpė, aplinka; laikmenaI{5}tarpininkas; tarpininkavimasI{6}l{(spiritistų)}mediumasI{7}l{(dažų)}tirpiklisS{&rArr;}E{a}I{1}vidutinis, vidurinis; tarpinis;F{of medium height}vidutinio ūgio;F{medium waves}L{rad.}vidurinės bangosI{2}saikingas, nuosaikusI{3}L{kar.}vidutinio kalibro
+0{medium-dry}[,mi:d&#618;&#601;m'dra&#618;]E{a}pusiau sausasl{(apie gėrimą)}
+0{medium-sized}['mi:d&#618;&#601;m,sa&#618;zd]E{a}vidutinio dydžio
+0{medium-term}[,mi:d&#618;&#601;m't&#601;:m]E{a}vidutinės trukmės
+0{medlar}['medl&#601;]E{n}L{bot.}baltažiedė šliandra
+0{medley}['medl&#618;]S{&rArr;}E{n}I{1}mišinys, kratinys;F{a medley of all kinds of people}marga, įvairaus plauko miniaI{2}L{muz.}popuriI{3}L{sport.}kombinuotas plaukimas;F{medley relay}kombinuota estafetėI{4}L{psn.}literatūrinės įvairenybėsl{(laikraščio skyrius)}S{&rArr;}E{a}L{psn.}mišrus; margasS{&rArr;}E{v}L{psn.}(su)maišyti
+0{medulla}[me'd&#652;l&#601;]E{n}(E{pl}-ae[-i:], medullas)I{1}kaulų smegenys/čiulpaiI{2}nugaros smegenysI{3}pailgosios smegenysl{(L{t. p.}X{medulla oblongata})}I{4}L{bot.}šerdis
+0{medullary}[me'd&#652;l&#601;r&#618;]E{a}I{1}L{anat.}smegeninis, meduliarinisI{2}L{bot.}šerdinis
+0{medusa}[m&#618;'dju:z&#601;]E{n}(E{pl}-ae[-i:], medusas)L{zool.}medūza
+0{meed}[mi:d]E{n}L{poet.},L{psn.}I{1}atpildasI{2}pelnytas pagyrimas
+0{meek}[mi:k]E{a}romus, švelnus; nuolankus, drovus
+0{meekly}['mi:kl&#618;]E{adv}romiai
+0{meekness}['mi:kn&#618;s]E{n}romumas; nuolankumas
+0{meerschaum}['m&#618;&#601;&#643;&#601;m]L{vok.}E{n}I{1}jūros putosl{(akytas mineralas)}I{2}jūros putų pypkė
+0{meet^{1}}[mi:t]S{&rArr;}E{v}(met)I{1}su(si)tiktil{(L{t. p.}X{meet up})};F{he came to meet us at the airport}jis atvyko sutikti mūsų oro uosteI{2}susirinkti, sueitil{(L{t. p.}X{meet together})};F{the society meets once a month}draugijos posėdžiai vyksta kartą per mėnesįI{3}susipažintil{(su)};F{please meet Mr X}prašome susipažinti su misteriu X;F{nice/glad/pleased to meet you}malonu susipažinti su jumisI{4}(pa)tenkintil{(norus, reikalavimus)}; vykdytil{(įsipareigojimus)}I{5}spręsti, susidoroti;F{to meet the case}išspręsti klausimą;F{to meet an aim}pasiekti tiksląI{6}apmokėti;F{to meet a bill}apmokėti sąskaitąI{7}sueiti, sutektil{(apie diržą)}I{8}ribotis, susisiektil{(ypač apie sausumą ir jūrą)}I{9}įtekėtil{(apie upę)}I{10}susidurti; patirtil{(with)};F{the two cars met head-on}du automobiliai susidūrė priekiais;F{I met (with) difficulties in my work}savo darbe susidūriau su sunkumaisI{11}susitiktil{(su priešininku)}; kautis, kovoti;F{to meet a challenge}priimti iššūkįI{12}reaguotil{(į)}; paneigtil{(prieštaravimą)}, sugriautil{(argumentusL{ir pan.})}S{&loz;}X{to meet one’s death/end}rasti mirtį;F{to meet the/smb’s ear}užgirsti;F{to meet the/smb’s eye}X{a)}susižvalgyti;X{b)}žiūrėti (tiesiai) į akis;X{c)}kristi į akis, matytis; atsivertil{(apie reginį)};F{there’s more to smb/smth than meets the eye}šis tas daugiau negu matosi iš pirmo žvilgsnio;F{to meet a difficulty [trouble] half-way}iš anksto sielotis/krimstis dėl laukiamo sunkumo [laukiamos bėdos];F{well met!}L{psn.}sveiki atvykę!; džiaugiuosi, kad užėjote!S{&rArr;}E{n}I{1}l{(medžiotojų, dviratininkųL{ir pan.})}susirinkimo vietaI{2}L{sport.}susitikimas, mačas;F{track meet}L{amer.}lengvaatlečių mačas
+0{meet^{2}}E{a}L{psn.}tinkamas, deramas
+0{meeting}['mi:t&#618;&#331;]E{n}I{1}susirinkimas, posėdis, pasitarimas; mitingas; sueiga;F{plenary meeting}plenarinis posėdisI{2}susitikimas;F{our first meeting}mūsų pirmasis susitikimas;F{meeting point}susitikimo vietaI{3}L{sport.}susitikimas, rungtynėsI{4}L{glžk.}pralankaI{5}L{tech.}sujungimas, sudūrimasI{6}L{psn.}dvikova
+0{meeting-house}['mi:t&#618;&#331;haus]E{n}maldykla, maldos namail{(ypač kvakerių)}
+0{meeting-place}['mi:t&#618;&#331;ple&#618;s]S{&rArr;}E{n}susitikimų vieta, susitikimo vietaS{&rArr;}E{a}susitikimų vietos
+0{mega}['meg&#601;]E{a}L{šnek.}didžiulis; puikus
+0{mega-}['meg&#601;-]L{gr.}l{(L{sudurt.}žodžiuose)}mega-l{(žymintX{a)}didumą, didybęL{ir pan.};X{b)}L{fiz.}matą, milijoną kartų didesnį už pagrindinį matą)};F{megalith}megalitas;F{megacycle,}X{megahertz}megahercas
+0{megabuck}['meg&#601;b&#652;k]E{n}L{šnek.}milijonas dolerių;F{she’s earning megabucks now}ji dabar uždirba krūvas pinigų
+0{megadeath}['meg&#601;de&theta;]E{n}vienas milijonas žuvusiųjųl{(branduolinio karo aukų skaičiavimo sąlyginis vienetas)}
+0{megafirm}['meg&#601;f&#601;:m]E{n}L{kom.}didžiulė firmal{(susijungus kelioms firmoms)}
+0{megalo-}['meg&#601;l&#601;u-]L{gr.}l{(L{sudurt.}žodžiuose)}megalo- (= mega- a));F{megalosaur}megalozauras
+0{megalomania}['megX{&#601;}l&#601;X{u}'me&#618;n&#618;&#601;]E{n}didybės manija, megalomanija
+0{megalomaniac}[,meg&#601;l&#601;X{u}'me&#618;n&#618;&aelig;k]E{a}didybės manijos apsėstas
+0{megalopolis}[,meg&#601;'l&#596;p&#601;l&#618;s]E{n}megalopolis, daugiamilijoninis miestas
+0{megaphone}['meg&#601;f&#601;un]S{&rArr;}E{n}megafonas, garsintuvas, ruporasS{&rArr;}E{v}I{1}kalbėti per garsintuvąI{2}(pa)skelbti
+0{megastar}['meg&#601;sta:]E{n}pirmojo ryškumo žvaigždėl{(apie dainininką, artistą)}
+0{megastore}['meg&#601;st&#596;:]E{n}didžiulė parduotuvėl{(ypač miesto pakraštyje)}
+0{megaton}['meg&#601;t&#652;n]E{n}megatonasl{(= 1 milijonui tonų)}
+0{megawatt}['meg&#601;w&#596;t]E{n}L{el.}megavatasl{(= 1 milijonui vatų)}
+0{megillah}[m&#601;'g&#618;l&#601;]E{n}L{amer.}L{šnek.}ilga istorija;S{&cong;}pasaka be galo
+0{megohm}['meg&#601;um]E{n}L{el.}megaomasl{(= 1 milijonui omų)}
+0{megrim}['mi:gr&#618;m]E{n}I{1}E{pl}liguista, prislėgta nuotaikaI{2}E{pl}L{vet.}kaitulys, kvaitulysl{(gyvulių liga)}I{3}L{psn.}užgaida, įnoris
+0{meiosis}[ma&#618;'&#601;us&#618;s]L{gr.}E{n}(E{pl}-ses[-si:z])I{1}L{biol.}mejozėI{2}A{=R{litotes}}
+0{Mekong}[mi:'k&#596;&#331;]E{n}Mekongasl{(upė)}
+0{melamine}['mel&#601;mi:n]E{n}L{chem.}melaminas
+0{melancholia}[,mel&#601;n'k&#601;ul&#618;&#601;]L{lot.}E{n}melancholija
+0{melancholic}[,mel&#601;n'k&#596;l&#618;k]S{&rArr;}E{a}melancholiškas; nuliūdęsS{&rArr;}E{n}melancholikas
+0{melancholy}['mel&#601;nkX{&#601;}l&#618;]S{&rArr;}E{n}melancholija, prislėgta nuotaika; liūdesysS{&rArr;}E{a}I{1}melancholiškas, prislėgtas, paniuręsI{2}liūdnas
+0{Melanesia}[,mel&#601;'ni:z&#618;&#601;]E{n}Melanezijal{(salynas)}
+0{mélange}[me&#618;'la:n&#658;]L{pr.}E{n}I{1}mišinys, kratinysI{2}L{tekst.}melanžas
+0{melanin}['mel&#601;n&#618;n]E{n}L{biol.}melaninasl{(tamsus odos pigmentas)}
+0{melanoma}[,mel&#601;'n&#601;um&#601;]E{n}L{med.}melanoma
+0{Melbourne}['melb&#601;n]E{n}Melburnasl{(Australijos miestas)}
+0{meld}[meld]E{v}skelbtil{(lošiant kortomis)}
+0{mêlée, melee}['mele&#618;]L{pr.}E{n}I{1}l{(žmonių)}susigrūdimas, samplūdisI{2}(bendros) grumtynės
+0{melic}['mel&#618;k]E{n}L{bot.}striepsnėl{(L{t. p.}X{melic grass})}
+0{melinite}['mel&#618;na&#618;t]E{n}melinitasl{(sprogstamoji medžiaga)}
+0{meliorate}['mi:l&#618;&#601;re&#618;t]E{v}L{knyg.}gerinti; gerėti
+0{melioration}[,mi:l&#618;&#601;'re&#618;&#643;n]E{n}L{knyg.}I{1}gerinimasI{2}melioracija
+0{meliorative}['mi:l&#618;&#601;re&#618;t&#618;v]E{a}L{knyg.}gerinantis,X{meliorative word}L{kalb.}melioratyvas
+0{Melissa}[m&#618;'l&#618;s&#601;]E{n}Melisa
+0{melliferous}[m&#601;'l&#618;fX{&#601;}r&#601;s]E{a}L{spec.}medingas, medų duodantis
+0{mellifluent}[m&#601;'l&#618;flu&#601;nt]E{a}A{=R{mellifluous}}
+0{mellifluous}[m&#601;'l&#618;flu&#601;s]E{a}L{knyg.}maloniai skambantis; saldžiabalsis, saldžiakalbis
+0{mellow}['mel&#601;u]S{&rArr;}E{a}I{1}nunokęs, išsirpęs; saldus ir sultingasl{(apie vaisius)}I{2}išlaikytasl{(apie vyną)}I{3}sodrus ir švelnusl{(apie balsą, šviesąL{ir pan.})}I{4}derlingas, purusl{(apie žemę)}I{5}sušvelnėjęs, atlaidus, pakantesnis, geraširdiškesnisl{(su amžiumi)}I{6}maloniai apsvaigęs, atsipalaidavęsS{&rArr;}E{v}I{1}nokti, sirptiI{2}suteikti/įgauti švelnų skonįl{(apie vyną)}I{3}(su)švelnėti, (su)minkštėti; (su)švelninti, (su)minkštintiI{4}purentiS{o}1{mellow out}L{amer.}L{šnek.}atsipalaiduoti, nu(si)raminti
+0{mellowness}['mel&#601;un&#618;s]E{n}švelnumas
+0{melodic}[m&#618;'l&#596;d&#618;k]E{a}melodinis, melodiškas; melodingas
+0{melodics}[m&#618;'l&#596;d&#618;ks]E{n}melodika
+0{melodious}[m&#618;'l&#601;ud&#618;&#601;s]E{a}I{1}melodingasI{2}minkštas, švelnus, dainingasl{(apie balsą)}I{3}muzikinis
+0{melodiously}[m&#618;'l&#601;ud&#618;&#601;sl&#618;]E{adv}melodingai
+0{melodiousness}[m&#618;'l&#601;ud&#618;&#601;sn&#618;s]E{n}melodingumas
+0{melodist}['mel&#601;d&#618;st]E{n}I{1}dainų kūrėjas, kompozitoriusI{2}dainininkas
+0{melodize}['mel&#601;da&#618;z]E{v}I{1}kurti dainas/melodijasI{2}melodingai susilieti
+0{melodrama}['mel&#601;dra:m&#601;]E{n}I{1}melodramal{(L{t. p.}L{prk.})}I{2}l{(mostų, žodžių)}teatrališkumas
+0{melodramatic}[,mel&#601;dr&#601;'m&aelig;t&#618;k]E{a}I{1}melodramatiškas;F{you’re being melodramatic!}tu dramatizuoji dalykusI{2}teatrališkas, afektuotas
+0{melody}['mel&#601;d&#618;]E{n}I{1}melodijaI{2}melodingumas
+0{melon}['mel&#601;n]E{n}I{1}L{bot.}melionasI{2}=X{water- melon}I{3}L{amer.}L{kom.}L{šnek.}tantjema; dividendas nemokamų akcijų forma;F{to cut/slice the melon}X{a)}skirstyti papildomus dividendus tarp pajininkų;X{b)}skirstyti stambų išlošimą tarp lošėjų
+0{melt}[melt]S{&rArr;}E{v}I{1}tirptiI{2}lydyti(s);F{melted butter [cheese]lydytas sviestas [sūris]I{3}tirpinti, (iš)tirpdyti; ištirptil{(skystyje)}I{4}L{prk.}tirpti, suminkštėti; su(si)graudinti; atlyžti;F{to melt into tears}paplūsti ašaromis;F{the man melted into the crowd}žmogus ištirpo miniojeI{5}l{(nepastebimai)}pereitil{(į kitą formą, spalvą; into)};F{to melt into the background}susilieti su fonu;F{clouds melted into rain}pradėjo lytiI{6}L{šnek.}leistil{(pinigus)}; iškeistil{(banknotą)}S{o}1{melt away}X{a)}sutirpti;X{b)}išnykti; išsisklaidyti;1{melt down}sutirpdyti; (su)lydyti;1{melt out}išlydytiS{&rArr;}E{n}I{1}lydymasI{2}lydalas, išlydytas metalasI{3}L{amer.}karšti sumuštiniai su sūriu
+0{meltdown}['meltdaun]E{n}I{1}radioaktyviųjų medžiagų nutekėjimasl{(iš branduolinio reaktoriaus)}I{2}L{fin.}akcijų kritimas, krachas
+0{melting}['melt&#618;&#331;]S{&rArr;}E{n}I{1}(iš)lydymas, sulydymasI{2}tirpimas; ištirpdymasS{&rArr;}E{a}I{1}tirpus, tirpstamasI{2}ištirpęsl{(apie ledą, sniegą)}I{3}lydomasisI{4}švelnus; jautrus;F{she is in the melting mood}ji vos neverkiaI{5}jaudinantisl{(apie žvilgsnį, balsąL{ir pan.})}
+0{melting-house}['melt&#618;&#331;haus]E{n}lydykla
+0{melting-point}['melt&#618;&#331;p&#596;&#618;nt]E{n}L{fiz.}tirpimo/lydymosi temperatūra
+0{melting-pot}['melt&#618;&#331;p&#596;t]E{n}L{tech.}tiglis; lydomasis katilasS{&loz;}X{to be in the melting-pot}kardinaliai keistis;F{to go into the melting-pot}iš pagrindų pasikeisti
+0{melt-in-the-mouth}['melt&#618;n&#601;'mau&theta;]E{a}tirpstantis burnoje
+0{melt-water}['melt,w&#596;:t&#601;]E{n}polaidžio vanduo
+0{mem.}L{sutr.}X{member}narysX{memorandum}memorandumas, memorialinis raštas
+0{member}['memb&#601;]E{n}I{1}narys;F{full member}pilnateisis narys;F{corresponding member}l{(mokslo draugijosL{ir pan.})}narys korespondentas, garbės narys;F{member society}l{(organizacijos)}kolektyvinis narys;F{Member of Parlament}parlamento narys;F{Member of Congress}L{amer.}kongreso narysI{2}l{(suvažiavimoL{ir pan.})}dalyvis; atstovasI{3}kūno dalisl{(organas, galūnė)};L{euf.}varpal{(L{t. p.}X{male member})};F{the unruly member}L{juok.}liežuvisI{4}L{tech.}konstrukcijos elementas, detalė;F{linking member}ryšio elementas
+0{membership}['memb&#601;&#643;&#618;p]E{n}I{1}narystė, buvimas nariuI{2}narių skaičius;F{membership is declining}narių skaičius mažėja I{3}L{kuop.}l{(partijos, profsąjungos)}eiliniai nariaiI{4}E{attr}nario;F{membership card}nario bilietas;F{membership fee/dues}nario mokestis
+0{membrane}['membre&#618;n]E{n}I{1}L{anat.},L{bot.}plėvelė, membrana, apvalkalasI{2}L{tech.}membranaI{3}l{(gyvulių)}poodis; nuograndos
+0{membraneous}[mem'bre&#618;n&#618;&#601;s]E{a}A{=R{membranous}}
+0{membranous}['membr&#601;n&#601;s]E{a}plėvinis, membraninis
+0{Memel}[me&#618;ml]L{vok.}E{n}Klaipėda
+0{memento}[m&#618;'ment&#601;u]E{n}(E{pl}memento(e)s[-z])I{1}atminimas, priminimasI{2}atminimo ženklas/dovana; suvenyras, atminas I{3}L{bažn.}atminai, pamaldos už mirusįjį
+0{memo}['mem&#601;u]E{n}(E{pl}memos[-z])L{sutr.}A{=R{memorandum}}
+0{memoir}['memwa:]E{n}I{1}trumpa (auto-)biografijaI{2}E{pl}memuarai, atsiminimaiI{3}mokslinis straipsnis;E{pl}l{(draugijos)}mokslo darbai
+0{memorabilia}[,memX{&#601;}r&#601;'b&#618;l&#618;&#601;]L{lot.}E{n}E{pl}l{(įžymaus žmogaus, įvykio)}atmintini daiktai
+0{memorable}['memX{&#601;}r&#601;bl]E{a}I{1}atmintinas, neužmirštinasI{2}įsimintinas
+0{memorandum}[,mem&#601;'r&aelig;nd&#601;m]E{n}(E{pl}-da[-d&#601;], memorandums)I{1}l{(L{įv. reikšm.})}memorandumasI{2}pastaba/užrašas atminimui
+0{memorial}[m&#618;'m&#596;:r&#618;&#601;l]S{&rArr;}E{a}memorialinis, paminklinis; atmintinas; primenantis;F{Memorial Day}L{amer.}diena kritusiųjų karuose atminimui pagerbtil{(gegužės 30-ji)}S{&rArr;}E{n}I{1}paminklas, memorialasl{(to – kam)}I{2}memorialinis raštasI{3}E{pl}atsiminimai; istorinė kronikaI{4}L{bažn.}atminai, pamaldos už mirusįjįl{(L{t. p.}X{memorial service})}I{5}L{ist.}smulkus faktų išdėstymas peticijojeI{6}L{kom.}memorialas S{&rArr;}E{v}parašyti/įteikti peticiją
+0{memorialize}[m&#618;'m&#596;:r&#618;&#601;la&#618;z]E{v}I{1}įamžintiI{2}įteikti peticiją
+0{memorise}['mem&#601;ra&#618;z]E{v}įsiminti, įsidėmėti
+0{memorize}['mem&#601;ra&#618;z]E{v}I{1}įsiminti, įsidėmėti; išmokti atmintinaiI{2}L{psn.}įamžinti
+0{memory}['mem&#601;r&#618;]E{n}I{1}atmintis;F{long memory}gera atmintis;F{if my memory serves me right/correctly, if my memory does not fail}jei mano atmintis nešlubuoja;F{from memory}iš atminties, atmintinai;F{to the best of my memory}kiek aš atsimenuI{2}at(si)minimas;F{childhood memories}vaikystės atsiminimai;F{within living memory}gyvųjų, dabartinės kartos atminimu;F{to leave a sad memory behind}palikti apie save blogą atminimą;F{in memory}l{(of)},X{to the memory}l{(of)}kam atminti, ko atminimuiI{3}L{komp.}atmintis, atminties įrenginys, informacijos kaupėjas;F{memory bank}atminties bankasI{4}L{tech.}įrašymas, registravimasS{&loz;}X{to take a walk/trip down memory lane}užsimąstyti apie praeitį
+0{Memphis}['memf&#618;s]E{n}Memfis
+0{memsahib}['mem,sa:b]L{ind.}E{n}ponial{(moters europietės Indijoje priedėlis)}
+0{men}[men]E{pl}A{L{žr.}R{man}}E{n}; F{men’s (room)}l{(ypačL{amer.})}vyrų tualetas
+0{menace}['men&#601;s]S{&rArr;}E{n}I{1}grėsmė; grasinimas; pavojusI{2}tai, kas kelia pavojųI{3}L{šnek.}kankynėl{(ypač apie vaiką)}S{&rArr;}E{v}grasinti, grūmoti; grėsti, kelti pavojų
+0{menacing}['men&#601;s&#618;&#331;]E{a}grėsmingas, grasinantis, grasus
+0{menacingly}['men&#618;s&#618;&#331;l&#618;]E{adv}grėsmingai
+0{ménage}[me&#618;'na:&#658;]L{pr.}E{n}namiškiai, šeimyna
+0{menagerie}[m&#601;'n&aelig;d&#658;&#601;r&#618;]L{pr.}E{n}žvėrynas
+0{men-children}['men,t&#643;&#618;ldrX{&#601;}n]E{pl}A{L{žr.}R{man-child}}
+0{mend}[mend]S{&rArr;}E{n}I{1}užadyta skylutė, užtaisytas plyšysL{ir pan.}I{2}l{(sveikatos, reikalų)}pagerėjimas;F{to be on the mend}eiti į gerąją pusę, taisytisS{&rArr;}E{v}I{1}(pa)taisyti, (už)adyti, (už)lopytil{(L{t. p.}X{mend up})};F{to mend shoes [a car, a road]taisyti batus [automobilį, kelią]I{2}taisytis; (pa)gerėti;F{he is mending}jis taisosi/sveiksta;F{to mend one’s ways}pasitaisyti, geriau elgtis;F{that won’t mend matters}tai reikalų nepataisysI{3}l{(ypačL{dial.})}(su)kurstytil{(ugnį)}, pridėti kuroS{&loz;}X{it is never late to mend}niekada nevėlu pasitaisyti;F{mend or end}arba pataisyti, arba pagadinti
+0{mendacious}[men'de&#618;&#643;&#601;s]E{a}melagingas
+0{mendacity}[men'd&aelig;s&#601;t&#618;]E{n}melagingumas; melavimas
+0{mendelevium}[,mend&#601;'li:v&#618;&#601;m]E{n}L{chem.}mendelevisl{(elementas)}
+0{mender}['mend&#601;]E{n}I{1}taisytojas; adytojas, lopytojasI{2}remonto meistras, remontininkas
+0{mendicancy}['mend&#618;k&#601;ns&#618;]E{n}L{knyg.}elgetavimas
+0{mendicant}['mend&#618;k&#601;nt]S{&rArr;}E{n}I{1}L{knyg.}elgetaI{2}L{ist.}elgetaujančio ordino vienuolisS{&rArr;}E{a}L{knyg.}elgetaujantis
+0{mendicity}[men'd&#618;s&#601;t&#618;]E{n}elgetavimas; skurdas
+0{mending}['mend&#618;&#331;]E{n}I{1}l{(avalynės, drabužiųL{ir pan.})}(pa)taisymasI{2}taisytini daiktai/drabužiai
+0{menfolk}['menf&#601;uk]E{n}E{pl}L{šnek.}vyrai, vyrijal{(ypač šeimoje)}
+0{menial}['mi:n&#618;&#601;l]S{&rArr;}E{n}tarnas, liokajus; juodadarbisS{&rArr;}E{a}prastas, juodas, žemesnisl{(apie darbąL{ir pan.})}; vergiškas
+0{meningitis}[,men&#618;n'd&#658;a&#618;t&#618;s]E{n}L{med.}meningitas
+0{meninx}['mi:n&#618;&#331;ks]E{n}(E{pl}-nges[m&#618;'n&#618;nd&#658;i:z])L{anat.}smegenų dangalas
+0{meniscus}[m&#618;'n&#618;sk&#601;s]E{n}(E{pl}menisci[m&#618;'n&#618;sa&#618;], meniscuses)L{fiz.},L{anat.}meniskas
+0{men-of-war}[,men&#601;v'w&#596;:]E{pl}A{L{žr.}R{man-of-war}}
+0{menopause}['men&#601;p&#596;:z]E{n}L{med.}menopauzė
+0{menorah}[m&#601;'n&#596;:r&#601;]E{n}septynšakė žydų žvakidė, menora
+0{mensch}[men&#643;]L{vok.}E{n}L{amer.}L{šnek.}šaunuolis
+0{men-servants}['men,s&#601;:v&#601;nts]E{pl}A{L{žr.}R{manservant}}
+0{menses}['mensi:z]E{n}E{pl}L{fiziol.}mėnesinės, menstruacijos
+0{menstrua}['menstru&#601;]E{pl}A{L{žr.}R{menstruum}}
+0{menstrual}['menstru&#601;l]E{a}I{1}L{fiziol.}menstruacinis, mėnesiniųI{2}L{astr.}mėnesinis
+0{menstruate}['menstrue&#618;t]E{v}L{fiziol.}sirgti mėnesinėmis, turėti menstruacijas
+0{menstruation}[,menstru'e&#618;&#643;n]E{n}A{=R{menses}}
+0{menstruum}['menstru&#601;m]E{n}(E{pl}-rua)L{chem.}L{psn.}tirpiklis
+0{mensurable}['men&#643;&#601;r&#601;bl]E{a}I{1}išmatuojamasI{2}L{muz.}ritmingas
+0{mensural}['men&#643;&#601;r&#601;l]E{a}ritmingas, vienodas
+0{mensuration}[,men&#643;&#601;'re&#618;&#643;n]E{n}matavimasl{(L{t. p.}L{geom.})}
+0{menswear}['menzw&#604;&#601;]E{n}vyriški drabužiai
+0{-ment}[-m&#601;nt]E{suff}-imas, -ymasl{(žymint veiksmą, būseną, veiksmo rezultatą)};F{management}vadovavimas, tvarkymas;F{amazement}nusteb(in)imas;F{statement}tvirtinimas, pareiškimas
+0{mental^{1}}['mentl]E{a}I{1}protinis;F{mental exhaustion}protinis pervargimas;F{mental defective}protiškai atsilikęs vaikas/žmogusI{2}psichinis;F{mental affection/illness}psichinė/proto liga; F{mental patient/case}psichinis ligonis;F{mental specialist}psichiatras;F{mental hospital/home}psichiatrinė ligoninė;F{mental suffering}dvasinės kančiosI{3}mintinis, mintyse (esantis);F{mental arithmetic/calculations}mintinis skaičiavimasI{4}E{predic}L{šnek.}psichas, pamišęs;F{to go mental}X{a)}pasiusti, įsiusti;X{b)}pamišti
+0{mental^{2}}E{a}smakrinis, smakro
+0{mentality}[men't&aelig;l&#601;t&#618;]E{n}I{1}intelektasI{2}galvosena, protavimo būdas, mantalitetas
+0{mentally}['ment&#601;l&#618;]E{adv}I{1}mintyseI{2}psichiškai, protiškai
+0{mentation}[men'te&#618;&#643;n]E{n}I{1}galvojimas, mąstymo procesasI{2}proto lavinimas
+0{menthol}['men&theta;&#596;l]E{n}L{chem.}mentolis
+0{mentholated}['men&theta;&#601;le&#618;t&#618;d]E{a}su mentoliu
+0{mention}['men&#643;n]S{&rArr;}E{n}paminėjimas, užsiminimas; pasirėmimasl{(kuo)};F{to make mention}l{(of)}paminėti;F{to get a mention}būti paminėtamS{&rArr;}E{v}(pa)minėti, užsiminti; remtisl{(kuo)};F{without mentioning any names}neminint pavardžių;F{the countries mentioned above}jau minėtosios šalysS{&loz;}X{don’t mention it}X{a)}nėra už ką (dėkoti);X{b)}nieko, prašoml{(atsakant į atsiprašymą)};F{not to mention smth}jau nekalbant apie
+0{mentor}['ment&#596;:]E{n}vadovas, patarėjas, auklėtojas, mentorius
+0{menu}['menju:]L{pr.}E{n}I{1}meniu, valgiaraštisI{2}L{komp.}meniu;F{application control menu}taikomųjų programų paketo valdymo meniu
+0{meow}[m&#618;'au]L{amer.}A{=R{miaow}}E{n},E{v},E{int}
+0{MEP}L{sutr.}X{Member of the European Parliament}Europos parlamento narys
+0{m.e.p.}L{sutr.}X{mean effective pressure}vidutinis efektinis slėgis
+0{Mephistophelean}[,mef&#618;st&#601;'fi:l&#618;&#601;n]E{a}mefistofeliškas, Mefistofelio
+0{Mephistopheles}[,mef&#618;s't&#596;f&#618;li:z]E{n}Mefistofelis
+0{mephitis}[me'fa&#618;t&#618;s]E{n}kenksmingi garai, tvaikas, smarvė; miazmos
+0{mer.}L{sutr.}X{meridian}L{geogr.}meridianas, dienovidinis
+0{mercantile}['m&#601;:k&#601;nta&#618;l]E{a}I{1}prekybinis, komercinis, merkantilinis;F{mercantile marine/fleet}prekybos laivynas;F{mercantile system}L{ekon.}merkantilizmasI{2}verteiviškas, smulkmeniškai taupus, merkantilinis
+0{Mercedes}[m&#601;'se&#618;di:z]E{n}L{aut.}Mersedesas
+0{mercenary}['m&#601;:s&#618;nX{&#601;}r&#618;]S{&rArr;}E{a}I{1}gobšus, savanaudis, savanaudiškasI{2}samdytasS{&rArr;}E{n}samdinysl{(kareivis)}
+0{mercer}['m&#601;:s&#601;]E{n}L{psn.}audinių pirklys
+0{mercerize}['m&#601;:s&#601;ra&#618;z]E{v}L{tekst.}merserizuoti
+0{mercery}['m&#601;:s&#601;r&#618;]E{n}L{psn.}I{1}audinių pirklio prekėsI{2}prekyba audiniais
+0{merchandise}['m&#601;:t&#643;X{&#601;}nda&#618;z]S{&rArr;}E{n}I{1}prekėsI{2}L{psn.}prekiavimasS{&rArr;}E{v}prekiauti
+0{merchandiser}['m&#601;:t&#643;&#601;nda&#618;z&#601;]E{n}L{amer.}mažmenininkas
+0{merchant}['m&#601;:t&#643;X{&#601;}nt]S{&rArr;}E{n}I{1}pirklys, komersantas, prekiautojasI{2}L{amer.},L{škot.}krautuvininkasI{3}L{šnek.}„tipelis“l{(apie žmogų)}S{&rArr;}E{a}prekybos, prekybinis, prekinis;F{merchant prince}stambus pirklys, „karalius“;F{merchant navy}/L{amer.}X{marine}prekybos laivynas;F{merchant seaman}prekinio laivo jūrininkas
+0{merchantable}['m&#601;:t&#643;X{&#601;}nt&#601;bl]E{a}L{ret.}(noriai) perkamasl{(apie prekę)}
+0{merchantman}['m&#601;:t&#643;X{&#601;}ntm&#601;n]E{n}(E{pl}-men[-m&#601;n]) prekinis laivas
+0{merciful}['m&#601;:s&#618;fX{&#601;}l]E{a}I{1}gailestingas, gailiaširdis; išganingas, maloningasI{2}švelnusl{(apie bausmę)}
+0{mercifully}['m&#601;:s&#618;fX{&#601;}l&#618;]E{adv}I{1}gailestingai; maloningaiI{2}E{mod}laimei;F{the queue was mercifully short}eilė, laimei, buvo nedidelė
+0{mercifulness}['m&#601;:s&#618;fX{&#601;}ln&#618;s]E{n}I{1}gailestingumasI{2}švelnumas
+0{merciless}['m&#601;:s&#618;l&#601;s]E{a}negailestingas, žiaurus
+0{mercilessly}['m&#601;:s&#618;l&#618;sl&#618;]E{adv}negailestingai
+0{mercurial}[m&#601;:'kju&#601;r&#618;&#601;l]S{&rArr;}E{a}I{1}gyvsidabrioI{2}L{knyg.}gyvas, judrus; veiklusI{3}L{knyg.}nepastovus, ūmusS{&rArr;}E{n}L{farm.}gyvsidabrio preparatas
+0{mercurialize}[m&#601;:'kju&#601;r&#618;&#601;la&#618;z]E{v}gydyti gyvsidabriu
+0{Mercurian}[m&#601;:'kju&#601;r&#618;&#601;n]E{a}L{astr.}Merkurijaus
+0{mercury}['m&#601;:kjur&#618;]E{n}I{1}gyvsidabris; gyvsidabrio stulpelis; gyvsidabrio preparatasI{2}L{bot.}laiškenisS{&loz;}X{the mercury is rising}X{a)}temperatūra kyla;X{b)}reikalail{(nuotaikaL{ir pan.})}gerėja;X{c)}susijaudinimas didėja
+0{Mercury}['m&#601;:kjur&#618;]E{n}I{1}L{astr.},L{mit.}MerkurijusI{2}L{juok.}pasiuntinys; žinių atnešėjas/skelbėjasl{(L{t. p.}laikraščių pavadinimuose)}
+0{mercy}['m&#601;:s&#618;]E{n}I{1}gailestingumas; gailestisI{2}malonė; pasigailėjimas;F{at the mercy}l{(of)}l{(ko)}valioje, malonėje;F{to have mercy on/upon smb}pasigailėti, gailėtis ko;F{to leave smb to smb’s (tender) mercies}L{iron.}palikti ką kieno maloneiI{3}laimė;F{that’s a mercy!}tai (tikra) laimė!I{4}E{attr}:X{mercy killing}eutanazijal{(neišgydomo ligonio numarinimas)}S{&loz;}X{to he thankful for small mercies}būti dėkingam ir už tiek/tai; pasitenkinti mažu
+0{mere^{1}}[m&#618;&#601;]E{n}L{poet.},L{dial.}ežerėlis; kūdra, tvenkinys
+0{mere^{2}}E{a}I{1}grynas, paprasčiausiasl{(pabrėžiant;L{t. p.}X{the merest})};F{it’s a mere coincidence}tai paprasčiausias sutapimas;F{she is a mere child}ji tikras vaikasI{2}vien tik;F{to become hysterical at the mere mention of money}pulti į isteriją vien tik paminėjus pinigus;F{a mere child could do it}ir vaikas tai padarytųI{3}tik;F{the beach is a mere 2 km from here}paplūdimys nuo čia tik 2 km
+0{Meredith}['mer&#601;d&#618;&theta;]E{n}:X{George Meredith}Džordžas Mereditasl{(anglų rašytojas)}
+0{merely}['m&#618;&#601;l&#618;]E{part}paprasčiausiai, tiktai
+0{meretricious}[,mer&#618;'tr&#618;&#643;&#601;s]E{a}L{knyg.}išoriškai patrauklus, apgaulingai blizgantis; apgaulingas;F{meretricious jewellery}netikros brangenybės
+0{merganser}[m&#601;:'g&aelig;ns&#601;]E{n}L{zool.}:X{red-breasted merganser}vidutinis dančiasnapisl{(paukštis)}
+0{merge}[m&#601;:d&#658;]E{v}I{1}pereiti, virstil{(apie spalvas, garsusL{ir pan.}; into)}I{2}su(si)lietil{(L{t. p.}X{merge together})}; su(si)jungti; susivienytil{(apie įmones, bankusL{ir pan.})}
+0{merger}['m&#601;:d&#658;&#601;]E{n}I{1}susiliejimasI{2}l{(įmonių, firmų)}susijungimas, susivienijimas, susiliejimasI{3}L{teis.}sujungimas
+0{meridian}[m&#601;'r&#618;d&#618;&#601;n]S{&rArr;}E{n}I{1}L{geogr.}meridianas, dienovidinisI{2}L{astr.}zenitasI{3}L{prk.}zenitas, aukščiausias taškasI{4}L{psn.}dienovidis S{&rArr;}E{a}I{1}dienovidžio, vidu(r)dienio; esantis zenitel{(L{t. p.}L{prk.})}I{2}aukščiausias, kulminacinisI{3}L{geogr.},L{astr.}meridianinis;F{meridian distance}nuotolis pagal meridianą
+0{meridional}[m&#601;'r&#618;d&#618;&#601;nl]S{&rArr;}E{a}I{1}meridianinisI{2}pietų, pietinisS{&rArr;}E{n}pietietisl{(ypač iš P. Prancūzijos)}
+0{meringue}[m&#601;'r&aelig;&#331;]L{pr.}E{n}L{kul.}merengal{(pyragaitis)}
+0{merino}[m&#601;'ri:n&#601;u]E{n}I{1}(E{pl}merinos[-z]) merinosasl{(avių veislė;L{t. p.}X{merino sheep})}I{2}merinosų vilna; vilnonė medžiaga
+0{merit}['mer&#618;t]S{&rArr;}E{n}I{1}nuopelnas;F{order of Merit}ordinas „Už nuopelnus“;F{to make a merit of smth}laikyti ką savo nuopelnu;F{a man of merit}nusipelnęs žmogusI{2}vertingumas, gerumas; privalumas;F{artistic merits}meniniai privalumai;F{to consider the matter on its merits}svarstyti reikalą iš esmėsI{3}L{teis.}l{(bylos, ginčo)}esmėS{&rArr;}E{v}nusipelnyti;F{your suggestion merits serious consideration}jūsų pasiūlymas vertas/nusipelno rimto svarstymo
+0{meritocrasy}[,mer&#618;'t&#596;kr&#601;s&#618;]E{n}I{1}sistema, kurioje žmogaus padėtį visuomenėje nulemia jo gabumaiI{2}žmonės, atrinkti pagal gabumus
+0{meritorious}[,mer&#618;'t&#596;:r&#618;&#601;s]E{a}nusipelnęsl{(atpildo, pagyrimo)}; vertas pagyrimo, pagirtinas
+0{merle}[m&#601;:l]E{n}L{škot.},L{psn.}L{zool.}juodasis strazdas
+0{merlin}['m&#601;:l&#618;n]E{n}L{zool.}startsakalis
+0{merlon}['m&#601;:l&#601;n]E{n}l{(tvirtovės sienos)}dantis
+0{mermaid}['m&#601;:me&#618;d]E{n}L{mit.}undinė, sirena
+0{merman}['m&#601;:m&aelig;n]E{n}(E{pl}-men[-men])l{(L{tik v.})}L{mit.}vandenis
+0{merrily}['mer&#618;l&#618;]E{adv}linksmai; nerūpestingai
+0{merriment}['mer&#618;m&#601;nt]E{n}I{1}linksmybė, linksmumasI{2}linksminimasis, juokavimas
+0{merriness}['mer&#618;n&#618;s]E{n}L{ret.}linksmumas
+0{merry^{1}}['mer&#618;]E{a}I{1}linksmas, džiugus;F{to make merry}X{a)}linksmintis, puotauti;X{b)}pasijuoktil{(over – iš)}I{2}E{predic}L{šnek.}įsilinksminęs, įkaušęsS{&loz;}X{the more the merrier}kuo daugiaul{(žmonių)}, tuo linksmiau
+0{merry^{2}}E{n}L{bot.}laukinė juodoji vyšnia
+0{merry-andrew}[,mer&#618;'&aelig;ndru:]E{n}L{ist.}juokdarys, pajacas
+0{merry-go-round}['mer&#618;g&#601;u,raund]E{n}I{1}karuselėI{2}l{(linksmybiųL{ir pan.})}sūkurys
+0{merry-maker}['mer&#618;,me&#618;k&#601;]E{n}juokautojas, linksmuolis
+0{merry-making}['mer&#618;,me&#618;k&#618;&#331;]E{n}linksminimasis; pramogos, pasilinksminimas, linksmybės
+0{merrymaking}['mer&#618;,me&#618;k&#618;&#331;]E{n}linksmybės, pramogos, pasilinksminimas
+0{merrythought}['mer&#618;&theta;&#596;:t]E{n}šakutėl{(dvišakis paukščio kaulas nuo kaklo iki krūtinkaulio)}
+0{Mersey}['m&#601;:z&#618;]E{n}Mersisl{(Anglijos upė)}
+0{mesa}['me&#618;s&#601;]E{n}L{amer.}L{geol.}stalkalnis
+0{mésalliance}[me'z&aelig;l&#618;&#601;ns]L{pr.}E{n}mezaliansas, nelygi santuoka
+0{mescalin(e)}['mesk&#601;li:n]E{n}meskalinasl{(stimuliuojantis narkotikas)}
+0{Mesdames}['me&#618;d&aelig;m]E{pl}A{L{žr.}R{Madame}}
+0{Mesdemoiselles}[,me&#618;d&#601;mw&#601;'zel]E{pl}A{L{žr.}R{Mademoiselle}}
+0{mesentery}['mesX{&#601;}nt&#601;r&#618;]E{n}L{anat.}brindos,l{(žarnų)}pasaitai; žarnaplėvė
+0{mesh}[me&#643;]S{&rArr;}E{n}I{1}l{(tinklo, sieto)}akis, akutė, kilpaI{2}tinklelis, tinklas; kilpos, pinklėsl{(L{t. p.}L{prk.})}I{3}L{tech.}kabinimasis, su(si)kabinimasS{&rArr;}E{v}I{1}pagauti tinklu; apnarplioti, apraizgytiI{2}įsipainiotil{(į tinklus)}I{3}su(si)derintil{(apie mintis, charakteriusL{ir pan.};L{t. p.}X{mesh together})}I{4}L{tech.}kabintis, su(si)kabinti
+0{mesh-work}['me&#643;w&#601;:k]E{n}tinklas, tinkliukas
+0{meshy}['me&#643;&#618;]E{a}tinklinis; akytas
+0{mesial}['mi:z&#618;&#601;l]E{a}L{anat.}vidinis, medialinis
+0{mesmeric}[mez'mer&#618;k]E{a}hipnozinis, hipnozės
+0{mesmerise}['mezm&#601;ra&#618;z]E{v}pakerėti, užhipnotizuoti
+0{mesmerism}['mezm&#601;r&#618;zm]E{n}I{1}L{psich.}mesmerizmasI{2}L{psn.}hipnotizmas; hipnozė
+0{mesmerist}['mezm&#601;r&#618;st]E{n}L{psn.}hipnotizuotojas
+0{mesmerize}['mezm&#601;ra&#618;z]E{v}I{1}hipnotizuotiI{2}l{(L{ppr.}E{pass})}L{prk.}užburti, apkerėti
+0{meso-}['mes&#601;X{u}-]l{(L{sudurt.}terminuose)}mezo-, mez-l{(žymint vidutinį dydį, tarpinę padėtį)};F{mesophyte}mezofitas;F{mesolithic}mezolitinis
+0{mesolithic}[,mes&#601;X{u}'l&#618;&theta;&#618;k]E{a}mezolitinis
+0{mesomorphic}[,mes&#601;X{u}'m&#596;:f&#618;k]E{a}L{chem.}mezomorfinis
+0{meson}['mi:z&#596;n]E{n}L{fiz.}mezonas
+0{Mesopotamia}[,mes&#601;p&#601;'te&#618;m&#618;&#601;]E{n}L{ist.}Mesopotamija
+0{Mesozoic}[,m&#601;s&#601;X{u}'z&#601;u&#618;k]E{a}L{geol.}mezozoinis;F{Mesozoic era}mezozoinė era, mezozojus
+0{mess^{1}}[mes]S{&rArr;}E{n}I{1}netvarka; maišatis, painiava;F{to clear up the mess}sutvarkyti, išpainiotil{(nemalonų reikalą)};F{to make a mess}l{(of)}X{a)}sujaukti, suvelti;X{b)}sugadinti, blogai padaryti;X{c)}sugriautil{(gyvenimąL{ir pan.})};F{in a mess}netvarkingas, nešvarus; aukštyn kojomisI{2}nemalonumai;F{to get into a mess}pakliūti į bėdą, nemalonią padėtįI{3}L{amer.}L{šnek.}daugybėl{(of)}I{4}L{šnek.}l{(vaiko, gyvulio)}kaka, išmatosS{&rArr;}E{v}I{1}daryti netvarką; tepti, tepliotiI{2}(su)gadintil{(reikaląL{ir pan.})}, sumaišyti, sujauktil{(L{džn.}X{mess up})}I{3}L{šnek.}liesti, kišti nagusl{(prie)};l{(L{neig.}sakiniuose)}neprasidėtil{(with)}S{o}1{mess about/around}X{a)}darinėti, krapštinėtis, kuistis;X{b)}kvailioti, nerimtai/neatsakingai daryti/elgtis; išdykauti, žaistil{(su degtukaisL{ir pan.}; with)}S{&loz;}X{no messing!}L{šnek.}rimtai (sakau)!, nemeluoju!
+0{mess^{2}}S{&rArr;}E{n}I{1}bendras stalas/maitinimasis; valgyklal{(kariuomenėje, laivyne;L{t. p.}X{mess hall})}I{2}maistas, valgisl{(už bendro stalo)}I{3}L{jūr.}kajutkompanijaI{4}srėbalas, pliurza; ėdalasI{5}E{attr}valgomasis, stalo;F{mess allowance}L{kar.}išlaidos maistui;F{mess kit/gear}L{amer.}katiliukas ir valgomieji įrankiail{(kareiviams, turistams)}S{&rArr;}E{v}valgyti kartu, už bendro stalo
+0{message}['mes&#618;d&#658;]S{&rArr;}E{n}I{1}pranešimas; žinia; laiškas, raštas;F{wireless message}radiograma;F{to leave a message}palikti raštelį;F{send me a message}praneškite man;F{the President’s message to Congress}L{amer.}prezidento laiškas kongresuiI{2}pavedimas; misijaI{3}l{(knygos, filmoL{ir pan.})}(pagrindinė) mintis; idėjinis turinys, pamokymasI{4}E{pl}L{šiaur.}pirkiniaiI{5}L{biol.}genetinio kodo vienetasS{&loz;}X{to get the message}L{šnek.}suprastil{(ko norima, kas turima omenyje)}S{&rArr;}E{v}L{ret.}I{1}pranešti, siųsti žiniąI{2}perduoti signalais, signalizuoti
+0{messenger}['mes&#618;nd&#658;&#601;]E{n}I{1}pasiuntinys, pranešėjas; kurjerisI{2}L{psn.}pranašasS{&loz;}X{to blame/shoot the messenger}bausti už blogą žinią
+0{messenger-pigeon}['mes&#618;nd&#658;&#601;,p&#618;d&#658;&#618;n]E{n}pašto karvelis
+0{Messiah}[m&#618;'sa&#618;&#601;]E{n}I{1}X{(the Messiah)}L{rel.}MesijasI{2}L{prk.}(iš)gelbėtojas
+0{messianic}[,mes&#618;'&aelig;n&#618;k]E{a}Mesijaus
+0{Messieurs}[me&#618;'sj&#601;:z]E{pl}A{L{žr.}R{Monsieur}}
+0{messily}['mes&#618;l&#618;]E{adv}netvarkingai
+0{messiness}['mes&#618;n&#618;s]E{n}netvarkingumas
+0{messmate}['mesme&#618;t]E{n}stalo bendras/draugasl{(ypač kariuomenėje, laivyne)}
+0{mess-room}['mesrum]E{n}I{1}L{jūr.}kajutkompanijaI{2}L{kar.}valgykla
+0{Messrs}['mes&#601;z]E{n}E{pl}(MessieursL{sutr.}) ponail{(rašoma prieš firmų savininkų pavardes)}
+0{messuage}['mesw&#618;d&#658;]E{n}L{teis.}sodybal{(trobesiai ir žemė)}
+0{mess-up}['mes&#652;p]E{n}L{šnek.}jaukalas, jovalynė, netvarka
+0{messy}['mes&#618;]E{a}I{1}purvinas, nešvarusl{(L{t. p.}L{prk.})}I{2}netvarkingasI{3}bjaurus, nepatogus, keblus
+0{mestizo}[me'sti:z&#601;u]E{n}(E{pl}mestizos[-z]) metisas
+0{met}[met]E{past}l{ir}E{pII}A{L{žr.}R{meet^{1}}}E{v}
+0{Met}[met]E{n}X{(the Met)}L{šnek.}I{1}Metropoliteno operal{(Niujorke)}I{2}Londono policija
+0{Met}L{sutr.}X{Metropolitan Police}Londono policija
+0{met.}L{sutr.}X{metaphor}metaforaX{meteorological}meteorologinisX{metropolitan}metropolijos, sostinės
+0{meta-}[,met&#601;]E{pref}meta-l{(reiškiant buvimą po ko nors, perėjimą prie ko nors kito, būvio pasikeitimą)};F{metaphase}metafazė;F{metastate}metabūsena
+0{metabolic}[,met&#601;'b&#596;l&#618;k]E{a}L{biol.}medžiagų apykaitos;F{metabolic disturbance}medžiagų apykaitos sutrikimas
+0{metabolism}[m&#618;'t&aelig;b&#601;l&#618;zm]E{n}L{biol.}medžiagų apykaita, metabolizmas
+0{metabolize}[m&#618;'t&aelig;b&#601;la&#618;z]E{v}L{biol.}asimiliuotil{(maistą)}
+0{metacarpus}[,met&#601;'ka:p&#601;s]E{n}(E{pl}-pi[-pa&#618;])L{anat.}plaštakos vidurinė dalis, delnas
+0{metacentric}[,met&#601;'sentr&#618;k]E{n}L{biol.}metacentrinė chromosoma
+0{metagalaxy}['met&#601;,g&aelig;l&#601;ks&#618;]E{n}L{astr.}metagalaktika
+0{metagenesis}[,met&#601;'d&#658;en&#618;s&#618;s]E{n}L{biol.}kartų kaita, metagenezė
+0{metal}['metl]S{&rArr;}E{n}I{1}metalas;F{yellow metal}žalvaris;F{metal working}metalų apdirbimasI{2}E{pl}bėgiaiI{3}l{(akmenų)}skaldaI{4}L{glžk.}balastasI{5}lydytas stiklas; stiklo masėI{6}L{poligr.}kiečius, hartasS{&loz;}X{heavy metal}X{a)}sunkieji metalai;X{b)}L{prk.}svarūs argumentai;X{c)}L{muz.}sunkusis metalasS{&rArr;}E{a}metalinisS{&rArr;}E{v}I{1}padengti metaluI{2}(iš)grįsti skaldaI{3}L{glžk.}balastuoti, užpilti balastą
+0{metalanguage}['met&#601;,l&aelig;&#331;gw&#618;d&#658;]E{n}L{kalb.}metakalba
+0{metalled}['metld]E{a}I{1}padengtas metalu; su metaline dangaI{2}padengtas skalda;F{metalled road}plentas
+0{metallic}[m&#618;'t&aelig;l&#618;k]E{a}I{1}metalo, metalinisl{(L{t. p.}L{prk.})};F{metallic corrosion}metalų korozijaI{2}blizgantis, žvilgantis
+0{metalliferous}[,met&#601;'l&#618;fX{&#601;}r&#601;s]E{a}rūdingas; metalingasl{(apie klodą)}
+0{metalline}['met&#601;la&#618;n]E{a}I{1}metalinisI{2}turintis metalo
+0{metallize}['met&#601;la&#618;z]E{v}L{tech.}dengti metalu, metalizuoti
+0{metalloid}['met&#601;l&#596;&#618;d]L{chem.}metaloidas, nemetalas
+0{metallurgic(al)}[,met&#601;'l&#601;:d&#658;&#618;k(l)]E{a}metalurginis; F{metallurgic(al) engineer}inžinierius metalurgas;F{metallurgic(al) engineering}metalurgija
+0{metallurgist}[m&#618;'t&aelig;l&#601;d&#658;&#618;st]E{n}metalurgas
+0{metallurgy}[m&#618;'t&aelig;l&#601;d&#658;&#618;]E{n}metalurgija
+0{metalwork}['metlw&#601;:k]E{n}I{1}l{(meninis)}metalo apdirbimasI{2}metalo dirbiniai
+0{metalworker}['metl,w&#601;:k&#601;]E{n}metalininkas, metalistas; šaltkalvis
+0{metamerism}[m&#618;'t&aelig;m&#601;r&#618;zm]E{n}L{chem.},L{zool.}metamerija
+0{metamorphose}[,met&#601;'m&#596;:f&#601;uz]E{v}(pa)versti, (pa)keisti; virstil{(into)}
+0{metamorphosis}[,met&#601;'m&#596;:f&#601;s&#618;s]E{n}(E{pl}-ses[-si:z]) metamorfozė; (pa)virtimas, pasikeitimas
+0{metaphor}['met&#601;f&#601;]E{n}L{lit.}metafora
+0{metaphorical}[,met&#601;'f&#596;r&#618;kl]E{a}L{lit.}metaforinis, metaforiškas
+0{metaphrase}['met&#601;fre&#618;z]S{&rArr;}E{n}L{knyg.}pažodinis vertimas; metafrazėS{&rArr;}E{v}versti pažodžiui
+0{metaphysical}[,met&#601;'f&#618;z&#618;kl]E{a}I{1}L{filos.}metafizinisI{2}abstraktus
+0{metaphysician}[,met&#601;f&#618;'z&#618;&#643;n]E{n}metafizikas
+0{metaphysics}[,met&#601;'f&#618;z&#618;ks]E{n}metafizika
+0{metastable}[,met&#601;'ste&#618;bl]E{a}L{fiz.},L{chem.}metastabilus
+0{metastasis}[me't&aelig;st&#601;s&#618;s]E{n}(E{pl}-ses[-si:z])L{med.}metastazė
+0{metatarsus}[,met&#601;'ta:s&#601;s]E{n}(E{pl}-si[-sa&#618;])L{anat.}padas
+0{metathesis}[m&#618;'t&aelig;&theta;&#618;s&#618;s]E{n}I{1}L{kalb.}metatezė, sankaita, perstatymasI{2}L{chem.}mainai, mainų reakcija
+0{Metazoa}[,met&#601;'z&#601;u&#601;]E{n}E{pl}L{zool.}metazojai
+0{mete^{1}}[mi:t]E{n}siena, riba; pasienio ženklas
+0{mete^{2}}E{v}matuoti, seikėtiS{o}1{mete out}L{knyg.}atseikėti, skirstyti, skirtil{(ypač bausmę)}
+0{meteor}['mi:t&#618;&#601;]E{n}I{1}meteoras;F{meteor shower}meteorų srautasI{2}L{spec.}atmosferos reiškinys
+0{meteoric}[,mi:t&#618;'&#596;r&#618;k]E{a}I{1}meteorinis, meteorųI{2}L{prk.}blykstelėjęs lyg meteoras; trumpalaikis; akinantisI{3}L{spec.}atmosferinis
+0{meteorite}['mi:t&#618;&#601;ra&#618;t]E{n}meteoritas
+0{meteorograph}['mi:t&#618;&#601;r&#601;gra:f]E{n}L{fiz.}meteorografas
+0{meteoroid}['mi:t&#618;&#601;r&#596;&#618;d]E{n}L{astr.}meteroidas, meteorinis kūnas
+0{meteorological}[,mi:t&#618;&#601;r&#601;'l&#596;d&#658;&#618;kl]E{a}meteorologinis; atmosferinis
+0{meteorologist}[,mi:t&#618;&#601;'r&#596;l&#601;d&#658;&#618;st]E{n}meteorologas
+0{meteorology}[,mi:t&#618;&#601;'r&#596;l&#601;d&#658;&#618;]E{n}I{1}meteorologijaI{2}l{(rajono, šalies)}meteorologinės sąlygos
+0{meter}['mi:t&#601;]S{&rArr;}E{n}I{1}matuoklis, matavimo prietaisas; skaitiklisI{2}L{amer.}A{=R{metre}}S{&rArr;}E{v}matuoti, dozuotil{(matuokliu, skaitikliuL{ir pan.})}
+0{-meter}[-m&#618;t&#601;]l{(L{sudurt.}žodžiuose)}I{1}-metras, -matisl{(žymint matavimo prietaisus)};F{hygrometer}higrometras, drėgmėmatisI{2}L{amer.}A{=R{-metre}}
+0{methadone}['me&theta;&#601;d&#601;un]E{n}L{farm.}metadonasl{(gydant narkomanus, vartojančius heroiną)}
+0{methane}['mi:&theta;e&#618;n]E{n}L{chem.}metanas, pelkių dujos
+0{methanol}['me&theta;&#601;n&#596;l]E{n}L{chem.}metanolis, metilo alkoholis
+0{methinks}[m&#618;'&theta;&#618;&#331;ks]E{v}(methought)L{psn.}man atrodo
+0{methionine}[m&#618;'&theta;a&#618;&#601;nX{a}&#618;n]E{n}metioninas
+0{method}['me&theta;&#601;d]E{n}I{1}metodas, būdas;F{sectional building method}sekcijinis statybos būdasI{2}metodiškumas, nuoseklumas, tvarkaI{3}L{ret.}klasifikacijaI{4}E{pl}metodika
+0{methodical}[m&#618;'&theta;&#596;d&#618;kl]E{a}I{1}metodinis; planingasI{2}metodiškas; pratęs planingai veikti
+0{methodically}[m&#618;'&theta;&#596;d&#618;kX{&#601;}l&#618;]E{adv}metodiškai
+0{Methodism}['me&theta;&#601;d&#618;zX{&#601;}m]E{n}metodizmas, metodistų religija
+0{Methodist}['me&theta;&#601;d&#618;st]L{bažn.}S{&rArr;}E{n}metodistasS{&rArr;}E{a}metodistų
+0{methodize}['me&theta;&#601;da&#618;z]E{v}sisteminti; sutvarkyti
+0{methodological}[,me&theta;&#601;d&#601;'l&#596;d&#658;&#618;kl]E{a}metodologinis
+0{methodology}[,me&theta;&#601;'d&#596;l&#601;d&#658;&#618;]E{n}I{1}metodologijaI{2}metodika
+0{methought}[m&#618;'&theta;&#596;:t]E{past}A{L{žr.}R{methinks}}
+0{meths}[me&theta;s]E{n}L{šnek.}denatūruotas spiritas, denatūratas
+0{Methuselah}[m&#601;'&theta;ju:z&#618;l&#601;]E{n}L{bibl.}Matūzalis S{&loz;}X{as old as Methuselah}S{&cong;}senas kaip pasaulis
+0{methyl}['me&theta;&#618;l]E{n}L{chem.}metilas;F{methyl alcohol}metilo alkoholis, medžio spiritas
+0{methylated}['me&theta;&#618;le&#618;t&#618;d]E{a}:X{methylated spirit(s)}denatūruotas spiritas
+0{meticulous}[m&#618;'t&#618;kjul&#601;s]E{a}I{1}smulkmeniškas, skrupulingasI{2}kruopštus; tikslusl{(in, about)}
+0{meticulously}[m&#618;'t&#618;kjul&#601;sl&#618;]E{adv}skrupulingai, smulkmeniškai
+0{metier}['meX{&#618;}t&#618;e&#618;]L{pr.}E{n}l{(kieno)}mėgstamas užsiėmimas, pašaukimas
+0{metis}['mi:t&#618;s]L{pr.}E{n}metisas
+0{metonymy}[m&#618;'t&#596;n&#618;m&#618;]E{n}L{lit.}metonimija
+0{metre}['mi:t&#601;]E{n}I{1}metrasl{(ilgio matas)}I{2}L{lit.},L{muz.}metras, ritmas
+0{-metre}[-mi:t&#601;, -m&#618;t&#601;]l{(L{sudurt.}žodžiuose)}-metras;F{kilometre}kilometras
+0{metric}['metr&#618;k]E{a}metrinis;F{metric system}metrinė/dešimtainė matų sistema;F{to go metric}pereiti į metrinę matų sistemą
+0{metrical}['metr&#618;kl]E{a}I{1}matuojamasisI{2}A{=R{metric}}I{3}L{lit.}metrinis
+0{metricate}['metr&#618;ke&#618;t]E{v}įvesti metrinę sistemą; pereiti į metrinę sistemą
+0{metrication}[,metr&#618;'ke&#618;&#643;n]E{n}perėjimas į metrinę sistemą; metrinės sistemos įvedimas, metrizacija
+0{metrician}[m&#618;'tr&#618;&#643;n]E{n}l{(eilėraščių)}metrikos žinovas
+0{metrics}['metr&#618;ks]E{n}L{lit.}metrika
+0{metro}['metr&#601;u]E{n}metro, metropolitenas
+0{metrology}[m&#618;'tr&#596;l&#601;d&#658;&#618;]E{n}metrologijal{(matų ir svarsčių mokslas)}
+0{metronome}['metr&#601;n&#601;um]E{n}L{muz.}metronomas, taktomatis
+0{metronomic}[,metr&#601;'n&#596;m&#618;k]E{a}vykstantis į taktą; monotoniškas
+0{metropolis}[m&#618;'tr&#596;pX{&#601;}l&#618;s]E{n}I{1}šalies centras, sostinėI{2}veiklos centras; kultūrinio/komercinio gyvenimo centrasI{3}L{bažn.}metropolija
+0{metropolitan}[,metr&#601;'p&#596;l&#618;tX{&#601;}n]S{&rArr;}E{a}I{1}sostinės, didmiesčio;F{Metropolitan Police}Londono policija;F{metropolitan borough}municipalinis rajonasl{(Londone)}I{2}metropolijosl{(ne kolonijų)}I{3}L{bažn.}metropolitoS{&rArr;}E{n}I{1}L{bažn.}arkivyskupas; metropolitasl{(L{t. p.}X{metropolitan bishop})}I{2}sostinės/metropolijos gyventojas
+0{-metry}[-m&#618;tr&#618;]l{(L{sudurt.}žodžiuose)}-metrija;F{thermometry}termometrija
+0{mettle}['metl]E{n}I{1}charakteris, temperamentas;F{to show one’s mettle}parodyti (savo) charakterį; deramai pasirodytiI{2}užsidegimas, energija;F{to be on one’s mettle}veržtis į kovą, parodyti viską, ką gali;F{horse of mettle}karštas arklysI{3}narsa;F{a man of mettle}narsus žmogus;F{to put smb on his mettle}X{a)}išbandyti kieno narsą;X{b)}išjudinti ką, sukelti kam entuziazmo
+0{mettled}['metld]E{a}A{=R{mettlesome}}
+0{mettlesome}['metls&#601;m]E{a}L{knyg.}narsus; karštas
